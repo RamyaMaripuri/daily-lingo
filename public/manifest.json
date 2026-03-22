@@ -1,0 +1,23 @@
+{
+  "name": "Daily Lingo",
+  "short_name": "DailyLingo",
+  "description": "Learn a new word and phrase every day in English, Hindi, and Kannada",
+  "start_url": "/daily-lingo/",
+  "scope": "/daily-lingo/",
+  "display": "standalone",
+  "background_color": "#4F46E5",
+  "theme_color": "#4F46E5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/daily-lingo/assets/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/daily-lingo/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
