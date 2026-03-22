@@ -14,6 +14,12 @@ function speak(text: string, lang: string) {
   Speech.speak(text, { language: LANG_CODES[lang] ?? "en", rate: 0.85 });
 }
 
+function speakAll(parts: string[], lang: string) {
+  Speech.stop();
+  const combined = parts.join(". \n");
+  Speech.speak(combined, { language: LANG_CODES[lang] ?? "en", rate: 0.85 });
+}
+
 function SpeakerButton({ text, lang }: { text: string; lang: string }) {
   return (
     <TouchableOpacity
@@ -55,7 +61,15 @@ export default function HomeScreen() {
       </View>
 
       <View style={styles.card}>
-        <Text style={styles.title}>Word</Text>
+        <View style={styles.sectionHeader}>
+          <Text style={styles.title}>Word</Text>
+          <TouchableOpacity
+            onPress={() => speakAll([content.word, content.meaning, content.example], lang)}
+            hitSlop={{ top: 8, bottom: 8, left: 8, right: 8 }}
+          >
+            <Text style={styles.readAllIcon}>📖</Text>
+          </TouchableOpacity>
+        </View>
         <View style={styles.wordRow}>
           <Text style={styles.word}>{content.word}</Text>
           <SpeakerButton text={content.word} lang={lang} />
@@ -64,7 +78,15 @@ export default function HomeScreen() {
         <Text>{content.meaning}</Text>
         <Text style={styles.example}>{content.example}</Text>
 
-        <Text style={styles.title}>Phrase</Text>
+        <View style={styles.sectionHeader}>
+          <Text style={styles.title}>Phrase</Text>
+          <TouchableOpacity
+            onPress={() => speakAll([content.phrase, content.phraseMeaning, content.phraseExample], lang)}
+            hitSlop={{ top: 8, bottom: 8, left: 8, right: 8 }}
+          >
+            <Text style={styles.readAllIcon}>📖</Text>
+          </TouchableOpacity>
+        </View>
         <View style={styles.wordRow}>
           <Text style={[styles.word, styles.phraseText]}>{content.phrase}</Text>
           <SpeakerButton text={content.phrase} lang={lang} />
@@ -107,9 +129,17 @@ const styles = StyleSheet.create({
     padding: 20,
     borderRadius: 16,
   },
-  title: {
+  sectionHeader: {
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "space-between",
     marginTop: 10,
+  },
+  title: {
     fontWeight: "bold",
+  },
+  readAllIcon: {
+    fontSize: 18,
   },
   wordRow: {
     flexDirection: "row",
