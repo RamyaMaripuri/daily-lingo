@@ -8,6 +8,7 @@ const LANG_CODES: Record<string, string> = {
   hindi: "hi",
   kannada: "kn",
   telugu: "te",
+  tamil: "ta",
 };
 
 function speak(text: string, lang: string) {
@@ -62,7 +63,7 @@ function randomIndex(exclude: number, len: number) {
 }
 
 export default function HomeScreen() {
-  const [lang, setLang] = useState<"english" | "hindi" | "kannada" | "telugu">("english");
+  const [lang, setLang] = useState<"english" | "hindi" | "kannada" | "telugu" | "tamil">("english");
 
   const today = new Date();
   const year = today.getFullYear();
@@ -88,7 +89,7 @@ export default function HomeScreen() {
       <Text style={styles.header}>Daily Lingo</Text>
 
       <View style={styles.tabs}>
-        {(["english", "hindi", "kannada", "telugu"] as const).map(l => (
+        {(["english", "hindi", "kannada", "telugu", "tamil"] as const).map(l => (
           <TouchableOpacity key={l} onPress={() => setLang(l)}>
             <Text style={[styles.tab, lang === l && styles.activeTab]}>
               {l.toUpperCase()}
@@ -192,7 +193,8 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   tab: {
-    padding: 10,
+    padding: 8,
+    fontSize: 12,
     color: "#6B7280",
   },
   activeTab: {

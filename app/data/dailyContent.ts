@@ -45,6 +45,18 @@ export const dailyContent = [
       "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు.",
       "meaningInEnglish": "Wonder",
       "phraseMeaningInEnglish": "A person's nature doesn't change easily"
+    },
+    "tamil": {
+      "word": "மகிழ்ச்சி",
+      "pronunciation": "makizhchchi",
+      "meaning": "உள்ளத்தில் ஏற்படும் இனிமையான உணர்வு",
+      "example": "குழந்தைகளின் சிரிப்பு மகிழ்ச்சியை அளிக்கிறது.",
+      "phrase": "அகத்தின் அழகு முகத்தில் தெரியும்",
+      "phrasePronunciation": "akaththin azhaku mukaththil theriyum",
+      "phraseMeaning": "ஒருவரின் உள் குணம் முகத்தில் வெளிப்படும்",
+      "phraseExample": "அவர் எப்போதும் புன்னகையுடன் இருப்பார் — அகத்தின் அழகு முகத்தில் தெரியும்.",
+      "meaningInEnglish": "Happiness",
+      "phraseMeaningInEnglish": "Inner beauty reflects on the face"
     }
   },
   {
@@ -93,6 +105,18 @@ export const dailyContent = [
       "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా.",
       "meaningInEnglish": "Talent",
       "phraseMeaningInEnglish": "When hungry, anything tastes good"
+    },
+    "tamil": {
+      "word": "துன்பம்",
+      "pronunciation": "thunpam",
+      "meaning": "மனதிற்கு வேதனை தரும் நிலை",
+      "example": "துன்பம் வரும்போது தைரியமாக இரு.",
+      "phrase": "ஆறிலும் சாவு நூறிலும் சாவு",
+      "phrasePronunciation": "aarilum chaavu noorilum chaavu",
+      "phraseMeaning": "இறப்பு எப்போது வேண்டுமானாலும் வரலாம்",
+      "phraseExample": "பயப்படாதே, ஆறிலும் சாவு நூறிலும் சாவு என்பார்கள்.",
+      "meaningInEnglish": "Sorrow",
+      "phraseMeaningInEnglish": "Death can come at any age"
     }
   },
   {
@@ -141,6 +165,18 @@ export const dailyContent = [
       "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు.",
       "meaningInEnglish": "Knowledge",
       "phraseMeaningInEnglish": "New places bring new challenges"
+    },
+    "tamil": {
+      "word": "கோபம்",
+      "pronunciation": "kopam",
+      "meaning": "சீற்றம் அல்லது எரிச்சலான உணர்வு",
+      "example": "கோபம் வந்தால் மூன்று வரை எண்ணு.",
+      "phrase": "ஊசியைக் கொடுத்து வாளை வாங்கு",
+      "phrasePronunciation": "oochiyaik kotuththu vaalai vaangku",
+      "phraseMeaning": "சிறியது கொடுத்து பெரியது பெறு",
+      "phraseExample": "அவன் சிறு உதவி செய்து பெரிய பலன் பெற்றான் — ஊசியைக் கொடுத்து வாளை வாங்கினான்.",
+      "meaningInEnglish": "Anger",
+      "phraseMeaningInEnglish": "Give a needle, get a sword"
     }
   },
   {
@@ -189,6 +225,18 @@ export const dailyContent = [
       "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా.",
       "meaningInEnglish": "Courage",
       "phraseMeaningInEnglish": "Every mother loves her own child most"
+    },
+    "tamil": {
+      "word": "பயம்",
+      "pronunciation": "payam",
+      "meaning": "ஆபத்து குறித்த அச்ச உணர்வு",
+      "example": "இருளில் நடக்க பயம் ஏற்பட்டது.",
+      "phrase": "ஆழம் தெரியாமல் காலை விடாதே",
+      "phrasePronunciation": "aazham theriyaamal kaalai vitaathe",
+      "phraseMeaning": "எதையும் புரிந்துகொள்ளாமல் செய்யாதே",
+      "phraseExample": "புதிய வணிகத்தில் ஆழம் தெரியாமல் காலை விடாதே.",
+      "meaningInEnglish": "Fear",
+      "phraseMeaningInEnglish": "Don't step in without knowing the depth"
     }
   },
   {
@@ -237,6 +285,18 @@ export const dailyContent = [
       "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు.",
       "meaningInEnglish": "Joy",
       "phraseMeaningInEnglish": "Adding insult to injury"
+    },
+    "tamil": {
+      "word": "ஆச்சரியம்",
+      "pronunciation": "aachchariyam",
+      "meaning": "எதிர்பாராத வியப்பு",
+      "example": "அவளின் திறமை எல்லோருக்கும் ஆச்சரியம் அளித்தது.",
+      "phrase": "கல்லாதது உலகளவு",
+      "phrasePronunciation": "kallaathathu ulakalavu",
+      "phraseMeaning": "கற்றது மிகக் குறைவு",
+      "phraseExample": "எவ்வளவு படித்தாலும் கல்லாதது உலகளவு.",
+      "meaningInEnglish": "Surprise",
+      "phraseMeaningInEnglish": "What you haven't learned is as vast as the world"
     }
   },
   {
@@ -285,6 +345,18 @@ export const dailyContent = [
       "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం.",
       "meaningInEnglish": "Apology",
       "phraseMeaningInEnglish": "Leaving what you have for something uncertain"
+    },
+    "tamil": {
+      "word": "அன்பு",
+      "pronunciation": "anpu",
+      "meaning": "பாசமான உணர்வு",
+      "example": "தாயின் அன்பு கடலைவிட ஆழமானது.",
+      "phrase": "விளையும் பயிர் முளையிலே தெரியும்",
+      "phrasePronunciation": "vilaiyum payir mulaiyile theriyum",
+      "phraseMeaning": "திறமை சிறு வயதிலேயே வெளிப்படும்",
+      "phraseExample": "அந்தக் குழந்தை நன்றாக படிக்கிறது — விளையும் பயிர் முளையிலே தெரியும்.",
+      "meaningInEnglish": "Love",
+      "phraseMeaningInEnglish": "A promising crop shows in the sprout"
     }
   },
   {
@@ -333,6 +405,18 @@ export const dailyContent = [
       "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు.",
       "meaningInEnglish": "Bravery",
       "phraseMeaningInEnglish": "Routine for the experienced"
+    },
+    "tamil": {
+      "word": "காதல்",
+      "pronunciation": "kaathal",
+      "meaning": "ஆழமான இணைப்பு உணர்வு",
+      "example": "காதல் என்பது உயிரின் ஊற்று.",
+      "phrase": "ஒரு கை தட்டினால் ஓசை வராது",
+      "phrasePronunciation": "oru kai thattinaal ochai varaathu",
+      "phraseMeaning": "இருவர் இணைந்தால்தான் செயல் நிறைவேறும்",
+      "phraseExample": "ஒரு கை தட்டினால் ஓசை வராது, எல்லோரும் சேர்ந்து உழைக்க வேண்டும்.",
+      "meaningInEnglish": "Romance",
+      "phraseMeaningInEnglish": "One hand clapping makes no sound"
     }
   },
   {
@@ -381,6 +465,18 @@ export const dailyContent = [
       "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది.",
       "meaningInEnglish": "Wisdom",
       "phraseMeaningInEnglish": "When one is careless, another profits"
+    },
+    "tamil": {
+      "word": "வெறுப்பு",
+      "pronunciation": "veruppu",
+      "meaning": "கடுமையான அதிருப்தி உணர்வு",
+      "example": "வெறுப்பு மனதை நச்சாக்கும்.",
+      "phrase": "பசி வந்திடப் பத்தும் பறந்திடும்",
+      "phrasePronunciation": "pachi vanthitap paththum paranthitum",
+      "phraseMeaning": "பசி வந்தால் எல்லா நெறிகளும் போய்விடும்",
+      "phraseExample": "ஏழைகள் தவறு செய்கிறார்கள் என்று சொல்லாதே — பசி வந்திடப் பத்தும் பறந்திடும்.",
+      "meaningInEnglish": "Hatred",
+      "phraseMeaningInEnglish": "When hunger comes, all virtues fly away"
     }
   },
   {
@@ -429,6 +525,18 @@ export const dailyContent = [
       "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు.",
       "meaningInEnglish": "Determination",
       "phraseMeaningInEnglish": "Don't give pearls to those who can't value them"
+    },
+    "tamil": {
+      "word": "ஏமாற்றம்",
+      "pronunciation": "emaarram",
+      "meaning": "எதிர்பார்ப்பு நிறைவேறாத நிலை",
+      "example": "தேர்வு முடிவு ஏமாற்றம் அளித்தது.",
+      "phrase": "கற்றது கைமண் அளவு",
+      "phrasePronunciation": "karrathu kaiman alavu",
+      "phraseMeaning": "கற்ற அறிவு மிகக் குறைவு",
+      "phraseExample": "நான் டாக்டர் ஆனாலும் கற்றது கைமண் அளவுதான்.",
+      "meaningInEnglish": "Disappointment",
+      "phraseMeaningInEnglish": "What you've learned is just a handful"
     }
   },
   {
@@ -477,6 +585,18 @@ export const dailyContent = [
       "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి.",
       "meaningInEnglish": "Generosity",
       "phraseMeaningInEnglish": "Bad company corrupts good character"
+    },
+    "tamil": {
+      "word": "நம்பிக்கை",
+      "pronunciation": "nampikkai",
+      "meaning": "உறுதியான எதிர்பார்ப்பு",
+      "example": "நம்பிக்கை இழக்காதே.",
+      "phrase": "முயற்சி திருவினையாக்கும்",
+      "phrasePronunciation": "muyarchi thiruvinaiyaakkum",
+      "phraseMeaning": "முயற்சி வெற்றியைத் தரும்",
+      "phraseExample": "தொடர்ந்து முயற்சி செய் — முயற்சி திருவினையாக்கும்.",
+      "meaningInEnglish": "Hope",
+      "phraseMeaningInEnglish": "Effort leads to success"
     }
   },
   {
@@ -525,6 +645,18 @@ export const dailyContent = [
       "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది.",
       "meaningInEnglish": "Hard work",
       "phraseMeaningInEnglish": "Helping others brings inner peace"
+    },
+    "tamil": {
+      "word": "உற்சாகம்",
+      "pronunciation": "urchaakam",
+      "meaning": "மிகுந்த ஆர்வமான மன நிலை",
+      "example": "விழாவில் அனைவரும் உற்சாகமாக இருந்தனர்.",
+      "phrase": "அறிவே ஆற்றல்",
+      "phrasePronunciation": "arive aarral",
+      "phraseMeaning": "அறிவுதான் உண்மையான சக்தி",
+      "phraseExample": "படி, அறிவே ஆற்றல் என்பதை மறவாதே.",
+      "meaningInEnglish": "Enthusiasm",
+      "phraseMeaningInEnglish": "Knowledge is power"
     }
   },
   {
@@ -573,6 +705,18 @@ export const dailyContent = [
       "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి.",
       "meaningInEnglish": "Happiness",
       "phraseMeaningInEnglish": "Nothing is permanent"
+    },
+    "tamil": {
+      "word": "கவலை",
+      "pronunciation": "kavalai",
+      "meaning": "மனதை அழுத்தும் சிந்தனை",
+      "example": "கவலைப்படுவதால் பிரச்சனை தீராது.",
+      "phrase": "பொறுமை கடலினும் பெரிது",
+      "phrasePronunciation": "porumai katalinum perithu",
+      "phraseMeaning": "பொறுமை மிகவும் முக்கியம்",
+      "phraseExample": "கோபப்படாதே, பொறுமை கடலினும் பெரிது.",
+      "meaningInEnglish": "Worry",
+      "phraseMeaningInEnglish": "Patience is greater than the ocean"
     }
   },
   {
@@ -621,6 +765,18 @@ export const dailyContent = [
       "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు.",
       "meaningInEnglish": "Honesty",
       "phraseMeaningInEnglish": "Listener needs wisdom, speaker needs patience"
+    },
+    "tamil": {
+      "word": "பொறாமை",
+      "pronunciation": "poraamai",
+      "meaning": "பிறர் நலனைக் கண்டு எரிச்சல்",
+      "example": "பொறாமை மனிதனை அழிக்கும்.",
+      "phrase": "நேரம் காத்திருக்காது",
+      "phrasePronunciation": "neram kaaththirukkaathu",
+      "phraseMeaning": "நேரத்தை வீணாக்கக்கூடாது",
+      "phraseExample": "படிக்க ஆரம்பி, நேரம் காத்திருக்காது.",
+      "meaningInEnglish": "Jealousy",
+      "phraseMeaningInEnglish": "Time waits for no one"
     }
   },
   {
@@ -669,6 +825,18 @@ export const dailyContent = [
       "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు.",
       "meaningInEnglish": "Patience",
       "phraseMeaningInEnglish": "To appear very grand and impressive"
+    },
+    "tamil": {
+      "word": "சந்தோஷம்",
+      "pronunciation": "chanthosham",
+      "meaning": "களிப்பான மன நிலை",
+      "example": "நண்பர்களைச் சந்திக்கும்போது சந்தோஷம் பொங்கியது.",
+      "phrase": "ஒற்றுமையில் பலம்",
+      "phrasePronunciation": "orrumaiyil palam",
+      "phraseMeaning": "ஒன்றாக இருந்தால் வலிமை உண்டு",
+      "phraseExample": "குடும்பம் ஒன்றாக இருக்க வேண்டும் — ஒற்றுமையில் பலம்.",
+      "meaningInEnglish": "Joy",
+      "phraseMeaningInEnglish": "Unity is strength"
     }
   },
   {
@@ -717,6 +885,18 @@ export const dailyContent = [
       "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది.",
       "meaningInEnglish": "Gratitude",
       "phraseMeaningInEnglish": "Hard work yields suitable rewards"
+    },
+    "tamil": {
+      "word": "இரக்கம்",
+      "pronunciation": "irakkam",
+      "meaning": "பிறர் துன்பம் கண்டு வருந்தும் உணர்வு",
+      "example": "விலங்குகள் மீது இரக்கம் காட்டு.",
+      "phrase": "ஆபத்துக்கு உதவுபவனே நண்பன்",
+      "phrasePronunciation": "aapaththukku uthavupavane nanpan",
+      "phraseMeaning": "உண்மையான நண்பன் கஷ்ட நேரத்தில் உதவுவான்",
+      "phraseExample": "எல்லாரும் ஓடிவிட்டார்கள் அவன் மட்டும் நின்றான் — ஆபத்துக்கு உதவுபவனே நண்பன்.",
+      "meaningInEnglish": "Compassion",
+      "phraseMeaningInEnglish": "A friend in need is a friend indeed"
     }
   },
   {
@@ -765,6 +945,18 @@ export const dailyContent = [
       "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు.",
       "meaningInEnglish": "Self-confidence",
       "phraseMeaningInEnglish": "Sour grapes; dismissing what you can't get"
+    },
+    "tamil": {
+      "word": "வெட்கம்",
+      "pronunciation": "vetkam",
+      "meaning": "நாணம் அல்லது கூச்ச உணர்வு",
+      "example": "தவறு செய்ததற்கு வெட்கமாக இருந்தது.",
+      "phrase": "காற்றுள்ள போதே தூற்றிக்கொள்",
+      "phrasePronunciation": "kaarrulla pothe thoorrikkol",
+      "phraseMeaning": "வாய்ப்பு இருக்கும்போதே பயன்படுத்திக்கொள்",
+      "phraseExample": "இளமையில் படி — காற்றுள்ள போதே தூற்றிக்கொள்.",
+      "meaningInEnglish": "Shame",
+      "phraseMeaningInEnglish": "Make hay while the sun shines"
     }
   },
   {
@@ -813,6 +1005,18 @@ export const dailyContent = [
       "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి.",
       "meaningInEnglish": "Commitment",
       "phraseMeaningInEnglish": "Actions don't match words; hypocrisy"
+    },
+    "tamil": {
+      "word": "ஆனந்தம்",
+      "pronunciation": "aanantham",
+      "meaning": "மிகுந்த மகிழ்ச்சி நிலை",
+      "example": "இசை கேட்கும்போது ஆனந்தம் பிறக்கிறது.",
+      "phrase": "நாய் விற்ற காசு குரைக்காது",
+      "phrasePronunciation": "naay virra kaachu kuraikkaathu",
+      "phraseMeaning": "தவறான வழியில் சம்பாதித்தது நிலைக்காது",
+      "phraseExample": "ஏமாற்றி சம்பாதித்தால் என்ன பயன் — நாய் விற்ற காசு குரைக்காது.",
+      "meaningInEnglish": "Bliss",
+      "phraseMeaningInEnglish": "Ill-gotten gains won't last"
     }
   },
   {
@@ -861,6 +1065,18 @@ export const dailyContent = [
       "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు.",
       "meaningInEnglish": "Inspiration",
       "phraseMeaningInEnglish": "One without ability can't do big things"
+    },
+    "tamil": {
+      "word": "ஆசை",
+      "pronunciation": "aachai",
+      "meaning": "எதையாவது பெற விரும்பும் உணர்வு",
+      "example": "அளவுக்கு மீறிய ஆசை ஆபத்தை வரவழைக்கும்.",
+      "phrase": "நெருப்பு இல்லாமல் புகை வராது",
+      "phrasePronunciation": "neruppu illaamal pukai varaathu",
+      "phraseMeaning": "காரணம் இல்லாமல் விளைவு இல்லை",
+      "phraseExample": "வதந்தி பரவுகிறது என்றால் ஏதோ நடந்திருக்கும் — நெருப்பு இல்லாமல் புகை வராது.",
+      "meaningInEnglish": "Desire",
+      "phraseMeaningInEnglish": "No smoke without fire"
     }
   },
   {
@@ -909,6 +1125,18 @@ export const dailyContent = [
       "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా.",
       "meaningInEnglish": "Cleverness",
       "phraseMeaningInEnglish": "Results come when you get to work"
+    },
+    "tamil": {
+      "word": "நிம்மதி",
+      "pronunciation": "nimmathi",
+      "meaning": "அமைதியான மன நிலை",
+      "example": "கடன் தீர்ந்ததும் நிம்மதி கிடைத்தது.",
+      "phrase": "யானைக்கும் அடி சறுக்கும்",
+      "phrasePronunciation": "yaanaikkum ati charukkum",
+      "phraseMeaning": "பெரியவர்களும் தவறு செய்வார்கள்",
+      "phraseExample": "கவலைப்படாதே, யானைக்கும் அடி சறுக்கும்.",
+      "meaningInEnglish": "Peace of mind",
+      "phraseMeaningInEnglish": "Even an elephant can slip"
     }
   },
   {
@@ -957,6 +1185,18 @@ export const dailyContent = [
       "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు.",
       "meaningInEnglish": "Dedication",
       "phraseMeaningInEnglish": "Nothing works on time for the poor"
+    },
+    "tamil": {
+      "word": "பதற்றம்",
+      "pronunciation": "patharram",
+      "meaning": "பரபரப்பான கலக்க நிலை",
+      "example": "தேர்வுக்கு முன் பதற்றம் இயல்பானது.",
+      "phrase": "தன் வினை தன்னைச் சுடும்",
+      "phrasePronunciation": "than vinai thannaich chutum",
+      "phraseMeaning": "ஒருவரின் தீய செயல்கள் அவரையே பாதிக்கும்",
+      "phraseExample": "பொய் சொல்லி மாட்டிக்கொண்டான் — தன் வினை தன்னைச் சுடும்.",
+      "meaningInEnglish": "Anxiety",
+      "phraseMeaningInEnglish": "One's own deeds will burn oneself"
     }
   },
   {
@@ -1005,6 +1245,18 @@ export const dailyContent = [
       "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది.",
       "meaningInEnglish": "Trust",
       "phraseMeaningInEnglish": "Good intentions find a way"
+    },
+    "tamil": {
+      "word": "ஆவல்",
+      "pronunciation": "aaval",
+      "meaning": "மிகுந்த விருப்பம்",
+      "example": "புதிய நூலைப் படிக்க ஆவல் ஏற்பட்டது.",
+      "phrase": "ஆத்திரக்காரனுக்கு புத்தி மட்டு",
+      "phrasePronunciation": "aaththirakkaaranukku puththi mattu",
+      "phraseMeaning": "கோபமான நபர் சரியாக சிந்திக்க மாட்டார்",
+      "phraseExample": "அவசரப்படாதே — ஆத்திரக்காரனுக்கு புத்தி மட்டு.",
+      "meaningInEnglish": "Eagerness",
+      "phraseMeaningInEnglish": "An angry person has limited wisdom"
     }
   },
   {
@@ -1053,6 +1305,18 @@ export const dailyContent = [
       "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే.",
       "meaningInEnglish": "Self-restraint",
       "phraseMeaningInEnglish": "Faith makes anything possible"
+    },
+    "tamil": {
+      "word": "விரக்தி",
+      "pronunciation": "virakthi",
+      "meaning": "எதிலும் நம்பிக்கை இல்லாத நிலை",
+      "example": "தொடர் தோல்விகள் விரக்தியை ஏற்படுத்தின.",
+      "phrase": "ஏட்டுச் சுரைக்காய் கறிக்கு உதவாது",
+      "phrasePronunciation": "ettuch churaikkaay karikku uthavaathu",
+      "phraseMeaning": "புத்தக அறிவு மட்டும் போதாது",
+      "phraseExample": "நடைமுறை அனுபவம் வேண்டும் — ஏட்டுச் சுரைக்காய் கறிக்கு உதவாது.",
+      "meaningInEnglish": "Despair",
+      "phraseMeaningInEnglish": "Book knowledge alone won't do"
     }
   },
   {
@@ -1101,6 +1365,18 @@ export const dailyContent = [
       "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది.",
       "meaningInEnglish": "Experience",
       "phraseMeaningInEnglish": "Every great thing starts small"
+    },
+    "tamil": {
+      "word": "பெருமிதம்",
+      "pronunciation": "perumitham",
+      "meaning": "சாதனையால் ஏற்படும் மகிழ்வு",
+      "example": "மகளின் வெற்றியில் தந்தைக்கு பெருமிதம்.",
+      "phrase": "ஒரு பானை சோற்றுக்கு ஒரு சோறு பதம்",
+      "phrasePronunciation": "oru paanai chorrukku oru choru patham",
+      "phraseMeaning": "சிறிய மாதிரியிலிருந்து முழுதையும் அறியலாம்",
+      "phraseExample": "ஒரு பானை சோற்றுக்கு ஒரு சோறு பதம் — ஒரு பகுதியை பார்த்தே தெரிந்துகொள்ளலாம்.",
+      "meaningInEnglish": "Pride",
+      "phraseMeaningInEnglish": "One grain tells if the pot is cooked"
     }
   },
   {
@@ -1149,6 +1425,18 @@ export const dailyContent = [
       "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు.",
       "meaningInEnglish": "Evolution",
       "phraseMeaningInEnglish": "Laughter is the best medicine"
+    },
+    "tamil": {
+      "word": "கர்வம்",
+      "pronunciation": "karvam",
+      "meaning": "தன்னைப் பற்றிய மிகை மதிப்பு",
+      "example": "கர்வம் அழிவுக்கு வழி வகுக்கும்.",
+      "phrase": "யாதும் ஊரே யாவரும் கேளிர்",
+      "phrasePronunciation": "yaathum oore yaavarum kelir",
+      "phraseMeaning": "எல்லா ஊரும் நம் ஊர் எல்லோரும் நம் உறவு",
+      "phraseExample": "பாகுபாடு வேண்டாம் — யாதும் ஊரே யாவரும் கேளிர்.",
+      "meaningInEnglish": "Arrogance",
+      "phraseMeaningInEnglish": "Every place is home, everyone is kin"
     }
   },
   {
@@ -1197,6 +1485,18 @@ export const dailyContent = [
       "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు.",
       "meaningInEnglish": "Capability",
       "phraseMeaningInEnglish": "Trust, once lost, is hard to regain"
+    },
+    "tamil": {
+      "word": "சோகம்",
+      "pronunciation": "chokam",
+      "meaning": "மனவருத்தம் தரும் நிலை",
+      "example": "பிரிவு சோகத்தை ஏற்படுத்தியது.",
+      "phrase": "கற்க கசடறக் கற்பவை",
+      "phrasePronunciation": "karka kachatarak karpavai",
+      "phraseMeaning": "கற்க வேண்டியதை குறைவின்றி கற்க வேண்டும்",
+      "phraseExample": "ஒழுங்காக படி — கற்க கசடறக் கற்பவை.",
+      "meaningInEnglish": "Sadness",
+      "phraseMeaningInEnglish": "Learn thoroughly what is worth learning"
     }
   },
   {
@@ -1245,6 +1545,18 @@ export const dailyContent = [
       "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు.",
       "meaningInEnglish": "Purity",
       "phraseMeaningInEnglish": "In the land of the blind, the one-eyed is king"
+    },
+    "tamil": {
+      "word": "தனிமை",
+      "pronunciation": "thanimai",
+      "meaning": "யாரும் இல்லாத நிலை",
+      "example": "தனிமையில் சுய சிந்தனை வளரும்.",
+      "phrase": "உழைப்பே உயர்வு",
+      "phrasePronunciation": "uzhaippe uyarvu",
+      "phraseMeaning": "கடின உழைப்பு உயர்வுக்கு வழிவகுக்கும்",
+      "phraseExample": "சோம்பேறித்தனம் விடு — உழைப்பே உயர்வு.",
+      "meaningInEnglish": "Loneliness",
+      "phraseMeaningInEnglish": "Hard work is the path to elevation"
     }
   },
   {
@@ -1293,6 +1605,18 @@ export const dailyContent = [
       "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది.",
       "meaningInEnglish": "Blessing",
       "phraseMeaningInEnglish": "Strong roots help you rise again"
+    },
+    "tamil": {
+      "word": "பரிதாபம்",
+      "pronunciation": "parithaapam",
+      "meaning": "இரக்கம் கலந்த வருத்தம்",
+      "example": "ஏழைகளின் நிலை பரிதாபமாக இருந்தது.",
+      "phrase": "கடமையைச் செய் பலனை எதிர்பாராதே",
+      "phrasePronunciation": "katamaiyaich chey palanai ethirpaaraathe",
+      "phraseMeaning": "கடமையை செய்துவிட்டு பலனுக்காக ஏங்காதே",
+      "phraseExample": "நல்லது செய் — கடமையைச் செய் பலனை எதிர்பாராதே.",
+      "meaningInEnglish": "Pity",
+      "phraseMeaningInEnglish": "Do your duty without expecting rewards"
     }
   },
   {
@@ -1341,6 +1665,18 @@ export const dailyContent = [
       "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే.",
       "meaningInEnglish": "Creativity",
       "phraseMeaningInEnglish": "A leopard can't change its spots"
+    },
+    "tamil": {
+      "word": "உவகை",
+      "pronunciation": "uvakai",
+      "meaning": "பேரானந்தம்",
+      "example": "விடுதலை நாளில் மக்கள் உவகையில் திளைத்தனர்.",
+      "phrase": "அன்பே சிவம்",
+      "phrasePronunciation": "anpe chivam",
+      "phraseMeaning": "அன்புதான் கடவுள்",
+      "phraseExample": "எல்லோரிடமும் அன்பாக இரு — அன்பே சிவம்.",
+      "meaningInEnglish": "Delight",
+      "phraseMeaningInEnglish": "Love is God"
     }
   },
   {
@@ -1389,6 +1725,18 @@ export const dailyContent = [
       "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు.",
       "meaningInEnglish": "Mercy",
       "phraseMeaningInEnglish": "Don't bite the hand that feeds you"
+    },
+    "tamil": {
+      "word": "அச்சம்",
+      "pronunciation": "achcham",
+      "meaning": "பீதி உணர்வு",
+      "example": "புலியைக் கண்டதும் அச்சம் ஏற்பட்டது.",
+      "phrase": "பழக்கம் இரண்டாவது இயற்கை",
+      "phrasePronunciation": "pazhakkam irantaavathu iyarkai",
+      "phraseMeaning": "தொடர்ந்து செய்வது இயல்பாக மாறும்",
+      "phraseExample": "தினமும் படிப்பது கடினம் ஆனால் பழக்கம் இரண்டாவது இயற்கை.",
+      "meaningInEnglish": "Dread",
+      "phraseMeaningInEnglish": "Habit is second nature"
     }
   },
   {
@@ -1437,6 +1785,18 @@ export const dailyContent = [
       "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు.",
       "meaningInEnglish": "Balance",
       "phraseMeaningInEnglish": "Distant hills look green"
+    },
+    "tamil": {
+      "word": "கலக்கம்",
+      "pronunciation": "kalakkam",
+      "meaning": "மனக்குழப்பமான நிலை",
+      "example": "திடீர் செய்தி கேட்டு கலக்கம் அடைந்தான்.",
+      "phrase": "வெல்லுவது விவேகம்",
+      "phrasePronunciation": "velluvathu vivekam",
+      "phraseMeaning": "அறிவுதான் வெற்றிக்கு வழி",
+      "phraseExample": "பலம் அல்ல அறிவு முக்கியம் — வெல்லுவது விவேகம்.",
+      "meaningInEnglish": "Confusion",
+      "phraseMeaningInEnglish": "Wisdom wins"
     }
   },
   {
@@ -1485,6 +1845,18 @@ export const dailyContent = [
       "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది.",
       "meaningInEnglish": "Victory",
       "phraseMeaningInEnglish": "Stand firm even in adversity"
+    },
+    "tamil": {
+      "word": "திருப்தி",
+      "pronunciation": "thirupthi",
+      "meaning": "மனநிறைவான உணர்வு",
+      "example": "செய்த வேலையில் திருப்தி இருக்கிறது.",
+      "phrase": "தீயினால் சுட்டபுண் உள்ளாறும்",
+      "phrasePronunciation": "theeyinaal chuttapun ullaarum",
+      "phraseMeaning": "நெருப்பு காயம் ஆறும் ஆனால் சொல் காயம் ஆறாது",
+      "phraseExample": "கடும் சொல் சொல்லாதே — தீயினால் சுட்டபுண் உள்ளாறும் நாவினால் சுட்டபுண் ஆறாது.",
+      "meaningInEnglish": "Satisfaction",
+      "phraseMeaningInEnglish": "A burn heals but harsh words don't"
     }
   },
   {
@@ -1533,6 +1905,18 @@ export const dailyContent = [
       "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు.",
       "meaningInEnglish": "Unity",
       "phraseMeaningInEnglish": "Failing to plan is planning to fail"
+    },
+    "tamil": {
+      "word": "அமைதி",
+      "pronunciation": "amaithi",
+      "meaning": "சமாதான நிலை",
+      "example": "காலையில் கடற்கரை அமைதியாக இருந்தது.",
+      "phrase": "அடி உதவாத இடத்தில் மிதி உதவும்",
+      "phrasePronunciation": "ati uthavaatha itaththil mithi uthavum",
+      "phraseMeaning": "ஒரு முறை பலிக்காவிட்டால் வேறு வழி முயற்சி செய்",
+      "phraseExample": "மாற்று வழியை யோசி — அடி உதவாத இடத்தில் மிதி உதவும்.",
+      "meaningInEnglish": "Tranquility",
+      "phraseMeaningInEnglish": "If one way fails, try another"
     }
   },
   {
@@ -1581,6 +1965,18 @@ export const dailyContent = [
       "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది.",
       "meaningInEnglish": "Affection",
       "phraseMeaningInEnglish": "Everything has its time and use"
+    },
+    "tamil": {
+      "word": "உணர்ச்சி",
+      "pronunciation": "unarchchi",
+      "meaning": "மனதில் எழும் எந்த உணர்வும்",
+      "example": "கவிதை ஆழமான உணர்ச்சியை வெளிப்படுத்துகிறது.",
+      "phrase": "குரங்கு கையில் பூமாலை",
+      "phrasePronunciation": "kurangku kaiyil poomaalai",
+      "phraseMeaning": "தகுதி இல்லாதவனிடம் சிறந்த பொருள்",
+      "phraseExample": "அவனிடம் கொடுத்தால் வீணாகும் — குரங்கு கையில் பூமாலை.",
+      "meaningInEnglish": "Emotion",
+      "phraseMeaningInEnglish": "A garland in a monkey's hand"
     }
   },
   {
@@ -1629,6 +2025,18 @@ export const dailyContent = [
       "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు.",
       "meaningInEnglish": "Enthusiasm",
       "phraseMeaningInEnglish": "Brain over brawn"
+    },
+    "tamil": {
+      "word": "மரம்",
+      "pronunciation": "maram",
+      "meaning": "மண்ணில் வேரூன்றி வளரும் பெரிய தாவரம்",
+      "example": "ஆலமரம் கிராமத்தின் அடையாளம்.",
+      "phrase": "நுணலும் தன் வாயால் கெடும்",
+      "phrasePronunciation": "nunalum than vaayaal ketum",
+      "phraseMeaning": "ஒருவர் தன் பேச்சால் கெடுவார்",
+      "phraseExample": "அதிகமாக பேசாதே — நுணலும் தன் வாயால் கெடும்.",
+      "meaningInEnglish": "Tree",
+      "phraseMeaningInEnglish": "The frog perishes by its own mouth"
     }
   },
   {
@@ -1677,6 +2085,18 @@ export const dailyContent = [
       "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట.",
       "meaningInEnglish": "Standard",
       "phraseMeaningInEnglish": "Elders' advice is always valuable"
+    },
+    "tamil": {
+      "word": "பூ",
+      "pronunciation": "poo",
+      "meaning": "தாவரத்தின் அழகான மலர்ப் பகுதி",
+      "example": "ரோஜாப் பூ நறுமணம் வீசியது.",
+      "phrase": "மாற்றான் தோட்டத்து மல்லிகையும் மணக்கும்",
+      "phrasePronunciation": "maarraan thottaththu mallikaiyum manakkum",
+      "phraseMeaning": "பிறர் பொருளும் நன்றாகத் தெரியும்",
+      "phraseExample": "உன் வேலையை பாரு — மாற்றான் தோட்டத்து மல்லிகையும் மணக்கும்.",
+      "meaningInEnglish": "Flower",
+      "phraseMeaningInEnglish": "The grass is always greener on the other side"
     }
   },
   {
@@ -1725,6 +2145,18 @@ export const dailyContent = [
       "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం.",
       "meaningInEnglish": "Awareness",
       "phraseMeaningInEnglish": "Words carry great power"
+    },
+    "tamil": {
+      "word": "நதி",
+      "pronunciation": "nathi",
+      "meaning": "ஓடிக்கொண்டிருக்கும் பெரிய நீரோடை",
+      "example": "காவிரி நதி தமிழகத்தின் உயிர் நாடி.",
+      "phrase": "ஊர் இரண்டு பட்டால் கூத்தாடிக்கு கொண்டாட்டம்",
+      "phrasePronunciation": "oor irantu pattaal kooththaatikku kontaattam",
+      "phraseMeaning": "மற்றவர் சண்டையால் சிலர் பயன்பெறுவர்",
+      "phraseExample": "இருவர் சண்டையில் மூன்றாமவன் லாபம் — ஊர் இரண்டு பட்டால் கூத்தாடிக்கு கொண்டாட்டம்.",
+      "meaningInEnglish": "River",
+      "phraseMeaningInEnglish": "When two quarrel, a third benefits"
     }
   },
   {
@@ -1773,6 +2205,18 @@ export const dailyContent = [
       "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది.",
       "meaningInEnglish": "Hospitality",
       "phraseMeaningInEnglish": "To guard something very preciously"
+    },
+    "tamil": {
+      "word": "கடல்",
+      "pronunciation": "katal",
+      "meaning": "பரந்த உப்பு நீர் பரப்பு",
+      "example": "கடல் அலைகள் கரையை மோதின.",
+      "phrase": "நல்லதை நினை",
+      "phrasePronunciation": "nallathai ninai",
+      "phraseMeaning": "நல்ல எண்ணங்களை வளர்",
+      "phraseExample": "எதிர்மறையாக யோசிக்காதே — நல்லதை நினை.",
+      "meaningInEnglish": "Sea",
+      "phraseMeaningInEnglish": "Think positive thoughts"
     }
   },
   {
@@ -1821,6 +2265,18 @@ export const dailyContent = [
       "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు.",
       "meaningInEnglish": "Cooperation",
       "phraseMeaningInEnglish": "Old habits die hard"
+    },
+    "tamil": {
+      "word": "மலை",
+      "pronunciation": "malai",
+      "meaning": "நிலத்தில் உயர்ந்து நிற்கும் இயற்கை அமைப்பு",
+      "example": "கோடை விடுமுறையில் மலைக்கு சென்றோம்.",
+      "phrase": "அறம் செய விரும்பு",
+      "phrasePronunciation": "aram cheya virumpu",
+      "phraseMeaning": "நல்லது செய்ய ஆசைப்படு",
+      "phraseExample": "எப்போதும் அறம் செய விரும்பு.",
+      "meaningInEnglish": "Mountain",
+      "phraseMeaningInEnglish": "Desire to do good"
     }
   },
   {
@@ -1869,6 +2325,18 @@ export const dailyContent = [
       "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం.",
       "meaningInEnglish": "Humility",
       "phraseMeaningInEnglish": "Knowing the truth but staying silent"
+    },
+    "tamil": {
+      "word": "வானம்",
+      "pronunciation": "vaanam",
+      "meaning": "பூமிக்கு மேலே தெரியும் வெளி",
+      "example": "மழைக்குப் பின் வானம் தெளிவாக இருந்தது.",
+      "phrase": "கொடுப்பதும் ஒரு சுகம்",
+      "phrasePronunciation": "kotuppathum oru chukam",
+      "phraseMeaning": "பிறருக்கு கொடுப்பதில் மகிழ்ச்சி உண்டு",
+      "phraseExample": "உதவி செய்தால் நமக்கே நல்லது — கொடுப்பதும் ஒரு சுகம்.",
+      "meaningInEnglish": "Sky",
+      "phraseMeaningInEnglish": "Giving is also a pleasure"
     }
   },
   {
@@ -1917,6 +2385,18 @@ export const dailyContent = [
       "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది.",
       "meaningInEnglish": "Profound wisdom",
       "phraseMeaningInEnglish": "Feeling very pleasant and comfortable"
+    },
+    "tamil": {
+      "word": "நிலா",
+      "pronunciation": "nilaa",
+      "meaning": "இரவில் ஒளிரும் வான் பொருள்",
+      "example": "முழு நிலா அழகாக ஒளிர்ந்தது.",
+      "phrase": "இன்றைய உழைப்பு நாளைய வெற்றி",
+      "phrasePronunciation": "inraiya uzhaippu naalaiya verri",
+      "phraseMeaning": "இன்று உழைத்தால் நாளை வெற்றி கிடைக்கும்",
+      "phraseExample": "சோம்பல் விடு — இன்றைய உழைப்பு நாளைய வெற்றி.",
+      "meaningInEnglish": "Moon",
+      "phraseMeaningInEnglish": "Today's hard work is tomorrow's success"
     }
   },
   {
@@ -1965,6 +2445,18 @@ export const dailyContent = [
       "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా.",
       "meaningInEnglish": "Beauty",
       "phraseMeaningInEnglish": "Children follow what elders do"
+    },
+    "tamil": {
+      "word": "சூரியன்",
+      "pronunciation": "chooriyan",
+      "meaning": "ஒளியும் வெப்பமும் தரும் விண்மீன்",
+      "example": "சூரியன் கிழக்கில் உதிக்கிறது.",
+      "phrase": "வாழ்க வளமுடன்",
+      "phrasePronunciation": "vaazhka valamutan",
+      "phraseMeaning": "செழிப்புடன் வாழ வாழ்த்து",
+      "phraseExample": "எல்லோருக்கும் வாழ்க வளமுடன் என்று வாழ்த்துகிறேன்.",
+      "meaningInEnglish": "Sun",
+      "phraseMeaningInEnglish": "Live with prosperity"
     }
   },
   {
@@ -2013,6 +2505,18 @@ export const dailyContent = [
       "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం.",
       "meaningInEnglish": "Compassion",
       "phraseMeaningInEnglish": "Nothing is possible alone; teamwork matters"
+    },
+    "tamil": {
+      "word": "மழை",
+      "pronunciation": "mazhai",
+      "meaning": "மேகத்திலிருந்து விழும் நீர்த்துளிகள்",
+      "example": "நல்ல மழை பெய்தால் விவசாயம் செழிக்கும்.",
+      "phrase": "பொது நலம் போற்று",
+      "phrasePronunciation": "pothu nalam porru",
+      "phraseMeaning": "அனைவரின் நன்மையை நாடு",
+      "phraseExample": "சுயநலம் விடு — பொது நலம் போற்று.",
+      "meaningInEnglish": "Rain",
+      "phraseMeaningInEnglish": "Promote the common good"
     }
   },
   {
@@ -2061,6 +2565,18 @@ export const dailyContent = [
       "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు.",
       "meaningInEnglish": "Perfection",
       "phraseMeaningInEnglish": "A bad name sticks no matter what"
+    },
+    "tamil": {
+      "word": "காற்று",
+      "pronunciation": "kaarru",
+      "meaning": "இயற்கையாக வீசும் வாயு",
+      "example": "கடலோர காற்று இதமாக இருந்தது.",
+      "phrase": "தூங்கும் சிங்கத்தை எழுப்பாதே",
+      "phrasePronunciation": "thoongkum chingkaththai ezhuppaathe",
+      "phraseMeaning": "அமைதியாக இருப்பவரை தூண்டாதே",
+      "phraseExample": "அவரை கோபப்படுத்தாதே — தூங்கும் சிங்கத்தை எழுப்பாதே.",
+      "meaningInEnglish": "Wind",
+      "phraseMeaningInEnglish": "Don't wake a sleeping lion"
     }
   },
   {
@@ -2109,6 +2625,18 @@ export const dailyContent = [
       "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి.",
       "meaningInEnglish": "Entertainment",
       "phraseMeaningInEnglish": "A bird in hand is worth two in the bush"
+    },
+    "tamil": {
+      "word": "விண்மீன்",
+      "pronunciation": "vinmeen",
+      "meaning": "இரவு வானில் ஒளிரும் புள்ளி",
+      "example": "ஆயிரம் விண்மீன்கள் வானில் மின்னின.",
+      "phrase": "கற்பவை கற்று மற்றவருக்கு அறிவுரை கூறு",
+      "phrasePronunciation": "karpavai karru marravarukku arivurai kooru",
+      "phraseMeaning": "முதலில் கற் பிறகு கற்பி",
+      "phraseExample": "நீ முதலில் படி — கற்பவை கற்று மற்றவருக்கு அறிவுரை கூறு.",
+      "meaningInEnglish": "Star",
+      "phraseMeaningInEnglish": "Learn first, then advise others"
     }
   },
   {
@@ -2157,6 +2685,18 @@ export const dailyContent = [
       "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు.",
       "meaningInEnglish": "Culture",
       "phraseMeaningInEnglish": "Even small problems trouble the mighty"
+    },
+    "tamil": {
+      "word": "இலை",
+      "pronunciation": "ilai",
+      "meaning": "தாவரத்தின் தட்டையான பச்சைப் பகுதி",
+      "example": "மரத்தின் இலைகள் உதிர்ந்தன.",
+      "phrase": "பொய் சொல்வான் நெய் சொல்வான்",
+      "phrasePronunciation": "poy cholvaan ney cholvaan",
+      "phraseMeaning": "பொய் சொல்பவன் எதையும் சொல்வான்",
+      "phraseExample": "அவன் சொல்வதை நம்பாதே — பொய் சொல்வான் நெய் சொல்வான்.",
+      "meaningInEnglish": "Leaf",
+      "phraseMeaningInEnglish": "A liar will say anything"
     }
   },
   {
@@ -2205,6 +2745,18 @@ export const dailyContent = [
       "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు.",
       "meaningInEnglish": "Radiance",
       "phraseMeaningInEnglish": "You reap what you sow"
+    },
+    "tamil": {
+      "word": "காடு",
+      "pronunciation": "kaatu",
+      "meaning": "மரங்கள் அடர்ந்த இயற்கைப் பகுதி",
+      "example": "காட்டில் பல அரிய விலங்குகள் உள்ளன.",
+      "phrase": "ஓடும் நீர் தேங்காது",
+      "phrasePronunciation": "otum neer thengkaathu",
+      "phraseMeaning": "செயல்படுபவர்கள் முன்னேறுவார்கள்",
+      "phraseExample": "நகர்ந்துகொண்டே இரு — ஓடும் நீர் தேங்காது.",
+      "meaningInEnglish": "Forest",
+      "phraseMeaningInEnglish": "Running water doesn't stagnate"
     }
   },
   {
@@ -2253,6 +2805,18 @@ export const dailyContent = [
       "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు.",
       "meaningInEnglish": "Love",
       "phraseMeaningInEnglish": "Education always proves useful"
+    },
+    "tamil": {
+      "word": "ஏரி",
+      "pronunciation": "eri",
+      "meaning": "நிலத்தால் சூழப்பட்ட நீர்நிலை",
+      "example": "ஏரியில் தாமரை பூத்திருந்தது.",
+      "phrase": "அளவுக்கு மிஞ்சினால் அமிர்தமும் நஞ்சு",
+      "phrasePronunciation": "alavukku minychinaal amirthamum nanychu",
+      "phraseMeaning": "எதுவும் அளவுக்கு மிஞ்சினால் தீமை",
+      "phraseExample": "அதிகமாக சாப்பிடாதே — அளவுக்கு மிஞ்சினால் அமிர்தமும் நஞ்சு.",
+      "meaningInEnglish": "Lake",
+      "phraseMeaningInEnglish": "Even nectar becomes poison in excess"
     }
   },
   {
@@ -2301,6 +2865,18 @@ export const dailyContent = [
       "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది.",
       "meaningInEnglish": "Freedom",
       "phraseMeaningInEnglish": "With hard work, the impossible becomes possible"
+    },
+    "tamil": {
+      "word": "அருவி",
+      "pronunciation": "aruvi",
+      "meaning": "மலையிலிருந்து விழும் நீர்",
+      "example": "குற்றால அருவி சுற்றுலாப் பயணிகளை ஈர்க்கிறது.",
+      "phrase": "கற்றவன் கண்ணுடையான்",
+      "phrasePronunciation": "karravan kannutaiyaan",
+      "phraseMeaning": "கல்வி கற்றவன் பார்வை உள்ளவன்",
+      "phraseExample": "படித்தால் உலகைப் புரிந்துகொள்ளலாம் — கற்றவன் கண்ணுடையான்.",
+      "meaningInEnglish": "Waterfall",
+      "phraseMeaningInEnglish": "The learned one has eyes"
     }
   },
   {
@@ -2349,6 +2925,18 @@ export const dailyContent = [
       "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు.",
       "meaningInEnglish": "Intellect",
       "phraseMeaningInEnglish": "The ordinary is common, the special is rare"
+    },
+    "tamil": {
+      "word": "மேகம்",
+      "pronunciation": "mekam",
+      "meaning": "வானில் மிதக்கும் நீராவி திரள்",
+      "example": "கருமேகம் மழையைக் கொண்டுவரும்.",
+      "phrase": "நல்லது செய் நல்லது நடக்கும்",
+      "phrasePronunciation": "nallathu chey nallathu natakkum",
+      "phraseMeaning": "நல்லது செய்தால் நல்லது நடக்கும்",
+      "phraseExample": "எப்போதும் நல்லது செய் — நல்லது செய் நல்லது நடக்கும்.",
+      "meaningInEnglish": "Cloud",
+      "phraseMeaningInEnglish": "Do good and good will happen"
     }
   },
   {
@@ -2397,6 +2985,18 @@ export const dailyContent = [
       "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా.",
       "meaningInEnglish": "Consolation",
       "phraseMeaningInEnglish": "Knowing one thing leads to knowing others"
+    },
+    "tamil": {
+      "word": "வானவில்",
+      "pronunciation": "vaanavil",
+      "meaning": "மழைக்குப் பின் தோன்றும் ஏழு நிற வளையம்",
+      "example": "மழைக்குப் பிறகு அழகான வானவில் தெரிந்தது.",
+      "phrase": "காலம் எல்லாவற்றையும் ஆற்றும்",
+      "phrasePronunciation": "kaalam ellaavarraiyum aarrum",
+      "phraseMeaning": "நேரம் எல்லா வலியையும் குறைக்கும்",
+      "phraseExample": "வருத்தப்படாதே — காலம் எல்லாவற்றையும் ஆற்றும்.",
+      "meaningInEnglish": "Rainbow",
+      "phraseMeaningInEnglish": "Time heals everything"
     }
   },
   {
@@ -2445,6 +3045,18 @@ export const dailyContent = [
       "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు.",
       "meaningInEnglish": "Benevolence",
       "phraseMeaningInEnglish": "A person's nature doesn't change easily"
+    },
+    "tamil": {
+      "word": "அலை",
+      "pronunciation": "alai",
+      "meaning": "நீரின் மேற்பரப்பில் எழும் அசைவு",
+      "example": "கடல் அலைகள் மிகப் பெரியவை.",
+      "phrase": "அகத்தின் அழகு முகத்தில் தெரியும்",
+      "phrasePronunciation": "akaththin azhaku mukaththil theriyum",
+      "phraseMeaning": "ஒருவரின் உள் குணம் முகத்தில் வெளிப்படும்",
+      "phraseExample": "அவர் எப்போதும் புன்னகையுடன் இருப்பார் — அகத்தின் அழகு முகத்தில் தெரியும்.",
+      "meaningInEnglish": "Wave",
+      "phraseMeaningInEnglish": "Inner beauty reflects on the face"
     }
   },
   {
@@ -2493,6 +3105,18 @@ export const dailyContent = [
       "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా.",
       "meaningInEnglish": "Renunciation",
       "phraseMeaningInEnglish": "When hungry, anything tastes good"
+    },
+    "tamil": {
+      "word": "படிக்க",
+      "pronunciation": "patikka",
+      "meaning": "எழுத்துகளை வாசிக்கும் செயல்",
+      "example": "நூலகத்தில் அமர்ந்து படிக்க வேண்டும்.",
+      "phrase": "ஆறிலும் சாவு நூறிலும் சாவு",
+      "phrasePronunciation": "aarilum chaavu noorilum chaavu",
+      "phraseMeaning": "இறப்பு எப்போது வேண்டுமானாலும் வரலாம்",
+      "phraseExample": "பயப்படாதே, ஆறிலும் சாவு நூறிலும் சாவு என்பார்கள்.",
+      "meaningInEnglish": "To read",
+      "phraseMeaningInEnglish": "Death can come at any age"
     }
   },
   {
@@ -2541,6 +3165,18 @@ export const dailyContent = [
       "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు.",
       "meaningInEnglish": "Conflict",
       "phraseMeaningInEnglish": "New places bring new challenges"
+    },
+    "tamil": {
+      "word": "எழுத",
+      "pronunciation": "ezhutha",
+      "meaning": "எழுத்துகளைப் பதிவு செய்தல்",
+      "example": "தமிழில் கவிதை எழுத விரும்புகிறேன்.",
+      "phrase": "ஊசியைக் கொடுத்து வாளை வாங்கு",
+      "phrasePronunciation": "oochiyaik kotuththu vaalai vaangku",
+      "phraseMeaning": "சிறியது கொடுத்து பெரியது பெறு",
+      "phraseExample": "அவன் சிறு உதவி செய்து பெரிய பலன் பெற்றான் — ஊசியைக் கொடுத்து வாளை வாங்கினான்.",
+      "meaningInEnglish": "To write",
+      "phraseMeaningInEnglish": "Give a needle, get a sword"
     }
   },
   {
@@ -2589,6 +3225,18 @@ export const dailyContent = [
       "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా.",
       "meaningInEnglish": "Tranquility",
       "phraseMeaningInEnglish": "Every mother loves her own child most"
+    },
+    "tamil": {
+      "word": "ஓட",
+      "pronunciation": "ota",
+      "meaning": "வேகமாக நகரும் செயல்",
+      "example": "காலையில் ஓடுவது உடலுக்கு நல்லது.",
+      "phrase": "ஆழம் தெரியாமல் காலை விடாதே",
+      "phrasePronunciation": "aazham theriyaamal kaalai vitaathe",
+      "phraseMeaning": "எதையும் புரிந்துகொள்ளாமல் செய்யாதே",
+      "phraseExample": "புதிய வணிகத்தில் ஆழம் தெரியாமல் காலை விடாதே.",
+      "meaningInEnglish": "To run",
+      "phraseMeaningInEnglish": "Don't step in without knowing the depth"
     }
   },
   {
@@ -2637,6 +3285,18 @@ export const dailyContent = [
       "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు.",
       "meaningInEnglish": "Greatness",
       "phraseMeaningInEnglish": "Adding insult to injury"
+    },
+    "tamil": {
+      "word": "நடக்க",
+      "pronunciation": "natakka",
+      "meaning": "கால்களால் செல்லும் செயல்",
+      "example": "தினமும் நடக்க வேண்டும்.",
+      "phrase": "கல்லாதது உலகளவு",
+      "phrasePronunciation": "kallaathathu ulakalavu",
+      "phraseMeaning": "கற்றது மிகக் குறைவு",
+      "phraseExample": "எவ்வளவு படித்தாலும் கல்லாதது உலகளவு.",
+      "meaningInEnglish": "To walk",
+      "phraseMeaningInEnglish": "What you haven't learned is as vast as the world"
     }
   },
   {
@@ -2685,6 +3345,18 @@ export const dailyContent = [
       "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం.",
       "meaningInEnglish": "Wealth",
       "phraseMeaningInEnglish": "Leaving what you have for something uncertain"
+    },
+    "tamil": {
+      "word": "சாப்பிட",
+      "pronunciation": "chaappita",
+      "meaning": "உணவை உட்கொள்ளுதல்",
+      "example": "நேரத்திற்கு சாப்பிட வேண்டும்.",
+      "phrase": "விளையும் பயிர் முளையிலே தெரியும்",
+      "phrasePronunciation": "vilaiyum payir mulaiyile theriyum",
+      "phraseMeaning": "திறமை சிறு வயதிலேயே வெளிப்படும்",
+      "phraseExample": "அந்தக் குழந்தை நன்றாக படிக்கிறது — விளையும் பயிர் முளையிலே தெரியும்.",
+      "meaningInEnglish": "To eat",
+      "phraseMeaningInEnglish": "A promising crop shows in the sprout"
     }
   },
   {
@@ -2733,6 +3405,18 @@ export const dailyContent = [
       "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు.",
       "meaningInEnglish": "Heroism",
       "phraseMeaningInEnglish": "Routine for the experienced"
+    },
+    "tamil": {
+      "word": "தூங்க",
+      "pronunciation": "thoongka",
+      "meaning": "உறக்க நிலையில் இருத்தல்",
+      "example": "குழந்தை அமைதியாக தூங்கியது.",
+      "phrase": "ஒரு கை தட்டினால் ஓசை வராது",
+      "phrasePronunciation": "oru kai thattinaal ochai varaathu",
+      "phraseMeaning": "இருவர் இணைந்தால்தான் செயல் நிறைவேறும்",
+      "phraseExample": "ஒரு கை தட்டினால் ஓசை வராது, எல்லோரும் சேர்ந்து உழைக்க வேண்டும்.",
+      "meaningInEnglish": "To sleep",
+      "phraseMeaningInEnglish": "One hand clapping makes no sound"
     }
   },
   {
@@ -2781,6 +3465,18 @@ export const dailyContent = [
       "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది.",
       "meaningInEnglish": "Sympathy",
       "phraseMeaningInEnglish": "When one is careless, another profits"
+    },
+    "tamil": {
+      "word": "பேச",
+      "pronunciation": "pecha",
+      "meaning": "வாய்மொழியாக கருத்துகளை பகிர்தல்",
+      "example": "அவர் தெளிவாக பேசுவார்.",
+      "phrase": "பசி வந்திடப் பத்தும் பறந்திடும்",
+      "phrasePronunciation": "pachi vanthitap paththum paranthitum",
+      "phraseMeaning": "பசி வந்தால் எல்லா நெறிகளும் போய்விடும்",
+      "phraseExample": "ஏழைகள் தவறு செய்கிறார்கள் என்று சொல்லாதே — பசி வந்திடப் பத்தும் பறந்திடும்.",
+      "meaningInEnglish": "To speak",
+      "phraseMeaningInEnglish": "When hunger comes, all virtues fly away"
     }
   },
   {
@@ -2829,6 +3525,18 @@ export const dailyContent = [
       "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు.",
       "meaningInEnglish": "Abundance",
       "phraseMeaningInEnglish": "Don't give pearls to those who can't value them"
+    },
+    "tamil": {
+      "word": "கேட்க",
+      "pronunciation": "ketka",
+      "meaning": "செவியால் உணர்தல்",
+      "example": "இசையைக் கேட்க மிகவும் பிடிக்கும்.",
+      "phrase": "கற்றது கைமண் அளவு",
+      "phrasePronunciation": "karrathu kaiman alavu",
+      "phraseMeaning": "கற்ற அறிவு மிகக் குறைவு",
+      "phraseExample": "நான் டாக்டர் ஆனாலும் கற்றது கைமண் அளவுதான்.",
+      "meaningInEnglish": "To listen",
+      "phraseMeaningInEnglish": "What you've learned is just a handful"
     }
   },
   {
@@ -2877,6 +3585,18 @@ export const dailyContent = [
       "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి.",
       "meaningInEnglish": "Importance",
       "phraseMeaningInEnglish": "Bad company corrupts good character"
+    },
+    "tamil": {
+      "word": "பார்க்க",
+      "pronunciation": "paarkka",
+      "meaning": "கண்களால் காணுதல்",
+      "example": "சூரிய உதயத்தைப் பார்க்க அழகாக இருக்கும்.",
+      "phrase": "முயற்சி திருவினையாக்கும்",
+      "phrasePronunciation": "muyarchi thiruvinaiyaakkum",
+      "phraseMeaning": "முயற்சி வெற்றியைத் தரும்",
+      "phraseExample": "தொடர்ந்து முயற்சி செய் — முயற்சி திருவினையாக்கும்.",
+      "meaningInEnglish": "To see",
+      "phraseMeaningInEnglish": "Effort leads to success"
     }
   },
   {
@@ -2925,6 +3645,18 @@ export const dailyContent = [
       "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది.",
       "meaningInEnglish": "Friendship",
       "phraseMeaningInEnglish": "Helping others brings inner peace"
+    },
+    "tamil": {
+      "word": "சிரிக்க",
+      "pronunciation": "chirikka",
+      "meaning": "மகிழ்ச்சியை வெளிப்படுத்தும் செயல்",
+      "example": "நல்ல நகைச்சுவை கேட்டு அனைவரும் சிரித்தனர்.",
+      "phrase": "அறிவே ஆற்றல்",
+      "phrasePronunciation": "arive aarral",
+      "phraseMeaning": "அறிவுதான் உண்மையான சக்தி",
+      "phraseExample": "படி, அறிவே ஆற்றல் என்பதை மறவாதே.",
+      "meaningInEnglish": "To laugh",
+      "phraseMeaningInEnglish": "Knowledge is power"
     }
   },
   {
@@ -2973,6 +3705,18 @@ export const dailyContent = [
       "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి.",
       "meaningInEnglish": "Feeling",
       "phraseMeaningInEnglish": "Nothing is permanent"
+    },
+    "tamil": {
+      "word": "அழ",
+      "pronunciation": "azha",
+      "meaning": "கண்ணீர் விடும் செயல்",
+      "example": "சின்னக் குழந்தை பசிக்கு அழுதது.",
+      "phrase": "பொறுமை கடலினும் பெரிது",
+      "phrasePronunciation": "porumai katalinum perithu",
+      "phraseMeaning": "பொறுமை மிகவும் முக்கியம்",
+      "phraseExample": "கோபப்படாதே, பொறுமை கடலினும் பெரிது.",
+      "meaningInEnglish": "To cry",
+      "phraseMeaningInEnglish": "Patience is greater than the ocean"
     }
   },
   {
@@ -3021,6 +3765,18 @@ export const dailyContent = [
       "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు.",
       "meaningInEnglish": "Coordination",
       "phraseMeaningInEnglish": "Listener needs wisdom, speaker needs patience"
+    },
+    "tamil": {
+      "word": "பாட",
+      "pronunciation": "paata",
+      "meaning": "இசையுடன் குரலை எழுப்புதல்",
+      "example": "அவள் இனிமையாக பாடினாள்.",
+      "phrase": "நேரம் காத்திருக்காது",
+      "phrasePronunciation": "neram kaaththirukkaathu",
+      "phraseMeaning": "நேரத்தை வீணாக்கக்கூடாது",
+      "phraseExample": "படிக்க ஆரம்பி, நேரம் காத்திருக்காது.",
+      "meaningInEnglish": "To sing",
+      "phraseMeaningInEnglish": "Time waits for no one"
     }
   },
   {
@@ -3069,6 +3825,18 @@ export const dailyContent = [
       "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు.",
       "meaningInEnglish": "Health",
       "phraseMeaningInEnglish": "To appear very grand and impressive"
+    },
+    "tamil": {
+      "word": "ஆட",
+      "pronunciation": "aata",
+      "meaning": "உடலை இசைக்கேற்ப அசைத்தல்",
+      "example": "நாட்டியம் ஆட பயிற்சி எடுக்கிறாள்.",
+      "phrase": "ஒற்றுமையில் பலம்",
+      "phrasePronunciation": "orrumaiyil palam",
+      "phraseMeaning": "ஒன்றாக இருந்தால் வலிமை உண்டு",
+      "phraseExample": "குடும்பம் ஒன்றாக இருக்க வேண்டும் — ஒற்றுமையில் பலம்.",
+      "meaningInEnglish": "To dance",
+      "phraseMeaningInEnglish": "Unity is strength"
     }
   },
   {
@@ -3117,6 +3885,18 @@ export const dailyContent = [
       "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది.",
       "meaningInEnglish": "Discernment",
       "phraseMeaningInEnglish": "Hard work yields suitable rewards"
+    },
+    "tamil": {
+      "word": "போராட",
+      "pronunciation": "poraata",
+      "meaning": "எதிர்த்து நிற்கும் செயல்",
+      "example": "உரிமைக்காக போராட வேண்டும்.",
+      "phrase": "ஆபத்துக்கு உதவுபவனே நண்பன்",
+      "phrasePronunciation": "aapaththukku uthavupavane nanpan",
+      "phraseMeaning": "உண்மையான நண்பன் கஷ்ட நேரத்தில் உதவுவான்",
+      "phraseExample": "எல்லாரும் ஓடிவிட்டார்கள் அவன் மட்டும் நின்றான் — ஆபத்துக்கு உதவுபவனே நண்பன்.",
+      "meaningInEnglish": "To fight",
+      "phraseMeaningInEnglish": "A friend in need is a friend indeed"
     }
   },
   {
@@ -3165,6 +3945,18 @@ export const dailyContent = [
       "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు.",
       "meaningInEnglish": "Aspiration",
       "phraseMeaningInEnglish": "Sour grapes; dismissing what you can't get"
+    },
+    "tamil": {
+      "word": "கற்க",
+      "pronunciation": "karka",
+      "meaning": "புதிய அறிவைப் பெறுதல்",
+      "example": "தினமும் ஒன்று கற்க வேண்டும்.",
+      "phrase": "காற்றுள்ள போதே தூற்றிக்கொள்",
+      "phrasePronunciation": "kaarrulla pothe thoorrikkol",
+      "phraseMeaning": "வாய்ப்பு இருக்கும்போதே பயன்படுத்திக்கொள்",
+      "phraseExample": "இளமையில் படி — காற்றுள்ள போதே தூற்றிக்கொள்.",
+      "meaningInEnglish": "To learn",
+      "phraseMeaningInEnglish": "Make hay while the sun shines"
     }
   },
   {
@@ -3213,6 +4005,18 @@ export const dailyContent = [
       "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి.",
       "meaningInEnglish": "Prestige",
       "phraseMeaningInEnglish": "Actions don't match words; hypocrisy"
+    },
+    "tamil": {
+      "word": "கற்பிக்க",
+      "pronunciation": "karpikka",
+      "meaning": "பிறருக்கு அறிவை வழங்குதல்",
+      "example": "நல்ல ஆசிரியர் எளிமையாக கற்பிப்பார்.",
+      "phrase": "நாய் விற்ற காசு குரைக்காது",
+      "phrasePronunciation": "naay virra kaachu kuraikkaathu",
+      "phraseMeaning": "தவறான வழியில் சம்பாதித்தது நிலைக்காது",
+      "phraseExample": "ஏமாற்றி சம்பாதித்தால் என்ன பயன் — நாய் விற்ற காசு குரைக்காது.",
+      "meaningInEnglish": "To teach",
+      "phraseMeaningInEnglish": "Ill-gotten gains won't last"
     }
   },
   {
@@ -3261,6 +4065,18 @@ export const dailyContent = [
       "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు.",
       "meaningInEnglish": "Harmony",
       "phraseMeaningInEnglish": "One without ability can't do big things"
+    },
+    "tamil": {
+      "word": "உதவ",
+      "pronunciation": "uthava",
+      "meaning": "பிறருக்கு துணை செய்தல்",
+      "example": "தேவையில் உள்ளவர்களுக்கு உதவ வேண்டும்.",
+      "phrase": "நெருப்பு இல்லாமல் புகை வராது",
+      "phrasePronunciation": "neruppu illaamal pukai varaathu",
+      "phraseMeaning": "காரணம் இல்லாமல் விளைவு இல்லை",
+      "phraseExample": "வதந்தி பரவுகிறது என்றால் ஏதோ நடந்திருக்கும் — நெருப்பு இல்லாமல் புகை வராது.",
+      "meaningInEnglish": "To help",
+      "phraseMeaningInEnglish": "No smoke without fire"
     }
   },
   {
@@ -3309,6 +4125,18 @@ export const dailyContent = [
       "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా.",
       "meaningInEnglish": "Invention",
       "phraseMeaningInEnglish": "Results come when you get to work"
+    },
+    "tamil": {
+      "word": "கொடுக்க",
+      "pronunciation": "kotukka",
+      "meaning": "பிறருக்கு அளித்தல்",
+      "example": "தானம் கொடுக்க மனம் வேண்டும்.",
+      "phrase": "யானைக்கும் அடி சறுக்கும்",
+      "phrasePronunciation": "yaanaikkum ati charukkum",
+      "phraseMeaning": "பெரியவர்களும் தவறு செய்வார்கள்",
+      "phraseExample": "கவலைப்படாதே, யானைக்கும் அடி சறுக்கும்.",
+      "meaningInEnglish": "To give",
+      "phraseMeaningInEnglish": "Even an elephant can slip"
     }
   },
   {
@@ -3357,6 +4185,18 @@ export const dailyContent = [
       "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు.",
       "meaningInEnglish": "Devotion",
       "phraseMeaningInEnglish": "Nothing works on time for the poor"
+    },
+    "tamil": {
+      "word": "தேட",
+      "pronunciation": "theta",
+      "meaning": "ஒன்றைக் கண்டுபிடிக்க முயலுதல்",
+      "example": "உண்மையைத் தேட தைரியம் வேண்டும்.",
+      "phrase": "தன் வினை தன்னைச் சுடும்",
+      "phrasePronunciation": "than vinai thannaich chutum",
+      "phraseMeaning": "ஒருவரின் தீய செயல்கள் அவரையே பாதிக்கும்",
+      "phraseExample": "பொய் சொல்லி மாட்டிக்கொண்டான் — தன் வினை தன்னைச் சுடும்.",
+      "meaningInEnglish": "To search",
+      "phraseMeaningInEnglish": "One's own deeds will burn oneself"
     }
   },
   {
@@ -3405,6 +4245,18 @@ export const dailyContent = [
       "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది.",
       "meaningInEnglish": "Cordiality",
       "phraseMeaningInEnglish": "Good intentions find a way"
+    },
+    "tamil": {
+      "word": "மன்னி",
+      "pronunciation": "manni",
+      "meaning": "பிழையை பொறுத்தல்",
+      "example": "தவறு செய்தவரை மன்னிக்க கற்றுக்கொள்.",
+      "phrase": "ஆத்திரக்காரனுக்கு புத்தி மட்டு",
+      "phrasePronunciation": "aaththirakkaaranukku puththi mattu",
+      "phraseMeaning": "கோபமான நபர் சரியாக சிந்திக்க மாட்டார்",
+      "phraseExample": "அவசரப்படாதே — ஆத்திரக்காரனுக்கு புத்தி மட்டு.",
+      "meaningInEnglish": "To forgive",
+      "phraseMeaningInEnglish": "An angry person has limited wisdom"
     }
   },
   {
@@ -3453,6 +4305,18 @@ export const dailyContent = [
       "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే.",
       "meaningInEnglish": "Mental strength",
       "phraseMeaningInEnglish": "Faith makes anything possible"
+    },
+    "tamil": {
+      "word": "அழகான",
+      "pronunciation": "azhakaana",
+      "meaning": "கண்ணுக்கு இனிமையான",
+      "example": "அழகான பூஞ்சோலையில் நடந்தோம்.",
+      "phrase": "ஏட்டுச் சுரைக்காய் கறிக்கு உதவாது",
+      "phrasePronunciation": "ettuch churaikkaay karikku uthavaathu",
+      "phraseMeaning": "புத்தக அறிவு மட்டும் போதாது",
+      "phraseExample": "நடைமுறை அனுபவம் வேண்டும் — ஏட்டுச் சுரைக்காய் கறிக்கு உதவாது.",
+      "meaningInEnglish": "Beautiful",
+      "phraseMeaningInEnglish": "Book knowledge alone won't do"
     }
   },
   {
@@ -3501,6 +4365,18 @@ export const dailyContent = [
       "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది.",
       "meaningInEnglish": "Intimacy",
       "phraseMeaningInEnglish": "Every great thing starts small"
+    },
+    "tamil": {
+      "word": "பெரிய",
+      "pronunciation": "periya",
+      "meaning": "அளவில் மிகுந்த",
+      "example": "பெரிய மரம் நிழல் தரும்.",
+      "phrase": "ஒரு பானை சோற்றுக்கு ஒரு சோறு பதம்",
+      "phrasePronunciation": "oru paanai chorrukku oru choru patham",
+      "phraseMeaning": "சிறிய மாதிரியிலிருந்து முழுதையும் அறியலாம்",
+      "phraseExample": "ஒரு பானை சோற்றுக்கு ஒரு சோறு பதம் — ஒரு பகுதியை பார்த்தே தெரிந்துகொள்ளலாம்.",
+      "meaningInEnglish": "Big",
+      "phraseMeaningInEnglish": "One grain tells if the pot is cooked"
     }
   },
   {
@@ -3549,6 +4425,18 @@ export const dailyContent = [
       "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు.",
       "meaningInEnglish": "Expertise",
       "phraseMeaningInEnglish": "Laughter is the best medicine"
+    },
+    "tamil": {
+      "word": "சிறிய",
+      "pronunciation": "chiriya",
+      "meaning": "அளவில் குறைந்த",
+      "example": "சிறிய துளி பெரிய வெள்ளமாகும்.",
+      "phrase": "யாதும் ஊரே யாவரும் கேளிர்",
+      "phrasePronunciation": "yaathum oore yaavarum kelir",
+      "phraseMeaning": "எல்லா ஊரும் நம் ஊர் எல்லோரும் நம் உறவு",
+      "phraseExample": "பாகுபாடு வேண்டாம் — யாதும் ஊரே யாவரும் கேளிர்.",
+      "meaningInEnglish": "Small",
+      "phraseMeaningInEnglish": "Every place is home, everyone is kin"
     }
   },
   {
@@ -3597,6 +4485,18 @@ export const dailyContent = [
       "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు.",
       "meaningInEnglish": "Generosity",
       "phraseMeaningInEnglish": "Trust, once lost, is hard to regain"
+    },
+    "tamil": {
+      "word": "நல்ல",
+      "pronunciation": "nalla",
+      "meaning": "தரத்தில் மேலான",
+      "example": "நல்ல எண்ணங்கள் நல்ல பலன் தரும்.",
+      "phrase": "கற்க கசடறக் கற்பவை",
+      "phrasePronunciation": "karka kachatarak karpavai",
+      "phraseMeaning": "கற்க வேண்டியதை குறைவின்றி கற்க வேண்டும்",
+      "phraseExample": "ஒழுங்காக படி — கற்க கசடறக் கற்பவை.",
+      "meaningInEnglish": "Good",
+      "phraseMeaningInEnglish": "Learn thoroughly what is worth learning"
     }
   },
   {
@@ -3645,6 +4545,18 @@ export const dailyContent = [
       "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు.",
       "meaningInEnglish": "Practice",
       "phraseMeaningInEnglish": "In the land of the blind, the one-eyed is king"
+    },
+    "tamil": {
+      "word": "வலிமையான",
+      "pronunciation": "valimaiyaana",
+      "meaning": "அதிக பலம் கொண்ட",
+      "example": "வலிமையான காற்று மரங்களை ஆட்டியது.",
+      "phrase": "உழைப்பே உயர்வு",
+      "phrasePronunciation": "uzhaippe uyarvu",
+      "phraseMeaning": "கடின உழைப்பு உயர்வுக்கு வழிவகுக்கும்",
+      "phraseExample": "சோம்பேறித்தனம் விடு — உழைப்பே உயர்வு.",
+      "meaningInEnglish": "Strong",
+      "phraseMeaningInEnglish": "Hard work is the path to elevation"
     }
   },
   {
@@ -3693,6 +4605,18 @@ export const dailyContent = [
       "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది.",
       "meaningInEnglish": "Dedication",
       "phraseMeaningInEnglish": "Strong roots help you rise again"
+    },
+    "tamil": {
+      "word": "மென்மையான",
+      "pronunciation": "menmaiyaana",
+      "meaning": "கடினம் இல்லாத",
+      "example": "குழந்தையின் கை மென்மையானது.",
+      "phrase": "கடமையைச் செய் பலனை எதிர்பாராதே",
+      "phrasePronunciation": "katamaiyaich chey palanai ethirpaaraathe",
+      "phraseMeaning": "கடமையை செய்துவிட்டு பலனுக்காக ஏங்காதே",
+      "phraseExample": "நல்லது செய் — கடமையைச் செய் பலனை எதிர்பாராதே.",
+      "meaningInEnglish": "Soft",
+      "phraseMeaningInEnglish": "Do your duty without expecting rewards"
     }
   },
   {
@@ -3741,6 +4665,18 @@ export const dailyContent = [
       "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే.",
       "meaningInEnglish": "Simplicity",
       "phraseMeaningInEnglish": "A leopard can't change its spots"
+    },
+    "tamil": {
+      "word": "கடினமான",
+      "pronunciation": "katinamaana",
+      "meaning": "எளிதாக செய்ய இயலாத",
+      "example": "கடினமான பாதையே வெற்றிக்கு வழி.",
+      "phrase": "அன்பே சிவம்",
+      "phrasePronunciation": "anpe chivam",
+      "phraseMeaning": "அன்புதான் கடவுள்",
+      "phraseExample": "எல்லோரிடமும் அன்பாக இரு — அன்பே சிவம்.",
+      "meaningInEnglish": "Difficult",
+      "phraseMeaningInEnglish": "Love is God"
     }
   },
   {
@@ -3789,6 +4725,18 @@ export const dailyContent = [
       "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు.",
       "meaningInEnglish": "Influence",
       "phraseMeaningInEnglish": "Don't bite the hand that feeds you"
+    },
+    "tamil": {
+      "word": "எளிய",
+      "pronunciation": "eliya",
+      "meaning": "சிக்கல் இல்லாத",
+      "example": "எளிய வாழ்க்கை அமைதியானது.",
+      "phrase": "பழக்கம் இரண்டாவது இயற்கை",
+      "phrasePronunciation": "pazhakkam irantaavathu iyarkai",
+      "phraseMeaning": "தொடர்ந்து செய்வது இயல்பாக மாறும்",
+      "phraseExample": "தினமும் படிப்பது கடினம் ஆனால் பழக்கம் இரண்டாவது இயற்கை.",
+      "meaningInEnglish": "Simple",
+      "phraseMeaningInEnglish": "Habit is second nature"
     }
   },
   {
@@ -3837,6 +4785,18 @@ export const dailyContent = [
       "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు.",
       "meaningInEnglish": "Rest",
       "phraseMeaningInEnglish": "Distant hills look green"
+    },
+    "tamil": {
+      "word": "புத்திசாலி",
+      "pronunciation": "puththichaali",
+      "meaning": "அறிவு நிறைந்த",
+      "example": "புத்திசாலி பிள்ளை நன்றாக படிக்கும்.",
+      "phrase": "வெல்லுவது விவேகம்",
+      "phrasePronunciation": "velluvathu vivekam",
+      "phraseMeaning": "அறிவுதான் வெற்றிக்கு வழி",
+      "phraseExample": "பலம் அல்ல அறிவு முக்கியம் — வெல்லுவது விவேகம்.",
+      "meaningInEnglish": "Intelligent",
+      "phraseMeaningInEnglish": "Wisdom wins"
     }
   },
   {
@@ -3885,6 +4845,18 @@ export const dailyContent = [
       "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది.",
       "meaningInEnglish": "Courtesy",
       "phraseMeaningInEnglish": "Stand firm even in adversity"
+    },
+    "tamil": {
+      "word": "நேர்மையான",
+      "pronunciation": "nermaiyaana",
+      "meaning": "உண்மையுடன் நடந்துகொள்ளும்",
+      "example": "நேர்மையான மனிதன் எங்கும் மதிக்கப்படுவான்.",
+      "phrase": "தீயினால் சுட்டபுண் உள்ளாறும்",
+      "phrasePronunciation": "theeyinaal chuttapun ullaarum",
+      "phraseMeaning": "நெருப்பு காயம் ஆறும் ஆனால் சொல் காயம் ஆறாது",
+      "phraseExample": "கடும் சொல் சொல்லாதே — தீயினால் சுட்டபுண் உள்ளாறும் நாவினால் சுட்டபுண் ஆறாது.",
+      "meaningInEnglish": "Honest",
+      "phraseMeaningInEnglish": "A burn heals but harsh words don't"
     }
   },
   {
@@ -3933,6 +4905,18 @@ export const dailyContent = [
       "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు.",
       "meaningInEnglish": "Progress",
       "phraseMeaningInEnglish": "Failing to plan is planning to fail"
+    },
+    "tamil": {
+      "word": "தைரியமான",
+      "pronunciation": "thairiyamaana",
+      "meaning": "துணிச்சலான",
+      "example": "தைரியமான வீரன் போரில் வென்றான்.",
+      "phrase": "அடி உதவாத இடத்தில் மிதி உதவும்",
+      "phrasePronunciation": "ati uthavaatha itaththil mithi uthavum",
+      "phraseMeaning": "ஒரு முறை பலிக்காவிட்டால் வேறு வழி முயற்சி செய்",
+      "phraseExample": "மாற்று வழியை யோசி — அடி உதவாத இடத்தில் மிதி உதவும்.",
+      "meaningInEnglish": "Brave",
+      "phraseMeaningInEnglish": "If one way fails, try another"
     }
   },
   {
@@ -3981,6 +4965,18 @@ export const dailyContent = [
       "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది.",
       "meaningInEnglish": "Concentration",
       "phraseMeaningInEnglish": "Everything has its time and use"
+    },
+    "tamil": {
+      "word": "சுறுசுறுப்பான",
+      "pronunciation": "churuchuruppaana",
+      "meaning": "தீவிரமாக செயல்படும்",
+      "example": "சுறுசுறுப்பான மாணவி அனைவரின் பாராட்டைப் பெற்றாள்.",
+      "phrase": "குரங்கு கையில் பூமாலை",
+      "phrasePronunciation": "kurangku kaiyil poomaalai",
+      "phraseMeaning": "தகுதி இல்லாதவனிடம் சிறந்த பொருள்",
+      "phraseExample": "அவனிடம் கொடுத்தால் வீணாகும் — குரங்கு கையில் பூமாலை.",
+      "meaningInEnglish": "Active",
+      "phraseMeaningInEnglish": "A garland in a monkey's hand"
     }
   },
   {
@@ -4029,6 +5025,18 @@ export const dailyContent = [
       "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు.",
       "meaningInEnglish": "Graceful glance",
       "phraseMeaningInEnglish": "Brain over brawn"
+    },
+    "tamil": {
+      "word": "பொறுமையான",
+      "pronunciation": "porumaiyaana",
+      "meaning": "அமைதியாக காத்திருக்கும்",
+      "example": "பொறுமையான மீனவன் பெரிய மீன் பிடிப்பான்.",
+      "phrase": "நுணலும் தன் வாயால் கெடும்",
+      "phrasePronunciation": "nunalum than vaayaal ketum",
+      "phraseMeaning": "ஒருவர் தன் பேச்சால் கெடுவார்",
+      "phraseExample": "அதிகமாக பேசாதே — நுணலும் தன் வாயால் கெடும்.",
+      "meaningInEnglish": "Patient",
+      "phraseMeaningInEnglish": "The frog perishes by its own mouth"
     }
   },
   {
@@ -4077,6 +5085,18 @@ export const dailyContent = [
       "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట.",
       "meaningInEnglish": "Grandeur",
       "phraseMeaningInEnglish": "Elders' advice is always valuable"
+    },
+    "tamil": {
+      "word": "பணிவான",
+      "pronunciation": "panivaana",
+      "meaning": "அடக்கமான",
+      "example": "பணிவான பேச்சு மனங்களை வெல்லும்.",
+      "phrase": "மாற்றான் தோட்டத்து மல்லிகையும் மணக்கும்",
+      "phrasePronunciation": "maarraan thottaththu mallikaiyum manakkum",
+      "phraseMeaning": "பிறர் பொருளும் நன்றாகத் தெரியும்",
+      "phraseExample": "உன் வேலையை பாரு — மாற்றான் தோட்டத்து மல்லிகையும் மணக்கும்.",
+      "meaningInEnglish": "Humble",
+      "phraseMeaningInEnglish": "The grass is always greener on the other side"
     }
   },
   {
@@ -4125,6 +5145,18 @@ export const dailyContent = [
       "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం.",
       "meaningInEnglish": "Following",
       "phraseMeaningInEnglish": "Words carry great power"
+    },
+    "tamil": {
+      "word": "நம்பகமான",
+      "pronunciation": "nampakamaana",
+      "meaning": "நம்பிக்கைக்கு உரிய",
+      "example": "நம்பகமான நண்பன் அரிய செல்வம்.",
+      "phrase": "ஊர் இரண்டு பட்டால் கூத்தாடிக்கு கொண்டாட்டம்",
+      "phrasePronunciation": "oor irantu pattaal kooththaatikku kontaattam",
+      "phraseMeaning": "மற்றவர் சண்டையால் சிலர் பயன்பெறுவர்",
+      "phraseExample": "இருவர் சண்டையில் மூன்றாமவன் லாபம் — ஊர் இரண்டு பட்டால் கூத்தாடிக்கு கொண்டாட்டம்.",
+      "meaningInEnglish": "Trustworthy",
+      "phraseMeaningInEnglish": "When two quarrel, a third benefits"
     }
   },
   {
@@ -4173,6 +5205,18 @@ export const dailyContent = [
       "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది.",
       "meaningInEnglish": "Motivation",
       "phraseMeaningInEnglish": "To guard something very preciously"
+    },
+    "tamil": {
+      "word": "வேகமான",
+      "pronunciation": "vekamaana",
+      "meaning": "விரைவான",
+      "example": "வேகமான பந்து பிடிக்க முடியவில்லை.",
+      "phrase": "நல்லதை நினை",
+      "phrasePronunciation": "nallathai ninai",
+      "phraseMeaning": "நல்ல எண்ணங்களை வளர்",
+      "phraseExample": "எதிர்மறையாக யோசிக்காதே — நல்லதை நினை.",
+      "meaningInEnglish": "Fast",
+      "phraseMeaningInEnglish": "Think positive thoughts"
     }
   },
   {
@@ -4221,6 +5265,18 @@ export const dailyContent = [
       "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు.",
       "meaningInEnglish": "Decision",
       "phraseMeaningInEnglish": "Old habits die hard"
+    },
+    "tamil": {
+      "word": "திறமையான",
+      "pronunciation": "thiramaiyaana",
+      "meaning": "சிறப்பான ஆற்றல் கொண்ட",
+      "example": "திறமையான ஓவியர் அழகான ஓவியம் வரைந்தார்.",
+      "phrase": "அறம் செய விரும்பு",
+      "phrasePronunciation": "aram cheya virumpu",
+      "phraseMeaning": "நல்லது செய்ய ஆசைப்படு",
+      "phraseExample": "எப்போதும் அறம் செய விரும்பு.",
+      "meaningInEnglish": "Talented",
+      "phraseMeaningInEnglish": "Desire to do good"
     }
   },
   {
@@ -4269,6 +5325,18 @@ export const dailyContent = [
       "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం.",
       "meaningInEnglish": "Essence",
       "phraseMeaningInEnglish": "Knowing the truth but staying silent"
+    },
+    "tamil": {
+      "word": "உறுதியான",
+      "pronunciation": "uruthiyaana",
+      "meaning": "உடையாத தன்மையுள்ள",
+      "example": "உறுதியான முடிவு வெற்றிக்கு வழிவகுக்கும்.",
+      "phrase": "கொடுப்பதும் ஒரு சுகம்",
+      "phrasePronunciation": "kotuppathum oru chukam",
+      "phraseMeaning": "பிறருக்கு கொடுப்பதில் மகிழ்ச்சி உண்டு",
+      "phraseExample": "உதவி செய்தால் நமக்கே நல்லது — கொடுப்பதும் ஒரு சுகம்.",
+      "meaningInEnglish": "Firm",
+      "phraseMeaningInEnglish": "Giving is also a pleasure"
     }
   },
   {
@@ -4317,6 +5385,18 @@ export const dailyContent = [
       "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది.",
       "meaningInEnglish": "Aspiration",
       "phraseMeaningInEnglish": "Feeling very pleasant and comfortable"
+    },
+    "tamil": {
+      "word": "தாராளமான",
+      "pronunciation": "thaaraalamaana",
+      "meaning": "கொடை மனம் கொண்ட",
+      "example": "தாராளமான மனிதர் ஏழைகளுக்கு உதவினார்.",
+      "phrase": "இன்றைய உழைப்பு நாளைய வெற்றி",
+      "phrasePronunciation": "inraiya uzhaippu naalaiya verri",
+      "phraseMeaning": "இன்று உழைத்தால் நாளை வெற்றி கிடைக்கும்",
+      "phraseExample": "சோம்பல் விடு — இன்றைய உழைப்பு நாளைய வெற்றி.",
+      "meaningInEnglish": "Generous",
+      "phraseMeaningInEnglish": "Today's hard work is tomorrow's success"
     }
   },
   {
@@ -4365,6 +5445,18 @@ export const dailyContent = [
       "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా.",
       "meaningInEnglish": "Responsibility",
       "phraseMeaningInEnglish": "Children follow what elders do"
+    },
+    "tamil": {
+      "word": "கருணையான",
+      "pronunciation": "karunaiyaana",
+      "meaning": "மனமிரங்கும் தன்மையுள்ள",
+      "example": "கருணையான மருத்துவர் இலவசமாக சிகிச்சை அளித்தார்.",
+      "phrase": "வாழ்க வளமுடன்",
+      "phrasePronunciation": "vaazhka valamutan",
+      "phraseMeaning": "செழிப்புடன் வாழ வாழ்த்து",
+      "phraseExample": "எல்லோருக்கும் வாழ்க வளமுடன் என்று வாழ்த்துகிறேன்.",
+      "meaningInEnglish": "Kind",
+      "phraseMeaningInEnglish": "Live with prosperity"
     }
   },
   {
@@ -4413,6 +5505,18 @@ export const dailyContent = [
       "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం.",
       "meaningInEnglish": "Reward",
       "phraseMeaningInEnglish": "Nothing is possible alone; teamwork matters"
+    },
+    "tamil": {
+      "word": "தூய்மையான",
+      "pronunciation": "thooymaiyaana",
+      "meaning": "மாசு இல்லாத",
+      "example": "தூய்மையான நீர் ஆரோக்கியத்திற்கு அவசியம்.",
+      "phrase": "பொது நலம் போற்று",
+      "phrasePronunciation": "pothu nalam porru",
+      "phraseMeaning": "அனைவரின் நன்மையை நாடு",
+      "phraseExample": "சுயநலம் விடு — பொது நலம் போற்று.",
+      "meaningInEnglish": "Pure",
+      "phraseMeaningInEnglish": "Promote the common good"
     }
   },
   {
@@ -4461,6 +5565,18 @@ export const dailyContent = [
       "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు.",
       "meaningInEnglish": "Consciousness",
       "phraseMeaningInEnglish": "A bad name sticks no matter what"
+    },
+    "tamil": {
+      "word": "அரிய",
+      "pronunciation": "ariya",
+      "meaning": "எளிதில் கிடைக்காத",
+      "example": "அரிய நூல்களை நூலகத்தில் காணலாம்.",
+      "phrase": "தூங்கும் சிங்கத்தை எழுப்பாதே",
+      "phrasePronunciation": "thoongkum chingkaththai ezhuppaathe",
+      "phraseMeaning": "அமைதியாக இருப்பவரை தூண்டாதே",
+      "phraseExample": "அவரை கோபப்படுத்தாதே — தூங்கும் சிங்கத்தை எழுப்பாதே.",
+      "meaningInEnglish": "Rare",
+      "phraseMeaningInEnglish": "Don't wake a sleeping lion"
     }
   },
   {
@@ -4509,6 +5625,18 @@ export const dailyContent = [
       "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి.",
       "meaningInEnglish": "Advice",
       "phraseMeaningInEnglish": "A bird in hand is worth two in the bush"
+    },
+    "tamil": {
+      "word": "அறிவு",
+      "pronunciation": "arivu",
+      "meaning": "கற்றல் மூலம் பெறும் ஞானம்",
+      "example": "அறிவு இருந்தால் எல்லாம் சாத்தியம்.",
+      "phrase": "கற்பவை கற்று மற்றவருக்கு அறிவுரை கூறு",
+      "phrasePronunciation": "karpavai karru marravarukku arivurai kooru",
+      "phraseMeaning": "முதலில் கற் பிறகு கற்பி",
+      "phraseExample": "நீ முதலில் படி — கற்பவை கற்று மற்றவருக்கு அறிவுரை கூறு.",
+      "meaningInEnglish": "Knowledge",
+      "phraseMeaningInEnglish": "Learn first, then advise others"
     }
   },
   {
@@ -4557,6 +5685,18 @@ export const dailyContent = [
       "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు.",
       "meaningInEnglish": "Congratulations",
       "phraseMeaningInEnglish": "Even small problems trouble the mighty"
+    },
+    "tamil": {
+      "word": "ஞானம்",
+      "pronunciation": "nyaanam",
+      "meaning": "ஆழமான புரிதல்",
+      "example": "ஞானம் அனுபவத்தால் வளரும்.",
+      "phrase": "பொய் சொல்வான் நெய் சொல்வான்",
+      "phrasePronunciation": "poy cholvaan ney cholvaan",
+      "phraseMeaning": "பொய் சொல்பவன் எதையும் சொல்வான்",
+      "phraseExample": "அவன் சொல்வதை நம்பாதே — பொய் சொல்வான் நெய் சொல்வான்.",
+      "meaningInEnglish": "Wisdom",
+      "phraseMeaningInEnglish": "A liar will say anything"
     }
   },
   {
@@ -4605,6 +5745,18 @@ export const dailyContent = [
       "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు.",
       "meaningInEnglish": "Well-being",
       "phraseMeaningInEnglish": "You reap what you sow"
+    },
+    "tamil": {
+      "word": "நீதி",
+      "pronunciation": "neethi",
+      "meaning": "சரியானதை நிலைநாட்டும் தத்துவம்",
+      "example": "நீதி அனைவருக்கும் சமமாக இருக்க வேண்டும்.",
+      "phrase": "ஓடும் நீர் தேங்காது",
+      "phrasePronunciation": "otum neer thengkaathu",
+      "phraseMeaning": "செயல்படுபவர்கள் முன்னேறுவார்கள்",
+      "phraseExample": "நகர்ந்துகொண்டே இரு — ஓடும் நீர் தேங்காது.",
+      "meaningInEnglish": "Justice",
+      "phraseMeaningInEnglish": "Running water doesn't stagnate"
     }
   },
   {
@@ -4653,6 +5805,18 @@ export const dailyContent = [
       "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు.",
       "meaningInEnglish": "Maturity",
       "phraseMeaningInEnglish": "Education always proves useful"
+    },
+    "tamil": {
+      "word": "உண்மை",
+      "pronunciation": "unmai",
+      "meaning": "பொய் அல்லாத நிலை",
+      "example": "உண்மை எப்போதும் வெல்லும்.",
+      "phrase": "அளவுக்கு மிஞ்சினால் அமிர்தமும் நஞ்சு",
+      "phrasePronunciation": "alavukku minychinaal amirthamum nanychu",
+      "phraseMeaning": "எதுவும் அளவுக்கு மிஞ்சினால் தீமை",
+      "phraseExample": "அதிகமாக சாப்பிடாதே — அளவுக்கு மிஞ்சினால் அமிர்தமும் நஞ்சு.",
+      "meaningInEnglish": "Truth",
+      "phraseMeaningInEnglish": "Even nectar becomes poison in excess"
     }
   },
   {
@@ -4701,6 +5865,18 @@ export const dailyContent = [
       "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది.",
       "meaningInEnglish": "Continuously",
       "phraseMeaningInEnglish": "With hard work, the impossible becomes possible"
+    },
+    "tamil": {
+      "word": "விடுதலை",
+      "pronunciation": "vituthalai",
+      "meaning": "அடிமைத்தனத்திலிருந்து வெளியேறுதல்",
+      "example": "சுதந்திர போராட்டம் விடுதலையை பெற்றுத்தந்தது.",
+      "phrase": "கற்றவன் கண்ணுடையான்",
+      "phrasePronunciation": "karravan kannutaiyaan",
+      "phraseMeaning": "கல்வி கற்றவன் பார்வை உள்ளவன்",
+      "phraseExample": "படித்தால் உலகைப் புரிந்துகொள்ளலாம் — கற்றவன் கண்ணுடையான்.",
+      "meaningInEnglish": "Freedom",
+      "phraseMeaningInEnglish": "The learned one has eyes"
     }
   },
   {
@@ -4749,6 +5925,18 @@ export const dailyContent = [
       "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు.",
       "meaningInEnglish": "Understanding",
       "phraseMeaningInEnglish": "The ordinary is common, the special is rare"
+    },
+    "tamil": {
+      "word": "கல்வி",
+      "pronunciation": "kalvi",
+      "meaning": "முறையான கற்றல் நடவடிக்கை",
+      "example": "கல்வி அறிவு இருந்தால் தொழில் கிடைக்கும்.",
+      "phrase": "நல்லது செய் நல்லது நடக்கும்",
+      "phrasePronunciation": "nallathu chey nallathu natakkum",
+      "phraseMeaning": "நல்லது செய்தால் நல்லது நடக்கும்",
+      "phraseExample": "எப்போதும் நல்லது செய் — நல்லது செய் நல்லது நடக்கும்.",
+      "meaningInEnglish": "Education",
+      "phraseMeaningInEnglish": "Do good and good will happen"
     }
   },
   {
@@ -4797,6 +5985,18 @@ export const dailyContent = [
       "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా.",
       "meaningInEnglish": "Propriety",
       "phraseMeaningInEnglish": "Knowing one thing leads to knowing others"
+    },
+    "tamil": {
+      "word": "அனுபவம்",
+      "pronunciation": "anupavam",
+      "meaning": "செய்தறிந்த பட்டறிவு",
+      "example": "அனுபவம் சிறந்த ஆசிரியர்.",
+      "phrase": "காலம் எல்லாவற்றையும் ஆற்றும்",
+      "phrasePronunciation": "kaalam ellaavarraiyum aarrum",
+      "phraseMeaning": "நேரம் எல்லா வலியையும் குறைக்கும்",
+      "phraseExample": "வருத்தப்படாதே — காலம் எல்லாவற்றையும் ஆற்றும்.",
+      "meaningInEnglish": "Experience",
+      "phraseMeaningInEnglish": "Time heals everything"
     }
   },
   {
@@ -4845,6 +6045,18 @@ export const dailyContent = [
       "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు.",
       "meaningInEnglish": "Sweetness",
       "phraseMeaningInEnglish": "A person's nature doesn't change easily"
+    },
+    "tamil": {
+      "word": "வாழ்க்கை",
+      "pronunciation": "vaazhkkai",
+      "meaning": "பிறப்பு முதல் இறப்பு வரையிலான காலம்",
+      "example": "வாழ்க்கை ஒரு பயணம்.",
+      "phrase": "அகத்தின் அழகு முகத்தில் தெரியும்",
+      "phrasePronunciation": "akaththin azhaku mukaththil theriyum",
+      "phraseMeaning": "ஒருவரின் உள் குணம் முகத்தில் வெளிப்படும்",
+      "phraseExample": "அவர் எப்போதும் புன்னகையுடன் இருப்பார் — அகத்தின் அழகு முகத்தில் தெரியும்.",
+      "meaningInEnglish": "Life",
+      "phraseMeaningInEnglish": "Inner beauty reflects on the face"
     }
   },
   {
@@ -4893,6 +6105,18 @@ export const dailyContent = [
       "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా.",
       "meaningInEnglish": "Unique",
       "phraseMeaningInEnglish": "When hungry, anything tastes good"
+    },
+    "tamil": {
+      "word": "கடமை",
+      "pronunciation": "katamai",
+      "meaning": "செய்ய வேண்டிய பொறுப்பு",
+      "example": "கடமையை செவ்வனே செய்.",
+      "phrase": "ஆறிலும் சாவு நூறிலும் சாவு",
+      "phrasePronunciation": "aarilum chaavu noorilum chaavu",
+      "phraseMeaning": "இறப்பு எப்போது வேண்டுமானாலும் வரலாம்",
+      "phraseExample": "பயப்படாதே, ஆறிலும் சாவு நூறிலும் சாவு என்பார்கள்.",
+      "meaningInEnglish": "Duty",
+      "phraseMeaningInEnglish": "Death can come at any age"
     }
   },
   {
@@ -4941,6 +6165,18 @@ export const dailyContent = [
       "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు.",
       "meaningInEnglish": "Refinement",
       "phraseMeaningInEnglish": "New places bring new challenges"
+    },
+    "tamil": {
+      "word": "உரிமை",
+      "pronunciation": "urimai",
+      "meaning": "ஒருவருக்கு இயல்பாக உள்ள அதிகாரம்",
+      "example": "ஒவ்வொருவருக்கும் கல்வி உரிமை உண்டு.",
+      "phrase": "ஊசியைக் கொடுத்து வாளை வாங்கு",
+      "phrasePronunciation": "oochiyaik kotuththu vaalai vaangku",
+      "phraseMeaning": "சிறியது கொடுத்து பெரியது பெறு",
+      "phraseExample": "அவன் சிறு உதவி செய்து பெரிய பலன் பெற்றான் — ஊசியைக் கொடுத்து வாளை வாங்கினான்.",
+      "meaningInEnglish": "Right",
+      "phraseMeaningInEnglish": "Give a needle, get a sword"
     }
   },
   {
@@ -4989,6 +6225,18 @@ export const dailyContent = [
       "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా.",
       "meaningInEnglish": "Imagination",
       "phraseMeaningInEnglish": "Every mother loves her own child most"
+    },
+    "tamil": {
+      "word": "தியாகம்",
+      "pronunciation": "thiyaakam",
+      "meaning": "தன்னலம் கருதாமல் விட்டுக்கொடுத்தல்",
+      "example": "தியாகம் செய்தவர்களால் நாடு உயர்ந்தது.",
+      "phrase": "ஆழம் தெரியாமல் காலை விடாதே",
+      "phrasePronunciation": "aazham theriyaamal kaalai vitaathe",
+      "phraseMeaning": "எதையும் புரிந்துகொள்ளாமல் செய்யாதே",
+      "phraseExample": "புதிய வணிகத்தில் ஆழம் தெரியாமல் காலை விடாதே.",
+      "meaningInEnglish": "Sacrifice",
+      "phraseMeaningInEnglish": "Don't step in without knowing the depth"
     }
   },
   {
@@ -5037,6 +6285,18 @@ export const dailyContent = [
       "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు.",
       "meaningInEnglish": "Interest",
       "phraseMeaningInEnglish": "Adding insult to injury"
+    },
+    "tamil": {
+      "word": "மன்னிப்பு",
+      "pronunciation": "mannippu",
+      "meaning": "பிழையை மன்னித்தல்",
+      "example": "மன்னிப்பு கோருவது வலிமையின் அடையாளம்.",
+      "phrase": "கல்லாதது உலகளவு",
+      "phrasePronunciation": "kallaathathu ulakalavu",
+      "phraseMeaning": "கற்றது மிகக் குறைவு",
+      "phraseExample": "எவ்வளவு படித்தாலும் கல்லாதது உலகளவு.",
+      "meaningInEnglish": "Forgiveness",
+      "phraseMeaningInEnglish": "What you haven't learned is as vast as the world"
     }
   },
   {
@@ -5085,6 +6345,18 @@ export const dailyContent = [
       "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం.",
       "meaningInEnglish": "Penance",
       "phraseMeaningInEnglish": "Leaving what you have for something uncertain"
+    },
+    "tamil": {
+      "word": "ஒற்றுமை",
+      "pronunciation": "orrumai",
+      "meaning": "ஒன்றாக இணைந்திருத்தல்",
+      "example": "ஒற்றுமையில் பலம் உண்டு.",
+      "phrase": "விளையும் பயிர் முளையிலே தெரியும்",
+      "phrasePronunciation": "vilaiyum payir mulaiyile theriyum",
+      "phraseMeaning": "திறமை சிறு வயதிலேயே வெளிப்படும்",
+      "phraseExample": "அந்தக் குழந்தை நன்றாக படிக்கிறது — விளையும் பயிர் முளையிலே தெரியும்.",
+      "meaningInEnglish": "Unity",
+      "phraseMeaningInEnglish": "A promising crop shows in the sprout"
     }
   },
   {
@@ -5133,6 +6405,18 @@ export const dailyContent = [
       "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు.",
       "meaningInEnglish": "Anguish",
       "phraseMeaningInEnglish": "Routine for the experienced"
+    },
+    "tamil": {
+      "word": "பண்பாடு",
+      "pronunciation": "panpaatu",
+      "meaning": "சமூகத்தின் வாழ்வியல் முறை",
+      "example": "தமிழ் பண்பாடு பழமையானது.",
+      "phrase": "ஒரு கை தட்டினால் ஓசை வராது",
+      "phrasePronunciation": "oru kai thattinaal ochai varaathu",
+      "phraseMeaning": "இருவர் இணைந்தால்தான் செயல் நிறைவேறும்",
+      "phraseExample": "ஒரு கை தட்டினால் ஓசை வராது, எல்லோரும் சேர்ந்து உழைக்க வேண்டும்.",
+      "meaningInEnglish": "Culture",
+      "phraseMeaningInEnglish": "One hand clapping makes no sound"
     }
   },
   {
@@ -5181,6 +6465,18 @@ export const dailyContent = [
       "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది.",
       "meaningInEnglish": "Goal",
       "phraseMeaningInEnglish": "When one is careless, another profits"
+    },
+    "tamil": {
+      "word": "வெற்றி",
+      "pronunciation": "verri",
+      "meaning": "சாதனை அடையும் நிலை",
+      "example": "கடின உழைப்பின் பலன் வெற்றி.",
+      "phrase": "பசி வந்திடப் பத்தும் பறந்திடும்",
+      "phrasePronunciation": "pachi vanthitap paththum paranthitum",
+      "phraseMeaning": "பசி வந்தால் எல்லா நெறிகளும் போய்விடும்",
+      "phraseExample": "ஏழைகள் தவறு செய்கிறார்கள் என்று சொல்லாதே — பசி வந்திடப் பத்தும் பறந்திடும்.",
+      "meaningInEnglish": "Victory",
+      "phraseMeaningInEnglish": "When hunger comes, all virtues fly away"
     }
   },
   {
@@ -5229,6 +6525,18 @@ export const dailyContent = [
       "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు.",
       "meaningInEnglish": "Ideal",
       "phraseMeaningInEnglish": "Don't give pearls to those who can't value them"
+    },
+    "tamil": {
+      "word": "தோல்வி",
+      "pronunciation": "tholvi",
+      "meaning": "எதிர்பார்த்தது கிடைக்காத நிலை",
+      "example": "தோல்வி என்பது வெற்றிக்கான படிக்கல்.",
+      "phrase": "கற்றது கைமண் அளவு",
+      "phrasePronunciation": "karrathu kaiman alavu",
+      "phraseMeaning": "கற்ற அறிவு மிகக் குறைவு",
+      "phraseExample": "நான் டாக்டர் ஆனாலும் கற்றது கைமண் அளவுதான்.",
+      "meaningInEnglish": "Defeat",
+      "phraseMeaningInEnglish": "What you've learned is just a handful"
     }
   },
   {
@@ -5277,6 +6585,18 @@ export const dailyContent = [
       "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి.",
       "meaningInEnglish": "Fundamental",
       "phraseMeaningInEnglish": "Bad company corrupts good character"
+    },
+    "tamil": {
+      "word": "முயற்சி",
+      "pronunciation": "muyarchi",
+      "meaning": "ஏதாவது செய்ய எடுக்கும் முனைப்பு",
+      "example": "முயற்சி செய்தால் வெற்றி நிச்சயம்.",
+      "phrase": "முயற்சி திருவினையாக்கும்",
+      "phrasePronunciation": "muyarchi thiruvinaiyaakkum",
+      "phraseMeaning": "முயற்சி வெற்றியைத் தரும்",
+      "phraseExample": "தொடர்ந்து முயற்சி செய் — முயற்சி திருவினையாக்கும்.",
+      "meaningInEnglish": "Effort",
+      "phraseMeaningInEnglish": "Effort leads to success"
     }
   },
   {
@@ -5325,6 +6645,18 @@ export const dailyContent = [
       "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది.",
       "meaningInEnglish": "Pledge",
       "phraseMeaningInEnglish": "Helping others brings inner peace"
+    },
+    "tamil": {
+      "word": "உழைப்பு",
+      "pronunciation": "uzhaippu",
+      "meaning": "கடினமாக வேலை செய்தல்",
+      "example": "உழைப்பின்றி ஊதியம் இல்லை.",
+      "phrase": "அறிவே ஆற்றல்",
+      "phrasePronunciation": "arive aarral",
+      "phraseMeaning": "அறிவுதான் உண்மையான சக்தி",
+      "phraseExample": "படி, அறிவே ஆற்றல் என்பதை மறவாதே.",
+      "meaningInEnglish": "Hard work",
+      "phraseMeaningInEnglish": "Knowledge is power"
     }
   },
   {
@@ -5373,6 +6705,18 @@ export const dailyContent = [
       "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి.",
       "meaningInEnglish": "Conversation",
       "phraseMeaningInEnglish": "Nothing is permanent"
+    },
+    "tamil": {
+      "word": "வீரம்",
+      "pronunciation": "veeram",
+      "meaning": "அஞ்சாமை மற்றும் துணிவு",
+      "example": "வீரம் என்பது அச்சத்தை வெல்வது.",
+      "phrase": "பொறுமை கடலினும் பெரிது",
+      "phrasePronunciation": "porumai katalinum perithu",
+      "phraseMeaning": "பொறுமை மிகவும் முக்கியம்",
+      "phraseExample": "கோபப்படாதே, பொறுமை கடலினும் பெரிது.",
+      "meaningInEnglish": "Valor",
+      "phraseMeaningInEnglish": "Patience is greater than the ocean"
     }
   },
   {
@@ -5421,6 +6765,18 @@ export const dailyContent = [
       "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు.",
       "meaningInEnglish": "Transparency",
       "phraseMeaningInEnglish": "Listener needs wisdom, speaker needs patience"
+    },
+    "tamil": {
+      "word": "நன்றி",
+      "pronunciation": "nanri",
+      "meaning": "உதவிக்கு கடமைப்பட்ட உணர்வு",
+      "example": "நன்றி மறப்பது நன்றன்று.",
+      "phrase": "நேரம் காத்திருக்காது",
+      "phrasePronunciation": "neram kaaththirukkaathu",
+      "phraseMeaning": "நேரத்தை வீணாக்கக்கூடாது",
+      "phraseExample": "படிக்க ஆரம்பி, நேரம் காத்திருக்காது.",
+      "meaningInEnglish": "Gratitude",
+      "phraseMeaningInEnglish": "Time waits for no one"
     }
   },
   {
@@ -5469,6 +6825,18 @@ export const dailyContent = [
       "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు.",
       "meaningInEnglish": "Excitement",
       "phraseMeaningInEnglish": "To appear very grand and impressive"
+    },
+    "tamil": {
+      "word": "கருணை",
+      "pronunciation": "karunai",
+      "meaning": "பிறர் மீது பரிவு காட்டுதல்",
+      "example": "கருணை இல்லாத மனிதன் கல் போன்றவன்.",
+      "phrase": "ஒற்றுமையில் பலம்",
+      "phrasePronunciation": "orrumaiyil palam",
+      "phraseMeaning": "ஒன்றாக இருந்தால் வலிமை உண்டு",
+      "phraseExample": "குடும்பம் ஒன்றாக இருக்க வேண்டும் — ஒற்றுமையில் பலம்.",
+      "meaningInEnglish": "Mercy",
+      "phraseMeaningInEnglish": "Unity is strength"
     }
   },
   {
@@ -5517,6 +6885,18 @@ export const dailyContent = [
       "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది.",
       "meaningInEnglish": "Solution",
       "phraseMeaningInEnglish": "Hard work yields suitable rewards"
+    },
+    "tamil": {
+      "word": "தன்னம்பிக்கை",
+      "pronunciation": "thannampikkai",
+      "meaning": "தன் மீது நம்பிக்கை கொள்ளுதல்",
+      "example": "தன்னம்பிக்கை வெற்றியின் முதல் படி.",
+      "phrase": "ஆபத்துக்கு உதவுபவனே நண்பன்",
+      "phrasePronunciation": "aapaththukku uthavupavane nanpan",
+      "phraseMeaning": "உண்மையான நண்பன் கஷ்ட நேரத்தில் உதவுவான்",
+      "phraseExample": "எல்லாரும் ஓடிவிட்டார்கள் அவன் மட்டும் நின்றான் — ஆபத்துக்கு உதவுபவனே நண்பன்.",
+      "meaningInEnglish": "Self-confidence",
+      "phraseMeaningInEnglish": "A friend in need is a friend indeed"
     }
   },
   {
@@ -5565,6 +6945,18 @@ export const dailyContent = [
       "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు.",
       "meaningInEnglish": "Bond",
       "phraseMeaningInEnglish": "Sour grapes; dismissing what you can't get"
+    },
+    "tamil": {
+      "word": "கற்பனை",
+      "pronunciation": "karpanai",
+      "meaning": "மனதில் உருவாக்கும் புதிய சிந்தனை",
+      "example": "கற்பனை இல்லாமல் புதுமை இல்லை.",
+      "phrase": "காற்றுள்ள போதே தூற்றிக்கொள்",
+      "phrasePronunciation": "kaarrulla pothe thoorrikkol",
+      "phraseMeaning": "வாய்ப்பு இருக்கும்போதே பயன்படுத்திக்கொள்",
+      "phraseExample": "இளமையில் படி — காற்றுள்ள போதே தூற்றிக்கொள்.",
+      "meaningInEnglish": "Imagination",
+      "phraseMeaningInEnglish": "Make hay while the sun shines"
     }
   },
   {
@@ -5613,6 +7005,18 @@ export const dailyContent = [
       "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి.",
       "meaningInEnglish": "Progress",
       "phraseMeaningInEnglish": "Actions don't match words; hypocrisy"
+    },
+    "tamil": {
+      "word": "தாய்",
+      "pronunciation": "thaay",
+      "meaning": "பெற்றெடுத்த பெண்",
+      "example": "தாயின் அரவணைப்பு குழந்தைக்கு தேவை.",
+      "phrase": "நாய் விற்ற காசு குரைக்காது",
+      "phrasePronunciation": "naay virra kaachu kuraikkaathu",
+      "phraseMeaning": "தவறான வழியில் சம்பாதித்தது நிலைக்காது",
+      "phraseExample": "ஏமாற்றி சம்பாதித்தால் என்ன பயன் — நாய் விற்ற காசு குரைக்காது.",
+      "meaningInEnglish": "Mother",
+      "phraseMeaningInEnglish": "Ill-gotten gains won't last"
     }
   },
   {
@@ -5661,6 +7065,18 @@ export const dailyContent = [
       "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు.",
       "meaningInEnglish": "Natural",
       "phraseMeaningInEnglish": "One without ability can't do big things"
+    },
+    "tamil": {
+      "word": "தந்தை",
+      "pronunciation": "thanthai",
+      "meaning": "பெற்றெடுத்த ஆண்",
+      "example": "தந்தையின் ஆலோசனை மதிப்புமிக்கது.",
+      "phrase": "நெருப்பு இல்லாமல் புகை வராது",
+      "phrasePronunciation": "neruppu illaamal pukai varaathu",
+      "phraseMeaning": "காரணம் இல்லாமல் விளைவு இல்லை",
+      "phraseExample": "வதந்தி பரவுகிறது என்றால் ஏதோ நடந்திருக்கும் — நெருப்பு இல்லாமல் புகை வராது.",
+      "meaningInEnglish": "Father",
+      "phraseMeaningInEnglish": "No smoke without fire"
     }
   },
   {
@@ -5709,6 +7125,18 @@ export const dailyContent = [
       "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా.",
       "meaningInEnglish": "Thought",
       "phraseMeaningInEnglish": "Results come when you get to work"
+    },
+    "tamil": {
+      "word": "நண்பன்",
+      "pronunciation": "nanpan",
+      "meaning": "நெருக்கமான தோழன்",
+      "example": "நல்ல நண்பன் கிடைப்பது அரிய பேறு.",
+      "phrase": "யானைக்கும் அடி சறுக்கும்",
+      "phrasePronunciation": "yaanaikkum ati charukkum",
+      "phraseMeaning": "பெரியவர்களும் தவறு செய்வார்கள்",
+      "phraseExample": "கவலைப்படாதே, யானைக்கும் அடி சறுக்கும்.",
+      "meaningInEnglish": "Friend",
+      "phraseMeaningInEnglish": "Even an elephant can slip"
     }
   },
   {
@@ -5757,6 +7185,18 @@ export const dailyContent = [
       "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు.",
       "meaningInEnglish": "Modesty",
       "phraseMeaningInEnglish": "Nothing works on time for the poor"
+    },
+    "tamil": {
+      "word": "ஆசிரியர்",
+      "pronunciation": "aachiriyar",
+      "meaning": "கற்பிக்கும் தொழிலாளர்",
+      "example": "ஆசிரியர் சமூகத்தின் ஒளிவிளக்கு.",
+      "phrase": "தன் வினை தன்னைச் சுடும்",
+      "phrasePronunciation": "than vinai thannaich chutum",
+      "phraseMeaning": "ஒருவரின் தீய செயல்கள் அவரையே பாதிக்கும்",
+      "phraseExample": "பொய் சொல்லி மாட்டிக்கொண்டான் — தன் வினை தன்னைச் சுடும்.",
+      "meaningInEnglish": "Teacher",
+      "phraseMeaningInEnglish": "One's own deeds will burn oneself"
     }
   },
   {
@@ -5805,6 +7245,18 @@ export const dailyContent = [
       "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది.",
       "meaningInEnglish": "Invitation",
       "phraseMeaningInEnglish": "Good intentions find a way"
+    },
+    "tamil": {
+      "word": "மாணவன்",
+      "pronunciation": "maanavan",
+      "meaning": "கல்வி கற்கும் நபர்",
+      "example": "மாணவன் ஒழுக்கமாக இருக்க வேண்டும்.",
+      "phrase": "ஆத்திரக்காரனுக்கு புத்தி மட்டு",
+      "phrasePronunciation": "aaththirakkaaranukku puththi mattu",
+      "phraseMeaning": "கோபமான நபர் சரியாக சிந்திக்க மாட்டார்",
+      "phraseExample": "அவசரப்படாதே — ஆத்திரக்காரனுக்கு புத்தி மட்டு.",
+      "meaningInEnglish": "Student",
+      "phraseMeaningInEnglish": "An angry person has limited wisdom"
     }
   },
   {
@@ -5853,6 +7305,18 @@ export const dailyContent = [
       "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే.",
       "meaningInEnglish": "Good-hearted",
       "phraseMeaningInEnglish": "Faith makes anything possible"
+    },
+    "tamil": {
+      "word": "மருத்துவர்",
+      "pronunciation": "maruththuvar",
+      "meaning": "நோய் தீர்க்கும் நிபுணர்",
+      "example": "மருத்துவர் நோயாளிகளுக்கு சிகிச்சை அளித்தார்.",
+      "phrase": "ஏட்டுச் சுரைக்காய் கறிக்கு உதவாது",
+      "phrasePronunciation": "ettuch churaikkaay karikku uthavaathu",
+      "phraseMeaning": "புத்தக அறிவு மட்டும் போதாது",
+      "phraseExample": "நடைமுறை அனுபவம் வேண்டும் — ஏட்டுச் சுரைக்காய் கறிக்கு உதவாது.",
+      "meaningInEnglish": "Doctor",
+      "phraseMeaningInEnglish": "Book knowledge alone won't do"
     }
   },
   {
@@ -5901,6 +7365,18 @@ export const dailyContent = [
       "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది.",
       "meaningInEnglish": "Satisfaction",
       "phraseMeaningInEnglish": "Every great thing starts small"
+    },
+    "tamil": {
+      "word": "விவசாயி",
+      "pronunciation": "vivachaayi",
+      "meaning": "நிலத்தில் பயிர் செய்பவர்",
+      "example": "விவசாயி நாட்டின் முதுகெலும்பு.",
+      "phrase": "ஒரு பானை சோற்றுக்கு ஒரு சோறு பதம்",
+      "phrasePronunciation": "oru paanai chorrukku oru choru patham",
+      "phraseMeaning": "சிறிய மாதிரியிலிருந்து முழுதையும் அறியலாம்",
+      "phraseExample": "ஒரு பானை சோற்றுக்கு ஒரு சோறு பதம் — ஒரு பகுதியை பார்த்தே தெரிந்துகொள்ளலாம்.",
+      "meaningInEnglish": "Farmer",
+      "phraseMeaningInEnglish": "One grain tells if the pot is cooked"
     }
   },
   {
@@ -5949,6 +7425,18 @@ export const dailyContent = [
       "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు.",
       "meaningInEnglish": "Danger",
       "phraseMeaningInEnglish": "Laughter is the best medicine"
+    },
+    "tamil": {
+      "word": "தலைவர்",
+      "pronunciation": "thalaivar",
+      "meaning": "வழிநடத்துபவர்",
+      "example": "நல்ல தலைவர் மக்களுக்கு முன்மாதிரியாக இருப்பார்.",
+      "phrase": "யாதும் ஊரே யாவரும் கேளிர்",
+      "phrasePronunciation": "yaathum oore yaavarum kelir",
+      "phraseMeaning": "எல்லா ஊரும் நம் ஊர் எல்லோரும் நம் உறவு",
+      "phraseExample": "பாகுபாடு வேண்டாம் — யாதும் ஊரே யாவரும் கேளிர்.",
+      "meaningInEnglish": "Leader",
+      "phraseMeaningInEnglish": "Every place is home, everyone is kin"
     }
   },
   {
@@ -5997,6 +7485,18 @@ export const dailyContent = [
       "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు.",
       "meaningInEnglish": "Skill",
       "phraseMeaningInEnglish": "Trust, once lost, is hard to regain"
+    },
+    "tamil": {
+      "word": "வீரன்",
+      "pronunciation": "veeran",
+      "meaning": "துணிச்சலான போர் வீரர்",
+      "example": "வீரன் எதிரியை எதிர்கொண்டான்.",
+      "phrase": "கற்க கசடறக் கற்பவை",
+      "phrasePronunciation": "karka kachatarak karpavai",
+      "phraseMeaning": "கற்க வேண்டியதை குறைவின்றி கற்க வேண்டும்",
+      "phraseExample": "ஒழுங்காக படி — கற்க கசடறக் கற்பவை.",
+      "meaningInEnglish": "Warrior",
+      "phraseMeaningInEnglish": "Learn thoroughly what is worth learning"
     }
   },
   {
@@ -6045,6 +7545,18 @@ export const dailyContent = [
       "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు.",
       "meaningInEnglish": "Strategy",
       "phraseMeaningInEnglish": "In the land of the blind, the one-eyed is king"
+    },
+    "tamil": {
+      "word": "கலைஞர்",
+      "pronunciation": "kalainyar",
+      "meaning": "கலை படைக்கும் நபர்",
+      "example": "கலைஞரின் ஓவியம் கண்காட்சியில் இடம்பெற்றது.",
+      "phrase": "உழைப்பே உயர்வு",
+      "phrasePronunciation": "uzhaippe uyarvu",
+      "phraseMeaning": "கடின உழைப்பு உயர்வுக்கு வழிவகுக்கும்",
+      "phraseExample": "சோம்பேறித்தனம் விடு — உழைப்பே உயர்வு.",
+      "meaningInEnglish": "Artist",
+      "phraseMeaningInEnglish": "Hard work is the path to elevation"
     }
   },
   {
@@ -6093,6 +7605,18 @@ export const dailyContent = [
       "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది.",
       "meaningInEnglish": "Self-respect",
       "phraseMeaningInEnglish": "Strong roots help you rise again"
+    },
+    "tamil": {
+      "word": "எழுத்தாளர்",
+      "pronunciation": "ezhuththaalar",
+      "meaning": "நூல்களை எழுதுபவர்",
+      "example": "எழுத்தாளரின் கதை மிகவும் சுவாரஸ்யமாக இருந்தது.",
+      "phrase": "கடமையைச் செய் பலனை எதிர்பாராதே",
+      "phrasePronunciation": "katamaiyaich chey palanai ethirpaaraathe",
+      "phraseMeaning": "கடமையை செய்துவிட்டு பலனுக்காக ஏங்காதே",
+      "phraseExample": "நல்லது செய் — கடமையைச் செய் பலனை எதிர்பாராதே.",
+      "meaningInEnglish": "Writer",
+      "phraseMeaningInEnglish": "Do your duty without expecting rewards"
     }
   },
   {
@@ -6141,6 +7665,18 @@ export const dailyContent = [
       "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే.",
       "meaningInEnglish": "Morning",
       "phraseMeaningInEnglish": "A leopard can't change its spots"
+    },
+    "tamil": {
+      "word": "விஞ்ஞானி",
+      "pronunciation": "vinynyaani",
+      "meaning": "அறிவியல் ஆராய்ச்சி செய்பவர்",
+      "example": "விஞ்ஞானி புதிய கண்டுபிடிப்பை வெளியிட்டார்.",
+      "phrase": "அன்பே சிவம்",
+      "phrasePronunciation": "anpe chivam",
+      "phraseMeaning": "அன்புதான் கடவுள்",
+      "phraseExample": "எல்லோரிடமும் அன்பாக இரு — அன்பே சிவம்.",
+      "meaningInEnglish": "Scientist",
+      "phraseMeaningInEnglish": "Love is God"
     }
   },
   {
@@ -6189,6 +7725,18 @@ export const dailyContent = [
       "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు.",
       "meaningInEnglish": "Contentment",
       "phraseMeaningInEnglish": "Don't bite the hand that feeds you"
+    },
+    "tamil": {
+      "word": "வீடு",
+      "pronunciation": "veetu",
+      "meaning": "மக்கள் வசிக்கும் கட்டடம்",
+      "example": "எங்கள் வீடு மலையடிவாரத்தில் உள்ளது.",
+      "phrase": "பழக்கம் இரண்டாவது இயற்கை",
+      "phrasePronunciation": "pazhakkam irantaavathu iyarkai",
+      "phraseMeaning": "தொடர்ந்து செய்வது இயல்பாக மாறும்",
+      "phraseExample": "தினமும் படிப்பது கடினம் ஆனால் பழக்கம் இரண்டாவது இயற்கை.",
+      "meaningInEnglish": "House",
+      "phraseMeaningInEnglish": "Habit is second nature"
     }
   },
   {
@@ -6237,6 +7785,18 @@ export const dailyContent = [
       "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు.",
       "meaningInEnglish": "Spotless",
       "phraseMeaningInEnglish": "Distant hills look green"
+    },
+    "tamil": {
+      "word": "நூல்",
+      "pronunciation": "nool",
+      "meaning": "அறிவை பகிரும் புத்தகம்",
+      "example": "நல்ல நூல் நல்ல நண்பன்.",
+      "phrase": "வெல்லுவது விவேகம்",
+      "phrasePronunciation": "velluvathu vivekam",
+      "phraseMeaning": "அறிவுதான் வெற்றிக்கு வழி",
+      "phraseExample": "பலம் அல்ல அறிவு முக்கியம் — வெல்லுவது விவேகம்.",
+      "meaningInEnglish": "Book",
+      "phraseMeaningInEnglish": "Wisdom wins"
     }
   },
   {
@@ -6285,6 +7845,18 @@ export const dailyContent = [
       "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది.",
       "meaningInEnglish": "Practice",
       "phraseMeaningInEnglish": "Stand firm even in adversity"
+    },
+    "tamil": {
+      "word": "உணவு",
+      "pronunciation": "unavu",
+      "meaning": "உடலுக்கு ஆற்றல் தரும் பொருள்",
+      "example": "சத்தான உணவு ஆரோக்கியத்திற்கு அவசியம்.",
+      "phrase": "தீயினால் சுட்டபுண் உள்ளாறும்",
+      "phrasePronunciation": "theeyinaal chuttapun ullaarum",
+      "phraseMeaning": "நெருப்பு காயம் ஆறும் ஆனால் சொல் காயம் ஆறாது",
+      "phraseExample": "கடும் சொல் சொல்லாதே — தீயினால் சுட்டபுண் உள்ளாறும் நாவினால் சுட்டபுண் ஆறாது.",
+      "meaningInEnglish": "Food",
+      "phraseMeaningInEnglish": "A burn heals but harsh words don't"
     }
   },
   {
@@ -6333,6 +7905,18 @@ export const dailyContent = [
       "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు.",
       "meaningInEnglish": "Dignity",
       "phraseMeaningInEnglish": "Failing to plan is planning to fail"
+    },
+    "tamil": {
+      "word": "நீர்",
+      "pronunciation": "neer",
+      "meaning": "உயிர் வாழ்வதற்கு இன்றியமையாத திரவம்",
+      "example": "நீரைச் சிக்கனமாக பயன்படுத்து.",
+      "phrase": "அடி உதவாத இடத்தில் மிதி உதவும்",
+      "phrasePronunciation": "ati uthavaatha itaththil mithi uthavum",
+      "phraseMeaning": "ஒரு முறை பலிக்காவிட்டால் வேறு வழி முயற்சி செய்",
+      "phraseExample": "மாற்று வழியை யோசி — அடி உதவாத இடத்தில் மிதி உதவும்.",
+      "meaningInEnglish": "Water",
+      "phraseMeaningInEnglish": "If one way fails, try another"
     }
   },
   {
@@ -6381,6 +7965,18 @@ export const dailyContent = [
       "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది.",
       "meaningInEnglish": "Worship",
       "phraseMeaningInEnglish": "Everything has its time and use"
+    },
+    "tamil": {
+      "word": "நெருப்பு",
+      "pronunciation": "neruppu",
+      "meaning": "எரிந்து ஒளி வெப்பம் தரும் பொருள்",
+      "example": "நெருப்பு பயன்படும் அதே நேரம் ஆபத்தானது.",
+      "phrase": "குரங்கு கையில் பூமாலை",
+      "phrasePronunciation": "kurangku kaiyil poomaalai",
+      "phraseMeaning": "தகுதி இல்லாதவனிடம் சிறந்த பொருள்",
+      "phraseExample": "அவனிடம் கொடுத்தால் வீணாகும் — குரங்கு கையில் பூமாலை.",
+      "meaningInEnglish": "Fire",
+      "phraseMeaningInEnglish": "A garland in a monkey's hand"
     }
   },
   {
@@ -6429,6 +8025,18 @@ export const dailyContent = [
       "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు.",
       "meaningInEnglish": "Altruism",
       "phraseMeaningInEnglish": "Brain over brawn"
+    },
+    "tamil": {
+      "word": "ஒளி",
+      "pronunciation": "oli",
+      "meaning": "இருளை நீக்கும் சக்தி",
+      "example": "கல்வி என்ற ஒளி வாழ்வை பிரகாசிக்கும்.",
+      "phrase": "நுணலும் தன் வாயால் கெடும்",
+      "phrasePronunciation": "nunalum than vaayaal ketum",
+      "phraseMeaning": "ஒருவர் தன் பேச்சால் கெடுவார்",
+      "phraseExample": "அதிகமாக பேசாதே — நுணலும் தன் வாயால் கெடும்.",
+      "meaningInEnglish": "Light",
+      "phraseMeaningInEnglish": "The frog perishes by its own mouth"
     }
   },
   {
@@ -6477,6 +8085,18 @@ export const dailyContent = [
       "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట.",
       "meaningInEnglish": "Review",
       "phraseMeaningInEnglish": "Elders' advice is always valuable"
+    },
+    "tamil": {
+      "word": "இருள்",
+      "pronunciation": "irul",
+      "meaning": "ஒளி இல்லாத நிலை",
+      "example": "இருள் என்றும் நிலைக்காது.",
+      "phrase": "மாற்றான் தோட்டத்து மல்லிகையும் மணக்கும்",
+      "phrasePronunciation": "maarraan thottaththu mallikaiyum manakkum",
+      "phraseMeaning": "பிறர் பொருளும் நன்றாகத் தெரியும்",
+      "phraseExample": "உன் வேலையை பாரு — மாற்றான் தோட்டத்து மல்லிகையும் மணக்கும்.",
+      "meaningInEnglish": "Darkness",
+      "phraseMeaningInEnglish": "The grass is always greener on the other side"
     }
   },
   {
@@ -6525,6 +8145,18 @@ export const dailyContent = [
       "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం.",
       "meaningInEnglish": "Stability",
       "phraseMeaningInEnglish": "Words carry great power"
+    },
+    "tamil": {
+      "word": "வழி",
+      "pronunciation": "vazhi",
+      "meaning": "செல்வதற்கான பாதை",
+      "example": "நல்ல வழியில் நடக்க வேண்டும்.",
+      "phrase": "ஊர் இரண்டு பட்டால் கூத்தாடிக்கு கொண்டாட்டம்",
+      "phrasePronunciation": "oor irantu pattaal kooththaatikku kontaattam",
+      "phraseMeaning": "மற்றவர் சண்டையால் சிலர் பயன்பெறுவர்",
+      "phraseExample": "இருவர் சண்டையில் மூன்றாமவன் லாபம் — ஊர் இரண்டு பட்டால் கூத்தாடிக்கு கொண்டாட்டம்.",
+      "meaningInEnglish": "Path",
+      "phraseMeaningInEnglish": "When two quarrel, a third benefits"
     }
   },
   {
@@ -6573,6 +8205,18 @@ export const dailyContent = [
       "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది.",
       "meaningInEnglish": "Affection",
       "phraseMeaningInEnglish": "To guard something very preciously"
+    },
+    "tamil": {
+      "word": "மொழி",
+      "pronunciation": "mozhi",
+      "meaning": "கருத்துப் பரிமாற்ற கருவி",
+      "example": "தமிழ் மொழி உலகின் பழமையான மொழிகளில் ஒன்று.",
+      "phrase": "நல்லதை நினை",
+      "phrasePronunciation": "nallathai ninai",
+      "phraseMeaning": "நல்ல எண்ணங்களை வளர்",
+      "phraseExample": "எதிர்மறையாக யோசிக்காதே — நல்லதை நினை.",
+      "meaningInEnglish": "Language",
+      "phraseMeaningInEnglish": "Think positive thoughts"
     }
   },
   {
@@ -6621,6 +8265,18 @@ export const dailyContent = [
       "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు.",
       "meaningInEnglish": "Guilelessness",
       "phraseMeaningInEnglish": "Old habits die hard"
+    },
+    "tamil": {
+      "word": "கோவில்",
+      "pronunciation": "kovil",
+      "meaning": "வழிபாட்டுத்தலம்",
+      "example": "பழைய கோவில் மிகவும் அழகாக இருக்கிறது.",
+      "phrase": "அறம் செய விரும்பு",
+      "phrasePronunciation": "aram cheya virumpu",
+      "phraseMeaning": "நல்லது செய்ய ஆசைப்படு",
+      "phraseExample": "எப்போதும் அறம் செய விரும்பு.",
+      "meaningInEnglish": "Temple",
+      "phraseMeaningInEnglish": "Desire to do good"
     }
   },
   {
@@ -6669,6 +8325,18 @@ export const dailyContent = [
       "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం.",
       "meaningInEnglish": "Refuge",
       "phraseMeaningInEnglish": "Knowing the truth but staying silent"
+    },
+    "tamil": {
+      "word": "பள்ளி",
+      "pronunciation": "palli",
+      "meaning": "கல்வி கற்கும் இடம்",
+      "example": "பள்ளிக்கு நேரத்திற்கு செல்ல வேண்டும்.",
+      "phrase": "கொடுப்பதும் ஒரு சுகம்",
+      "phrasePronunciation": "kotuppathum oru chukam",
+      "phraseMeaning": "பிறருக்கு கொடுப்பதில் மகிழ்ச்சி உண்டு",
+      "phraseExample": "உதவி செய்தால் நமக்கே நல்லது — கொடுப்பதும் ஒரு சுகம்.",
+      "meaningInEnglish": "School",
+      "phraseMeaningInEnglish": "Giving is also a pleasure"
     }
   },
   {
@@ -6717,6 +8385,18 @@ export const dailyContent = [
       "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది.",
       "meaningInEnglish": "Illumination",
       "phraseMeaningInEnglish": "Feeling very pleasant and comfortable"
+    },
+    "tamil": {
+      "word": "யானை",
+      "pronunciation": "yaanai",
+      "meaning": "மிகப்பெரிய நிலவாழ் விலங்கு",
+      "example": "யானை புத்திசாலி விலங்கு.",
+      "phrase": "இன்றைய உழைப்பு நாளைய வெற்றி",
+      "phrasePronunciation": "inraiya uzhaippu naalaiya verri",
+      "phraseMeaning": "இன்று உழைத்தால் நாளை வெற்றி கிடைக்கும்",
+      "phraseExample": "சோம்பல் விடு — இன்றைய உழைப்பு நாளைய வெற்றி.",
+      "meaningInEnglish": "Elephant",
+      "phraseMeaningInEnglish": "Today's hard work is tomorrow's success"
     }
   },
   {
@@ -6765,6 +8445,18 @@ export const dailyContent = [
       "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా.",
       "meaningInEnglish": "Empathy",
       "phraseMeaningInEnglish": "Children follow what elders do"
+    },
+    "tamil": {
+      "word": "சிங்கம்",
+      "pronunciation": "chingkam",
+      "meaning": "காட்டின் அரசன் எனப்படும் விலங்கு",
+      "example": "சிங்கம் வீரத்தின் அடையாளம்.",
+      "phrase": "வாழ்க வளமுடன்",
+      "phrasePronunciation": "vaazhka valamutan",
+      "phraseMeaning": "செழிப்புடன் வாழ வாழ்த்து",
+      "phraseExample": "எல்லோருக்கும் வாழ்க வளமுடன் என்று வாழ்த்துகிறேன்.",
+      "meaningInEnglish": "Lion",
+      "phraseMeaningInEnglish": "Live with prosperity"
     }
   },
   {
@@ -6813,6 +8505,18 @@ export const dailyContent = [
       "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం.",
       "meaningInEnglish": "Dominance",
       "phraseMeaningInEnglish": "Nothing is possible alone; teamwork matters"
+    },
+    "tamil": {
+      "word": "புலி",
+      "pronunciation": "puli",
+      "meaning": "பலமான வேட்டை விலங்கு",
+      "example": "புலி தமிழ்நாட்டின் அடையாளம்.",
+      "phrase": "பொது நலம் போற்று",
+      "phrasePronunciation": "pothu nalam porru",
+      "phraseMeaning": "அனைவரின் நன்மையை நாடு",
+      "phraseExample": "சுயநலம் விடு — பொது நலம் போற்று.",
+      "meaningInEnglish": "Tiger",
+      "phraseMeaningInEnglish": "Promote the common good"
     }
   },
   {
@@ -6861,6 +8565,18 @@ export const dailyContent = [
       "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు.",
       "meaningInEnglish": "Without pride",
       "phraseMeaningInEnglish": "A bad name sticks no matter what"
+    },
+    "tamil": {
+      "word": "பறவை",
+      "pronunciation": "paravai",
+      "meaning": "சிறகுகளுடன் பறக்கும் உயிரினம்",
+      "example": "பறவைகள் சுதந்திரத்தின் குறியீடு.",
+      "phrase": "தூங்கும் சிங்கத்தை எழுப்பாதே",
+      "phrasePronunciation": "thoongkum chingkaththai ezhuppaathe",
+      "phraseMeaning": "அமைதியாக இருப்பவரை தூண்டாதே",
+      "phraseExample": "அவரை கோபப்படுத்தாதே — தூங்கும் சிங்கத்தை எழுப்பாதே.",
+      "meaningInEnglish": "Bird",
+      "phraseMeaningInEnglish": "Don't wake a sleeping lion"
     }
   },
   {
@@ -6909,6 +8625,18 @@ export const dailyContent = [
       "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి.",
       "meaningInEnglish": "Criticism",
       "phraseMeaningInEnglish": "A bird in hand is worth two in the bush"
+    },
+    "tamil": {
+      "word": "மீன்",
+      "pronunciation": "meen",
+      "meaning": "நீரில் வாழும் உயிரினம்",
+      "example": "மீன் புரதச்சத்து நிறைந்த உணவு.",
+      "phrase": "கற்பவை கற்று மற்றவருக்கு அறிவுரை கூறு",
+      "phrasePronunciation": "karpavai karru marravarukku arivurai kooru",
+      "phraseMeaning": "முதலில் கற் பிறகு கற்பி",
+      "phraseExample": "நீ முதலில் படி — கற்பவை கற்று மற்றவருக்கு அறிவுரை கூறு.",
+      "meaningInEnglish": "Fish",
+      "phraseMeaningInEnglish": "Learn first, then advise others"
     }
   },
   {
@@ -6957,6 +8685,18 @@ export const dailyContent = [
       "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు.",
       "meaningInEnglish": "Decoration",
       "phraseMeaningInEnglish": "Even small problems trouble the mighty"
+    },
+    "tamil": {
+      "word": "தங்கம்",
+      "pronunciation": "thangkam",
+      "meaning": "மஞ்சள் நிற விலையுயர்ந்த உலோகம்",
+      "example": "தங்கம் என்றும் மதிப்பு மிக்கது.",
+      "phrase": "பொய் சொல்வான் நெய் சொல்வான்",
+      "phrasePronunciation": "poy cholvaan ney cholvaan",
+      "phraseMeaning": "பொய் சொல்பவன் எதையும் சொல்வான்",
+      "phraseExample": "அவன் சொல்வதை நம்பாதே — பொய் சொல்வான் நெய் சொல்வான்.",
+      "meaningInEnglish": "Gold",
+      "phraseMeaningInEnglish": "A liar will say anything"
     }
   },
   {
@@ -7005,6 +8745,18 @@ export const dailyContent = [
       "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు.",
       "meaningInEnglish": "Diversity",
       "phraseMeaningInEnglish": "You reap what you sow"
+    },
+    "tamil": {
+      "word": "இரும்பு",
+      "pronunciation": "irumpu",
+      "meaning": "கடினமான உலோகம்",
+      "example": "இரும்பு தொழிற்சாலைக்கு அவசியம்.",
+      "phrase": "ஓடும் நீர் தேங்காது",
+      "phrasePronunciation": "otum neer thengkaathu",
+      "phraseMeaning": "செயல்படுபவர்கள் முன்னேறுவார்கள்",
+      "phraseExample": "நகர்ந்துகொண்டே இரு — ஓடும் நீர் தேங்காது.",
+      "meaningInEnglish": "Iron",
+      "phraseMeaningInEnglish": "Running water doesn't stagnate"
     }
   },
   {
@@ -7053,6 +8805,18 @@ export const dailyContent = [
       "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు.",
       "meaningInEnglish": "Welfare",
       "phraseMeaningInEnglish": "Education always proves useful"
+    },
+    "tamil": {
+      "word": "நேரம்",
+      "pronunciation": "neram",
+      "meaning": "கால அளவீடு",
+      "example": "நேரத்தை வீணாக்காதே.",
+      "phrase": "அளவுக்கு மிஞ்சினால் அமிர்தமும் நஞ்சு",
+      "phrasePronunciation": "alavukku minychinaal amirthamum nanychu",
+      "phraseMeaning": "எதுவும் அளவுக்கு மிஞ்சினால் தீமை",
+      "phraseExample": "அதிகமாக சாப்பிடாதே — அளவுக்கு மிஞ்சினால் அமிர்தமும் நஞ்சு.",
+      "meaningInEnglish": "Time",
+      "phraseMeaningInEnglish": "Even nectar becomes poison in excess"
     }
   },
   {
@@ -7101,6 +8865,18 @@ export const dailyContent = [
       "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది.",
       "meaningInEnglish": "Passion",
       "phraseMeaningInEnglish": "With hard work, the impossible becomes possible"
+    },
+    "tamil": {
+      "word": "காலம்",
+      "pronunciation": "kaalam",
+      "meaning": "நிகழ்வுகளின் தொடர்ச்சியான ஓட்டம்",
+      "example": "காலம் யாருக்கும் காத்திருக்காது.",
+      "phrase": "கற்றவன் கண்ணுடையான்",
+      "phrasePronunciation": "karravan kannutaiyaan",
+      "phraseMeaning": "கல்வி கற்றவன் பார்வை உள்ளவன்",
+      "phraseExample": "படித்தால் உலகைப் புரிந்துகொள்ளலாம் — கற்றவன் கண்ணுடையான்.",
+      "meaningInEnglish": "Era",
+      "phraseMeaningInEnglish": "The learned one has eyes"
     }
   },
   {
@@ -7149,6 +8925,18 @@ export const dailyContent = [
       "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు.",
       "meaningInEnglish": "Cleanliness",
       "phraseMeaningInEnglish": "The ordinary is common, the special is rare"
+    },
+    "tamil": {
+      "word": "இடம்",
+      "pronunciation": "itam",
+      "meaning": "ஒன்று அமைந்திருக்கும் பகுதி",
+      "example": "அமைதியான இடத்தில் படிக்க வேண்டும்.",
+      "phrase": "நல்லது செய் நல்லது நடக்கும்",
+      "phrasePronunciation": "nallathu chey nallathu natakkum",
+      "phraseMeaning": "நல்லது செய்தால் நல்லது நடக்கும்",
+      "phraseExample": "எப்போதும் நல்லது செய் — நல்லது செய் நல்லது நடக்கும்.",
+      "meaningInEnglish": "Place",
+      "phraseMeaningInEnglish": "Do good and good will happen"
     }
   },
   {
@@ -7197,6 +8985,18 @@ export const dailyContent = [
       "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా.",
       "meaningInEnglish": "Approval",
       "phraseMeaningInEnglish": "Knowing one thing leads to knowing others"
+    },
+    "tamil": {
+      "word": "வரலாறு",
+      "pronunciation": "varalaaru",
+      "meaning": "கடந்த கால நிகழ்வுகளின் பதிவு",
+      "example": "வரலாறு படிப்பது அவசியம்.",
+      "phrase": "காலம் எல்லாவற்றையும் ஆற்றும்",
+      "phrasePronunciation": "kaalam ellaavarraiyum aarrum",
+      "phraseMeaning": "நேரம் எல்லா வலியையும் குறைக்கும்",
+      "phraseExample": "வருத்தப்படாதே — காலம் எல்லாவற்றையும் ஆற்றும்.",
+      "meaningInEnglish": "History",
+      "phraseMeaningInEnglish": "Time heals everything"
     }
   },
   {
@@ -7245,6 +9045,18 @@ export const dailyContent = [
       "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు.",
       "meaningInEnglish": "Amazement",
       "phraseMeaningInEnglish": "A person's nature doesn't change easily"
+    },
+    "tamil": {
+      "word": "கனவு",
+      "pronunciation": "kanavu",
+      "meaning": "தூக்கத்தில் தோன்றும் காட்சிகள்",
+      "example": "கனவு காணாதவன் வாழ முடியாது.",
+      "phrase": "அகத்தின் அழகு முகத்தில் தெரியும்",
+      "phrasePronunciation": "akaththin azhaku mukaththil theriyum",
+      "phraseMeaning": "ஒருவரின் உள் குணம் முகத்தில் வெளிப்படும்",
+      "phraseExample": "அவர் எப்போதும் புன்னகையுடன் இருப்பார் — அகத்தின் அழகு முகத்தில் தெரியும்.",
+      "meaningInEnglish": "Dream",
+      "phraseMeaningInEnglish": "Inner beauty reflects on the face"
     }
   },
   {
@@ -7293,6 +9105,18 @@ export const dailyContent = [
       "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా.",
       "meaningInEnglish": "Rejection",
       "phraseMeaningInEnglish": "When hungry, anything tastes good"
+    },
+    "tamil": {
+      "word": "நினைவு",
+      "pronunciation": "ninaivu",
+      "meaning": "மனதில் பதிந்த அனுபவம்",
+      "example": "பள்ளிக்கால நினைவுகள் இனிமையானவை.",
+      "phrase": "ஆறிலும் சாவு நூறிலும் சாவு",
+      "phrasePronunciation": "aarilum chaavu noorilum chaavu",
+      "phraseMeaning": "இறப்பு எப்போது வேண்டுமானாலும் வரலாம்",
+      "phraseExample": "பயப்படாதே, ஆறிலும் சாவு நூறிலும் சாவு என்பார்கள்.",
+      "meaningInEnglish": "Memory",
+      "phraseMeaningInEnglish": "Death can come at any age"
     }
   },
   {
@@ -7341,6 +9165,18 @@ export const dailyContent = [
       "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు.",
       "meaningInEnglish": "Governance",
       "phraseMeaningInEnglish": "New places bring new challenges"
+    },
+    "tamil": {
+      "word": "இசை",
+      "pronunciation": "ichai",
+      "meaning": "ஒழுங்கான ஒலி வடிவம்",
+      "example": "இசை உள்ளத்தை தூய்மைப்படுத்தும்.",
+      "phrase": "ஊசியைக் கொடுத்து வாளை வாங்கு",
+      "phrasePronunciation": "oochiyaik kotuththu vaalai vaangku",
+      "phraseMeaning": "சிறியது கொடுத்து பெரியது பெறு",
+      "phraseExample": "அவன் சிறு உதவி செய்து பெரிய பலன் பெற்றான் — ஊசியைக் கொடுத்து வாளை வாங்கினான்.",
+      "meaningInEnglish": "Music",
+      "phraseMeaningInEnglish": "Give a needle, get a sword"
     }
   },
   {
@@ -7389,6 +9225,18 @@ export const dailyContent = [
       "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా.",
       "meaningInEnglish": "Longing",
       "phraseMeaningInEnglish": "Every mother loves her own child most"
+    },
+    "tamil": {
+      "word": "நடனம்",
+      "pronunciation": "natanam",
+      "meaning": "உடல் அசைவுகளால் உணர்வு வெளிப்பாடு",
+      "example": "பரதநாட்டியம் தமிழ்நாட்டின் பெருமை.",
+      "phrase": "ஆழம் தெரியாமல் காலை விடாதே",
+      "phrasePronunciation": "aazham theriyaamal kaalai vitaathe",
+      "phraseMeaning": "எதையும் புரிந்துகொள்ளாமல் செய்யாதே",
+      "phraseExample": "புதிய வணிகத்தில் ஆழம் தெரியாமல் காலை விடாதே.",
+      "meaningInEnglish": "Dance",
+      "phraseMeaningInEnglish": "Don't step in without knowing the depth"
     }
   },
   {
@@ -7437,6 +9285,18 @@ export const dailyContent = [
       "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు.",
       "meaningInEnglish": "Well-being",
       "phraseMeaningInEnglish": "Adding insult to injury"
+    },
+    "tamil": {
+      "word": "ஓவியம்",
+      "pronunciation": "oviyam",
+      "meaning": "வரையப்பட்ட கலைப் படைப்பு",
+      "example": "தஞ்சாவூர் ஓவியம் உலகப்புகழ் பெற்றது.",
+      "phrase": "கல்லாதது உலகளவு",
+      "phrasePronunciation": "kallaathathu ulakalavu",
+      "phraseMeaning": "கற்றது மிகக் குறைவு",
+      "phraseExample": "எவ்வளவு படித்தாலும் கல்லாதது உலகளவு.",
+      "meaningInEnglish": "Painting",
+      "phraseMeaningInEnglish": "What you haven't learned is as vast as the world"
     }
   },
   {
@@ -7485,6 +9345,18 @@ export const dailyContent = [
       "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం.",
       "meaningInEnglish": "Conscience",
       "phraseMeaningInEnglish": "Leaving what you have for something uncertain"
+    },
+    "tamil": {
+      "word": "சட்டம்",
+      "pronunciation": "chattam",
+      "meaning": "அரசு இயற்றும் விதிகள்",
+      "example": "சட்டத்திற்கு முன் அனைவரும் சமம்.",
+      "phrase": "விளையும் பயிர் முளையிலே தெரியும்",
+      "phrasePronunciation": "vilaiyum payir mulaiyile theriyum",
+      "phraseMeaning": "திறமை சிறு வயதிலேயே வெளிப்படும்",
+      "phraseExample": "அந்தக் குழந்தை நன்றாக படிக்கிறது — விளையும் பயிர் முளையிலே தெரியும்.",
+      "meaningInEnglish": "Law",
+      "phraseMeaningInEnglish": "A promising crop shows in the sprout"
     }
   },
   {
@@ -7533,6 +9405,18 @@ export const dailyContent = [
       "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు.",
       "meaningInEnglish": "Method",
       "phraseMeaningInEnglish": "Routine for the experienced"
+    },
+    "tamil": {
+      "word": "போர்",
+      "pronunciation": "por",
+      "meaning": "நாடுகளுக்கிடையேயான ஆயுத மோதல்",
+      "example": "போர் அழிவை மட்டுமே தரும்.",
+      "phrase": "ஒரு கை தட்டினால் ஓசை வராது",
+      "phrasePronunciation": "oru kai thattinaal ochai varaathu",
+      "phraseMeaning": "இருவர் இணைந்தால்தான் செயல் நிறைவேறும்",
+      "phraseExample": "ஒரு கை தட்டினால் ஓசை வராது, எல்லோரும் சேர்ந்து உழைக்க வேண்டும்.",
+      "meaningInEnglish": "War",
+      "phraseMeaningInEnglish": "One hand clapping makes no sound"
     }
   },
   {
@@ -7581,6 +9465,18 @@ export const dailyContent = [
       "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది.",
       "meaningInEnglish": "Construction",
       "phraseMeaningInEnglish": "When one is careless, another profits"
+    },
+    "tamil": {
+      "word": "சமாதானம்",
+      "pronunciation": "chamaathaanam",
+      "meaning": "போர் இல்லாத அமைதி நிலை",
+      "example": "சமாதானமே உலகின் தேவை.",
+      "phrase": "பசி வந்திடப் பத்தும் பறந்திடும்",
+      "phrasePronunciation": "pachi vanthitap paththum paranthitum",
+      "phraseMeaning": "பசி வந்தால் எல்லா நெறிகளும் போய்விடும்",
+      "phraseExample": "ஏழைகள் தவறு செய்கிறார்கள் என்று சொல்லாதே — பசி வந்திடப் பத்தும் பறந்திடும்.",
+      "meaningInEnglish": "Peace",
+      "phraseMeaningInEnglish": "When hunger comes, all virtues fly away"
     }
   },
   {
@@ -7629,6 +9525,18 @@ export const dailyContent = [
       "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు.",
       "meaningInEnglish": "Offspring",
       "phraseMeaningInEnglish": "Don't give pearls to those who can't value them"
+    },
+    "tamil": {
+      "word": "தொன்மை",
+      "pronunciation": "thonmai",
+      "meaning": "மிகப்பழமையான நிலை",
+      "example": "தமிழ் மொழி தொன்மையானது.",
+      "phrase": "கற்றது கைமண் அளவு",
+      "phrasePronunciation": "karrathu kaiman alavu",
+      "phraseMeaning": "கற்ற அறிவு மிகக் குறைவு",
+      "phraseExample": "நான் டாக்டர் ஆனாலும் கற்றது கைமண் அளவுதான்.",
+      "meaningInEnglish": "Antiquity",
+      "phraseMeaningInEnglish": "What you've learned is just a handful"
     }
   },
   {
@@ -7677,6 +9585,18 @@ export const dailyContent = [
       "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి.",
       "meaningInEnglish": "Fame",
       "phraseMeaningInEnglish": "Bad company corrupts good character"
+    },
+    "tamil": {
+      "word": "செல்வம்",
+      "pronunciation": "chelvam",
+      "meaning": "பொருள் வளம்",
+      "example": "நல்ல குணமே உண்மையான செல்வம்.",
+      "phrase": "முயற்சி திருவினையாக்கும்",
+      "phrasePronunciation": "muyarchi thiruvinaiyaakkum",
+      "phraseMeaning": "முயற்சி வெற்றியைத் தரும்",
+      "phraseExample": "தொடர்ந்து முயற்சி செய் — முயற்சி திருவினையாக்கும்.",
+      "meaningInEnglish": "Wealth",
+      "phraseMeaningInEnglish": "Effort leads to success"
     }
   },
   {
@@ -7725,6 +9645,18 @@ export const dailyContent = [
       "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది.",
       "meaningInEnglish": "Calamity",
       "phraseMeaningInEnglish": "Helping others brings inner peace"
+    },
+    "tamil": {
+      "word": "ஏழ்மை",
+      "pronunciation": "ezhmai",
+      "meaning": "பொருள் இல்லாத நிலை",
+      "example": "ஏழ்மை கல்விக்குத் தடையல்ல.",
+      "phrase": "அறிவே ஆற்றல்",
+      "phrasePronunciation": "arive aarral",
+      "phraseMeaning": "அறிவுதான் உண்மையான சக்தி",
+      "phraseExample": "படி, அறிவே ஆற்றல் என்பதை மறவாதே.",
+      "meaningInEnglish": "Poverty",
+      "phraseMeaningInEnglish": "Knowledge is power"
     }
   },
   {
@@ -7773,6 +9705,18 @@ export const dailyContent = [
       "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి.",
       "meaningInEnglish": "Social",
       "phraseMeaningInEnglish": "Nothing is permanent"
+    },
+    "tamil": {
+      "word": "ஆரோக்கியம்",
+      "pronunciation": "aarokkiyam",
+      "meaning": "உடல் நலமான நிலை",
+      "example": "ஆரோக்கியமே பெரிய செல்வம்.",
+      "phrase": "பொறுமை கடலினும் பெரிது",
+      "phrasePronunciation": "porumai katalinum perithu",
+      "phraseMeaning": "பொறுமை மிகவும் முக்கியம்",
+      "phraseExample": "கோபப்படாதே, பொறுமை கடலினும் பெரிது.",
+      "meaningInEnglish": "Health",
+      "phraseMeaningInEnglish": "Patience is greater than the ocean"
     }
   },
   {
@@ -7821,6 +9765,18 @@ export const dailyContent = [
       "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు.",
       "meaningInEnglish": "Value",
       "phraseMeaningInEnglish": "Listener needs wisdom, speaker needs patience"
+    },
+    "tamil": {
+      "word": "நோய்",
+      "pronunciation": "noy",
+      "meaning": "உடல் நலக்குறைவு",
+      "example": "நோய் வருமுன் காப்பது நலம்.",
+      "phrase": "நேரம் காத்திருக்காது",
+      "phrasePronunciation": "neram kaaththirukkaathu",
+      "phraseMeaning": "நேரத்தை வீணாக்கக்கூடாது",
+      "phraseExample": "படிக்க ஆரம்பி, நேரம் காத்திருக்காது.",
+      "meaningInEnglish": "Disease",
+      "phraseMeaningInEnglish": "Time waits for no one"
     }
   },
   {
@@ -7869,6 +9825,18 @@ export const dailyContent = [
       "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు.",
       "meaningInEnglish": "Premises",
       "phraseMeaningInEnglish": "To appear very grand and impressive"
+    },
+    "tamil": {
+      "word": "மருந்து",
+      "pronunciation": "marunthu",
+      "meaning": "நோயைப் போக்கும் பொருள்",
+      "example": "நேரத்திற்கு மருந்து சாப்பிட வேண்டும்.",
+      "phrase": "ஒற்றுமையில் பலம்",
+      "phrasePronunciation": "orrumaiyil palam",
+      "phraseMeaning": "ஒன்றாக இருந்தால் வலிமை உண்டு",
+      "phraseExample": "குடும்பம் ஒன்றாக இருக்க வேண்டும் — ஒற்றுமையில் பலம்.",
+      "meaningInEnglish": "Medicine",
+      "phraseMeaningInEnglish": "Unity is strength"
     }
   },
   {
@@ -7917,6 +9885,18 @@ export const dailyContent = [
       "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది.",
       "meaningInEnglish": "Expertise",
       "phraseMeaningInEnglish": "Hard work yields suitable rewards"
+    },
+    "tamil": {
+      "word": "விளையாட்டு",
+      "pronunciation": "vilaiyaattu",
+      "meaning": "உடல் மற்றும் மன பயிற்சி",
+      "example": "விளையாட்டு உடலையும் மனதையும் வலுப்படுத்தும்.",
+      "phrase": "ஆபத்துக்கு உதவுபவனே நண்பன்",
+      "phrasePronunciation": "aapaththukku uthavupavane nanpan",
+      "phraseMeaning": "உண்மையான நண்பன் கஷ்ட நேரத்தில் உதவுவான்",
+      "phraseExample": "எல்லாரும் ஓடிவிட்டார்கள் அவன் மட்டும் நின்றான் — ஆபத்துக்கு உதவுபவனே நண்பன்.",
+      "meaningInEnglish": "Sport",
+      "phraseMeaningInEnglish": "A friend in need is a friend indeed"
     }
   },
   {
@@ -7965,6 +9945,18 @@ export const dailyContent = [
       "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు.",
       "meaningInEnglish": "Debate",
       "phraseMeaningInEnglish": "Sour grapes; dismissing what you can't get"
+    },
+    "tamil": {
+      "word": "பயணம்",
+      "pronunciation": "payanam",
+      "meaning": "ஓரிடத்திலிருந்து மற்றோர் இடத்திற்கு செல்லுதல்",
+      "example": "பயணம் புதிய அனுபவங்களைத் தரும்.",
+      "phrase": "காற்றுள்ள போதே தூற்றிக்கொள்",
+      "phrasePronunciation": "kaarrulla pothe thoorrikkol",
+      "phraseMeaning": "வாய்ப்பு இருக்கும்போதே பயன்படுத்திக்கொள்",
+      "phraseExample": "இளமையில் படி — காற்றுள்ள போதே தூற்றிக்கொள்.",
+      "meaningInEnglish": "Journey",
+      "phraseMeaningInEnglish": "Make hay while the sun shines"
     }
   },
   {
@@ -8013,6 +10005,18 @@ export const dailyContent = [
       "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి.",
       "meaningInEnglish": "Delight",
       "phraseMeaningInEnglish": "Actions don't match words; hypocrisy"
+    },
+    "tamil": {
+      "word": "கடை",
+      "pronunciation": "katai",
+      "meaning": "பொருட்கள் விற்கும் இடம்",
+      "example": "புதிய கடை திறக்கப்பட்டது.",
+      "phrase": "நாய் விற்ற காசு குரைக்காது",
+      "phrasePronunciation": "naay virra kaachu kuraikkaathu",
+      "phraseMeaning": "தவறான வழியில் சம்பாதித்தது நிலைக்காது",
+      "phraseExample": "ஏமாற்றி சம்பாதித்தால் என்ன பயன் — நாய் விற்ற காசு குரைக்காது.",
+      "meaningInEnglish": "Shop",
+      "phraseMeaningInEnglish": "Ill-gotten gains won't last"
     }
   },
   {
@@ -8061,6 +10065,18 @@ export const dailyContent = [
       "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు.",
       "meaningInEnglish": "Proposal",
       "phraseMeaningInEnglish": "One without ability can't do big things"
+    },
+    "tamil": {
+      "word": "சந்தை",
+      "pronunciation": "chanthai",
+      "meaning": "வணிகம் நடைபெறும் இடம்",
+      "example": "காய்கறி சந்தை நிரம்பி வழிந்தது.",
+      "phrase": "நெருப்பு இல்லாமல் புகை வராது",
+      "phrasePronunciation": "neruppu illaamal pukai varaathu",
+      "phraseMeaning": "காரணம் இல்லாமல் விளைவு இல்லை",
+      "phraseExample": "வதந்தி பரவுகிறது என்றால் ஏதோ நடந்திருக்கும் — நெருப்பு இல்லாமல் புகை வராது.",
+      "meaningInEnglish": "Market",
+      "phraseMeaningInEnglish": "No smoke without fire"
     }
   },
   {
@@ -8109,6 +10125,18 @@ export const dailyContent = [
       "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా.",
       "meaningInEnglish": "Self-sacrifice",
       "phraseMeaningInEnglish": "Results come when you get to work"
+    },
+    "tamil": {
+      "word": "தொழில்",
+      "pronunciation": "thozhil",
+      "meaning": "வருமானம் ஈட்டும் வேலை",
+      "example": "தொழில் உருவாக்குவது வளர்ச்சிக்கு அவசியம்.",
+      "phrase": "யானைக்கும் அடி சறுக்கும்",
+      "phrasePronunciation": "yaanaikkum ati charukkum",
+      "phraseMeaning": "பெரியவர்களும் தவறு செய்வார்கள்",
+      "phraseExample": "கவலைப்படாதே, யானைக்கும் அடி சறுக்கும்.",
+      "meaningInEnglish": "Profession",
+      "phraseMeaningInEnglish": "Even an elephant can slip"
     }
   },
   {
@@ -8157,6 +10185,18 @@ export const dailyContent = [
       "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు.",
       "meaningInEnglish": "Information",
       "phraseMeaningInEnglish": "Nothing works on time for the poor"
+    },
+    "tamil": {
+      "word": "வேலை",
+      "pronunciation": "velai",
+      "meaning": "செய்ய வேண்டிய பணி",
+      "example": "வேலையை ஒழுங்காக செய்.",
+      "phrase": "தன் வினை தன்னைச் சுடும்",
+      "phrasePronunciation": "than vinai thannaich chutum",
+      "phraseMeaning": "ஒருவரின் தீய செயல்கள் அவரையே பாதிக்கும்",
+      "phraseExample": "பொய் சொல்லி மாட்டிக்கொண்டான் — தன் வினை தன்னைச் சுடும்.",
+      "meaningInEnglish": "Work",
+      "phraseMeaningInEnglish": "One's own deeds will burn oneself"
     }
   },
   {
@@ -8205,6 +10245,18 @@ export const dailyContent = [
       "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది.",
       "meaningInEnglish": "Attraction",
       "phraseMeaningInEnglish": "Good intentions find a way"
+    },
+    "tamil": {
+      "word": "ஓய்வு",
+      "pronunciation": "oyvu",
+      "meaning": "வேலையிலிருந்து விடுபடும் நேரம்",
+      "example": "ஓய்வு இல்லாமல் உழைப்பு சாத்தியமில்லை.",
+      "phrase": "ஆத்திரக்காரனுக்கு புத்தி மட்டு",
+      "phrasePronunciation": "aaththirakkaaranukku puththi mattu",
+      "phraseMeaning": "கோபமான நபர் சரியாக சிந்திக்க மாட்டார்",
+      "phraseExample": "அவசரப்படாதே — ஆத்திரக்காரனுக்கு புத்தி மட்டு.",
+      "meaningInEnglish": "Rest",
+      "phraseMeaningInEnglish": "An angry person has limited wisdom"
     }
   },
   {
@@ -8253,6 +10305,18 @@ export const dailyContent = [
       "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే.",
       "meaningInEnglish": "System",
       "phraseMeaningInEnglish": "Faith makes anything possible"
+    },
+    "tamil": {
+      "word": "சக்தி",
+      "pronunciation": "chakthi",
+      "meaning": "செயல் செய்யும் ஆற்றல்",
+      "example": "சூரிய சக்தி புதுப்பிக்கத்தக்கது.",
+      "phrase": "ஏட்டுச் சுரைக்காய் கறிக்கு உதவாது",
+      "phrasePronunciation": "ettuch churaikkaay karikku uthavaathu",
+      "phraseMeaning": "புத்தக அறிவு மட்டும் போதாது",
+      "phraseExample": "நடைமுறை அனுபவம் வேண்டும் — ஏட்டுச் சுரைக்காய் கறிக்கு உதவாது.",
+      "meaningInEnglish": "Energy",
+      "phraseMeaningInEnglish": "Book knowledge alone won't do"
     }
   },
   {
@@ -8301,6 +10365,18 @@ export const dailyContent = [
       "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది.",
       "meaningInEnglish": "Infinity",
       "phraseMeaningInEnglish": "Every great thing starts small"
+    },
+    "tamil": {
+      "word": "தண்ணீர்",
+      "pronunciation": "thanneer",
+      "meaning": "குடிக்கப்படும் நீர்",
+      "example": "தண்ணீர் இல்லாமல் உயிர் வாழ முடியாது.",
+      "phrase": "ஒரு பானை சோற்றுக்கு ஒரு சோறு பதம்",
+      "phrasePronunciation": "oru paanai chorrukku oru choru patham",
+      "phraseMeaning": "சிறிய மாதிரியிலிருந்து முழுதையும் அறியலாம்",
+      "phraseExample": "ஒரு பானை சோற்றுக்கு ஒரு சோறு பதம் — ஒரு பகுதியை பார்த்தே தெரிந்துகொள்ளலாம்.",
+      "meaningInEnglish": "Drinking water",
+      "phraseMeaningInEnglish": "One grain tells if the pot is cooked"
     }
   },
   {
@@ -8349,6 +10425,18 @@ export const dailyContent = [
       "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు.",
       "meaningInEnglish": "Signal",
       "phraseMeaningInEnglish": "Laughter is the best medicine"
+    },
+    "tamil": {
+      "word": "காய்கறி",
+      "pronunciation": "kaaykari",
+      "meaning": "சமையலுக்கு பயன்படும் தாவர உணவு",
+      "example": "புதிய காய்கறி ஆரோக்கியத்திற்கு நல்லது.",
+      "phrase": "யாதும் ஊரே யாவரும் கேளிர்",
+      "phrasePronunciation": "yaathum oore yaavarum kelir",
+      "phraseMeaning": "எல்லா ஊரும் நம் ஊர் எல்லோரும் நம் உறவு",
+      "phraseExample": "பாகுபாடு வேண்டாம் — யாதும் ஊரே யாவரும் கேளிர்.",
+      "meaningInEnglish": "Vegetable",
+      "phraseMeaningInEnglish": "Every place is home, everyone is kin"
     }
   },
   {
@@ -8397,6 +10485,18 @@ export const dailyContent = [
       "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు.",
       "meaningInEnglish": "Custom",
       "phraseMeaningInEnglish": "Trust, once lost, is hard to regain"
+    },
+    "tamil": {
+      "word": "பழம்",
+      "pronunciation": "pazham",
+      "meaning": "மரத்தில் விளையும் இனிப்பான உணவு",
+      "example": "தினமும் ஒரு பழம் சாப்பிடு.",
+      "phrase": "கற்க கசடறக் கற்பவை",
+      "phrasePronunciation": "karka kachatarak karpavai",
+      "phraseMeaning": "கற்க வேண்டியதை குறைவின்றி கற்க வேண்டும்",
+      "phraseExample": "ஒழுங்காக படி — கற்க கசடறக் கற்பவை.",
+      "meaningInEnglish": "Fruit",
+      "phraseMeaningInEnglish": "Learn thoroughly what is worth learning"
     }
   },
   {
@@ -8445,6 +10545,18 @@ export const dailyContent = [
       "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు.",
       "meaningInEnglish": "Journey",
       "phraseMeaningInEnglish": "In the land of the blind, the one-eyed is king"
+    },
+    "tamil": {
+      "word": "விலங்கு",
+      "pronunciation": "vilangku",
+      "meaning": "உயிர் கொண்ட ஜீவராசி",
+      "example": "விலங்குகளை பாதுகாக்க வேண்டும்.",
+      "phrase": "உழைப்பே உயர்வு",
+      "phrasePronunciation": "uzhaippe uyarvu",
+      "phraseMeaning": "கடின உழைப்பு உயர்வுக்கு வழிவகுக்கும்",
+      "phraseExample": "சோம்பேறித்தனம் விடு — உழைப்பே உயர்வு.",
+      "meaningInEnglish": "Animal",
+      "phraseMeaningInEnglish": "Hard work is the path to elevation"
     }
   },
   {
@@ -8493,6 +10605,18 @@ export const dailyContent = [
       "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది.",
       "meaningInEnglish": "Conservation",
       "phraseMeaningInEnglish": "Strong roots help you rise again"
+    },
+    "tamil": {
+      "word": "குழந்தை",
+      "pronunciation": "kuzhanthai",
+      "meaning": "சிறு வயது மனிதர்",
+      "example": "குழந்தையின் புன்னகை இனிமையானது.",
+      "phrase": "கடமையைச் செய் பலனை எதிர்பாராதே",
+      "phrasePronunciation": "katamaiyaich chey palanai ethirpaaraathe",
+      "phraseMeaning": "கடமையை செய்துவிட்டு பலனுக்காக ஏங்காதே",
+      "phraseExample": "நல்லது செய் — கடமையைச் செய் பலனை எதிர்பாராதே.",
+      "meaningInEnglish": "Child",
+      "phraseMeaningInEnglish": "Do your duty without expecting rewards"
     }
   },
   {
@@ -8541,6 +10665,18 @@ export const dailyContent = [
       "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే.",
       "meaningInEnglish": "Trace",
       "phraseMeaningInEnglish": "A leopard can't change its spots"
+    },
+    "tamil": {
+      "word": "பெண்",
+      "pronunciation": "pen",
+      "meaning": "ஆணுக்கு எதிர்பாலினம்",
+      "example": "பெண் கல்வி சமுதாயத்தை மேம்படுத்தும்.",
+      "phrase": "அன்பே சிவம்",
+      "phrasePronunciation": "anpe chivam",
+      "phraseMeaning": "அன்புதான் கடவுள்",
+      "phraseExample": "எல்லோரிடமும் அன்பாக இரு — அன்பே சிவம்.",
+      "meaningInEnglish": "Woman",
+      "phraseMeaningInEnglish": "Love is God"
     }
   },
   {
@@ -8589,6 +10725,18 @@ export const dailyContent = [
       "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు.",
       "meaningInEnglish": "Renunciation",
       "phraseMeaningInEnglish": "Don't bite the hand that feeds you"
+    },
+    "tamil": {
+      "word": "மனிதன்",
+      "pronunciation": "manithan",
+      "meaning": "அறிவாற்றல் கொண்ட உயிரினம்",
+      "example": "மனிதன் சமூக விலங்கு.",
+      "phrase": "பழக்கம் இரண்டாவது இயற்கை",
+      "phrasePronunciation": "pazhakkam irantaavathu iyarkai",
+      "phraseMeaning": "தொடர்ந்து செய்வது இயல்பாக மாறும்",
+      "phraseExample": "தினமும் படிப்பது கடினம் ஆனால் பழக்கம் இரண்டாவது இயற்கை.",
+      "meaningInEnglish": "Human",
+      "phraseMeaningInEnglish": "Habit is second nature"
     }
   },
   {
@@ -8637,6 +10785,18 @@ export const dailyContent = [
       "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు.",
       "meaningInEnglish": "Management",
       "phraseMeaningInEnglish": "Distant hills look green"
+    },
+    "tamil": {
+      "word": "உலகம்",
+      "pronunciation": "ulakam",
+      "meaning": "நாம் வாழும் புவி",
+      "example": "உலகம் அழகானது.",
+      "phrase": "வெல்லுவது விவேகம்",
+      "phrasePronunciation": "velluvathu vivekam",
+      "phraseMeaning": "அறிவுதான் வெற்றிக்கு வழி",
+      "phraseExample": "பலம் அல்ல அறிவு முக்கியம் — வெல்லுவது விவேகம்.",
+      "meaningInEnglish": "World",
+      "phraseMeaningInEnglish": "Wisdom wins"
     }
   },
   {
@@ -8685,6 +10845,18 @@ export const dailyContent = [
       "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది.",
       "meaningInEnglish": "Success",
       "phraseMeaningInEnglish": "Stand firm even in adversity"
+    },
+    "tamil": {
+      "word": "நாடு",
+      "pronunciation": "naatu",
+      "meaning": "எல்லைக்குட்பட்ட நிலப்பரப்பு",
+      "example": "நாட்டுப் பற்று ஒவ்வொருவருக்கும் வேண்டும்.",
+      "phrase": "தீயினால் சுட்டபுண் உள்ளாறும்",
+      "phrasePronunciation": "theeyinaal chuttapun ullaarum",
+      "phraseMeaning": "நெருப்பு காயம் ஆறும் ஆனால் சொல் காயம் ஆறாது",
+      "phraseExample": "கடும் சொல் சொல்லாதே — தீயினால் சுட்டபுண் உள்ளாறும் நாவினால் சுட்டபுண் ஆறாது.",
+      "meaningInEnglish": "Country",
+      "phraseMeaningInEnglish": "A burn heals but harsh words don't"
     }
   },
   {
@@ -8733,6 +10905,18 @@ export const dailyContent = [
       "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు.",
       "meaningInEnglish": "Support",
       "phraseMeaningInEnglish": "Failing to plan is planning to fail"
+    },
+    "tamil": {
+      "word": "நகரம்",
+      "pronunciation": "nakaram",
+      "meaning": "மக்கள் அதிகம் வாழும் பகுதி",
+      "example": "சென்னை பெரிய நகரம்.",
+      "phrase": "அடி உதவாத இடத்தில் மிதி உதவும்",
+      "phrasePronunciation": "ati uthavaatha itaththil mithi uthavum",
+      "phraseMeaning": "ஒரு முறை பலிக்காவிட்டால் வேறு வழி முயற்சி செய்",
+      "phraseExample": "மாற்று வழியை யோசி — அடி உதவாத இடத்தில் மிதி உதவும்.",
+      "meaningInEnglish": "City",
+      "phraseMeaningInEnglish": "If one way fails, try another"
     }
   },
   {
@@ -8781,6 +10965,18 @@ export const dailyContent = [
       "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది.",
       "meaningInEnglish": "Reflection",
       "phraseMeaningInEnglish": "Everything has its time and use"
+    },
+    "tamil": {
+      "word": "கிராமம்",
+      "pronunciation": "kiraamam",
+      "meaning": "சிறிய ஊர்ப்புறப் பகுதி",
+      "example": "கிராமத்தின் காற்று சுத்தமானது.",
+      "phrase": "குரங்கு கையில் பூமாலை",
+      "phrasePronunciation": "kurangku kaiyil poomaalai",
+      "phraseMeaning": "தகுதி இல்லாதவனிடம் சிறந்த பொருள்",
+      "phraseExample": "அவனிடம் கொடுத்தால் வீணாகும் — குரங்கு கையில் பூமாலை.",
+      "meaningInEnglish": "Village",
+      "phraseMeaningInEnglish": "A garland in a monkey's hand"
     }
   },
   {
@@ -8829,6 +11025,18 @@ export const dailyContent = [
       "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు.",
       "meaningInEnglish": "Endorsement",
       "phraseMeaningInEnglish": "Brain over brawn"
+    },
+    "tamil": {
+      "word": "சாலை",
+      "pronunciation": "chaalai",
+      "meaning": "வாகனங்கள் செல்லும் பாதை",
+      "example": "புதிய சாலை அமைக்கப்பட்டது.",
+      "phrase": "நுணலும் தன் வாயால் கெடும்",
+      "phrasePronunciation": "nunalum than vaayaal ketum",
+      "phraseMeaning": "ஒருவர் தன் பேச்சால் கெடுவார்",
+      "phraseExample": "அதிகமாக பேசாதே — நுணலும் தன் வாயால் கெடும்.",
+      "meaningInEnglish": "Road",
+      "phraseMeaningInEnglish": "The frog perishes by its own mouth"
     }
   },
   {
@@ -8877,6 +11085,18 @@ export const dailyContent = [
       "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట.",
       "meaningInEnglish": "Beginning",
       "phraseMeaningInEnglish": "Elders' advice is always valuable"
+    },
+    "tamil": {
+      "word": "பாலம்",
+      "pronunciation": "paalam",
+      "meaning": "நீர்நிலை மீது கட்டப்பட்ட அமைப்பு",
+      "example": "பாலம் இரண்டு கரைகளை இணைக்கிறது.",
+      "phrase": "மாற்றான் தோட்டத்து மல்லிகையும் மணக்கும்",
+      "phrasePronunciation": "maarraan thottaththu mallikaiyum manakkum",
+      "phraseMeaning": "பிறர் பொருளும் நன்றாகத் தெரியும்",
+      "phraseExample": "உன் வேலையை பாரு — மாற்றான் தோட்டத்து மல்லிகையும் மணக்கும்.",
+      "meaningInEnglish": "Bridge",
+      "phraseMeaningInEnglish": "The grass is always greener on the other side"
     }
   },
   {
@@ -8925,6 +11145,18 @@ export const dailyContent = [
       "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం.",
       "meaningInEnglish": "Proof",
       "phraseMeaningInEnglish": "Words carry great power"
+    },
+    "tamil": {
+      "word": "தோட்டம்",
+      "pronunciation": "thottam",
+      "meaning": "பயிர் வளர்க்கும் இடம்",
+      "example": "தோட்டத்தில் மலர்கள் பூத்தன.",
+      "phrase": "ஊர் இரண்டு பட்டால் கூத்தாடிக்கு கொண்டாட்டம்",
+      "phrasePronunciation": "oor irantu pattaal kooththaatikku kontaattam",
+      "phraseMeaning": "மற்றவர் சண்டையால் சிலர் பயன்பெறுவர்",
+      "phraseExample": "இருவர் சண்டையில் மூன்றாமவன் லாபம் — ஊர் இரண்டு பட்டால் கூத்தாடிக்கு கொண்டாட்டம்.",
+      "meaningInEnglish": "Garden",
+      "phraseMeaningInEnglish": "When two quarrel, a third benefits"
     }
   },
   {
@@ -8973,6 +11205,18 @@ export const dailyContent = [
       "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది.",
       "meaningInEnglish": "Condolence",
       "phraseMeaningInEnglish": "To guard something very preciously"
+    },
+    "tamil": {
+      "word": "வயல்",
+      "pronunciation": "vayal",
+      "meaning": "நெல் பயிர் செய்யும் நிலம்",
+      "example": "பச்சை வயல்கள் கண்ணுக்கு குளிர்ச்சி.",
+      "phrase": "நல்லதை நினை",
+      "phrasePronunciation": "nallathai ninai",
+      "phraseMeaning": "நல்ல எண்ணங்களை வளர்",
+      "phraseExample": "எதிர்மறையாக யோசிக்காதே — நல்லதை நினை.",
+      "meaningInEnglish": "Paddy field",
+      "phraseMeaningInEnglish": "Think positive thoughts"
     }
   },
   {
@@ -9021,6 +11265,18 @@ export const dailyContent = [
       "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు.",
       "meaningInEnglish": "Food",
       "phraseMeaningInEnglish": "Old habits die hard"
+    },
+    "tamil": {
+      "word": "ஆறு",
+      "pronunciation": "aaru",
+      "meaning": "இயற்கையாக ஓடும் நீர்வழி",
+      "example": "ஆறு கடலில் கலக்கிறது.",
+      "phrase": "அறம் செய விரும்பு",
+      "phrasePronunciation": "aram cheya virumpu",
+      "phraseMeaning": "நல்லது செய்ய ஆசைப்படு",
+      "phraseExample": "எப்போதும் அறம் செய விரும்பு.",
+      "meaningInEnglish": "River",
+      "phraseMeaningInEnglish": "Desire to do good"
     }
   },
   {
@@ -9069,6 +11325,18 @@ export const dailyContent = [
       "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం.",
       "meaningInEnglish": "Evidence",
       "phraseMeaningInEnglish": "Knowing the truth but staying silent"
+    },
+    "tamil": {
+      "word": "கரை",
+      "pronunciation": "karai",
+      "meaning": "நீரும் நிலமும் சந்திக்கும் பகுதி",
+      "example": "கடற்கரையில் மணல் கோட்டை கட்டினோம்.",
+      "phrase": "கொடுப்பதும் ஒரு சுகம்",
+      "phrasePronunciation": "kotuppathum oru chukam",
+      "phraseMeaning": "பிறருக்கு கொடுப்பதில் மகிழ்ச்சி உண்டு",
+      "phraseExample": "உதவி செய்தால் நமக்கே நல்லது — கொடுப்பதும் ஒரு சுகம்.",
+      "meaningInEnglish": "Shore",
+      "phraseMeaningInEnglish": "Giving is also a pleasure"
     }
   },
   {
@@ -9117,6 +11385,18 @@ export const dailyContent = [
       "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది.",
       "meaningInEnglish": "Certainty",
       "phraseMeaningInEnglish": "Feeling very pleasant and comfortable"
+    },
+    "tamil": {
+      "word": "தீவு",
+      "pronunciation": "theevu",
+      "meaning": "நீரால் சூழப்பட்ட நிலப்பகுதி",
+      "example": "இலங்கை ஒரு தீவு நாடு.",
+      "phrase": "இன்றைய உழைப்பு நாளைய வெற்றி",
+      "phrasePronunciation": "inraiya uzhaippu naalaiya verri",
+      "phraseMeaning": "இன்று உழைத்தால் நாளை வெற்றி கிடைக்கும்",
+      "phraseExample": "சோம்பல் விடு — இன்றைய உழைப்பு நாளைய வெற்றி.",
+      "meaningInEnglish": "Island",
+      "phraseMeaningInEnglish": "Today's hard work is tomorrow's success"
     }
   },
   {
@@ -9165,6 +11445,18 @@ export const dailyContent = [
       "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా.",
       "meaningInEnglish": "Savoring",
       "phraseMeaningInEnglish": "Children follow what elders do"
+    },
+    "tamil": {
+      "word": "சூழல்",
+      "pronunciation": "choozhal",
+      "meaning": "ஒன்றைச் சுற்றியுள்ள நிலை",
+      "example": "சுற்றுச்சூழலைப் பாதுகாக்க வேண்டும்.",
+      "phrase": "வாழ்க வளமுடன்",
+      "phrasePronunciation": "vaazhka valamutan",
+      "phraseMeaning": "செழிப்புடன் வாழ வாழ்த்து",
+      "phraseExample": "எல்லோருக்கும் வாழ்க வளமுடன் என்று வாழ்த்துகிறேன்.",
+      "meaningInEnglish": "Environment",
+      "phraseMeaningInEnglish": "Live with prosperity"
     }
   },
   {
@@ -9213,6 +11505,18 @@ export const dailyContent = [
       "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం.",
       "meaningInEnglish": "Priority",
       "phraseMeaningInEnglish": "Nothing is possible alone; teamwork matters"
+    },
+    "tamil": {
+      "word": "இயற்கை",
+      "pronunciation": "iyarkai",
+      "meaning": "மனிதனால் உருவாக்கப்படாத அனைத்தும்",
+      "example": "இயற்கை அழகை ரசிக்க கற்றுக்கொள்.",
+      "phrase": "பொது நலம் போற்று",
+      "phrasePronunciation": "pothu nalam porru",
+      "phraseMeaning": "அனைவரின் நன்மையை நாடு",
+      "phraseExample": "சுயநலம் விடு — பொது நலம் போற்று.",
+      "meaningInEnglish": "Nature",
+      "phraseMeaningInEnglish": "Promote the common good"
     }
   },
   {
@@ -9261,6 +11565,18 @@ export const dailyContent = [
       "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు.",
       "meaningInEnglish": "Equality",
       "phraseMeaningInEnglish": "A bad name sticks no matter what"
+    },
+    "tamil": {
+      "word": "பருவம்",
+      "pronunciation": "paruvam",
+      "meaning": "ஆண்டின் குறிப்பிட்ட கால நிலை",
+      "example": "மழைப் பருவம் தொடங்கியது.",
+      "phrase": "தூங்கும் சிங்கத்தை எழுப்பாதே",
+      "phrasePronunciation": "thoongkum chingkaththai ezhuppaathe",
+      "phraseMeaning": "அமைதியாக இருப்பவரை தூண்டாதே",
+      "phraseExample": "அவரை கோபப்படுத்தாதே — தூங்கும் சிங்கத்தை எழுப்பாதே.",
+      "meaningInEnglish": "Season",
+      "phraseMeaningInEnglish": "Don't wake a sleeping lion"
     }
   },
   {
@@ -9309,6 +11625,18 @@ export const dailyContent = [
       "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి.",
       "meaningInEnglish": "Command",
       "phraseMeaningInEnglish": "A bird in hand is worth two in the bush"
+    },
+    "tamil": {
+      "word": "வெயில்",
+      "pronunciation": "veyil",
+      "meaning": "சூரியனின் கடும் வெப்பம்",
+      "example": "கோடை வெயில் கொளுத்தியது.",
+      "phrase": "கற்பவை கற்று மற்றவருக்கு அறிவுரை கூறு",
+      "phrasePronunciation": "karpavai karru marravarukku arivurai kooru",
+      "phraseMeaning": "முதலில் கற் பிறகு கற்பி",
+      "phraseExample": "நீ முதலில் படி — கற்பவை கற்று மற்றவருக்கு அறிவுரை கூறு.",
+      "meaningInEnglish": "Sunshine",
+      "phraseMeaningInEnglish": "Learn first, then advise others"
     }
   },
   {
@@ -9357,6 +11685,18 @@ export const dailyContent = [
       "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు.",
       "meaningInEnglish": "Commentary",
       "phraseMeaningInEnglish": "Even small problems trouble the mighty"
+    },
+    "tamil": {
+      "word": "நிழல்",
+      "pronunciation": "nizhal",
+      "meaning": "ஒளி தடுக்கப்பட்ட பகுதி",
+      "example": "மரத்தின் நிழலில் அமர்ந்தோம்.",
+      "phrase": "பொய் சொல்வான் நெய் சொல்வான்",
+      "phrasePronunciation": "poy cholvaan ney cholvaan",
+      "phraseMeaning": "பொய் சொல்பவன் எதையும் சொல்வான்",
+      "phraseExample": "அவன் சொல்வதை நம்பாதே — பொய் சொல்வான் நெய் சொல்வான்.",
+      "meaningInEnglish": "Shadow",
+      "phraseMeaningInEnglish": "A liar will say anything"
     }
   },
   {
@@ -9405,6 +11745,18 @@ export const dailyContent = [
       "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు.",
       "meaningInEnglish": "Renunciation; detachment",
       "phraseMeaningInEnglish": "You reap what you sow"
+    },
+    "tamil": {
+      "word": "பனி",
+      "pronunciation": "pani",
+      "meaning": "குளிரால் உறையும் நீர்த்துளிகள்",
+      "example": "பனி காலத்தில் குளிர் அதிகமாக இருக்கும்.",
+      "phrase": "ஓடும் நீர் தேங்காது",
+      "phrasePronunciation": "otum neer thengkaathu",
+      "phraseMeaning": "செயல்படுபவர்கள் முன்னேறுவார்கள்",
+      "phraseExample": "நகர்ந்துகொண்டே இரு — ஓடும் நீர் தேங்காது.",
+      "meaningInEnglish": "Frost",
+      "phraseMeaningInEnglish": "Running water doesn't stagnate"
     }
   },
   {
@@ -9453,6 +11805,18 @@ export const dailyContent = [
       "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు.",
       "meaningInEnglish": "Condition",
       "phraseMeaningInEnglish": "Education always proves useful"
+    },
+    "tamil": {
+      "word": "புயல்",
+      "pronunciation": "puyal",
+      "meaning": "கடுமையான காற்றும் மழையும் கொண்ட இயற்கை நிகழ்வு",
+      "example": "புயல் கடலோரப் பகுதிகளை தாக்கியது.",
+      "phrase": "அளவுக்கு மிஞ்சினால் அமிர்தமும் நஞ்சு",
+      "phrasePronunciation": "alavukku minychinaal amirthamum nanychu",
+      "phraseMeaning": "எதுவும் அளவுக்கு மிஞ்சினால் தீமை",
+      "phraseExample": "அதிகமாக சாப்பிடாதே — அளவுக்கு மிஞ்சினால் அமிர்தமும் நஞ்சு.",
+      "meaningInEnglish": "Storm",
+      "phraseMeaningInEnglish": "Even nectar becomes poison in excess"
     }
   },
   {
@@ -9501,6 +11865,18 @@ export const dailyContent = [
       "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది.",
       "meaningInEnglish": "Tradition",
       "phraseMeaningInEnglish": "With hard work, the impossible becomes possible"
+    },
+    "tamil": {
+      "word": "மின்னல்",
+      "pronunciation": "minnal",
+      "meaning": "வானில் தோன்றும் மின்சார ஒளி",
+      "example": "மின்னல் வெட்டியது மரம் எரிந்தது.",
+      "phrase": "கற்றவன் கண்ணுடையான்",
+      "phrasePronunciation": "karravan kannutaiyaan",
+      "phraseMeaning": "கல்வி கற்றவன் பார்வை உள்ளவன்",
+      "phraseExample": "படித்தால் உலகைப் புரிந்துகொள்ளலாம் — கற்றவன் கண்ணுடையான்.",
+      "meaningInEnglish": "Lightning",
+      "phraseMeaningInEnglish": "The learned one has eyes"
     }
   },
   {
@@ -9549,6 +11925,18 @@ export const dailyContent = [
       "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు.",
       "meaningInEnglish": "Leadership",
       "phraseMeaningInEnglish": "The ordinary is common, the special is rare"
+    },
+    "tamil": {
+      "word": "இடி",
+      "pronunciation": "iti",
+      "meaning": "மின்னலுடன் வரும் பெரிய ஒலி",
+      "example": "இடி சத்தம் அனைவரையும் பயமுறுத்தியது.",
+      "phrase": "நல்லது செய் நல்லது நடக்கும்",
+      "phrasePronunciation": "nallathu chey nallathu natakkum",
+      "phraseMeaning": "நல்லது செய்தால் நல்லது நடக்கும்",
+      "phraseExample": "எப்போதும் நல்லது செய் — நல்லது செய் நல்லது நடக்கும்.",
+      "meaningInEnglish": "Thunder",
+      "phraseMeaningInEnglish": "Do good and good will happen"
     }
   },
   {
@@ -9597,6 +11985,18 @@ export const dailyContent = [
       "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా.",
       "meaningInEnglish": "Tenderness",
       "phraseMeaningInEnglish": "Knowing one thing leads to knowing others"
+    },
+    "tamil": {
+      "word": "குகை",
+      "pronunciation": "kukai",
+      "meaning": "மலையில் உள்ள இயற்கைத் துளை",
+      "example": "குகையில் பழங்கால ஓவியங்கள் இருந்தன.",
+      "phrase": "காலம் எல்லாவற்றையும் ஆற்றும்",
+      "phrasePronunciation": "kaalam ellaavarraiyum aarrum",
+      "phraseMeaning": "நேரம் எல்லா வலியையும் குறைக்கும்",
+      "phraseExample": "வருத்தப்படாதே — காலம் எல்லாவற்றையும் ஆற்றும்.",
+      "meaningInEnglish": "Cave",
+      "phraseMeaningInEnglish": "Time heals everything"
     }
   },
   {
@@ -9645,6 +12045,18 @@ export const dailyContent = [
       "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు.",
       "meaningInEnglish": "World",
       "phraseMeaningInEnglish": "A person's nature doesn't change easily"
+    },
+    "tamil": {
+      "word": "மணல்",
+      "pronunciation": "manal",
+      "meaning": "மிகச்சிறிய பாறைத் துகள்கள்",
+      "example": "கடற்கரை மணல் மிருதுவாக இருந்தது.",
+      "phrase": "அகத்தின் அழகு முகத்தில் தெரியும்",
+      "phrasePronunciation": "akaththin azhaku mukaththil theriyum",
+      "phraseMeaning": "ஒருவரின் உள் குணம் முகத்தில் வெளிப்படும்",
+      "phraseExample": "அவர் எப்போதும் புன்னகையுடன் இருப்பார் — அகத்தின் அழகு முகத்தில் தெரியும்.",
+      "meaningInEnglish": "Sand",
+      "phraseMeaningInEnglish": "Inner beauty reflects on the face"
     }
   },
   {
@@ -9693,6 +12105,18 @@ export const dailyContent = [
       "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా.",
       "meaningInEnglish": "Positivity",
       "phraseMeaningInEnglish": "When hungry, anything tastes good"
+    },
+    "tamil": {
+      "word": "கல்",
+      "pronunciation": "kal",
+      "meaning": "கடினமான இயற்கைப் பொருள்",
+      "example": "கல் மேல் நீர் ஊற்றினாலும் கல்வி கற்றவன் கடவுள்.",
+      "phrase": "ஆறிலும் சாவு நூறிலும் சாவு",
+      "phrasePronunciation": "aarilum chaavu noorilum chaavu",
+      "phraseMeaning": "இறப்பு எப்போது வேண்டுமானாலும் வரலாம்",
+      "phraseExample": "பயப்படாதே, ஆறிலும் சாவு நூறிலும் சாவு என்பார்கள்.",
+      "meaningInEnglish": "Stone",
+      "phraseMeaningInEnglish": "Death can come at any age"
     }
   },
   {
@@ -9741,6 +12165,18 @@ export const dailyContent = [
       "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు.",
       "meaningInEnglish": "Inner strength",
       "phraseMeaningInEnglish": "New places bring new challenges"
+    },
+    "tamil": {
+      "word": "விதை",
+      "pronunciation": "vithai",
+      "meaning": "தாவரம் முளைப்பதற்கான ஆரம்பம்",
+      "example": "சிறிய விதையிலிருந்து பெரிய மரம் வளரும்.",
+      "phrase": "ஊசியைக் கொடுத்து வாளை வாங்கு",
+      "phrasePronunciation": "oochiyaik kotuththu vaalai vaangku",
+      "phraseMeaning": "சிறியது கொடுத்து பெரியது பெறு",
+      "phraseExample": "அவன் சிறு உதவி செய்து பெரிய பலன் பெற்றான் — ஊசியைக் கொடுத்து வாளை வாங்கினான்.",
+      "meaningInEnglish": "Seed",
+      "phraseMeaningInEnglish": "Give a needle, get a sword"
     }
   },
   {
@@ -9789,6 +12225,18 @@ export const dailyContent = [
       "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా.",
       "meaningInEnglish": "Appeal",
       "phraseMeaningInEnglish": "Every mother loves her own child most"
+    },
+    "tamil": {
+      "word": "வேர்",
+      "pronunciation": "ver",
+      "meaning": "தாவரத்தை மண்ணில் நிலைநிறுத்தும் பகுதி",
+      "example": "ஆழமான வேர் மரத்திற்கு பலம் தரும்.",
+      "phrase": "ஆழம் தெரியாமல் காலை விடாதே",
+      "phrasePronunciation": "aazham theriyaamal kaalai vitaathe",
+      "phraseMeaning": "எதையும் புரிந்துகொள்ளாமல் செய்யாதே",
+      "phraseExample": "புதிய வணிகத்தில் ஆழம் தெரியாமல் காலை விடாதே.",
+      "meaningInEnglish": "Root",
+      "phraseMeaningInEnglish": "Don't step in without knowing the depth"
     }
   },
   {
@@ -9837,6 +12285,18 @@ export const dailyContent = [
       "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు.",
       "meaningInEnglish": "Suggestion",
       "phraseMeaningInEnglish": "Adding insult to injury"
+    },
+    "tamil": {
+      "word": "கிளை",
+      "pronunciation": "kilai",
+      "meaning": "மரத்தின் கிளைப் பிரிவு",
+      "example": "பறவை மரக்கிளையில் அமர்ந்தது.",
+      "phrase": "கல்லாதது உலகளவு",
+      "phrasePronunciation": "kallaathathu ulakalavu",
+      "phraseMeaning": "கற்றது மிகக் குறைவு",
+      "phraseExample": "எவ்வளவு படித்தாலும் கல்லாதது உலகளவு.",
+      "meaningInEnglish": "Branch",
+      "phraseMeaningInEnglish": "What you haven't learned is as vast as the world"
     }
   },
   {
@@ -9885,6 +12345,18 @@ export const dailyContent = [
       "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం.",
       "meaningInEnglish": "Necessity",
       "phraseMeaningInEnglish": "Leaving what you have for something uncertain"
+    },
+    "tamil": {
+      "word": "நறுமணம்",
+      "pronunciation": "narumanam",
+      "meaning": "இனிமையான வாசனை",
+      "example": "மல்லிகைப் பூவின் நறுமணம் மனதைக் கவரும்.",
+      "phrase": "விளையும் பயிர் முளையிலே தெரியும்",
+      "phrasePronunciation": "vilaiyum payir mulaiyile theriyum",
+      "phraseMeaning": "திறமை சிறு வயதிலேயே வெளிப்படும்",
+      "phraseExample": "அந்தக் குழந்தை நன்றாக படிக்கிறது — விளையும் பயிர் முளையிலே தெரியும்.",
+      "meaningInEnglish": "Fragrance",
+      "phraseMeaningInEnglish": "A promising crop shows in the sprout"
     }
   },
   {
@@ -9933,6 +12405,18 @@ export const dailyContent = [
       "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు.",
       "meaningInEnglish": "Plan",
       "phraseMeaningInEnglish": "Routine for the experienced"
+    },
+    "tamil": {
+      "word": "சுவை",
+      "pronunciation": "chuvai",
+      "meaning": "நாக்கால் உணரும் ருசி",
+      "example": "அம்மா சமைக்கும் உணவின் சுவை தனி.",
+      "phrase": "ஒரு கை தட்டினால் ஓசை வராது",
+      "phrasePronunciation": "oru kai thattinaal ochai varaathu",
+      "phraseMeaning": "இருவர் இணைந்தால்தான் செயல் நிறைவேறும்",
+      "phraseExample": "ஒரு கை தட்டினால் ஓசை வராது, எல்லோரும் சேர்ந்து உழைக்க வேண்டும்.",
+      "meaningInEnglish": "Taste",
+      "phraseMeaningInEnglish": "One hand clapping makes no sound"
     }
   },
   {
@@ -9981,6 +12465,18 @@ export const dailyContent = [
       "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది.",
       "meaningInEnglish": "Complete",
       "phraseMeaningInEnglish": "When one is careless, another profits"
+    },
+    "tamil": {
+      "word": "ஓசை",
+      "pronunciation": "ochai",
+      "meaning": "செவியால் கேட்கும் ஒலி",
+      "example": "பறவைகளின் ஓசை காலையை இனிமையாக்கும்.",
+      "phrase": "பசி வந்திடப் பத்தும் பறந்திடும்",
+      "phrasePronunciation": "pachi vanthitap paththum paranthitum",
+      "phraseMeaning": "பசி வந்தால் எல்லா நெறிகளும் போய்விடும்",
+      "phraseExample": "ஏழைகள் தவறு செய்கிறார்கள் என்று சொல்லாதே — பசி வந்திடப் பத்தும் பறந்திடும்.",
+      "meaningInEnglish": "Sound",
+      "phraseMeaningInEnglish": "When hunger comes, all virtues fly away"
     }
   },
   {
@@ -10029,6 +12525,18 @@ export const dailyContent = [
       "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు.",
       "meaningInEnglish": "Self-discipline",
       "phraseMeaningInEnglish": "Don't give pearls to those who can't value them"
+    },
+    "tamil": {
+      "word": "நிறம்",
+      "pronunciation": "niram",
+      "meaning": "கண்ணால் காணும் வண்ணம்",
+      "example": "வானவில் ஏழு நிறங்களைக் கொண்டது.",
+      "phrase": "கற்றது கைமண் அளவு",
+      "phrasePronunciation": "karrathu kaiman alavu",
+      "phraseMeaning": "கற்ற அறிவு மிகக் குறைவு",
+      "phraseExample": "நான் டாக்டர் ஆனாலும் கற்றது கைமண் அளவுதான்.",
+      "meaningInEnglish": "Color",
+      "phraseMeaningInEnglish": "What you've learned is just a handful"
     }
   },
   {
@@ -10077,6 +12585,18 @@ export const dailyContent = [
       "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి.",
       "meaningInEnglish": "Mention",
       "phraseMeaningInEnglish": "Bad company corrupts good character"
+    },
+    "tamil": {
+      "word": "வடிவம்",
+      "pronunciation": "vativam",
+      "meaning": "ஒரு பொருளின் உருவம்",
+      "example": "வட்ட வடிவம் கணிதத்தில் முக்கியம்.",
+      "phrase": "முயற்சி திருவினையாக்கும்",
+      "phrasePronunciation": "muyarchi thiruvinaiyaakkum",
+      "phraseMeaning": "முயற்சி வெற்றியைத் தரும்",
+      "phraseExample": "தொடர்ந்து முயற்சி செய் — முயற்சி திருவினையாக்கும்.",
+      "meaningInEnglish": "Shape",
+      "phraseMeaningInEnglish": "Effort leads to success"
     }
   },
   {
@@ -10125,6 +12645,18 @@ export const dailyContent = [
       "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది.",
       "meaningInEnglish": "Empathy",
       "phraseMeaningInEnglish": "Helping others brings inner peace"
+    },
+    "tamil": {
+      "word": "எண்",
+      "pronunciation": "en",
+      "meaning": "அளவைக் குறிக்கும் குறியீடு",
+      "example": "தமிழில் தனி எண் வரிசை உண்டு.",
+      "phrase": "அறிவே ஆற்றல்",
+      "phrasePronunciation": "arive aarral",
+      "phraseMeaning": "அறிவுதான் உண்மையான சக்தி",
+      "phraseExample": "படி, அறிவே ஆற்றல் என்பதை மறவாதே.",
+      "meaningInEnglish": "Number",
+      "phraseMeaningInEnglish": "Knowledge is power"
     }
   },
   {
@@ -10173,6 +12705,18 @@ export const dailyContent = [
       "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి.",
       "meaningInEnglish": "Self-reflection",
       "phraseMeaningInEnglish": "Nothing is permanent"
+    },
+    "tamil": {
+      "word": "அளவு",
+      "pronunciation": "alavu",
+      "meaning": "பொருளின் பருமன் அல்லது எடை",
+      "example": "சரியான அளவு மருந்து எடுக்க வேண்டும்.",
+      "phrase": "பொறுமை கடலினும் பெரிது",
+      "phrasePronunciation": "porumai katalinum perithu",
+      "phraseMeaning": "பொறுமை மிகவும் முக்கியம்",
+      "phraseExample": "கோபப்படாதே, பொறுமை கடலினும் பெரிது.",
+      "meaningInEnglish": "Measure",
+      "phraseMeaningInEnglish": "Patience is greater than the ocean"
     }
   },
   {
@@ -10221,6 +12765,18 @@ export const dailyContent = [
       "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు.",
       "meaningInEnglish": "Obedience",
       "phraseMeaningInEnglish": "Listener needs wisdom, speaker needs patience"
+    },
+    "tamil": {
+      "word": "வேகம்",
+      "pronunciation": "vekam",
+      "meaning": "குறிப்பிட்ட நேரத்தில் கடக்கும் தூரம்",
+      "example": "ஒளியின் வேகம் மிக அதிகம்.",
+      "phrase": "நேரம் காத்திருக்காது",
+      "phrasePronunciation": "neram kaaththirukkaathu",
+      "phraseMeaning": "நேரத்தை வீணாக்கக்கூடாது",
+      "phraseExample": "படிக்க ஆரம்பி, நேரம் காத்திருக்காது.",
+      "meaningInEnglish": "Speed",
+      "phraseMeaningInEnglish": "Time waits for no one"
     }
   },
   {
@@ -10269,6 +12825,18 @@ export const dailyContent = [
       "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు.",
       "meaningInEnglish": "Brief",
       "phraseMeaningInEnglish": "To appear very grand and impressive"
+    },
+    "tamil": {
+      "word": "பலம்",
+      "pronunciation": "palam",
+      "meaning": "உடல் அல்லது மன வலிமை",
+      "example": "ஒற்றுமையே நமது பலம்.",
+      "phrase": "ஒற்றுமையில் பலம்",
+      "phrasePronunciation": "orrumaiyil palam",
+      "phraseMeaning": "ஒன்றாக இருந்தால் வலிமை உண்டு",
+      "phraseExample": "குடும்பம் ஒன்றாக இருக்க வேண்டும் — ஒற்றுமையில் பலம்.",
+      "meaningInEnglish": "Strength",
+      "phraseMeaningInEnglish": "Unity is strength"
     }
   },
   {
@@ -10317,6 +12885,18 @@ export const dailyContent = [
       "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది.",
       "meaningInEnglish": "Fulfillment of goals",
       "phraseMeaningInEnglish": "Hard work yields suitable rewards"
+    },
+    "tamil": {
+      "word": "ஆழம்",
+      "pronunciation": "aazham",
+      "meaning": "மேற்பரப்பிலிருந்து கீழ் நோக்கிய தூரம்",
+      "example": "கடலின் ஆழம் அளவிட முடியாது.",
+      "phrase": "ஆபத்துக்கு உதவுபவனே நண்பன்",
+      "phrasePronunciation": "aapaththukku uthavupavane nanpan",
+      "phraseMeaning": "உண்மையான நண்பன் கஷ்ட நேரத்தில் உதவுவான்",
+      "phraseExample": "எல்லாரும் ஓடிவிட்டார்கள் அவன் மட்டும் நின்றான் — ஆபத்துக்கு உதவுபவனே நண்பன்.",
+      "meaningInEnglish": "Depth",
+      "phraseMeaningInEnglish": "A friend in need is a friend indeed"
     }
   },
   {
@@ -10365,6 +12945,18 @@ export const dailyContent = [
       "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు.",
       "meaningInEnglish": "Special",
       "phraseMeaningInEnglish": "Sour grapes; dismissing what you can't get"
+    },
+    "tamil": {
+      "word": "உயரம்",
+      "pronunciation": "uyaram",
+      "meaning": "கீழிருந்து மேல் நோக்கிய நீளம்",
+      "example": "மலையின் உயரம் ஆயிரம் அடி.",
+      "phrase": "காற்றுள்ள போதே தூற்றிக்கொள்",
+      "phrasePronunciation": "kaarrulla pothe thoorrikkol",
+      "phraseMeaning": "வாய்ப்பு இருக்கும்போதே பயன்படுத்திக்கொள்",
+      "phraseExample": "இளமையில் படி — காற்றுள்ள போதே தூற்றிக்கொள்.",
+      "meaningInEnglish": "Height",
+      "phraseMeaningInEnglish": "Make hay while the sun shines"
     }
   },
   {
@@ -10413,6 +13005,18 @@ export const dailyContent = [
       "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి.",
       "meaningInEnglish": "Junction",
       "phraseMeaningInEnglish": "Actions don't match words; hypocrisy"
+    },
+    "tamil": {
+      "word": "சிந்தனை",
+      "pronunciation": "chinthanai",
+      "meaning": "மனதின் எண்ணச் செயல்பாடு",
+      "example": "ஆக்கபூர்வமான சிந்தனை வளர்ச்சிக்கு வழிவகுக்கும்.",
+      "phrase": "நாய் விற்ற காசு குரைக்காது",
+      "phrasePronunciation": "naay virra kaachu kuraikkaathu",
+      "phraseMeaning": "தவறான வழியில் சம்பாதித்தது நிலைக்காது",
+      "phraseExample": "ஏமாற்றி சம்பாதித்தால் என்ன பயன் — நாய் விற்ற காசு குரைக்காது.",
+      "meaningInEnglish": "Thought",
+      "phraseMeaningInEnglish": "Ill-gotten gains won't last"
     }
   },
   {
@@ -10461,6 +13065,18 @@ export const dailyContent = [
       "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు.",
       "meaningInEnglish": "Self-reliance",
       "phraseMeaningInEnglish": "One without ability can't do big things"
+    },
+    "tamil": {
+      "word": "தத்துவம்",
+      "pronunciation": "thaththuvam",
+      "meaning": "வாழ்க்கையின் அடிப்படைக் கொள்கை",
+      "example": "திருக்குறள் உலகப் பொதுத் தத்துவம்.",
+      "phrase": "நெருப்பு இல்லாமல் புகை வராது",
+      "phrasePronunciation": "neruppu illaamal pukai varaathu",
+      "phraseMeaning": "காரணம் இல்லாமல் விளைவு இல்லை",
+      "phraseExample": "வதந்தி பரவுகிறது என்றால் ஏதோ நடந்திருக்கும் — நெருப்பு இல்லாமல் புகை வராது.",
+      "meaningInEnglish": "Philosophy",
+      "phraseMeaningInEnglish": "No smoke without fire"
     }
   },
   {
@@ -10509,6 +13125,18 @@ export const dailyContent = [
       "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా.",
       "meaningInEnglish": "Praise",
       "phraseMeaningInEnglish": "Results come when you get to work"
+    },
+    "tamil": {
+      "word": "அறம்",
+      "pronunciation": "aram",
+      "meaning": "நல்லொழுக்கம் மற்றும் நேர்மை",
+      "example": "அறம் செய்ய விரும்பு.",
+      "phrase": "யானைக்கும் அடி சறுக்கும்",
+      "phrasePronunciation": "yaanaikkum ati charukkum",
+      "phraseMeaning": "பெரியவர்களும் தவறு செய்வார்கள்",
+      "phraseExample": "கவலைப்படாதே, யானைக்கும் அடி சறுக்கும்.",
+      "meaningInEnglish": "Virtue",
+      "phraseMeaningInEnglish": "Even an elephant can slip"
     }
   },
   {
@@ -10557,6 +13185,18 @@ export const dailyContent = [
       "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు.",
       "meaningInEnglish": "Convenience",
       "phraseMeaningInEnglish": "Nothing works on time for the poor"
+    },
+    "tamil": {
+      "word": "பாவம்",
+      "pronunciation": "paavam",
+      "meaning": "தவறான செயல்",
+      "example": "பாவம் செய்தவர் தண்டனை பெறுவர்.",
+      "phrase": "தன் வினை தன்னைச் சுடும்",
+      "phrasePronunciation": "than vinai thannaich chutum",
+      "phraseMeaning": "ஒருவரின் தீய செயல்கள் அவரையே பாதிக்கும்",
+      "phraseExample": "பொய் சொல்லி மாட்டிக்கொண்டான் — தன் வினை தன்னைச் சுடும்.",
+      "meaningInEnglish": "Sin",
+      "phraseMeaningInEnglish": "One's own deeds will burn oneself"
     }
   },
   {
@@ -10605,6 +13245,18 @@ export const dailyContent = [
       "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది.",
       "meaningInEnglish": "Hope",
       "phraseMeaningInEnglish": "Good intentions find a way"
+    },
+    "tamil": {
+      "word": "பக்தி",
+      "pronunciation": "pakthi",
+      "meaning": "கடவுள் மீதான பேரன்பு",
+      "example": "பக்தியுடன் வழிபட்டார்.",
+      "phrase": "ஆத்திரக்காரனுக்கு புத்தி மட்டு",
+      "phrasePronunciation": "aaththirakkaaranukku puththi mattu",
+      "phraseMeaning": "கோபமான நபர் சரியாக சிந்திக்க மாட்டார்",
+      "phraseExample": "அவசரப்படாதே — ஆத்திரக்காரனுக்கு புத்தி மட்டு.",
+      "meaningInEnglish": "Devotion",
+      "phraseMeaningInEnglish": "An angry person has limited wisdom"
     }
   },
   {
@@ -10653,6 +13305,18 @@ export const dailyContent = [
       "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే.",
       "meaningInEnglish": "Fearless",
       "phraseMeaningInEnglish": "Faith makes anything possible"
+    },
+    "tamil": {
+      "word": "தவம்",
+      "pronunciation": "thavam",
+      "meaning": "மன ஒருமுகப்படுத்தும் நெறி",
+      "example": "முனிவர் காட்டில் தவம் செய்தார்.",
+      "phrase": "ஏட்டுச் சுரைக்காய் கறிக்கு உதவாது",
+      "phrasePronunciation": "ettuch churaikkaay karikku uthavaathu",
+      "phraseMeaning": "புத்தக அறிவு மட்டும் போதாது",
+      "phraseExample": "நடைமுறை அனுபவம் வேண்டும் — ஏட்டுச் சுரைக்காய் கறிக்கு உதவாது.",
+      "meaningInEnglish": "Penance",
+      "phraseMeaningInEnglish": "Book knowledge alone won't do"
     }
   },
   {
@@ -10701,6 +13365,18 @@ export const dailyContent = [
       "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది.",
       "meaningInEnglish": "Righteousness",
       "phraseMeaningInEnglish": "Every great thing starts small"
+    },
+    "tamil": {
+      "word": "யோகம்",
+      "pronunciation": "yokam",
+      "meaning": "உடலையும் மனதையும் இணைக்கும் பயிற்சி",
+      "example": "யோகம் ஆரோக்கியத்திற்கு நல்லது.",
+      "phrase": "ஒரு பானை சோற்றுக்கு ஒரு சோறு பதம்",
+      "phrasePronunciation": "oru paanai chorrukku oru choru patham",
+      "phraseMeaning": "சிறிய மாதிரியிலிருந்து முழுதையும் அறியலாம்",
+      "phraseExample": "ஒரு பானை சோற்றுக்கு ஒரு சோறு பதம் — ஒரு பகுதியை பார்த்தே தெரிந்துகொள்ளலாம்.",
+      "meaningInEnglish": "Yoga",
+      "phraseMeaningInEnglish": "One grain tells if the pot is cooked"
     }
   },
   {
@@ -10749,6 +13425,18 @@ export const dailyContent = [
       "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు.",
       "meaningInEnglish": "Assurance",
       "phraseMeaningInEnglish": "Laughter is the best medicine"
+    },
+    "tamil": {
+      "word": "தியானம்",
+      "pronunciation": "thiyaanam",
+      "meaning": "மனதை ஒருமுகப்படுத்தும் செயல்",
+      "example": "தியானம் மன அமைதி தரும்.",
+      "phrase": "யாதும் ஊரே யாவரும் கேளிர்",
+      "phrasePronunciation": "yaathum oore yaavarum kelir",
+      "phraseMeaning": "எல்லா ஊரும் நம் ஊர் எல்லோரும் நம் உறவு",
+      "phraseExample": "பாகுபாடு வேண்டாம் — யாதும் ஊரே யாவரும் கேளிர்.",
+      "meaningInEnglish": "Meditation",
+      "phraseMeaningInEnglish": "Every place is home, everyone is kin"
     }
   },
   {
@@ -10797,6 +13485,18 @@ export const dailyContent = [
       "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు.",
       "meaningInEnglish": "Response",
       "phraseMeaningInEnglish": "Trust, once lost, is hard to regain"
+    },
+    "tamil": {
+      "word": "ஒழுக்கம்",
+      "pronunciation": "ozhukkam",
+      "meaning": "நல்ல நடத்தை முறை",
+      "example": "ஒழுக்கம் விழுப்பம் தரலான்.",
+      "phrase": "கற்க கசடறக் கற்பவை",
+      "phrasePronunciation": "karka kachatarak karpavai",
+      "phraseMeaning": "கற்க வேண்டியதை குறைவின்றி கற்க வேண்டும்",
+      "phraseExample": "ஒழுங்காக படி — கற்க கசடறக் கற்பவை.",
+      "meaningInEnglish": "Discipline",
+      "phraseMeaningInEnglish": "Learn thoroughly what is worth learning"
     }
   },
   {
@@ -10845,6 +13545,18 @@ export const dailyContent = [
       "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు.",
       "meaningInEnglish": "Institution",
       "phraseMeaningInEnglish": "In the land of the blind, the one-eyed is king"
+    },
+    "tamil": {
+      "word": "கண்ணியம்",
+      "pronunciation": "kanniyam",
+      "meaning": "மரியாதை மற்றும் மதிப்பு",
+      "example": "கண்ணியமான நடத்தை அனைவரையும் கவரும்.",
+      "phrase": "உழைப்பே உயர்வு",
+      "phrasePronunciation": "uzhaippe uyarvu",
+      "phraseMeaning": "கடின உழைப்பு உயர்வுக்கு வழிவகுக்கும்",
+      "phraseExample": "சோம்பேறித்தனம் விடு — உழைப்பே உயர்வு.",
+      "meaningInEnglish": "Dignity",
+      "phraseMeaningInEnglish": "Hard work is the path to elevation"
     }
   },
   {
@@ -10893,6 +13605,18 @@ export const dailyContent = [
       "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది.",
       "meaningInEnglish": "Wonder",
       "phraseMeaningInEnglish": "Strong roots help you rise again"
+    },
+    "tamil": {
+      "word": "பெருமை",
+      "pronunciation": "perumai",
+      "meaning": "சிறப்பான நிலை",
+      "example": "தமிழ் மொழி நமது பெருமை.",
+      "phrase": "கடமையைச் செய் பலனை எதிர்பாராதே",
+      "phrasePronunciation": "katamaiyaich chey palanai ethirpaaraathe",
+      "phraseMeaning": "கடமையை செய்துவிட்டு பலனுக்காக ஏங்காதே",
+      "phraseExample": "நல்லது செய் — கடமையைச் செய் பலனை எதிர்பாராதே.",
+      "meaningInEnglish": "Glory",
+      "phraseMeaningInEnglish": "Do your duty without expecting rewards"
     }
   },
   {
@@ -10941,6 +13665,18 @@ export const dailyContent = [
       "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే.",
       "meaningInEnglish": "Talent",
       "phraseMeaningInEnglish": "A leopard can't change its spots"
+    },
+    "tamil": {
+      "word": "சிறப்பு",
+      "pronunciation": "chirappu",
+      "meaning": "தனித்துவமான தன்மை",
+      "example": "ஒவ்வொருவருக்கும் ஒரு சிறப்பு உண்டு.",
+      "phrase": "அன்பே சிவம்",
+      "phrasePronunciation": "anpe chivam",
+      "phraseMeaning": "அன்புதான் கடவுள்",
+      "phraseExample": "எல்லோரிடமும் அன்பாக இரு — அன்பே சிவம்.",
+      "meaningInEnglish": "Excellence",
+      "phraseMeaningInEnglish": "Love is God"
     }
   },
   {
@@ -10989,6 +13725,18 @@ export const dailyContent = [
       "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు.",
       "meaningInEnglish": "Knowledge",
       "phraseMeaningInEnglish": "Don't bite the hand that feeds you"
+    },
+    "tamil": {
+      "word": "திறன்",
+      "pronunciation": "thiran",
+      "meaning": "செயல்திறம் கொண்ட ஆற்றல்",
+      "example": "மொழி திறன் வேலைக்கு உதவும்.",
+      "phrase": "பழக்கம் இரண்டாவது இயற்கை",
+      "phrasePronunciation": "pazhakkam irantaavathu iyarkai",
+      "phraseMeaning": "தொடர்ந்து செய்வது இயல்பாக மாறும்",
+      "phraseExample": "தினமும் படிப்பது கடினம் ஆனால் பழக்கம் இரண்டாவது இயற்கை.",
+      "meaningInEnglish": "Skill",
+      "phraseMeaningInEnglish": "Habit is second nature"
     }
   },
   {
@@ -11037,6 +13785,18 @@ export const dailyContent = [
       "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు.",
       "meaningInEnglish": "Courage",
       "phraseMeaningInEnglish": "Distant hills look green"
+    },
+    "tamil": {
+      "word": "ஆற்றல்",
+      "pronunciation": "aarral",
+      "meaning": "செயல் செய்யும் திறன்",
+      "example": "அணு ஆற்றல் மிகப்பெரியது.",
+      "phrase": "வெல்லுவது விவேகம்",
+      "phrasePronunciation": "velluvathu vivekam",
+      "phraseMeaning": "அறிவுதான் வெற்றிக்கு வழி",
+      "phraseExample": "பலம் அல்ல அறிவு முக்கியம் — வெல்லுவது விவேகம்.",
+      "meaningInEnglish": "Power",
+      "phraseMeaningInEnglish": "Wisdom wins"
     }
   },
   {
@@ -11085,6 +13845,18 @@ export const dailyContent = [
       "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది.",
       "meaningInEnglish": "Joy",
       "phraseMeaningInEnglish": "Stand firm even in adversity"
+    },
+    "tamil": {
+      "word": "சுதந்திரம்",
+      "pronunciation": "chuthanthiram",
+      "meaning": "கட்டுப்பாடு இல்லாத நிலை",
+      "example": "சுதந்திரம் அனைவரின் பிறப்புரிமை.",
+      "phrase": "தீயினால் சுட்டபுண் உள்ளாறும்",
+      "phrasePronunciation": "theeyinaal chuttapun ullaarum",
+      "phraseMeaning": "நெருப்பு காயம் ஆறும் ஆனால் சொல் காயம் ஆறாது",
+      "phraseExample": "கடும் சொல் சொல்லாதே — தீயினால் சுட்டபுண் உள்ளாறும் நாவினால் சுட்டபுண் ஆறாது.",
+      "meaningInEnglish": "Independence",
+      "phraseMeaningInEnglish": "A burn heals but harsh words don't"
     }
   },
   {
@@ -11133,6 +13905,18 @@ export const dailyContent = [
       "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు.",
       "meaningInEnglish": "Apology",
       "phraseMeaningInEnglish": "Failing to plan is planning to fail"
+    },
+    "tamil": {
+      "word": "ஜனநாயகம்",
+      "pronunciation": "jananaayakam",
+      "meaning": "மக்கள் ஆட்சி முறை",
+      "example": "இந்தியா ஜனநாயக நாடு.",
+      "phrase": "அடி உதவாத இடத்தில் மிதி உதவும்",
+      "phrasePronunciation": "ati uthavaatha itaththil mithi uthavum",
+      "phraseMeaning": "ஒரு முறை பலிக்காவிட்டால் வேறு வழி முயற்சி செய்",
+      "phraseExample": "மாற்று வழியை யோசி — அடி உதவாத இடத்தில் மிதி உதவும்.",
+      "meaningInEnglish": "Democracy",
+      "phraseMeaningInEnglish": "If one way fails, try another"
     }
   },
   {
@@ -11181,6 +13965,18 @@ export const dailyContent = [
       "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది.",
       "meaningInEnglish": "Bravery",
       "phraseMeaningInEnglish": "Everything has its time and use"
+    },
+    "tamil": {
+      "word": "சமத்துவம்",
+      "pronunciation": "chamaththuvam",
+      "meaning": "அனைவருக்கும் சம உரிமை",
+      "example": "சமத்துவம் சமுதாயத்தின் அடிப்படை.",
+      "phrase": "குரங்கு கையில் பூமாலை",
+      "phrasePronunciation": "kurangku kaiyil poomaalai",
+      "phraseMeaning": "தகுதி இல்லாதவனிடம் சிறந்த பொருள்",
+      "phraseExample": "அவனிடம் கொடுத்தால் வீணாகும் — குரங்கு கையில் பூமாலை.",
+      "meaningInEnglish": "Equality",
+      "phraseMeaningInEnglish": "A garland in a monkey's hand"
     }
   },
   {
@@ -11229,6 +14025,18 @@ export const dailyContent = [
       "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు.",
       "meaningInEnglish": "Wisdom",
       "phraseMeaningInEnglish": "Brain over brawn"
+    },
+    "tamil": {
+      "word": "அமைப்பு",
+      "pronunciation": "amaippu",
+      "meaning": "ஒழுங்கான கட்டமைப்பு",
+      "example": "நல்ல அமைப்பு வெற்றிக்கு அவசியம்.",
+      "phrase": "நுணலும் தன் வாயால் கெடும்",
+      "phrasePronunciation": "nunalum than vaayaal ketum",
+      "phraseMeaning": "ஒருவர் தன் பேச்சால் கெடுவார்",
+      "phraseExample": "அதிகமாக பேசாதே — நுணலும் தன் வாயால் கெடும்.",
+      "meaningInEnglish": "Organization",
+      "phraseMeaningInEnglish": "The frog perishes by its own mouth"
     }
   },
   {
@@ -11277,6 +14085,18 @@ export const dailyContent = [
       "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట.",
       "meaningInEnglish": "Determination",
       "phraseMeaningInEnglish": "Elders' advice is always valuable"
+    },
+    "tamil": {
+      "word": "திட்டம்",
+      "pronunciation": "thittam",
+      "meaning": "செயல்படுத்துவதற்கான வரைபடம்",
+      "example": "திட்டமிட்டு செயல்பட வேண்டும்.",
+      "phrase": "மாற்றான் தோட்டத்து மல்லிகையும் மணக்கும்",
+      "phrasePronunciation": "maarraan thottaththu mallikaiyum manakkum",
+      "phraseMeaning": "பிறர் பொருளும் நன்றாகத் தெரியும்",
+      "phraseExample": "உன் வேலையை பாரு — மாற்றான் தோட்டத்து மல்லிகையும் மணக்கும்.",
+      "meaningInEnglish": "Plan",
+      "phraseMeaningInEnglish": "The grass is always greener on the other side"
     }
   },
   {
@@ -11325,6 +14145,18 @@ export const dailyContent = [
       "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం.",
       "meaningInEnglish": "Generosity",
       "phraseMeaningInEnglish": "Words carry great power"
+    },
+    "tamil": {
+      "word": "வளர்ச்சி",
+      "pronunciation": "valarchchi",
+      "meaning": "முன்னேற்றமடையும் நிலை",
+      "example": "கல்வி வளர்ச்சிக்கு அடிப்படை.",
+      "phrase": "ஊர் இரண்டு பட்டால் கூத்தாடிக்கு கொண்டாட்டம்",
+      "phrasePronunciation": "oor irantu pattaal kooththaatikku kontaattam",
+      "phraseMeaning": "மற்றவர் சண்டையால் சிலர் பயன்பெறுவர்",
+      "phraseExample": "இருவர் சண்டையில் மூன்றாமவன் லாபம் — ஊர் இரண்டு பட்டால் கூத்தாடிக்கு கொண்டாட்டம்.",
+      "meaningInEnglish": "Development",
+      "phraseMeaningInEnglish": "When two quarrel, a third benefits"
     }
   },
   {
@@ -11373,6 +14205,18 @@ export const dailyContent = [
       "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది.",
       "meaningInEnglish": "Hard work",
       "phraseMeaningInEnglish": "To guard something very preciously"
+    },
+    "tamil": {
+      "word": "மாற்றம்",
+      "pronunciation": "maarram",
+      "meaning": "ஒரு நிலையிலிருந்து வேறு நிலைக்கு செல்லுதல்",
+      "example": "மாற்றம் ஒன்றே மாறாதது.",
+      "phrase": "நல்லதை நினை",
+      "phrasePronunciation": "nallathai ninai",
+      "phraseMeaning": "நல்ல எண்ணங்களை வளர்",
+      "phraseExample": "எதிர்மறையாக யோசிக்காதே — நல்லதை நினை.",
+      "meaningInEnglish": "Change",
+      "phraseMeaningInEnglish": "Think positive thoughts"
     }
   },
   {
@@ -11421,6 +14265,18 @@ export const dailyContent = [
       "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు.",
       "meaningInEnglish": "Happiness",
       "phraseMeaningInEnglish": "Old habits die hard"
+    },
+    "tamil": {
+      "word": "புதுமை",
+      "pronunciation": "puthumai",
+      "meaning": "புதியதாக உருவாக்குதல்",
+      "example": "புதுமை படைப்பாற்றலின் விளைவு.",
+      "phrase": "அறம் செய விரும்பு",
+      "phrasePronunciation": "aram cheya virumpu",
+      "phraseMeaning": "நல்லது செய்ய ஆசைப்படு",
+      "phraseExample": "எப்போதும் அறம் செய விரும்பு.",
+      "meaningInEnglish": "Innovation",
+      "phraseMeaningInEnglish": "Desire to do good"
     }
   },
   {
@@ -11469,6 +14325,18 @@ export const dailyContent = [
       "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం.",
       "meaningInEnglish": "Honesty",
       "phraseMeaningInEnglish": "Knowing the truth but staying silent"
+    },
+    "tamil": {
+      "word": "ஆராய்ச்சி",
+      "pronunciation": "aaraaychchi",
+      "meaning": "உண்மையைக் கண்டறியும் முயற்சி",
+      "example": "ஆராய்ச்சி புதிய கண்டுபிடிப்புகளுக்கு வழிவகுக்கும்.",
+      "phrase": "கொடுப்பதும் ஒரு சுகம்",
+      "phrasePronunciation": "kotuppathum oru chukam",
+      "phraseMeaning": "பிறருக்கு கொடுப்பதில் மகிழ்ச்சி உண்டு",
+      "phraseExample": "உதவி செய்தால் நமக்கே நல்லது — கொடுப்பதும் ஒரு சுகம்.",
+      "meaningInEnglish": "Research",
+      "phraseMeaningInEnglish": "Giving is also a pleasure"
     }
   },
   {
@@ -11517,6 +14385,18 @@ export const dailyContent = [
       "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది.",
       "meaningInEnglish": "Patience",
       "phraseMeaningInEnglish": "Feeling very pleasant and comfortable"
+    },
+    "tamil": {
+      "word": "தொழில்நுட்பம்",
+      "pronunciation": "thozhilnutpam",
+      "meaning": "அறிவியல் பயன்பாட்டு முறை",
+      "example": "தொழில்நுட்பம் வாழ்க்கையை எளிமையாக்குகிறது.",
+      "phrase": "இன்றைய உழைப்பு நாளைய வெற்றி",
+      "phrasePronunciation": "inraiya uzhaippu naalaiya verri",
+      "phraseMeaning": "இன்று உழைத்தால் நாளை வெற்றி கிடைக்கும்",
+      "phraseExample": "சோம்பல் விடு — இன்றைய உழைப்பு நாளைய வெற்றி.",
+      "meaningInEnglish": "Technology",
+      "phraseMeaningInEnglish": "Today's hard work is tomorrow's success"
     }
   },
   {
@@ -11565,6 +14445,18 @@ export const dailyContent = [
       "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా.",
       "meaningInEnglish": "Gratitude",
       "phraseMeaningInEnglish": "Children follow what elders do"
+    },
+    "tamil": {
+      "word": "கணினி",
+      "pronunciation": "kanini",
+      "meaning": "தரவுகளை செயல்படுத்தும் கருவி",
+      "example": "கணினி இன்றைய உலகில் இன்றியமையாதது.",
+      "phrase": "வாழ்க வளமுடன்",
+      "phrasePronunciation": "vaazhka valamutan",
+      "phraseMeaning": "செழிப்புடன் வாழ வாழ்த்து",
+      "phraseExample": "எல்லோருக்கும் வாழ்க வளமுடன் என்று வாழ்த்துகிறேன்.",
+      "meaningInEnglish": "Computer",
+      "phraseMeaningInEnglish": "Live with prosperity"
     }
   },
   {
@@ -11613,6 +14505,18 @@ export const dailyContent = [
       "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం.",
       "meaningInEnglish": "Self-confidence",
       "phraseMeaningInEnglish": "Nothing is possible alone; teamwork matters"
+    },
+    "tamil": {
+      "word": "இணையம்",
+      "pronunciation": "inaiyam",
+      "meaning": "உலகளாவிய தகவல் வலையமைப்பு",
+      "example": "இணையம் தகவல்களை எளிதில் கிடைக்கச் செய்கிறது.",
+      "phrase": "பொது நலம் போற்று",
+      "phrasePronunciation": "pothu nalam porru",
+      "phraseMeaning": "அனைவரின் நன்மையை நாடு",
+      "phraseExample": "சுயநலம் விடு — பொது நலம் போற்று.",
+      "meaningInEnglish": "Internet",
+      "phraseMeaningInEnglish": "Promote the common good"
     }
   },
   {
@@ -11661,6 +14565,18 @@ export const dailyContent = [
       "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు.",
       "meaningInEnglish": "Commitment",
       "phraseMeaningInEnglish": "A bad name sticks no matter what"
+    },
+    "tamil": {
+      "word": "தகவல்",
+      "pronunciation": "thakaval",
+      "meaning": "செய்திகள் அல்லது விவரங்கள்",
+      "example": "சரியான தகவல் முடிவெடுக்க உதவும்.",
+      "phrase": "தூங்கும் சிங்கத்தை எழுப்பாதே",
+      "phrasePronunciation": "thoongkum chingkaththai ezhuppaathe",
+      "phraseMeaning": "அமைதியாக இருப்பவரை தூண்டாதே",
+      "phraseExample": "அவரை கோபப்படுத்தாதே — தூங்கும் சிங்கத்தை எழுப்பாதே.",
+      "meaningInEnglish": "Information",
+      "phraseMeaningInEnglish": "Don't wake a sleeping lion"
     }
   },
   {
@@ -11709,6 +14625,18 @@ export const dailyContent = [
       "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి.",
       "meaningInEnglish": "Inspiration",
       "phraseMeaningInEnglish": "A bird in hand is worth two in the bush"
+    },
+    "tamil": {
+      "word": "செய்தி",
+      "pronunciation": "cheythi",
+      "meaning": "புதிய நிகழ்வு பற்றிய தகவல்",
+      "example": "காலை செய்தி படிப்பது நல்ல பழக்கம்.",
+      "phrase": "கற்பவை கற்று மற்றவருக்கு அறிவுரை கூறு",
+      "phrasePronunciation": "karpavai karru marravarukku arivurai kooru",
+      "phraseMeaning": "முதலில் கற் பிறகு கற்பி",
+      "phraseExample": "நீ முதலில் படி — கற்பவை கற்று மற்றவருக்கு அறிவுரை கூறு.",
+      "meaningInEnglish": "News",
+      "phraseMeaningInEnglish": "Learn first, then advise others"
     }
   },
   {
@@ -11757,6 +14685,18 @@ export const dailyContent = [
       "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు.",
       "meaningInEnglish": "Cleverness",
       "phraseMeaningInEnglish": "Even small problems trouble the mighty"
+    },
+    "tamil": {
+      "word": "விழா",
+      "pronunciation": "vizhaa",
+      "meaning": "மகிழ்ச்சியான கொண்டாட்ட நிகழ்வு",
+      "example": "பொங்கல் விழா மிகவும் சிறப்பாக நடந்தது.",
+      "phrase": "பொய் சொல்வான் நெய் சொல்வான்",
+      "phrasePronunciation": "poy cholvaan ney cholvaan",
+      "phraseMeaning": "பொய் சொல்பவன் எதையும் சொல்வான்",
+      "phraseExample": "அவன் சொல்வதை நம்பாதே — பொய் சொல்வான் நெய் சொல்வான்.",
+      "meaningInEnglish": "Festival",
+      "phraseMeaningInEnglish": "A liar will say anything"
     }
   },
   {
@@ -11805,6 +14745,18 @@ export const dailyContent = [
       "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు.",
       "meaningInEnglish": "Dedication",
       "phraseMeaningInEnglish": "You reap what you sow"
+    },
+    "tamil": {
+      "word": "பண்டிகை",
+      "pronunciation": "pantikai",
+      "meaning": "மரபுவழி கொண்டாட்ட நாள்",
+      "example": "தீபாவளி பண்டிகையை அனைவரும் கொண்டாடினர்.",
+      "phrase": "ஓடும் நீர் தேங்காது",
+      "phrasePronunciation": "otum neer thengkaathu",
+      "phraseMeaning": "செயல்படுபவர்கள் முன்னேறுவார்கள்",
+      "phraseExample": "நகர்ந்துகொண்டே இரு — ஓடும் நீர் தேங்காது.",
+      "meaningInEnglish": "Celebration",
+      "phraseMeaningInEnglish": "Running water doesn't stagnate"
     }
   },
   {
@@ -11853,6 +14805,18 @@ export const dailyContent = [
       "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు.",
       "meaningInEnglish": "Trust",
       "phraseMeaningInEnglish": "Education always proves useful"
+    },
+    "tamil": {
+      "word": "கலை",
+      "pronunciation": "kalai",
+      "meaning": "அழகு மற்றும் உணர்வின் வெளிப்பாடு",
+      "example": "கலை மனிதனை உயர்த்தும்.",
+      "phrase": "அளவுக்கு மிஞ்சினால் அமிர்தமும் நஞ்சு",
+      "phrasePronunciation": "alavukku minychinaal amirthamum nanychu",
+      "phraseMeaning": "எதுவும் அளவுக்கு மிஞ்சினால் தீமை",
+      "phraseExample": "அதிகமாக சாப்பிடாதே — அளவுக்கு மிஞ்சினால் அமிர்தமும் நஞ்சு.",
+      "meaningInEnglish": "Art",
+      "phraseMeaningInEnglish": "Even nectar becomes poison in excess"
     }
   },
   {
@@ -11901,6 +14865,18 @@ export const dailyContent = [
       "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది.",
       "meaningInEnglish": "Self-restraint",
       "phraseMeaningInEnglish": "With hard work, the impossible becomes possible"
+    },
+    "tamil": {
+      "word": "இலக்கியம்",
+      "pronunciation": "ilakkiyam",
+      "meaning": "எழுத்து வடிவ படைப்புகள்",
+      "example": "தமிழ் இலக்கியம் பல ஆயிரம் ஆண்டு பழமையானது.",
+      "phrase": "கற்றவன் கண்ணுடையான்",
+      "phrasePronunciation": "karravan kannutaiyaan",
+      "phraseMeaning": "கல்வி கற்றவன் பார்வை உள்ளவன்",
+      "phraseExample": "படித்தால் உலகைப் புரிந்துகொள்ளலாம் — கற்றவன் கண்ணுடையான்.",
+      "meaningInEnglish": "Literature",
+      "phraseMeaningInEnglish": "The learned one has eyes"
     }
   },
   {
@@ -11949,6 +14925,18 @@ export const dailyContent = [
       "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు.",
       "meaningInEnglish": "Experience",
       "phraseMeaningInEnglish": "The ordinary is common, the special is rare"
+    },
+    "tamil": {
+      "word": "கவிதை",
+      "pronunciation": "kavithai",
+      "meaning": "உணர்வுகளை வெளிப்படுத்தும் இலக்கிய வடிவம்",
+      "example": "பாரதியாரின் கவிதைகள் என்றும் பிரபலம்.",
+      "phrase": "நல்லது செய் நல்லது நடக்கும்",
+      "phrasePronunciation": "nallathu chey nallathu natakkum",
+      "phraseMeaning": "நல்லது செய்தால் நல்லது நடக்கும்",
+      "phraseExample": "எப்போதும் நல்லது செய் — நல்லது செய் நல்லது நடக்கும்.",
+      "meaningInEnglish": "Poetry",
+      "phraseMeaningInEnglish": "Do good and good will happen"
     }
   },
   {
@@ -11997,6 +14985,18 @@ export const dailyContent = [
       "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా.",
       "meaningInEnglish": "Evolution",
       "phraseMeaningInEnglish": "Knowing one thing leads to knowing others"
+    },
+    "tamil": {
+      "word": "கதை",
+      "pronunciation": "kathai",
+      "meaning": "நிகழ்வுகளை விவரிக்கும் படைப்பு",
+      "example": "பாட்டி சொல்லும் கதை மிகவும் சுவாரஸ்யம்.",
+      "phrase": "காலம் எல்லாவற்றையும் ஆற்றும்",
+      "phrasePronunciation": "kaalam ellaavarraiyum aarrum",
+      "phraseMeaning": "நேரம் எல்லா வலியையும் குறைக்கும்",
+      "phraseExample": "வருத்தப்படாதே — காலம் எல்லாவற்றையும் ஆற்றும்.",
+      "meaningInEnglish": "Story",
+      "phraseMeaningInEnglish": "Time heals everything"
     }
   },
   {
@@ -12045,6 +15045,18 @@ export const dailyContent = [
       "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు.",
       "meaningInEnglish": "Capability",
       "phraseMeaningInEnglish": "A person's nature doesn't change easily"
+    },
+    "tamil": {
+      "word": "நாடகம்",
+      "pronunciation": "naatakam",
+      "meaning": "அரங்கில் நடிக்கப்படும் கலை வடிவம்",
+      "example": "நாடகம் பண்பாட்டின் கண்ணாடி.",
+      "phrase": "அகத்தின் அழகு முகத்தில் தெரியும்",
+      "phrasePronunciation": "akaththin azhaku mukaththil theriyum",
+      "phraseMeaning": "ஒருவரின் உள் குணம் முகத்தில் வெளிப்படும்",
+      "phraseExample": "அவர் எப்போதும் புன்னகையுடன் இருப்பார் — அகத்தின் அழகு முகத்தில் தெரியும்.",
+      "meaningInEnglish": "Drama",
+      "phraseMeaningInEnglish": "Inner beauty reflects on the face"
     }
   },
   {
@@ -12093,6 +15105,18 @@ export const dailyContent = [
       "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా.",
       "meaningInEnglish": "Purity",
       "phraseMeaningInEnglish": "When hungry, anything tastes good"
+    },
+    "tamil": {
+      "word": "திரைப்படம்",
+      "pronunciation": "thiraippatam",
+      "meaning": "காட்சிக் கலை வடிவம்",
+      "example": "தமிழ் திரைப்படம் உலகப் புகழ் பெற்றது.",
+      "phrase": "ஆறிலும் சாவு நூறிலும் சாவு",
+      "phrasePronunciation": "aarilum chaavu noorilum chaavu",
+      "phraseMeaning": "இறப்பு எப்போது வேண்டுமானாலும் வரலாம்",
+      "phraseExample": "பயப்படாதே, ஆறிலும் சாவு நூறிலும் சாவு என்பார்கள்.",
+      "meaningInEnglish": "Film",
+      "phraseMeaningInEnglish": "Death can come at any age"
     }
   },
   {
@@ -12141,6 +15165,18 @@ export const dailyContent = [
       "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు.",
       "meaningInEnglish": "Blessing",
       "phraseMeaningInEnglish": "New places bring new challenges"
+    },
+    "tamil": {
+      "word": "கட்டடம்",
+      "pronunciation": "kattatam",
+      "meaning": "கட்டப்பட்ட கட்டிடம்",
+      "example": "பழைய கட்டடங்கள் கலை வேலைப்பாடுகளுடன் உள்ளன.",
+      "phrase": "ஊசியைக் கொடுத்து வாளை வாங்கு",
+      "phrasePronunciation": "oochiyaik kotuththu vaalai vaangku",
+      "phraseMeaning": "சிறியது கொடுத்து பெரியது பெறு",
+      "phraseExample": "அவன் சிறு உதவி செய்து பெரிய பலன் பெற்றான் — ஊசியைக் கொடுத்து வாளை வாங்கினான்.",
+      "meaningInEnglish": "Building",
+      "phraseMeaningInEnglish": "Give a needle, get a sword"
     }
   },
   {
@@ -12189,6 +15225,18 @@ export const dailyContent = [
       "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా.",
       "meaningInEnglish": "Creativity",
       "phraseMeaningInEnglish": "Every mother loves her own child most"
+    },
+    "tamil": {
+      "word": "சிற்பம்",
+      "pronunciation": "chirpam",
+      "meaning": "கல் அல்லது உலோகத்தில் செதுக்கிய உருவம்",
+      "example": "மாமல்லபுரம் சிற்பங்கள் உலகப்புகழ் பெற்றவை.",
+      "phrase": "ஆழம் தெரியாமல் காலை விடாதே",
+      "phrasePronunciation": "aazham theriyaamal kaalai vitaathe",
+      "phraseMeaning": "எதையும் புரிந்துகொள்ளாமல் செய்யாதே",
+      "phraseExample": "புதிய வணிகத்தில் ஆழம் தெரியாமல் காலை விடாதே.",
+      "meaningInEnglish": "Sculpture",
+      "phraseMeaningInEnglish": "Don't step in without knowing the depth"
     }
   },
   {
@@ -12237,6 +15285,18 @@ export const dailyContent = [
       "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు.",
       "meaningInEnglish": "Mercy",
       "phraseMeaningInEnglish": "Adding insult to injury"
+    },
+    "tamil": {
+      "word": "சமையல்",
+      "pronunciation": "chamaiyal",
+      "meaning": "உணவு தயாரிக்கும் செயல்",
+      "example": "தமிழ்ச் சமையல் சுவையானது.",
+      "phrase": "கல்லாதது உலகளவு",
+      "phrasePronunciation": "kallaathathu ulakalavu",
+      "phraseMeaning": "கற்றது மிகக் குறைவு",
+      "phraseExample": "எவ்வளவு படித்தாலும் கல்லாதது உலகளவு.",
+      "meaningInEnglish": "Cooking",
+      "phraseMeaningInEnglish": "What you haven't learned is as vast as the world"
     }
   },
   {
@@ -12285,6 +15345,18 @@ export const dailyContent = [
       "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం.",
       "meaningInEnglish": "Balance",
       "phraseMeaningInEnglish": "Leaving what you have for something uncertain"
+    },
+    "tamil": {
+      "word": "உடை",
+      "pronunciation": "utai",
+      "meaning": "உடலில் அணியும் ஆடை",
+      "example": "பாரம்பரிய உடை அழகாக இருக்கும்.",
+      "phrase": "விளையும் பயிர் முளையிலே தெரியும்",
+      "phrasePronunciation": "vilaiyum payir mulaiyile theriyum",
+      "phraseMeaning": "திறமை சிறு வயதிலேயே வெளிப்படும்",
+      "phraseExample": "அந்தக் குழந்தை நன்றாக படிக்கிறது — விளையும் பயிர் முளையிலே தெரியும்.",
+      "meaningInEnglish": "Clothing",
+      "phraseMeaningInEnglish": "A promising crop shows in the sprout"
     }
   },
   {
@@ -12333,6 +15405,18 @@ export const dailyContent = [
       "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు.",
       "meaningInEnglish": "Victory",
       "phraseMeaningInEnglish": "Routine for the experienced"
+    },
+    "tamil": {
+      "word": "நகை",
+      "pronunciation": "nakai",
+      "meaning": "உடலில் அணியும் அலங்காரப் பொருள்",
+      "example": "தங்க நகை தமிழ் கலாசாரத்தில் முக்கியம்.",
+      "phrase": "ஒரு கை தட்டினால் ஓசை வராது",
+      "phrasePronunciation": "oru kai thattinaal ochai varaathu",
+      "phraseMeaning": "இருவர் இணைந்தால்தான் செயல் நிறைவேறும்",
+      "phraseExample": "ஒரு கை தட்டினால் ஓசை வராது, எல்லோரும் சேர்ந்து உழைக்க வேண்டும்.",
+      "meaningInEnglish": "Jewelry",
+      "phraseMeaningInEnglish": "One hand clapping makes no sound"
     }
   },
   {
@@ -12381,6 +15465,18 @@ export const dailyContent = [
       "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది.",
       "meaningInEnglish": "Unity",
       "phraseMeaningInEnglish": "When one is careless, another profits"
+    },
+    "tamil": {
+      "word": "வாகனம்",
+      "pronunciation": "vaakanam",
+      "meaning": "பயணிக்க உதவும் கருவி",
+      "example": "மின் வாகனம் சுற்றுச்சூழலுக்கு நல்லது.",
+      "phrase": "பசி வந்திடப் பத்தும் பறந்திடும்",
+      "phrasePronunciation": "pachi vanthitap paththum paranthitum",
+      "phraseMeaning": "பசி வந்தால் எல்லா நெறிகளும் போய்விடும்",
+      "phraseExample": "ஏழைகள் தவறு செய்கிறார்கள் என்று சொல்லாதே — பசி வந்திடப் பத்தும் பறந்திடும்.",
+      "meaningInEnglish": "Vehicle",
+      "phraseMeaningInEnglish": "When hunger comes, all virtues fly away"
     }
   },
   {
@@ -12429,6 +15525,18 @@ export const dailyContent = [
       "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు.",
       "meaningInEnglish": "Affection",
       "phraseMeaningInEnglish": "Don't give pearls to those who can't value them"
+    },
+    "tamil": {
+      "word": "படகு",
+      "pronunciation": "pataku",
+      "meaning": "நீரில் செல்லும் வாகனம்",
+      "example": "மீனவர்கள் படகில் கடலுக்கு சென்றனர்.",
+      "phrase": "கற்றது கைமண் அளவு",
+      "phrasePronunciation": "karrathu kaiman alavu",
+      "phraseMeaning": "கற்ற அறிவு மிகக் குறைவு",
+      "phraseExample": "நான் டாக்டர் ஆனாலும் கற்றது கைமண் அளவுதான்.",
+      "meaningInEnglish": "Boat",
+      "phraseMeaningInEnglish": "What you've learned is just a handful"
     }
   },
   {
@@ -12477,6 +15585,18 @@ export const dailyContent = [
       "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి.",
       "meaningInEnglish": "Enthusiasm",
       "phraseMeaningInEnglish": "Bad company corrupts good character"
+    },
+    "tamil": {
+      "word": "விமானம்",
+      "pronunciation": "vimaanam",
+      "meaning": "வானில் பறக்கும் வாகனம்",
+      "example": "விமானம் வேகமான போக்குவரத்து.",
+      "phrase": "முயற்சி திருவினையாக்கும்",
+      "phrasePronunciation": "muyarchi thiruvinaiyaakkum",
+      "phraseMeaning": "முயற்சி வெற்றியைத் தரும்",
+      "phraseExample": "தொடர்ந்து முயற்சி செய் — முயற்சி திருவினையாக்கும்.",
+      "meaningInEnglish": "Airplane",
+      "phraseMeaningInEnglish": "Effort leads to success"
     }
   },
   {
@@ -12525,6 +15645,18 @@ export const dailyContent = [
       "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది.",
       "meaningInEnglish": "Standard",
       "phraseMeaningInEnglish": "Helping others brings inner peace"
+    },
+    "tamil": {
+      "word": "ஆபத்து",
+      "pronunciation": "aapaththu",
+      "meaning": "உயிருக்கு அச்சுறுத்தல்",
+      "example": "ஆபத்தில் அமைதியாக செயல்பட வேண்டும்.",
+      "phrase": "அறிவே ஆற்றல்",
+      "phrasePronunciation": "arive aarral",
+      "phraseMeaning": "அறிவுதான் உண்மையான சக்தி",
+      "phraseExample": "படி, அறிவே ஆற்றல் என்பதை மறவாதே.",
+      "meaningInEnglish": "Danger",
+      "phraseMeaningInEnglish": "Knowledge is power"
     }
   },
   {
@@ -12573,6 +15705,18 @@ export const dailyContent = [
       "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి.",
       "meaningInEnglish": "Awareness",
       "phraseMeaningInEnglish": "Nothing is permanent"
+    },
+    "tamil": {
+      "word": "பாதுகாப்பு",
+      "pronunciation": "paathukaappu",
+      "meaning": "ஆபத்திலிருந்து காத்தல்",
+      "example": "குழந்தைகளின் பாதுகாப்பு முக்கியம்.",
+      "phrase": "பொறுமை கடலினும் பெரிது",
+      "phrasePronunciation": "porumai katalinum perithu",
+      "phraseMeaning": "பொறுமை மிகவும் முக்கியம்",
+      "phraseExample": "கோபப்படாதே, பொறுமை கடலினும் பெரிது.",
+      "meaningInEnglish": "Safety",
+      "phraseMeaningInEnglish": "Patience is greater than the ocean"
     }
   },
   {
@@ -12621,6 +15765,18 @@ export const dailyContent = [
       "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు.",
       "meaningInEnglish": "Hospitality",
       "phraseMeaningInEnglish": "Listener needs wisdom, speaker needs patience"
+    },
+    "tamil": {
+      "word": "நம்பகத்தன்மை",
+      "pronunciation": "nampakaththanmai",
+      "meaning": "நம்பிக்கைக்கு தகுந்த நிலை",
+      "example": "நம்பகத்தன்மை நட்பின் அடிப்படை.",
+      "phrase": "நேரம் காத்திருக்காது",
+      "phrasePronunciation": "neram kaaththirukkaathu",
+      "phraseMeaning": "நேரத்தை வீணாக்கக்கூடாது",
+      "phraseExample": "படிக்க ஆரம்பி, நேரம் காத்திருக்காது.",
+      "meaningInEnglish": "Reliability",
+      "phraseMeaningInEnglish": "Time waits for no one"
     }
   },
   {
@@ -12669,6 +15825,18 @@ export const dailyContent = [
       "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు.",
       "meaningInEnglish": "Cooperation",
       "phraseMeaningInEnglish": "To appear very grand and impressive"
+    },
+    "tamil": {
+      "word": "பொறுப்பு",
+      "pronunciation": "poruppu",
+      "meaning": "செய்ய வேண்டிய கடமை",
+      "example": "ஒவ்வொருவரும் தம் பொறுப்பை உணர வேண்டும்.",
+      "phrase": "ஒற்றுமையில் பலம்",
+      "phrasePronunciation": "orrumaiyil palam",
+      "phraseMeaning": "ஒன்றாக இருந்தால் வலிமை உண்டு",
+      "phraseExample": "குடும்பம் ஒன்றாக இருக்க வேண்டும் — ஒற்றுமையில் பலம்.",
+      "meaningInEnglish": "Responsibility",
+      "phraseMeaningInEnglish": "Unity is strength"
     }
   },
   {
@@ -12717,6 +15885,18 @@ export const dailyContent = [
       "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది.",
       "meaningInEnglish": "Humility",
       "phraseMeaningInEnglish": "Hard work yields suitable rewards"
+    },
+    "tamil": {
+      "word": "நேர்மை",
+      "pronunciation": "nermai",
+      "meaning": "உண்மையுடன் நடத்தல்",
+      "example": "நேர்மை சிறந்த கொள்கை.",
+      "phrase": "ஆபத்துக்கு உதவுபவனே நண்பன்",
+      "phrasePronunciation": "aapaththukku uthavupavane nanpan",
+      "phraseMeaning": "உண்மையான நண்பன் கஷ்ட நேரத்தில் உதவுவான்",
+      "phraseExample": "எல்லாரும் ஓடிவிட்டார்கள் அவன் மட்டும் நின்றான் — ஆபத்துக்கு உதவுபவனே நண்பன்.",
+      "meaningInEnglish": "Integrity",
+      "phraseMeaningInEnglish": "A friend in need is a friend indeed"
     }
   },
   {
@@ -12765,6 +15945,18 @@ export const dailyContent = [
       "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు.",
       "meaningInEnglish": "Profound wisdom",
       "phraseMeaningInEnglish": "Sour grapes; dismissing what you can't get"
+    },
+    "tamil": {
+      "word": "சேவை",
+      "pronunciation": "chevai",
+      "meaning": "பிறருக்கு உதவி செய்தல்",
+      "example": "சமுதாய சேவை புண்ணியம்.",
+      "phrase": "காற்றுள்ள போதே தூற்றிக்கொள்",
+      "phrasePronunciation": "kaarrulla pothe thoorrikkol",
+      "phraseMeaning": "வாய்ப்பு இருக்கும்போதே பயன்படுத்திக்கொள்",
+      "phraseExample": "இளமையில் படி — காற்றுள்ள போதே தூற்றிக்கொள்.",
+      "meaningInEnglish": "Service",
+      "phraseMeaningInEnglish": "Make hay while the sun shines"
     }
   },
   {
@@ -12813,6 +16005,18 @@ export const dailyContent = [
       "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి.",
       "meaningInEnglish": "Beauty",
       "phraseMeaningInEnglish": "Actions don't match words; hypocrisy"
+    },
+    "tamil": {
+      "word": "தன்னலமின்மை",
+      "pronunciation": "thannalaminmai",
+      "meaning": "தன் நலம் கருதாமை",
+      "example": "தன்னலமின்மையே தலைவனின் குணம்.",
+      "phrase": "நாய் விற்ற காசு குரைக்காது",
+      "phrasePronunciation": "naay virra kaachu kuraikkaathu",
+      "phraseMeaning": "தவறான வழியில் சம்பாதித்தது நிலைக்காது",
+      "phraseExample": "ஏமாற்றி சம்பாதித்தால் என்ன பயன் — நாய் விற்ற காசு குரைக்காது.",
+      "meaningInEnglish": "Selflessness",
+      "phraseMeaningInEnglish": "Ill-gotten gains won't last"
     }
   },
   {
@@ -12861,6 +16065,18 @@ export const dailyContent = [
       "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు.",
       "meaningInEnglish": "Compassion",
       "phraseMeaningInEnglish": "One without ability can't do big things"
+    },
+    "tamil": {
+      "word": "விருப்பம்",
+      "pronunciation": "viruppam",
+      "meaning": "ஏதாவது செய்ய நினைக்கும் எண்ணம்",
+      "example": "படிக்கும் விருப்பம் வெற்றிக்கு வழி.",
+      "phrase": "நெருப்பு இல்லாமல் புகை வராது",
+      "phrasePronunciation": "neruppu illaamal pukai varaathu",
+      "phraseMeaning": "காரணம் இல்லாமல் விளைவு இல்லை",
+      "phraseExample": "வதந்தி பரவுகிறது என்றால் ஏதோ நடந்திருக்கும் — நெருப்பு இல்லாமல் புகை வராது.",
+      "meaningInEnglish": "Wish",
+      "phraseMeaningInEnglish": "No smoke without fire"
     }
   },
   {
@@ -12909,6 +16125,18 @@ export const dailyContent = [
       "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా.",
       "meaningInEnglish": "Perfection",
       "phraseMeaningInEnglish": "Results come when you get to work"
+    },
+    "tamil": {
+      "word": "குறிக்கோள்",
+      "pronunciation": "kurikkol",
+      "meaning": "அடைய நினைக்கும் இலக்கு",
+      "example": "தெளிவான குறிக்கோள் வாழ்க்கைக்கு வழிகாட்டும்.",
+      "phrase": "யானைக்கும் அடி சறுக்கும்",
+      "phrasePronunciation": "yaanaikkum ati charukkum",
+      "phraseMeaning": "பெரியவர்களும் தவறு செய்வார்கள்",
+      "phraseExample": "கவலைப்படாதே, யானைக்கும் அடி சறுக்கும்.",
+      "meaningInEnglish": "Goal",
+      "phraseMeaningInEnglish": "Even an elephant can slip"
     }
   },
   {
@@ -12957,6 +16185,18 @@ export const dailyContent = [
       "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు.",
       "meaningInEnglish": "Entertainment",
       "phraseMeaningInEnglish": "Nothing works on time for the poor"
+    },
+    "tamil": {
+      "word": "வெளிச்சம்",
+      "pronunciation": "velichcham",
+      "meaning": "பிரகாசமான ஒளி நிலை",
+      "example": "வெளிச்சம் இருள் நீக்கும்.",
+      "phrase": "தன் வினை தன்னைச் சுடும்",
+      "phrasePronunciation": "than vinai thannaich chutum",
+      "phraseMeaning": "ஒருவரின் தீய செயல்கள் அவரையே பாதிக்கும்",
+      "phraseExample": "பொய் சொல்லி மாட்டிக்கொண்டான் — தன் வினை தன்னைச் சுடும்.",
+      "meaningInEnglish": "Brightness",
+      "phraseMeaningInEnglish": "One's own deeds will burn oneself"
     }
   },
   {
@@ -13005,6 +16245,18 @@ export const dailyContent = [
       "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది.",
       "meaningInEnglish": "Culture",
       "phraseMeaningInEnglish": "Good intentions find a way"
+    },
+    "tamil": {
+      "word": "நிலம்",
+      "pronunciation": "nilam",
+      "meaning": "நாம் நிற்கும் புவிப்பரப்பு",
+      "example": "வளமான நிலம் விவசாயத்திற்கு ஏற்றது.",
+      "phrase": "ஆத்திரக்காரனுக்கு புத்தி மட்டு",
+      "phrasePronunciation": "aaththirakkaaranukku puththi mattu",
+      "phraseMeaning": "கோபமான நபர் சரியாக சிந்திக்க மாட்டார்",
+      "phraseExample": "அவசரப்படாதே — ஆத்திரக்காரனுக்கு புத்தி மட்டு.",
+      "meaningInEnglish": "Land",
+      "phraseMeaningInEnglish": "An angry person has limited wisdom"
     }
   },
   {
@@ -13053,6 +16305,18 @@ export const dailyContent = [
       "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే.",
       "meaningInEnglish": "Radiance",
       "phraseMeaningInEnglish": "Faith makes anything possible"
+    },
+    "tamil": {
+      "word": "கால்நடை",
+      "pronunciation": "kaalnatai",
+      "meaning": "வீட்டில் வளர்க்கப்படும் விலங்கு",
+      "example": "கால்நடை வளர்ப்பு கிராமப்புற வாழ்வின் அங்கம்.",
+      "phrase": "ஏட்டுச் சுரைக்காய் கறிக்கு உதவாது",
+      "phrasePronunciation": "ettuch churaikkaay karikku uthavaathu",
+      "phraseMeaning": "புத்தக அறிவு மட்டும் போதாது",
+      "phraseExample": "நடைமுறை அனுபவம் வேண்டும் — ஏட்டுச் சுரைக்காய் கறிக்கு உதவாது.",
+      "meaningInEnglish": "Cattle",
+      "phraseMeaningInEnglish": "Book knowledge alone won't do"
     }
   },
   {
@@ -13101,6 +16365,18 @@ export const dailyContent = [
       "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది.",
       "meaningInEnglish": "Love",
       "phraseMeaningInEnglish": "Every great thing starts small"
+    },
+    "tamil": {
+      "word": "வானிலை",
+      "pronunciation": "vaanilai",
+      "meaning": "குறிப்பிட்ட நேரத்தின் காலநிலை",
+      "example": "இன்றைய வானிலை மிகவும் இனிமையாக உள்ளது.",
+      "phrase": "ஒரு பானை சோற்றுக்கு ஒரு சோறு பதம்",
+      "phrasePronunciation": "oru paanai chorrukku oru choru patham",
+      "phraseMeaning": "சிறிய மாதிரியிலிருந்து முழுதையும் அறியலாம்",
+      "phraseExample": "ஒரு பானை சோற்றுக்கு ஒரு சோறு பதம் — ஒரு பகுதியை பார்த்தே தெரிந்துகொள்ளலாம்.",
+      "meaningInEnglish": "Weather",
+      "phraseMeaningInEnglish": "One grain tells if the pot is cooked"
     }
   },
   {
@@ -13149,6 +16425,18 @@ export const dailyContent = [
       "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు.",
       "meaningInEnglish": "Freedom",
       "phraseMeaningInEnglish": "Laughter is the best medicine"
+    },
+    "tamil": {
+      "word": "சிக்கல்",
+      "pronunciation": "chikkal",
+      "meaning": "தீர்க்க வேண்டிய பிரச்சனை",
+      "example": "சிக்கலுக்கு அமைதியாக தீர்வு காண வேண்டும்.",
+      "phrase": "யாதும் ஊரே யாவரும் கேளிர்",
+      "phrasePronunciation": "yaathum oore yaavarum kelir",
+      "phraseMeaning": "எல்லா ஊரும் நம் ஊர் எல்லோரும் நம் உறவு",
+      "phraseExample": "பாகுபாடு வேண்டாம் — யாதும் ஊரே யாவரும் கேளிர்.",
+      "meaningInEnglish": "Problem",
+      "phraseMeaningInEnglish": "Every place is home, everyone is kin"
     }
   },
   {
@@ -13197,6 +16485,18 @@ export const dailyContent = [
       "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు.",
       "meaningInEnglish": "Intellect",
       "phraseMeaningInEnglish": "Trust, once lost, is hard to regain"
+    },
+    "tamil": {
+      "word": "தீர்வு",
+      "pronunciation": "theervu",
+      "meaning": "சிக்கலுக்கான விடை",
+      "example": "ஒவ்வொரு சிக்கலுக்கும் ஒரு தீர்வு உண்டு.",
+      "phrase": "கற்க கசடறக் கற்பவை",
+      "phrasePronunciation": "karka kachatarak karpavai",
+      "phraseMeaning": "கற்க வேண்டியதை குறைவின்றி கற்க வேண்டும்",
+      "phraseExample": "ஒழுங்காக படி — கற்க கசடறக் கற்பவை.",
+      "meaningInEnglish": "Solution",
+      "phraseMeaningInEnglish": "Learn thoroughly what is worth learning"
     }
   },
   {
@@ -13245,6 +16545,18 @@ export const dailyContent = [
       "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు.",
       "meaningInEnglish": "Consolation",
       "phraseMeaningInEnglish": "In the land of the blind, the one-eyed is king"
+    },
+    "tamil": {
+      "word": "வாய்ப்பு",
+      "pronunciation": "vaayppu",
+      "meaning": "சாதகமான சூழ்நிலை",
+      "example": "வாய்ப்பை பயன்படுத்திக் கொள்.",
+      "phrase": "உழைப்பே உயர்வு",
+      "phrasePronunciation": "uzhaippe uyarvu",
+      "phraseMeaning": "கடின உழைப்பு உயர்வுக்கு வழிவகுக்கும்",
+      "phraseExample": "சோம்பேறித்தனம் விடு — உழைப்பே உயர்வு.",
+      "meaningInEnglish": "Opportunity",
+      "phraseMeaningInEnglish": "Hard work is the path to elevation"
     }
   },
   {
@@ -13293,6 +16605,18 @@ export const dailyContent = [
       "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది.",
       "meaningInEnglish": "Benevolence",
       "phraseMeaningInEnglish": "Strong roots help you rise again"
+    },
+    "tamil": {
+      "word": "சவால்",
+      "pronunciation": "chavaal",
+      "meaning": "எதிர்கொள்ள வேண்டிய கடினமான நிலை",
+      "example": "சவாலை ஏற்றுக்கொள் வெற்றி நிச்சயம்.",
+      "phrase": "கடமையைச் செய் பலனை எதிர்பாராதே",
+      "phrasePronunciation": "katamaiyaich chey palanai ethirpaaraathe",
+      "phraseMeaning": "கடமையை செய்துவிட்டு பலனுக்காக ஏங்காதே",
+      "phraseExample": "நல்லது செய் — கடமையைச் செய் பலனை எதிர்பாராதே.",
+      "meaningInEnglish": "Challenge",
+      "phraseMeaningInEnglish": "Do your duty without expecting rewards"
     }
   },
   {
@@ -13341,6 +16665,18 @@ export const dailyContent = [
       "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే.",
       "meaningInEnglish": "Renunciation",
       "phraseMeaningInEnglish": "A leopard can't change its spots"
+    },
+    "tamil": {
+      "word": "இலக்கு",
+      "pronunciation": "ilakku",
+      "meaning": "அடைய நினைக்கும் குறிப்பிட்ட நோக்கம்",
+      "example": "இலக்கு இல்லாத வாழ்க்கை திசையற்றது.",
+      "phrase": "அன்பே சிவம்",
+      "phrasePronunciation": "anpe chivam",
+      "phraseMeaning": "அன்புதான் கடவுள்",
+      "phraseExample": "எல்லோரிடமும் அன்பாக இரு — அன்பே சிவம்.",
+      "meaningInEnglish": "Target",
+      "phraseMeaningInEnglish": "Love is God"
     }
   },
   {
@@ -13389,6 +16725,18 @@ export const dailyContent = [
       "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు.",
       "meaningInEnglish": "Conflict",
       "phraseMeaningInEnglish": "Don't bite the hand that feeds you"
+    },
+    "tamil": {
+      "word": "நோக்கம்",
+      "pronunciation": "nokkam",
+      "meaning": "செயலின் பின்னால் உள்ள காரணம்",
+      "example": "நல்ல நோக்கம் நல்ல பலன் தரும்.",
+      "phrase": "பழக்கம் இரண்டாவது இயற்கை",
+      "phrasePronunciation": "pazhakkam irantaavathu iyarkai",
+      "phraseMeaning": "தொடர்ந்து செய்வது இயல்பாக மாறும்",
+      "phraseExample": "தினமும் படிப்பது கடினம் ஆனால் பழக்கம் இரண்டாவது இயற்கை.",
+      "meaningInEnglish": "Purpose",
+      "phraseMeaningInEnglish": "Habit is second nature"
     }
   },
   {
@@ -13437,6 +16785,18 @@ export const dailyContent = [
       "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు.",
       "meaningInEnglish": "Tranquility",
       "phraseMeaningInEnglish": "Distant hills look green"
+    },
+    "tamil": {
+      "word": "மதிப்பு",
+      "pronunciation": "mathippu",
+      "meaning": "ஒன்றின் முக்கியத்துவம்",
+      "example": "நேரத்தின் மதிப்பை உணர வேண்டும்.",
+      "phrase": "வெல்லுவது விவேகம்",
+      "phrasePronunciation": "velluvathu vivekam",
+      "phraseMeaning": "அறிவுதான் வெற்றிக்கு வழி",
+      "phraseExample": "பலம் அல்ல அறிவு முக்கியம் — வெல்லுவது விவேகம்.",
+      "meaningInEnglish": "Value",
+      "phraseMeaningInEnglish": "Wisdom wins"
     }
   },
   {
@@ -13485,6 +16845,18 @@ export const dailyContent = [
       "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది.",
       "meaningInEnglish": "Greatness",
       "phraseMeaningInEnglish": "Stand firm even in adversity"
+    },
+    "tamil": {
+      "word": "மாண்பு",
+      "pronunciation": "maanpu",
+      "meaning": "உயர்ந்த தன்மை",
+      "example": "மாண்புமிகு செயல்கள் புகழைத் தரும்.",
+      "phrase": "தீயினால் சுட்டபுண் உள்ளாறும்",
+      "phrasePronunciation": "theeyinaal chuttapun ullaarum",
+      "phraseMeaning": "நெருப்பு காயம் ஆறும் ஆனால் சொல் காயம் ஆறாது",
+      "phraseExample": "கடும் சொல் சொல்லாதே — தீயினால் சுட்டபுண் உள்ளாறும் நாவினால் சுட்டபுண் ஆறாது.",
+      "meaningInEnglish": "Honor",
+      "phraseMeaningInEnglish": "A burn heals but harsh words don't"
     }
   },
   {
@@ -13533,6 +16905,18 @@ export const dailyContent = [
       "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు.",
       "meaningInEnglish": "Wealth",
       "phraseMeaningInEnglish": "Failing to plan is planning to fail"
+    },
+    "tamil": {
+      "word": "பொருளாதாரம்",
+      "pronunciation": "porulaathaaram",
+      "meaning": "நாட்டின் பணவியல் நிலை",
+      "example": "வலுவான பொருளாதாரம் நாட்டின் வளர்ச்சிக்கு அவசியம்.",
+      "phrase": "அடி உதவாத இடத்தில் மிதி உதவும்",
+      "phrasePronunciation": "ati uthavaatha itaththil mithi uthavum",
+      "phraseMeaning": "ஒரு முறை பலிக்காவிட்டால் வேறு வழி முயற்சி செய்",
+      "phraseExample": "மாற்று வழியை யோசி — அடி உதவாத இடத்தில் மிதி உதவும்.",
+      "meaningInEnglish": "Economy",
+      "phraseMeaningInEnglish": "If one way fails, try another"
     }
   },
   {
@@ -13581,6 +16965,18 @@ export const dailyContent = [
       "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది.",
       "meaningInEnglish": "Heroism",
       "phraseMeaningInEnglish": "Everything has its time and use"
+    },
+    "tamil": {
+      "word": "வணிகம்",
+      "pronunciation": "vanikam",
+      "meaning": "பொருள் வாங்கி விற்கும் தொழில்",
+      "example": "சர்வதேச வணிகம் பெருகியுள்ளது.",
+      "phrase": "குரங்கு கையில் பூமாலை",
+      "phrasePronunciation": "kurangku kaiyil poomaalai",
+      "phraseMeaning": "தகுதி இல்லாதவனிடம் சிறந்த பொருள்",
+      "phraseExample": "அவனிடம் கொடுத்தால் வீணாகும் — குரங்கு கையில் பூமாலை.",
+      "meaningInEnglish": "Commerce",
+      "phraseMeaningInEnglish": "A garland in a monkey's hand"
     }
   },
   {
@@ -13629,6 +17025,18 @@ export const dailyContent = [
       "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు.",
       "meaningInEnglish": "Sympathy",
       "phraseMeaningInEnglish": "Brain over brawn"
+    },
+    "tamil": {
+      "word": "கைத்தொழில்",
+      "pronunciation": "kaiththozhil",
+      "meaning": "கையால் செய்யப்படும் தொழில்",
+      "example": "கைத்தொழில் கலைஞர்களை ஊக்குவிக்க வேண்டும்.",
+      "phrase": "நுணலும் தன் வாயால் கெடும்",
+      "phrasePronunciation": "nunalum than vaayaal ketum",
+      "phraseMeaning": "ஒருவர் தன் பேச்சால் கெடுவார்",
+      "phraseExample": "அதிகமாக பேசாதே — நுணலும் தன் வாயால் கெடும்.",
+      "meaningInEnglish": "Handicraft",
+      "phraseMeaningInEnglish": "The frog perishes by its own mouth"
     }
   },
   {
@@ -13677,6 +17085,18 @@ export const dailyContent = [
       "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట.",
       "meaningInEnglish": "Abundance",
       "phraseMeaningInEnglish": "Elders' advice is always valuable"
+    },
+    "tamil": {
+      "word": "விவசாயம்",
+      "pronunciation": "vivachaayam",
+      "meaning": "நிலத்தில் பயிர் செய்யும் தொழில்",
+      "example": "விவசாயம் இந்தியாவின் முதுகெலும்பு.",
+      "phrase": "மாற்றான் தோட்டத்து மல்லிகையும் மணக்கும்",
+      "phrasePronunciation": "maarraan thottaththu mallikaiyum manakkum",
+      "phraseMeaning": "பிறர் பொருளும் நன்றாகத் தெரியும்",
+      "phraseExample": "உன் வேலையை பாரு — மாற்றான் தோட்டத்து மல்லிகையும் மணக்கும்.",
+      "meaningInEnglish": "Agriculture",
+      "phraseMeaningInEnglish": "The grass is always greener on the other side"
     }
   },
   {
@@ -13725,6 +17145,18 @@ export const dailyContent = [
       "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం.",
       "meaningInEnglish": "Importance",
       "phraseMeaningInEnglish": "Words carry great power"
+    },
+    "tamil": {
+      "word": "மீனவம்",
+      "pronunciation": "meenavam",
+      "meaning": "மீன் பிடிக்கும் தொழில்",
+      "example": "கடலோரத்தில் மீனவம் முக்கிய தொழில்.",
+      "phrase": "ஊர் இரண்டு பட்டால் கூத்தாடிக்கு கொண்டாட்டம்",
+      "phrasePronunciation": "oor irantu pattaal kooththaatikku kontaattam",
+      "phraseMeaning": "மற்றவர் சண்டையால் சிலர் பயன்பெறுவர்",
+      "phraseExample": "இருவர் சண்டையில் மூன்றாமவன் லாபம் — ஊர் இரண்டு பட்டால் கூத்தாடிக்கு கொண்டாட்டம்.",
+      "meaningInEnglish": "Fishing",
+      "phraseMeaningInEnglish": "When two quarrel, a third benefits"
     }
   },
   {
@@ -13773,6 +17205,18 @@ export const dailyContent = [
       "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది.",
       "meaningInEnglish": "Friendship",
       "phraseMeaningInEnglish": "To guard something very preciously"
+    },
+    "tamil": {
+      "word": "நெசவு",
+      "pronunciation": "nechavu",
+      "meaning": "நூலை ஆடையாக நெய்யும் தொழில்",
+      "example": "காஞ்சிபுரம் நெசவு உலகப் புகழ் பெற்றது.",
+      "phrase": "நல்லதை நினை",
+      "phrasePronunciation": "nallathai ninai",
+      "phraseMeaning": "நல்ல எண்ணங்களை வளர்",
+      "phraseExample": "எதிர்மறையாக யோசிக்காதே — நல்லதை நினை.",
+      "meaningInEnglish": "Weaving",
+      "phraseMeaningInEnglish": "Think positive thoughts"
     }
   },
   {
@@ -13821,6 +17265,18 @@ export const dailyContent = [
       "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు.",
       "meaningInEnglish": "Feeling",
       "phraseMeaningInEnglish": "Old habits die hard"
+    },
+    "tamil": {
+      "word": "வண்ணம்",
+      "pronunciation": "vannam",
+      "meaning": "நிறம் மற்றும் அழகு",
+      "example": "வாழ்க்கை பல வண்ணம் கொண்டது.",
+      "phrase": "அறம் செய விரும்பு",
+      "phrasePronunciation": "aram cheya virumpu",
+      "phraseMeaning": "நல்லது செய்ய ஆசைப்படு",
+      "phraseExample": "எப்போதும் அறம் செய விரும்பு.",
+      "meaningInEnglish": "Hue",
+      "phraseMeaningInEnglish": "Desire to do good"
     }
   },
   {
@@ -13869,6 +17325,18 @@ export const dailyContent = [
       "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం.",
       "meaningInEnglish": "Coordination",
       "phraseMeaningInEnglish": "Knowing the truth but staying silent"
+    },
+    "tamil": {
+      "word": "ரசனை",
+      "pronunciation": "rachanai",
+      "meaning": "அழகை உணரும் திறன்",
+      "example": "கலை ரசனை பயிற்சியால் வளரும்.",
+      "phrase": "கொடுப்பதும் ஒரு சுகம்",
+      "phrasePronunciation": "kotuppathum oru chukam",
+      "phraseMeaning": "பிறருக்கு கொடுப்பதில் மகிழ்ச்சி உண்டு",
+      "phraseExample": "உதவி செய்தால் நமக்கே நல்லது — கொடுப்பதும் ஒரு சுகம்.",
+      "meaningInEnglish": "Appreciation",
+      "phraseMeaningInEnglish": "Giving is also a pleasure"
     }
   },
   {
@@ -13917,6 +17385,18 @@ export const dailyContent = [
       "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది.",
       "meaningInEnglish": "Health",
       "phraseMeaningInEnglish": "Feeling very pleasant and comfortable"
+    },
+    "tamil": {
+      "word": "முன்னேற்றம்",
+      "pronunciation": "munnerram",
+      "meaning": "முன்னோக்கிச் செல்லுதல்",
+      "example": "தொடர்ந்து முன்னேற்றம் அடைய வேண்டும்.",
+      "phrase": "இன்றைய உழைப்பு நாளைய வெற்றி",
+      "phrasePronunciation": "inraiya uzhaippu naalaiya verri",
+      "phraseMeaning": "இன்று உழைத்தால் நாளை வெற்றி கிடைக்கும்",
+      "phraseExample": "சோம்பல் விடு — இன்றைய உழைப்பு நாளைய வெற்றி.",
+      "meaningInEnglish": "Progress",
+      "phraseMeaningInEnglish": "Today's hard work is tomorrow's success"
     }
   },
   {
@@ -13965,6 +17445,18 @@ export const dailyContent = [
       "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా.",
       "meaningInEnglish": "Discernment",
       "phraseMeaningInEnglish": "Children follow what elders do"
+    },
+    "tamil": {
+      "word": "பங்கு",
+      "pronunciation": "pangku",
+      "meaning": "ஒன்றில் உள்ள பகுதி",
+      "example": "ஒவ்வொருவருக்கும் சமூகத்தில் ஒரு பங்கு உள்ளது.",
+      "phrase": "வாழ்க வளமுடன்",
+      "phrasePronunciation": "vaazhka valamutan",
+      "phraseMeaning": "செழிப்புடன் வாழ வாழ்த்து",
+      "phraseExample": "எல்லோருக்கும் வாழ்க வளமுடன் என்று வாழ்த்துகிறேன்.",
+      "meaningInEnglish": "Share",
+      "phraseMeaningInEnglish": "Live with prosperity"
     }
   },
   {
@@ -14013,6 +17505,18 @@ export const dailyContent = [
       "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం.",
       "meaningInEnglish": "Aspiration",
       "phraseMeaningInEnglish": "Nothing is possible alone; teamwork matters"
+    },
+    "tamil": {
+      "word": "விருது",
+      "pronunciation": "viruthu",
+      "meaning": "சிறப்புக்கான அங்கீகாரம்",
+      "example": "சிறந்த மாணவனுக்கு விருது வழங்கப்பட்டது.",
+      "phrase": "பொது நலம் போற்று",
+      "phrasePronunciation": "pothu nalam porru",
+      "phraseMeaning": "அனைவரின் நன்மையை நாடு",
+      "phraseExample": "சுயநலம் விடு — பொது நலம் போற்று.",
+      "meaningInEnglish": "Award",
+      "phraseMeaningInEnglish": "Promote the common good"
     }
   },
   {
@@ -14061,6 +17565,18 @@ export const dailyContent = [
       "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు.",
       "meaningInEnglish": "Prestige",
       "phraseMeaningInEnglish": "A bad name sticks no matter what"
+    },
+    "tamil": {
+      "word": "புகழ்",
+      "pronunciation": "pukazh",
+      "meaning": "பரவலான நற்பெயர்",
+      "example": "புகழ் நிலையானது அல்ல.",
+      "phrase": "தூங்கும் சிங்கத்தை எழுப்பாதே",
+      "phrasePronunciation": "thoongkum chingkaththai ezhuppaathe",
+      "phraseMeaning": "அமைதியாக இருப்பவரை தூண்டாதே",
+      "phraseExample": "அவரை கோபப்படுத்தாதே — தூங்கும் சிங்கத்தை எழுப்பாதே.",
+      "meaningInEnglish": "Fame",
+      "phraseMeaningInEnglish": "Don't wake a sleeping lion"
     }
   },
   {
@@ -14109,6 +17625,18 @@ export const dailyContent = [
       "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి.",
       "meaningInEnglish": "Harmony",
       "phraseMeaningInEnglish": "A bird in hand is worth two in the bush"
+    },
+    "tamil": {
+      "word": "தலைமை",
+      "pronunciation": "thalaimai",
+      "meaning": "வழிநடத்தும் திறன்",
+      "example": "நல்ல தலைமை நாட்டை உயர்த்தும்.",
+      "phrase": "கற்பவை கற்று மற்றவருக்கு அறிவுரை கூறு",
+      "phrasePronunciation": "karpavai karru marravarukku arivurai kooru",
+      "phraseMeaning": "முதலில் கற் பிறகு கற்பி",
+      "phraseExample": "நீ முதலில் படி — கற்பவை கற்று மற்றவருக்கு அறிவுரை கூறு.",
+      "meaningInEnglish": "Leadership",
+      "phraseMeaningInEnglish": "Learn first, then advise others"
     }
   },
   {
@@ -14157,6 +17685,18 @@ export const dailyContent = [
       "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు.",
       "meaningInEnglish": "Invention",
       "phraseMeaningInEnglish": "Even small problems trouble the mighty"
+    },
+    "tamil": {
+      "word": "அரசு",
+      "pronunciation": "arachu",
+      "meaning": "நாட்டை ஆளும் அதிகார அமைப்பு",
+      "example": "அரசு மக்களின் நலனுக்காக செயல்பட வேண்டும்.",
+      "phrase": "பொய் சொல்வான் நெய் சொல்வான்",
+      "phrasePronunciation": "poy cholvaan ney cholvaan",
+      "phraseMeaning": "பொய் சொல்பவன் எதையும் சொல்வான்",
+      "phraseExample": "அவன் சொல்வதை நம்பாதே — பொய் சொல்வான் நெய் சொல்வான்.",
+      "meaningInEnglish": "Government",
+      "phraseMeaningInEnglish": "A liar will say anything"
     }
   },
   {
@@ -14205,6 +17745,18 @@ export const dailyContent = [
       "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు.",
       "meaningInEnglish": "Devotion",
       "phraseMeaningInEnglish": "You reap what you sow"
+    },
+    "tamil": {
+      "word": "குடிமகன்",
+      "pronunciation": "kutimakan",
+      "meaning": "நாட்டின் உறுப்பினர்",
+      "example": "நல்ல குடிமகன் கடமையை செய்வான்.",
+      "phrase": "ஓடும் நீர் தேங்காது",
+      "phrasePronunciation": "otum neer thengkaathu",
+      "phraseMeaning": "செயல்படுபவர்கள் முன்னேறுவார்கள்",
+      "phraseExample": "நகர்ந்துகொண்டே இரு — ஓடும் நீர் தேங்காது.",
+      "meaningInEnglish": "Citizen",
+      "phraseMeaningInEnglish": "Running water doesn't stagnate"
     }
   },
   {
@@ -14253,6 +17805,18 @@ export const dailyContent = [
       "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు.",
       "meaningInEnglish": "Cordiality",
       "phraseMeaningInEnglish": "Education always proves useful"
+    },
+    "tamil": {
+      "word": "வரி",
+      "pronunciation": "vari",
+      "meaning": "அரசுக்கு செலுத்தும் பணம்",
+      "example": "வரி செலுத்துவது குடிமகனின் கடமை.",
+      "phrase": "அளவுக்கு மிஞ்சினால் அமிர்தமும் நஞ்சு",
+      "phrasePronunciation": "alavukku minychinaal amirthamum nanychu",
+      "phraseMeaning": "எதுவும் அளவுக்கு மிஞ்சினால் தீமை",
+      "phraseExample": "அதிகமாக சாப்பிடாதே — அளவுக்கு மிஞ்சினால் அமிர்தமும் நஞ்சு.",
+      "meaningInEnglish": "Tax",
+      "phraseMeaningInEnglish": "Even nectar becomes poison in excess"
     }
   },
   {
@@ -14301,6 +17865,18 @@ export const dailyContent = [
       "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది.",
       "meaningInEnglish": "Mental strength",
       "phraseMeaningInEnglish": "With hard work, the impossible becomes possible"
+    },
+    "tamil": {
+      "word": "தேர்தல்",
+      "pronunciation": "therthal",
+      "meaning": "பிரதிநிதிகளைத் தேர்ந்தெடுக்கும் முறை",
+      "example": "தேர்தலில் வாக்களிப்பது உரிமையும் கடமையும்.",
+      "phrase": "கற்றவன் கண்ணுடையான்",
+      "phrasePronunciation": "karravan kannutaiyaan",
+      "phraseMeaning": "கல்வி கற்றவன் பார்வை உள்ளவன்",
+      "phraseExample": "படித்தால் உலகைப் புரிந்துகொள்ளலாம் — கற்றவன் கண்ணுடையான்.",
+      "meaningInEnglish": "Election",
+      "phraseMeaningInEnglish": "The learned one has eyes"
     }
   },
   {
@@ -14349,6 +17925,18 @@ export const dailyContent = [
       "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు.",
       "meaningInEnglish": "Intimacy",
       "phraseMeaningInEnglish": "The ordinary is common, the special is rare"
+    },
+    "tamil": {
+      "word": "உடன்படிக்கை",
+      "pronunciation": "utanpatikkai",
+      "meaning": "இரு தரப்பும் ஒப்புக்கொள்ளும் ஒப்பந்தம்",
+      "example": "சமாதான உடன்படிக்கை கையெழுத்தானது.",
+      "phrase": "நல்லது செய் நல்லது நடக்கும்",
+      "phrasePronunciation": "nallathu chey nallathu natakkum",
+      "phraseMeaning": "நல்லது செய்தால் நல்லது நடக்கும்",
+      "phraseExample": "எப்போதும் நல்லது செய் — நல்லது செய் நல்லது நடக்கும்.",
+      "meaningInEnglish": "Agreement",
+      "phraseMeaningInEnglish": "Do good and good will happen"
     }
   },
   {
@@ -14397,6 +17985,18 @@ export const dailyContent = [
       "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా.",
       "meaningInEnglish": "Expertise",
       "phraseMeaningInEnglish": "Knowing one thing leads to knowing others"
+    },
+    "tamil": {
+      "word": "சான்றிதழ்",
+      "pronunciation": "chaanrithazh",
+      "meaning": "தகுதியை நிரூபிக்கும் ஆவணம்",
+      "example": "படிப்பு முடிந்ததும் சான்றிதழ் வழங்கப்பட்டது.",
+      "phrase": "காலம் எல்லாவற்றையும் ஆற்றும்",
+      "phrasePronunciation": "kaalam ellaavarraiyum aarrum",
+      "phraseMeaning": "நேரம் எல்லா வலியையும் குறைக்கும்",
+      "phraseExample": "வருத்தப்படாதே — காலம் எல்லாவற்றையும் ஆற்றும்.",
+      "meaningInEnglish": "Certificate",
+      "phraseMeaningInEnglish": "Time heals everything"
     }
   },
   {
@@ -14445,6 +18045,18 @@ export const dailyContent = [
       "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు.",
       "meaningInEnglish": "Generosity",
       "phraseMeaningInEnglish": "A person's nature doesn't change easily"
+    },
+    "tamil": {
+      "word": "பரிசு",
+      "pronunciation": "parichu",
+      "meaning": "பாராட்டாக வழங்கும் பொருள்",
+      "example": "பிறந்தநாளுக்கு பரிசு கொடுத்தாள்.",
+      "phrase": "அகத்தின் அழகு முகத்தில் தெரியும்",
+      "phrasePronunciation": "akaththin azhaku mukaththil theriyum",
+      "phraseMeaning": "ஒருவரின் உள் குணம் முகத்தில் வெளிப்படும்",
+      "phraseExample": "அவர் எப்போதும் புன்னகையுடன் இருப்பார் — அகத்தின் அழகு முகத்தில் தெரியும்.",
+      "meaningInEnglish": "Gift",
+      "phraseMeaningInEnglish": "Inner beauty reflects on the face"
     }
   },
   {
@@ -14493,6 +18105,18 @@ export const dailyContent = [
       "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా.",
       "meaningInEnglish": "Practice",
       "phraseMeaningInEnglish": "When hungry, anything tastes good"
+    },
+    "tamil": {
+      "word": "விருந்து",
+      "pronunciation": "virunthu",
+      "meaning": "சிறப்பான உணவு நிகழ்வு",
+      "example": "திருமண விருந்து சுவையாக இருந்தது.",
+      "phrase": "ஆறிலும் சாவு நூறிலும் சாவு",
+      "phrasePronunciation": "aarilum chaavu noorilum chaavu",
+      "phraseMeaning": "இறப்பு எப்போது வேண்டுமானாலும் வரலாம்",
+      "phraseExample": "பயப்படாதே, ஆறிலும் சாவு நூறிலும் சாவு என்பார்கள்.",
+      "meaningInEnglish": "Feast",
+      "phraseMeaningInEnglish": "Death can come at any age"
     }
   },
   {
@@ -14541,6 +18165,18 @@ export const dailyContent = [
       "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు.",
       "meaningInEnglish": "Dedication",
       "phraseMeaningInEnglish": "New places bring new challenges"
+    },
+    "tamil": {
+      "word": "பாடல்",
+      "pronunciation": "paatal",
+      "meaning": "இசையுடன் கூடிய பாட்டு",
+      "example": "புதிய பாடல் மிகவும் இனிமையாக இருக்கிறது.",
+      "phrase": "ஊசியைக் கொடுத்து வாளை வாங்கு",
+      "phrasePronunciation": "oochiyaik kotuththu vaalai vaangku",
+      "phraseMeaning": "சிறியது கொடுத்து பெரியது பெறு",
+      "phraseExample": "அவன் சிறு உதவி செய்து பெரிய பலன் பெற்றான் — ஊசியைக் கொடுத்து வாளை வாங்கினான்.",
+      "meaningInEnglish": "Song",
+      "phraseMeaningInEnglish": "Give a needle, get a sword"
     }
   },
   {
@@ -14589,6 +18225,18 @@ export const dailyContent = [
       "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా.",
       "meaningInEnglish": "Simplicity",
       "phraseMeaningInEnglish": "Every mother loves her own child most"
+    },
+    "tamil": {
+      "word": "அழைப்பு",
+      "pronunciation": "azhaippu",
+      "meaning": "வரவேற்கும் செயல்",
+      "example": "விழாவிற்கு அழைப்பு வந்தது.",
+      "phrase": "ஆழம் தெரியாமல் காலை விடாதே",
+      "phrasePronunciation": "aazham theriyaamal kaalai vitaathe",
+      "phraseMeaning": "எதையும் புரிந்துகொள்ளாமல் செய்யாதே",
+      "phraseExample": "புதிய வணிகத்தில் ஆழம் தெரியாமல் காலை விடாதே.",
+      "meaningInEnglish": "Invitation",
+      "phraseMeaningInEnglish": "Don't step in without knowing the depth"
     }
   },
   {
@@ -14637,6 +18285,18 @@ export const dailyContent = [
       "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు.",
       "meaningInEnglish": "Influence",
       "phraseMeaningInEnglish": "Adding insult to injury"
+    },
+    "tamil": {
+      "word": "வரவேற்பு",
+      "pronunciation": "varaverpu",
+      "meaning": "வருபவரை மகிழ்ச்சியாக ஏற்றல்",
+      "example": "விருந்தினருக்கு அற்புதமான வரவேற்பு அளிக்கப்பட்டது.",
+      "phrase": "கல்லாதது உலகளவு",
+      "phrasePronunciation": "kallaathathu ulakalavu",
+      "phraseMeaning": "கற்றது மிகக் குறைவு",
+      "phraseExample": "எவ்வளவு படித்தாலும் கல்லாதது உலகளவு.",
+      "meaningInEnglish": "Welcome",
+      "phraseMeaningInEnglish": "What you haven't learned is as vast as the world"
     }
   },
   {
@@ -14685,6 +18345,18 @@ export const dailyContent = [
       "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం.",
       "meaningInEnglish": "Rest",
       "phraseMeaningInEnglish": "Leaving what you have for something uncertain"
+    },
+    "tamil": {
+      "word": "நட்பு",
+      "pronunciation": "natpu",
+      "meaning": "நண்பர்களுக்கிடையேயான உறவு",
+      "example": "நட்பு இல்லாத வாழ்க்கை வெறுமையானது.",
+      "phrase": "விளையும் பயிர் முளையிலே தெரியும்",
+      "phrasePronunciation": "vilaiyum payir mulaiyile theriyum",
+      "phraseMeaning": "திறமை சிறு வயதிலேயே வெளிப்படும்",
+      "phraseExample": "அந்தக் குழந்தை நன்றாக படிக்கிறது — விளையும் பயிர் முளையிலே தெரியும்.",
+      "meaningInEnglish": "Friendship",
+      "phraseMeaningInEnglish": "A promising crop shows in the sprout"
     }
   },
   {
@@ -14733,6 +18405,18 @@ export const dailyContent = [
       "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు.",
       "meaningInEnglish": "Courtesy",
       "phraseMeaningInEnglish": "Routine for the experienced"
+    },
+    "tamil": {
+      "word": "உறவு",
+      "pronunciation": "uravu",
+      "meaning": "மக்களுக்கிடையேயான தொடர்பு",
+      "example": "உறவுகளை பேணுவது முக்கியம்.",
+      "phrase": "ஒரு கை தட்டினால் ஓசை வராது",
+      "phrasePronunciation": "oru kai thattinaal ochai varaathu",
+      "phraseMeaning": "இருவர் இணைந்தால்தான் செயல் நிறைவேறும்",
+      "phraseExample": "ஒரு கை தட்டினால் ஓசை வராது, எல்லோரும் சேர்ந்து உழைக்க வேண்டும்.",
+      "meaningInEnglish": "Relationship",
+      "phraseMeaningInEnglish": "One hand clapping makes no sound"
     }
   },
   {
@@ -14781,6 +18465,18 @@ export const dailyContent = [
       "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది.",
       "meaningInEnglish": "Progress",
       "phraseMeaningInEnglish": "When one is careless, another profits"
+    },
+    "tamil": {
+      "word": "கூட்டுறவு",
+      "pronunciation": "kootturavu",
+      "meaning": "இணைந்து செயல்படுதல்",
+      "example": "கூட்டுறவு சமுதாய முன்னேற்றத்திற்கு வழிவகுக்கும்.",
+      "phrase": "பசி வந்திடப் பத்தும் பறந்திடும்",
+      "phrasePronunciation": "pachi vanthitap paththum paranthitum",
+      "phraseMeaning": "பசி வந்தால் எல்லா நெறிகளும் போய்விடும்",
+      "phraseExample": "ஏழைகள் தவறு செய்கிறார்கள் என்று சொல்லாதே — பசி வந்திடப் பத்தும் பறந்திடும்.",
+      "meaningInEnglish": "Cooperation",
+      "phraseMeaningInEnglish": "When hunger comes, all virtues fly away"
     }
   },
   {
@@ -14829,6 +18525,18 @@ export const dailyContent = [
       "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు.",
       "meaningInEnglish": "Concentration",
       "phraseMeaningInEnglish": "Don't give pearls to those who can't value them"
+    },
+    "tamil": {
+      "word": "பேச்சு",
+      "pronunciation": "pechchu",
+      "meaning": "வாய்மொழி கருத்துப் பரிமாற்றம்",
+      "example": "இனிமையான பேச்சு மனங்களை வெல்லும்.",
+      "phrase": "கற்றது கைமண் அளவு",
+      "phrasePronunciation": "karrathu kaiman alavu",
+      "phraseMeaning": "கற்ற அறிவு மிகக் குறைவு",
+      "phraseExample": "நான் டாக்டர் ஆனாலும் கற்றது கைமண் அளவுதான்.",
+      "meaningInEnglish": "Speech",
+      "phraseMeaningInEnglish": "What you've learned is just a handful"
     }
   },
   {
@@ -14877,6 +18585,18 @@ export const dailyContent = [
       "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి.",
       "meaningInEnglish": "Graceful glance",
       "phraseMeaningInEnglish": "Bad company corrupts good character"
+    },
+    "tamil": {
+      "word": "எண்ணம்",
+      "pronunciation": "ennam",
+      "meaning": "மனதில் தோன்றும் கருத்து",
+      "example": "நல்ல எண்ணம் நல்ல செயலைத் தரும்.",
+      "phrase": "முயற்சி திருவினையாக்கும்",
+      "phrasePronunciation": "muyarchi thiruvinaiyaakkum",
+      "phraseMeaning": "முயற்சி வெற்றியைத் தரும்",
+      "phraseExample": "தொடர்ந்து முயற்சி செய் — முயற்சி திருவினையாக்கும்.",
+      "meaningInEnglish": "Thought",
+      "phraseMeaningInEnglish": "Effort leads to success"
     }
   },
   {
@@ -14925,6 +18645,18 @@ export const dailyContent = [
       "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది.",
       "meaningInEnglish": "Grandeur",
       "phraseMeaningInEnglish": "Helping others brings inner peace"
+    },
+    "tamil": {
+      "word": "ஊக்கம்",
+      "pronunciation": "ookkam",
+      "meaning": "செயலுக்கு தூண்டும் உந்துதல்",
+      "example": "ஆசிரியரின் ஊக்கம் மாணவனை வளர்க்கும்.",
+      "phrase": "அறிவே ஆற்றல்",
+      "phrasePronunciation": "arive aarral",
+      "phraseMeaning": "அறிவுதான் உண்மையான சக்தி",
+      "phraseExample": "படி, அறிவே ஆற்றல் என்பதை மறவாதே.",
+      "meaningInEnglish": "Motivation",
+      "phraseMeaningInEnglish": "Knowledge is power"
     }
   },
   {
@@ -14973,6 +18705,18 @@ export const dailyContent = [
       "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి.",
       "meaningInEnglish": "Following",
       "phraseMeaningInEnglish": "Nothing is permanent"
+    },
+    "tamil": {
+      "word": "உழைப்பாளி",
+      "pronunciation": "uzhaippaali",
+      "meaning": "கடினமாக உழைப்பவர்",
+      "example": "உழைப்பாளிகளே நாட்டின் சொத்து.",
+      "phrase": "பொறுமை கடலினும் பெரிது",
+      "phrasePronunciation": "porumai katalinum perithu",
+      "phraseMeaning": "பொறுமை மிகவும் முக்கியம்",
+      "phraseExample": "கோபப்படாதே, பொறுமை கடலினும் பெரிது.",
+      "meaningInEnglish": "Worker",
+      "phraseMeaningInEnglish": "Patience is greater than the ocean"
     }
   },
   {
@@ -15021,6 +18765,18 @@ export const dailyContent = [
       "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు.",
       "meaningInEnglish": "Motivation",
       "phraseMeaningInEnglish": "Listener needs wisdom, speaker needs patience"
+    },
+    "tamil": {
+      "word": "படைப்பு",
+      "pronunciation": "pataippu",
+      "meaning": "புதிதாக உருவாக்கப்பட்டது",
+      "example": "இது ஒரு சிறந்த கலைப் படைப்பு.",
+      "phrase": "நேரம் காத்திருக்காது",
+      "phrasePronunciation": "neram kaaththirukkaathu",
+      "phraseMeaning": "நேரத்தை வீணாக்கக்கூடாது",
+      "phraseExample": "படிக்க ஆரம்பி, நேரம் காத்திருக்காது.",
+      "meaningInEnglish": "Creation",
+      "phraseMeaningInEnglish": "Time waits for no one"
     }
   },
   {
@@ -15069,6 +18825,18 @@ export const dailyContent = [
       "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు.",
       "meaningInEnglish": "Decision",
       "phraseMeaningInEnglish": "To appear very grand and impressive"
+    },
+    "tamil": {
+      "word": "உத்வேகம்",
+      "pronunciation": "uthvekam",
+      "meaning": "செயலுக்கு தூண்டும் ஊக்கம்",
+      "example": "மகாத்மா காந்தியின் வாழ்க்கை உத்வேகம் தருகிறது.",
+      "phrase": "ஒற்றுமையில் பலம்",
+      "phrasePronunciation": "orrumaiyil palam",
+      "phraseMeaning": "ஒன்றாக இருந்தால் வலிமை உண்டு",
+      "phraseExample": "குடும்பம் ஒன்றாக இருக்க வேண்டும் — ஒற்றுமையில் பலம்.",
+      "meaningInEnglish": "Inspiration",
+      "phraseMeaningInEnglish": "Unity is strength"
     }
   },
   {
@@ -15117,6 +18885,18 @@ export const dailyContent = [
       "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది.",
       "meaningInEnglish": "Essence",
       "phraseMeaningInEnglish": "Hard work yields suitable rewards"
+    },
+    "tamil": {
+      "word": "நிதானம்",
+      "pronunciation": "nithaanam",
+      "meaning": "அவசரப்படாத அமைதி நிலை",
+      "example": "நிதானமாக முடிவெடு.",
+      "phrase": "ஆபத்துக்கு உதவுபவனே நண்பன்",
+      "phrasePronunciation": "aapaththukku uthavupavane nanpan",
+      "phraseMeaning": "உண்மையான நண்பன் கஷ்ட நேரத்தில் உதவுவான்",
+      "phraseExample": "எல்லாரும் ஓடிவிட்டார்கள் அவன் மட்டும் நின்றான் — ஆபத்துக்கு உதவுபவனே நண்பன்.",
+      "meaningInEnglish": "Composure",
+      "phraseMeaningInEnglish": "A friend in need is a friend indeed"
     }
   },
   {
@@ -15165,6 +18945,18 @@ export const dailyContent = [
       "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు.",
       "meaningInEnglish": "Aspiration",
       "phraseMeaningInEnglish": "Sour grapes; dismissing what you can't get"
+    },
+    "tamil": {
+      "word": "விழிப்புணர்வு",
+      "pronunciation": "vizhippunarvu",
+      "meaning": "ஒன்றைப் பற்றிய புரிதல் நிலை",
+      "example": "சுற்றுச்சூழல் விழிப்புணர்வு அவசியம்.",
+      "phrase": "காற்றுள்ள போதே தூற்றிக்கொள்",
+      "phrasePronunciation": "kaarrulla pothe thoorrikkol",
+      "phraseMeaning": "வாய்ப்பு இருக்கும்போதே பயன்படுத்திக்கொள்",
+      "phraseExample": "இளமையில் படி — காற்றுள்ள போதே தூற்றிக்கொள்.",
+      "meaningInEnglish": "Awareness",
+      "phraseMeaningInEnglish": "Make hay while the sun shines"
     }
   },
   {
@@ -15213,6 +19005,18 @@ export const dailyContent = [
       "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి.",
       "meaningInEnglish": "Responsibility",
       "phraseMeaningInEnglish": "Actions don't match words; hypocrisy"
+    },
+    "tamil": {
+      "word": "ஒருமைப்பாடு",
+      "pronunciation": "orumaippaatu",
+      "meaning": "ஒன்றாக இருக்கும் நிலை",
+      "example": "ஒருமைப்பாடு நாட்டின் வலிமை.",
+      "phrase": "நாய் விற்ற காசு குரைக்காது",
+      "phrasePronunciation": "naay virra kaachu kuraikkaathu",
+      "phraseMeaning": "தவறான வழியில் சம்பாதித்தது நிலைக்காது",
+      "phraseExample": "ஏமாற்றி சம்பாதித்தால் என்ன பயன் — நாய் விற்ற காசு குரைக்காது.",
+      "meaningInEnglish": "Solidarity",
+      "phraseMeaningInEnglish": "Ill-gotten gains won't last"
     }
   },
   {
@@ -15261,6 +19065,18 @@ export const dailyContent = [
       "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు.",
       "meaningInEnglish": "Reward",
       "phraseMeaningInEnglish": "One without ability can't do big things"
+    },
+    "tamil": {
+      "word": "தூண்டுதல்",
+      "pronunciation": "thoontuthal",
+      "meaning": "செயலுக்கு தூண்டும் காரணி",
+      "example": "வெற்றிக் கதைகள் தூண்டுதல் அளிக்கும்.",
+      "phrase": "நெருப்பு இல்லாமல் புகை வராது",
+      "phrasePronunciation": "neruppu illaamal pukai varaathu",
+      "phraseMeaning": "காரணம் இல்லாமல் விளைவு இல்லை",
+      "phraseExample": "வதந்தி பரவுகிறது என்றால் ஏதோ நடந்திருக்கும் — நெருப்பு இல்லாமல் புகை வராது.",
+      "meaningInEnglish": "Stimulus",
+      "phraseMeaningInEnglish": "No smoke without fire"
     }
   },
   {
@@ -15309,6 +19125,18 @@ export const dailyContent = [
       "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా.",
       "meaningInEnglish": "Consciousness",
       "phraseMeaningInEnglish": "Results come when you get to work"
+    },
+    "tamil": {
+      "word": "ஈடுபாடு",
+      "pronunciation": "eetupaatu",
+      "meaning": "ஆர்வமாக செயல்படுதல்",
+      "example": "வேலையில் ஈடுபாடு இருந்தால் வெற்றி நிச்சயம்.",
+      "phrase": "யானைக்கும் அடி சறுக்கும்",
+      "phrasePronunciation": "yaanaikkum ati charukkum",
+      "phraseMeaning": "பெரியவர்களும் தவறு செய்வார்கள்",
+      "phraseExample": "கவலைப்படாதே, யானைக்கும் அடி சறுக்கும்.",
+      "meaningInEnglish": "Engagement",
+      "phraseMeaningInEnglish": "Even an elephant can slip"
     }
   },
   {
@@ -15357,6 +19185,18 @@ export const dailyContent = [
       "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు.",
       "meaningInEnglish": "Advice",
       "phraseMeaningInEnglish": "Nothing works on time for the poor"
+    },
+    "tamil": {
+      "word": "பாராட்டு",
+      "pronunciation": "paaraattu",
+      "meaning": "சிறப்பை வெளிப்படுத்தும் புகழ்ச்சி",
+      "example": "நல்ல வேலைக்கு பாராட்டு தெரிவிக்க வேண்டும்.",
+      "phrase": "தன் வினை தன்னைச் சுடும்",
+      "phrasePronunciation": "than vinai thannaich chutum",
+      "phraseMeaning": "ஒருவரின் தீய செயல்கள் அவரையே பாதிக்கும்",
+      "phraseExample": "பொய் சொல்லி மாட்டிக்கொண்டான் — தன் வினை தன்னைச் சுடும்.",
+      "meaningInEnglish": "Appreciation",
+      "phraseMeaningInEnglish": "One's own deeds will burn oneself"
     }
   },
   {
@@ -15405,6 +19245,18 @@ export const dailyContent = [
       "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది.",
       "meaningInEnglish": "Congratulations",
       "phraseMeaningInEnglish": "Good intentions find a way"
+    },
+    "tamil": {
+      "word": "மரியாதை",
+      "pronunciation": "mariyaathai",
+      "meaning": "மதிப்பு காட்டும் நடத்தை",
+      "example": "பெரியவர்களுக்கு மரியாதை காட்ட வேண்டும்.",
+      "phrase": "ஆத்திரக்காரனுக்கு புத்தி மட்டு",
+      "phrasePronunciation": "aaththirakkaaranukku puththi mattu",
+      "phraseMeaning": "கோபமான நபர் சரியாக சிந்திக்க மாட்டார்",
+      "phraseExample": "அவசரப்படாதே — ஆத்திரக்காரனுக்கு புத்தி மட்டு.",
+      "meaningInEnglish": "Respect",
+      "phraseMeaningInEnglish": "An angry person has limited wisdom"
     }
   },
   {
@@ -15453,6 +19305,18 @@ export const dailyContent = [
       "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే.",
       "meaningInEnglish": "Well-being",
       "phraseMeaningInEnglish": "Faith makes anything possible"
+    },
+    "tamil": {
+      "word": "நன்னெறி",
+      "pronunciation": "nanneri",
+      "meaning": "நல்ல ஒழுக்க விதிகள்",
+      "example": "நன்னெறி கடைப்பிடிப்பவர் வெற்றி பெறுவார்.",
+      "phrase": "ஏட்டுச் சுரைக்காய் கறிக்கு உதவாது",
+      "phrasePronunciation": "ettuch churaikkaay karikku uthavaathu",
+      "phraseMeaning": "புத்தக அறிவு மட்டும் போதாது",
+      "phraseExample": "நடைமுறை அனுபவம் வேண்டும் — ஏட்டுச் சுரைக்காய் கறிக்கு உதவாது.",
+      "meaningInEnglish": "Ethics",
+      "phraseMeaningInEnglish": "Book knowledge alone won't do"
     }
   },
   {
@@ -15501,6 +19365,18 @@ export const dailyContent = [
       "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది.",
       "meaningInEnglish": "Maturity",
       "phraseMeaningInEnglish": "Every great thing starts small"
+    },
+    "tamil": {
+      "word": "கௌரவம்",
+      "pronunciation": "kauravam",
+      "meaning": "மதிப்பும் மரியாதையும்",
+      "example": "கௌரவமாக நடந்துகொள்ள வேண்டும்.",
+      "phrase": "ஒரு பானை சோற்றுக்கு ஒரு சோறு பதம்",
+      "phrasePronunciation": "oru paanai chorrukku oru choru patham",
+      "phraseMeaning": "சிறிய மாதிரியிலிருந்து முழுதையும் அறியலாம்",
+      "phraseExample": "ஒரு பானை சோற்றுக்கு ஒரு சோறு பதம் — ஒரு பகுதியை பார்த்தே தெரிந்துகொள்ளலாம்.",
+      "meaningInEnglish": "Prestige",
+      "phraseMeaningInEnglish": "One grain tells if the pot is cooked"
     }
   },
   {
@@ -15549,6 +19425,18 @@ export const dailyContent = [
       "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు.",
       "meaningInEnglish": "Continuously",
       "phraseMeaningInEnglish": "Laughter is the best medicine"
+    },
+    "tamil": {
+      "word": "தூய",
+      "pronunciation": "thooya",
+      "meaning": "கலப்பு இல்லாத",
+      "example": "தூய மனம் இறைவனுக்கு இருப்பிடம்.",
+      "phrase": "யாதும் ஊரே யாவரும் கேளிர்",
+      "phrasePronunciation": "yaathum oore yaavarum kelir",
+      "phraseMeaning": "எல்லா ஊரும் நம் ஊர் எல்லோரும் நம் உறவு",
+      "phraseExample": "பாகுபாடு வேண்டாம் — யாதும் ஊரே யாவரும் கேளிர்.",
+      "meaningInEnglish": "Sacred",
+      "phraseMeaningInEnglish": "Every place is home, everyone is kin"
     }
   },
   {
@@ -15597,6 +19485,18 @@ export const dailyContent = [
       "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు.",
       "meaningInEnglish": "Understanding",
       "phraseMeaningInEnglish": "Trust, once lost, is hard to regain"
+    },
+    "tamil": {
+      "word": "புனிதம்",
+      "pronunciation": "punitham",
+      "meaning": "தெய்வீக தன்மை",
+      "example": "கோவில் புனிதமான இடம்.",
+      "phrase": "கற்க கசடறக் கற்பவை",
+      "phrasePronunciation": "karka kachatarak karpavai",
+      "phraseMeaning": "கற்க வேண்டியதை குறைவின்றி கற்க வேண்டும்",
+      "phraseExample": "ஒழுங்காக படி — கற்க கசடறக் கற்பவை.",
+      "meaningInEnglish": "Holy",
+      "phraseMeaningInEnglish": "Learn thoroughly what is worth learning"
     }
   },
   {
@@ -15645,6 +19545,18 @@ export const dailyContent = [
       "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు.",
       "meaningInEnglish": "Propriety",
       "phraseMeaningInEnglish": "In the land of the blind, the one-eyed is king"
+    },
+    "tamil": {
+      "word": "ஈகை",
+      "pronunciation": "eekai",
+      "meaning": "பிறருக்கு கொடுக்கும் பண்பு",
+      "example": "ஈகை குணம் போற்றுதலுக்குரியது.",
+      "phrase": "உழைப்பே உயர்வு",
+      "phrasePronunciation": "uzhaippe uyarvu",
+      "phraseMeaning": "கடின உழைப்பு உயர்வுக்கு வழிவகுக்கும்",
+      "phraseExample": "சோம்பேறித்தனம் விடு — உழைப்பே உயர்வு.",
+      "meaningInEnglish": "Charity",
+      "phraseMeaningInEnglish": "Hard work is the path to elevation"
     }
   },
   {
@@ -15693,6 +19605,18 @@ export const dailyContent = [
       "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది.",
       "meaningInEnglish": "Sweetness",
       "phraseMeaningInEnglish": "Strong roots help you rise again"
+    },
+    "tamil": {
+      "word": "விருந்தோம்பல்",
+      "pronunciation": "virunthompal",
+      "meaning": "விருந்தினரை உபசரிக்கும் பண்பு",
+      "example": "விருந்தோம்பல் தமிழர் பண்பாடு.",
+      "phrase": "கடமையைச் செய் பலனை எதிர்பாராதே",
+      "phrasePronunciation": "katamaiyaich chey palanai ethirpaaraathe",
+      "phraseMeaning": "கடமையை செய்துவிட்டு பலனுக்காக ஏங்காதே",
+      "phraseExample": "நல்லது செய் — கடமையைச் செய் பலனை எதிர்பாராதே.",
+      "meaningInEnglish": "Hospitality",
+      "phraseMeaningInEnglish": "Do your duty without expecting rewards"
     }
   },
   {
@@ -15741,6 +19665,18 @@ export const dailyContent = [
       "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే.",
       "meaningInEnglish": "Unique",
       "phraseMeaningInEnglish": "A leopard can't change its spots"
+    },
+    "tamil": {
+      "word": "பண்பு",
+      "pronunciation": "panpu",
+      "meaning": "நல்ல குணநலன்",
+      "example": "நல்ல பண்புகளை வளர்த்துக்கொள்.",
+      "phrase": "அன்பே சிவம்",
+      "phrasePronunciation": "anpe chivam",
+      "phraseMeaning": "அன்புதான் கடவுள்",
+      "phraseExample": "எல்லோரிடமும் அன்பாக இரு — அன்பே சிவம்.",
+      "meaningInEnglish": "Character",
+      "phraseMeaningInEnglish": "Love is God"
     }
   },
   {
@@ -15789,6 +19725,18 @@ export const dailyContent = [
       "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు.",
       "meaningInEnglish": "Refinement",
       "phraseMeaningInEnglish": "Don't bite the hand that feeds you"
+    },
+    "tamil": {
+      "word": "மனவலிமை",
+      "pronunciation": "manavalimai",
+      "meaning": "மன உறுதி",
+      "example": "மனவலிமை எல்லா தடைகளையும் வெல்லும்.",
+      "phrase": "பழக்கம் இரண்டாவது இயற்கை",
+      "phrasePronunciation": "pazhakkam irantaavathu iyarkai",
+      "phraseMeaning": "தொடர்ந்து செய்வது இயல்பாக மாறும்",
+      "phraseExample": "தினமும் படிப்பது கடினம் ஆனால் பழக்கம் இரண்டாவது இயற்கை.",
+      "meaningInEnglish": "Mental strength",
+      "phraseMeaningInEnglish": "Habit is second nature"
     }
   },
   {
@@ -15837,6 +19785,18 @@ export const dailyContent = [
       "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు.",
       "meaningInEnglish": "Imagination",
       "phraseMeaningInEnglish": "Distant hills look green"
+    },
+    "tamil": {
+      "word": "நிலைத்தன்மை",
+      "pronunciation": "nilaiththanmai",
+      "meaning": "நீடித்து நிலைக்கும் பண்பு",
+      "example": "நிலைத்தன்மையுடன் செயல்படு.",
+      "phrase": "வெல்லுவது விவேகம்",
+      "phrasePronunciation": "velluvathu vivekam",
+      "phraseMeaning": "அறிவுதான் வெற்றிக்கு வழி",
+      "phraseExample": "பலம் அல்ல அறிவு முக்கியம் — வெல்லுவது விவேகம்.",
+      "meaningInEnglish": "Stability",
+      "phraseMeaningInEnglish": "Wisdom wins"
     }
   },
   {
@@ -15885,6 +19845,18 @@ export const dailyContent = [
       "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది.",
       "meaningInEnglish": "Interest",
       "phraseMeaningInEnglish": "Stand firm even in adversity"
+    },
+    "tamil": {
+      "word": "சமநிலை",
+      "pronunciation": "chamanilai",
+      "meaning": "ஒரே அளவிலான நிலை",
+      "example": "வாழ்க்கையில் சமநிலை காக்க வேண்டும்.",
+      "phrase": "தீயினால் சுட்டபுண் உள்ளாறும்",
+      "phrasePronunciation": "theeyinaal chuttapun ullaarum",
+      "phraseMeaning": "நெருப்பு காயம் ஆறும் ஆனால் சொல் காயம் ஆறாது",
+      "phraseExample": "கடும் சொல் சொல்லாதே — தீயினால் சுட்டபுண் உள்ளாறும் நாவினால் சுட்டபுண் ஆறாது.",
+      "meaningInEnglish": "Balance",
+      "phraseMeaningInEnglish": "A burn heals but harsh words don't"
     }
   },
   {
@@ -15933,6 +19905,18 @@ export const dailyContent = [
       "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు.",
       "meaningInEnglish": "Penance",
       "phraseMeaningInEnglish": "Failing to plan is planning to fail"
+    },
+    "tamil": {
+      "word": "இணக்கம்",
+      "pronunciation": "inakkam",
+      "meaning": "ஒன்றாக செயல்படும் தன்மை",
+      "example": "குழுவில் இணக்கம் வெற்றிக்கு வழிவகுக்கும்.",
+      "phrase": "அடி உதவாத இடத்தில் மிதி உதவும்",
+      "phrasePronunciation": "ati uthavaatha itaththil mithi uthavum",
+      "phraseMeaning": "ஒரு முறை பலிக்காவிட்டால் வேறு வழி முயற்சி செய்",
+      "phraseExample": "மாற்று வழியை யோசி — அடி உதவாத இடத்தில் மிதி உதவும்.",
+      "meaningInEnglish": "Harmony",
+      "phraseMeaningInEnglish": "If one way fails, try another"
     }
   },
   {
@@ -15981,6 +19965,18 @@ export const dailyContent = [
       "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది.",
       "meaningInEnglish": "Anguish",
       "phraseMeaningInEnglish": "Everything has its time and use"
+    },
+    "tamil": {
+      "word": "நேர்த்தி",
+      "pronunciation": "nerththi",
+      "meaning": "சிறப்பான தரம்",
+      "example": "அவரின் வேலை நேர்த்தியாக இருக்கும்.",
+      "phrase": "குரங்கு கையில் பூமாலை",
+      "phrasePronunciation": "kurangku kaiyil poomaalai",
+      "phraseMeaning": "தகுதி இல்லாதவனிடம் சிறந்த பொருள்",
+      "phraseExample": "அவனிடம் கொடுத்தால் வீணாகும் — குரங்கு கையில் பூமாலை.",
+      "meaningInEnglish": "Finesse",
+      "phraseMeaningInEnglish": "A garland in a monkey's hand"
     }
   },
   {
@@ -16029,6 +20025,18 @@ export const dailyContent = [
       "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు.",
       "meaningInEnglish": "Goal",
       "phraseMeaningInEnglish": "Brain over brawn"
+    },
+    "tamil": {
+      "word": "அர்ப்பணிப்பு",
+      "pronunciation": "arppanippu",
+      "meaning": "முழு ஈடுபாடு",
+      "example": "அர்ப்பணிப்பு இல்லாமல் வெற்றி இல்லை.",
+      "phrase": "நுணலும் தன் வாயால் கெடும்",
+      "phrasePronunciation": "nunalum than vaayaal ketum",
+      "phraseMeaning": "ஒருவர் தன் பேச்சால் கெடுவார்",
+      "phraseExample": "அதிகமாக பேசாதே — நுணலும் தன் வாயால் கெடும்.",
+      "meaningInEnglish": "Dedication",
+      "phraseMeaningInEnglish": "The frog perishes by its own mouth"
     }
   },
   {
@@ -16077,6 +20085,18 @@ export const dailyContent = [
       "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట.",
       "meaningInEnglish": "Ideal",
       "phraseMeaningInEnglish": "Elders' advice is always valuable"
+    },
+    "tamil": {
+      "word": "காரணம்",
+      "pronunciation": "kaaranam",
+      "meaning": "ஒரு நிகழ்வின் மூலம்",
+      "example": "எல்லாவற்றிற்கும் ஒரு காரணம் உண்டு.",
+      "phrase": "மாற்றான் தோட்டத்து மல்லிகையும் மணக்கும்",
+      "phrasePronunciation": "maarraan thottaththu mallikaiyum manakkum",
+      "phraseMeaning": "பிறர் பொருளும் நன்றாகத் தெரியும்",
+      "phraseExample": "உன் வேலையை பாரு — மாற்றான் தோட்டத்து மல்லிகையும் மணக்கும்.",
+      "meaningInEnglish": "Reason",
+      "phraseMeaningInEnglish": "The grass is always greener on the other side"
     }
   },
   {
@@ -16125,6 +20145,18 @@ export const dailyContent = [
       "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం.",
       "meaningInEnglish": "Fundamental",
       "phraseMeaningInEnglish": "Words carry great power"
+    },
+    "tamil": {
+      "word": "விளைவு",
+      "pronunciation": "vilaivu",
+      "meaning": "ஒரு செயலின் பலன்",
+      "example": "நல்ல செயலின் விளைவு நல்லதாகவே இருக்கும்.",
+      "phrase": "ஊர் இரண்டு பட்டால் கூத்தாடிக்கு கொண்டாட்டம்",
+      "phrasePronunciation": "oor irantu pattaal kooththaatikku kontaattam",
+      "phraseMeaning": "மற்றவர் சண்டையால் சிலர் பயன்பெறுவர்",
+      "phraseExample": "இருவர் சண்டையில் மூன்றாமவன் லாபம் — ஊர் இரண்டு பட்டால் கூத்தாடிக்கு கொண்டாட்டம்.",
+      "meaningInEnglish": "Consequence",
+      "phraseMeaningInEnglish": "When two quarrel, a third benefits"
     }
   },
   {
@@ -16173,6 +20205,18 @@ export const dailyContent = [
       "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది.",
       "meaningInEnglish": "Pledge",
       "phraseMeaningInEnglish": "To guard something very preciously"
+    },
+    "tamil": {
+      "word": "தடை",
+      "pronunciation": "thatai",
+      "meaning": "முன்னேற்றத்தைத் தடுக்கும் இடையூறு",
+      "example": "தடைகளை தாண்டிய வெற்றி இனிமையானது.",
+      "phrase": "நல்லதை நினை",
+      "phrasePronunciation": "nallathai ninai",
+      "phraseMeaning": "நல்ல எண்ணங்களை வளர்",
+      "phraseExample": "எதிர்மறையாக யோசிக்காதே — நல்லதை நினை.",
+      "meaningInEnglish": "Obstacle",
+      "phraseMeaningInEnglish": "Think positive thoughts"
     }
   },
   {
@@ -16221,6 +20265,18 @@ export const dailyContent = [
       "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు.",
       "meaningInEnglish": "Conversation",
       "phraseMeaningInEnglish": "Old habits die hard"
+    },
+    "tamil": {
+      "word": "வாய்மை",
+      "pronunciation": "vaaymai",
+      "meaning": "உண்மை பேசும் பண்பு",
+      "example": "வாய்மை நல்ல குணம்.",
+      "phrase": "அறம் செய விரும்பு",
+      "phrasePronunciation": "aram cheya virumpu",
+      "phraseMeaning": "நல்லது செய்ய ஆசைப்படு",
+      "phraseExample": "எப்போதும் அறம் செய விரும்பு.",
+      "meaningInEnglish": "Truthfulness",
+      "phraseMeaningInEnglish": "Desire to do good"
     }
   },
   {
@@ -16269,6 +20325,18 @@ export const dailyContent = [
       "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం.",
       "meaningInEnglish": "Transparency",
       "phraseMeaningInEnglish": "Knowing the truth but staying silent"
+    },
+    "tamil": {
+      "word": "சான்றோர்",
+      "pronunciation": "chaanror",
+      "meaning": "சிறந்த பண்புகள் கொண்ட பெரியவர்",
+      "example": "சான்றோர் வழியில் நட.",
+      "phrase": "கொடுப்பதும் ஒரு சுகம்",
+      "phrasePronunciation": "kotuppathum oru chukam",
+      "phraseMeaning": "பிறருக்கு கொடுப்பதில் மகிழ்ச்சி உண்டு",
+      "phraseExample": "உதவி செய்தால் நமக்கே நல்லது — கொடுப்பதும் ஒரு சுகம்.",
+      "meaningInEnglish": "Noble person",
+      "phraseMeaningInEnglish": "Giving is also a pleasure"
     }
   },
   {
@@ -16317,6 +20385,18 @@ export const dailyContent = [
       "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది.",
       "meaningInEnglish": "Excitement",
       "phraseMeaningInEnglish": "Feeling very pleasant and comfortable"
+    },
+    "tamil": {
+      "word": "மேதை",
+      "pronunciation": "methai",
+      "meaning": "அறிவில் சிறந்தவர்",
+      "example": "கணித மேதை ராமானுஜன் தமிழ்நாட்டைச் சேர்ந்தவர்.",
+      "phrase": "இன்றைய உழைப்பு நாளைய வெற்றி",
+      "phrasePronunciation": "inraiya uzhaippu naalaiya verri",
+      "phraseMeaning": "இன்று உழைத்தால் நாளை வெற்றி கிடைக்கும்",
+      "phraseExample": "சோம்பல் விடு — இன்றைய உழைப்பு நாளைய வெற்றி.",
+      "meaningInEnglish": "Genius",
+      "phraseMeaningInEnglish": "Today's hard work is tomorrow's success"
     }
   },
   {
@@ -16365,6 +20445,18 @@ export const dailyContent = [
       "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా.",
       "meaningInEnglish": "Solution",
       "phraseMeaningInEnglish": "Children follow what elders do"
+    },
+    "tamil": {
+      "word": "ஆளுமை",
+      "pronunciation": "aalumai",
+      "meaning": "தனிநபரின் தனித்துவ பண்புகள்",
+      "example": "வலுவான ஆளுமை தலைமைக்கு அவசியம்.",
+      "phrase": "வாழ்க வளமுடன்",
+      "phrasePronunciation": "vaazhka valamutan",
+      "phraseMeaning": "செழிப்புடன் வாழ வாழ்த்து",
+      "phraseExample": "எல்லோருக்கும் வாழ்க வளமுடன் என்று வாழ்த்துகிறேன்.",
+      "meaningInEnglish": "Personality",
+      "phraseMeaningInEnglish": "Live with prosperity"
     }
   },
   {
@@ -16413,6 +20505,18 @@ export const dailyContent = [
       "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం.",
       "meaningInEnglish": "Bond",
       "phraseMeaningInEnglish": "Nothing is possible alone; teamwork matters"
+    },
+    "tamil": {
+      "word": "நாகரிகம்",
+      "pronunciation": "naakarikam",
+      "meaning": "பண்பட்ட சமூக வாழ்வு முறை",
+      "example": "சிந்து சமவெளி நாகரிகம் பழமையானது.",
+      "phrase": "பொது நலம் போற்று",
+      "phrasePronunciation": "pothu nalam porru",
+      "phraseMeaning": "அனைவரின் நன்மையை நாடு",
+      "phraseExample": "சுயநலம் விடு — பொது நலம் போற்று.",
+      "meaningInEnglish": "Civilization",
+      "phraseMeaningInEnglish": "Promote the common good"
     }
   },
   {
@@ -16461,6 +20565,18 @@ export const dailyContent = [
       "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు.",
       "meaningInEnglish": "Progress",
       "phraseMeaningInEnglish": "A bad name sticks no matter what"
+    },
+    "tamil": {
+      "word": "பாரம்பரியம்",
+      "pronunciation": "paarampariyam",
+      "meaning": "தலைமுறை தலைமுறையாக வரும் மரபு",
+      "example": "பாரம்பரியத்தை போற்ற வேண்டும்.",
+      "phrase": "தூங்கும் சிங்கத்தை எழுப்பாதே",
+      "phrasePronunciation": "thoongkum chingkaththai ezhuppaathe",
+      "phraseMeaning": "அமைதியாக இருப்பவரை தூண்டாதே",
+      "phraseExample": "அவரை கோபப்படுத்தாதே — தூங்கும் சிங்கத்தை எழுப்பாதே.",
+      "meaningInEnglish": "Heritage",
+      "phraseMeaningInEnglish": "Don't wake a sleeping lion"
     }
   },
   {
@@ -16509,6 +20625,18 @@ export const dailyContent = [
       "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి.",
       "meaningInEnglish": "Natural",
       "phraseMeaningInEnglish": "A bird in hand is worth two in the bush"
+    },
+    "tamil": {
+      "word": "சின்னம்",
+      "pronunciation": "chinnam",
+      "meaning": "ஒன்றைக் குறிக்கும் அடையாளம்",
+      "example": "தாமரை இந்தியாவின் தேசிய சின்னம்.",
+      "phrase": "கற்பவை கற்று மற்றவருக்கு அறிவுரை கூறு",
+      "phrasePronunciation": "karpavai karru marravarukku arivurai kooru",
+      "phraseMeaning": "முதலில் கற் பிறகு கற்பி",
+      "phraseExample": "நீ முதலில் படி — கற்பவை கற்று மற்றவருக்கு அறிவுரை கூறு.",
+      "meaningInEnglish": "Symbol",
+      "phraseMeaningInEnglish": "Learn first, then advise others"
     }
   },
   {
@@ -16557,6 +20685,18 @@ export const dailyContent = [
       "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు.",
       "meaningInEnglish": "Thought",
       "phraseMeaningInEnglish": "Even small problems trouble the mighty"
+    },
+    "tamil": {
+      "word": "கொள்கை",
+      "pronunciation": "kolkai",
+      "meaning": "நம்பிக்கை அடிப்படையிலான தத்துவம்",
+      "example": "நல்ல கொள்கைகளை பின்பற்று.",
+      "phrase": "பொய் சொல்வான் நெய் சொல்வான்",
+      "phrasePronunciation": "poy cholvaan ney cholvaan",
+      "phraseMeaning": "பொய் சொல்பவன் எதையும் சொல்வான்",
+      "phraseExample": "அவன் சொல்வதை நம்பாதே — பொய் சொல்வான் நெய் சொல்வான்.",
+      "meaningInEnglish": "Principle",
+      "phraseMeaningInEnglish": "A liar will say anything"
     }
   },
   {
@@ -16605,6 +20745,18 @@ export const dailyContent = [
       "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు.",
       "meaningInEnglish": "Modesty",
       "phraseMeaningInEnglish": "You reap what you sow"
+    },
+    "tamil": {
+      "word": "இலட்சியம்",
+      "pronunciation": "ilatchiyam",
+      "meaning": "அடைய விரும்பும் உயர்ந்த இலக்கு",
+      "example": "இலட்சியத்தை நோக்கி பாடுபடு.",
+      "phrase": "ஓடும் நீர் தேங்காது",
+      "phrasePronunciation": "otum neer thengkaathu",
+      "phraseMeaning": "செயல்படுபவர்கள் முன்னேறுவார்கள்",
+      "phraseExample": "நகர்ந்துகொண்டே இரு — ஓடும் நீர் தேங்காது.",
+      "meaningInEnglish": "Aspiration",
+      "phraseMeaningInEnglish": "Running water doesn't stagnate"
     }
   },
   {
@@ -16653,6 +20805,18 @@ export const dailyContent = [
       "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు.",
       "meaningInEnglish": "Invitation",
       "phraseMeaningInEnglish": "Education always proves useful"
+    },
+    "tamil": {
+      "word": "படைப்பாற்றல்",
+      "pronunciation": "pataippaarral",
+      "meaning": "புதியவற்றை உருவாக்கும் திறன்",
+      "example": "படைப்பாற்றல் மனிதனின் தனிச்சிறப்பு.",
+      "phrase": "அளவுக்கு மிஞ்சினால் அமிர்தமும் நஞ்சு",
+      "phrasePronunciation": "alavukku minychinaal amirthamum nanychu",
+      "phraseMeaning": "எதுவும் அளவுக்கு மிஞ்சினால் தீமை",
+      "phraseExample": "அதிகமாக சாப்பிடாதே — அளவுக்கு மிஞ்சினால் அமிர்தமும் நஞ்சு.",
+      "meaningInEnglish": "Creativity",
+      "phraseMeaningInEnglish": "Even nectar becomes poison in excess"
     }
   },
   {
@@ -16701,6 +20865,18 @@ export const dailyContent = [
       "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది.",
       "meaningInEnglish": "Good-hearted",
       "phraseMeaningInEnglish": "With hard work, the impossible becomes possible"
+    },
+    "tamil": {
+      "word": "பொது நலம்",
+      "pronunciation": "pothu nalam",
+      "meaning": "அனைவரின் நன்மை",
+      "example": "பொது நலம் காப்பது அனைவரின் கடமை.",
+      "phrase": "கற்றவன் கண்ணுடையான்",
+      "phrasePronunciation": "karravan kannutaiyaan",
+      "phraseMeaning": "கல்வி கற்றவன் பார்வை உள்ளவன்",
+      "phraseExample": "படித்தால் உலகைப் புரிந்துகொள்ளலாம் — கற்றவன் கண்ணுடையான்.",
+      "meaningInEnglish": "Public welfare",
+      "phraseMeaningInEnglish": "The learned one has eyes"
     }
   },
   {
@@ -16749,6 +20925,18 @@ export const dailyContent = [
       "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు.",
       "meaningInEnglish": "Satisfaction",
       "phraseMeaningInEnglish": "The ordinary is common, the special is rare"
+    },
+    "tamil": {
+      "word": "வளம்",
+      "pronunciation": "valam",
+      "meaning": "செழிப்பான நிலை",
+      "example": "நாட்டின் வளம் மக்களின் உழைப்பில் உள்ளது.",
+      "phrase": "நல்லது செய் நல்லது நடக்கும்",
+      "phrasePronunciation": "nallathu chey nallathu natakkum",
+      "phraseMeaning": "நல்லது செய்தால் நல்லது நடக்கும்",
+      "phraseExample": "எப்போதும் நல்லது செய் — நல்லது செய் நல்லது நடக்கும்.",
+      "meaningInEnglish": "Prosperity",
+      "phraseMeaningInEnglish": "Do good and good will happen"
     }
   },
   {
@@ -16797,6 +20985,18 @@ export const dailyContent = [
       "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా.",
       "meaningInEnglish": "Danger",
       "phraseMeaningInEnglish": "Knowing one thing leads to knowing others"
+    },
+    "tamil": {
+      "word": "வறுமை",
+      "pronunciation": "varumai",
+      "meaning": "பொருள் இல்லாத சிரமம்",
+      "example": "கல்வி வறுமையை போக்கும்.",
+      "phrase": "காலம் எல்லாவற்றையும் ஆற்றும்",
+      "phrasePronunciation": "kaalam ellaavarraiyum aarrum",
+      "phraseMeaning": "நேரம் எல்லா வலியையும் குறைக்கும்",
+      "phraseExample": "வருத்தப்படாதே — காலம் எல்லாவற்றையும் ஆற்றும்.",
+      "meaningInEnglish": "Deprivation",
+      "phraseMeaningInEnglish": "Time heals everything"
     }
   },
   {
@@ -16845,6 +21045,18 @@ export const dailyContent = [
       "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు.",
       "meaningInEnglish": "Skill",
       "phraseMeaningInEnglish": "A person's nature doesn't change easily"
+    },
+    "tamil": {
+      "word": "நீதிமன்றம்",
+      "pronunciation": "neethimanram",
+      "meaning": "நீதி வழங்கும் இடம்",
+      "example": "நீதிமன்றம் அனைவருக்கும் சம நீதி வழங்கும்.",
+      "phrase": "அகத்தின் அழகு முகத்தில் தெரியும்",
+      "phrasePronunciation": "akaththin azhaku mukaththil theriyum",
+      "phraseMeaning": "ஒருவரின் உள் குணம் முகத்தில் வெளிப்படும்",
+      "phraseExample": "அவர் எப்போதும் புன்னகையுடன் இருப்பார் — அகத்தின் அழகு முகத்தில் தெரியும்.",
+      "meaningInEnglish": "Court",
+      "phraseMeaningInEnglish": "Inner beauty reflects on the face"
     }
   },
   {
@@ -16893,6 +21105,18 @@ export const dailyContent = [
       "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా.",
       "meaningInEnglish": "Strategy",
       "phraseMeaningInEnglish": "When hungry, anything tastes good"
+    },
+    "tamil": {
+      "word": "சாதனை",
+      "pronunciation": "chaathanai",
+      "meaning": "சிறப்பான செயல்பாடு",
+      "example": "விண்வெளியில் இந்தியாவின் சாதனை பெருமையளிக்கிறது.",
+      "phrase": "ஆறிலும் சாவு நூறிலும் சாவு",
+      "phrasePronunciation": "aarilum chaavu noorilum chaavu",
+      "phraseMeaning": "இறப்பு எப்போது வேண்டுமானாலும் வரலாம்",
+      "phraseExample": "பயப்படாதே, ஆறிலும் சாவு நூறிலும் சாவு என்பார்கள்.",
+      "meaningInEnglish": "Achievement",
+      "phraseMeaningInEnglish": "Death can come at any age"
     }
   },
   {
@@ -16941,6 +21165,18 @@ export const dailyContent = [
       "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు.",
       "meaningInEnglish": "Self-respect",
       "phraseMeaningInEnglish": "New places bring new challenges"
+    },
+    "tamil": {
+      "word": "தகுதி",
+      "pronunciation": "thakuthi",
+      "meaning": "ஒன்றுக்கு தேவையான ஆற்றல்",
+      "example": "தகுதி உள்ளவர்கள் நிச்சயம் வெற்றி பெறுவர்.",
+      "phrase": "ஊசியைக் கொடுத்து வாளை வாங்கு",
+      "phrasePronunciation": "oochiyaik kotuththu vaalai vaangku",
+      "phraseMeaning": "சிறியது கொடுத்து பெரியது பெறு",
+      "phraseExample": "அவன் சிறு உதவி செய்து பெரிய பலன் பெற்றான் — ஊசியைக் கொடுத்து வாளை வாங்கினான்.",
+      "meaningInEnglish": "Qualification",
+      "phraseMeaningInEnglish": "Give a needle, get a sword"
     }
   },
   {
@@ -16989,6 +21225,18 @@ export const dailyContent = [
       "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా.",
       "meaningInEnglish": "Morning",
       "phraseMeaningInEnglish": "Every mother loves her own child most"
+    },
+    "tamil": {
+      "word": "பயிற்சி",
+      "pronunciation": "payirchi",
+      "meaning": "திறன் வளர்க்கும் செயல்முறை",
+      "example": "தொடர் பயிற்சி திறமையை வளர்க்கும்.",
+      "phrase": "ஆழம் தெரியாமல் காலை விடாதே",
+      "phrasePronunciation": "aazham theriyaamal kaalai vitaathe",
+      "phraseMeaning": "எதையும் புரிந்துகொள்ளாமல் செய்யாதே",
+      "phraseExample": "புதிய வணிகத்தில் ஆழம் தெரியாமல் காலை விடாதே.",
+      "meaningInEnglish": "Training",
+      "phraseMeaningInEnglish": "Don't step in without knowing the depth"
     }
   },
   {
@@ -17037,6 +21285,18 @@ export const dailyContent = [
       "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు.",
       "meaningInEnglish": "Contentment",
       "phraseMeaningInEnglish": "Adding insult to injury"
+    },
+    "tamil": {
+      "word": "மரபு",
+      "pronunciation": "marapu",
+      "meaning": "தலைமுறை வழி வரும் பழக்கம்",
+      "example": "தமிழ் மரபு மிகவும் செழுமையானது.",
+      "phrase": "கல்லாதது உலகளவு",
+      "phrasePronunciation": "kallaathathu ulakalavu",
+      "phraseMeaning": "கற்றது மிகக் குறைவு",
+      "phraseExample": "எவ்வளவு படித்தாலும் கல்லாதது உலகளவு.",
+      "meaningInEnglish": "Tradition",
+      "phraseMeaningInEnglish": "What you haven't learned is as vast as the world"
     }
   },
   {
@@ -17085,6 +21345,18 @@ export const dailyContent = [
       "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం.",
       "meaningInEnglish": "Spotless",
       "phraseMeaningInEnglish": "Leaving what you have for something uncertain"
+    },
+    "tamil": {
+      "word": "கண்டுபிடிப்பு",
+      "pronunciation": "kantupitippu",
+      "meaning": "புதிதாக கண்டறிந்த பொருள் அல்லது முறை",
+      "example": "எடிசனின் கண்டுபிடிப்புகள் உலகை மாற்றின.",
+      "phrase": "விளையும் பயிர் முளையிலே தெரியும்",
+      "phrasePronunciation": "vilaiyum payir mulaiyile theriyum",
+      "phraseMeaning": "திறமை சிறு வயதிலேயே வெளிப்படும்",
+      "phraseExample": "அந்தக் குழந்தை நன்றாக படிக்கிறது — விளையும் பயிர் முளையிலே தெரியும்.",
+      "meaningInEnglish": "Invention",
+      "phraseMeaningInEnglish": "A promising crop shows in the sprout"
     }
   },
   {
@@ -17133,6 +21405,18 @@ export const dailyContent = [
       "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు.",
       "meaningInEnglish": "Practice",
       "phraseMeaningInEnglish": "Routine for the experienced"
+    },
+    "tamil": {
+      "word": "சோதனை",
+      "pronunciation": "chothanai",
+      "meaning": "திறனை மதிப்பிடும் செயல்",
+      "example": "சோதனையை தைரியமாக எதிர்கொள்.",
+      "phrase": "ஒரு கை தட்டினால் ஓசை வராது",
+      "phrasePronunciation": "oru kai thattinaal ochai varaathu",
+      "phraseMeaning": "இருவர் இணைந்தால்தான் செயல் நிறைவேறும்",
+      "phraseExample": "ஒரு கை தட்டினால் ஓசை வராது, எல்லோரும் சேர்ந்து உழைக்க வேண்டும்.",
+      "meaningInEnglish": "Trial",
+      "phraseMeaningInEnglish": "One hand clapping makes no sound"
     }
   },
   {
@@ -17181,6 +21465,18 @@ export const dailyContent = [
       "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది.",
       "meaningInEnglish": "Dignity",
       "phraseMeaningInEnglish": "When one is careless, another profits"
+    },
+    "tamil": {
+      "word": "வெற்றிக்கனி",
+      "pronunciation": "verrikkani",
+      "meaning": "முயற்சியின் இனிய பலன்",
+      "example": "உழைப்பின் வெற்றிக்கனி இனிக்கும்.",
+      "phrase": "பசி வந்திடப் பத்தும் பறந்திடும்",
+      "phrasePronunciation": "pachi vanthitap paththum paranthitum",
+      "phraseMeaning": "பசி வந்தால் எல்லா நெறிகளும் போய்விடும்",
+      "phraseExample": "ஏழைகள் தவறு செய்கிறார்கள் என்று சொல்லாதே — பசி வந்திடப் பத்தும் பறந்திடும்.",
+      "meaningInEnglish": "Fruit of success",
+      "phraseMeaningInEnglish": "When hunger comes, all virtues fly away"
     }
   },
   {
@@ -17229,6 +21525,18 @@ export const dailyContent = [
       "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు.",
       "meaningInEnglish": "Worship",
       "phraseMeaningInEnglish": "Don't give pearls to those who can't value them"
+    },
+    "tamil": {
+      "word": "ஏற்றத்தாழ்வு",
+      "pronunciation": "erraththaazhvu",
+      "meaning": "சமத்துவமின்மை",
+      "example": "ஏற்றத்தாழ்வை நீக்க அனைவரும் முயல வேண்டும்.",
+      "phrase": "கற்றது கைமண் அளவு",
+      "phrasePronunciation": "karrathu kaiman alavu",
+      "phraseMeaning": "கற்ற அறிவு மிகக் குறைவு",
+      "phraseExample": "நான் டாக்டர் ஆனாலும் கற்றது கைமண் அளவுதான்.",
+      "meaningInEnglish": "Inequality",
+      "phraseMeaningInEnglish": "What you've learned is just a handful"
     }
   },
   {
@@ -17277,6 +21585,18 @@ export const dailyContent = [
       "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి.",
       "meaningInEnglish": "Altruism",
       "phraseMeaningInEnglish": "Bad company corrupts good character"
+    },
+    "tamil": {
+      "word": "நல்லிணக்கம்",
+      "pronunciation": "nallinakkam",
+      "meaning": "நல்ல உறவுடன் இணைந்திருத்தல்",
+      "example": "நல்லிணக்கம் சமூகத்தின் வலிமை.",
+      "phrase": "முயற்சி திருவினையாக்கும்",
+      "phrasePronunciation": "muyarchi thiruvinaiyaakkum",
+      "phraseMeaning": "முயற்சி வெற்றியைத் தரும்",
+      "phraseExample": "தொடர்ந்து முயற்சி செய் — முயற்சி திருவினையாக்கும்.",
+      "meaningInEnglish": "Goodwill",
+      "phraseMeaningInEnglish": "Effort leads to success"
     }
   },
   {
@@ -17325,6 +21645,18 @@ export const dailyContent = [
       "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది.",
       "meaningInEnglish": "Review",
       "phraseMeaningInEnglish": "Helping others brings inner peace"
+    },
+    "tamil": {
+      "word": "இன்பம்",
+      "pronunciation": "inpam",
+      "meaning": "மகிழ்ச்சி தரும் அனுபவம்",
+      "example": "இன்பமும் துன்பமும் மாறி மாறி வரும்.",
+      "phrase": "அறிவே ஆற்றல்",
+      "phrasePronunciation": "arive aarral",
+      "phraseMeaning": "அறிவுதான் உண்மையான சக்தி",
+      "phraseExample": "படி, அறிவே ஆற்றல் என்பதை மறவாதே.",
+      "meaningInEnglish": "Pleasure",
+      "phraseMeaningInEnglish": "Knowledge is power"
     }
   },
   {
@@ -17373,6 +21705,18 @@ export const dailyContent = [
       "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి.",
       "meaningInEnglish": "Stability",
       "phraseMeaningInEnglish": "Nothing is permanent"
+    },
+    "tamil": {
+      "word": "துணிவு",
+      "pronunciation": "thunivu",
+      "meaning": "எதையும் எதிர்கொள்ளும் தைரியம்",
+      "example": "துணிவுடன் செயல்பட்டால் தோல்வி இல்லை.",
+      "phrase": "பொறுமை கடலினும் பெரிது",
+      "phrasePronunciation": "porumai katalinum perithu",
+      "phraseMeaning": "பொறுமை மிகவும் முக்கியம்",
+      "phraseExample": "கோபப்படாதே, பொறுமை கடலினும் பெரிது.",
+      "meaningInEnglish": "Courage",
+      "phraseMeaningInEnglish": "Patience is greater than the ocean"
     }
   },
   {
@@ -17421,6 +21765,18 @@ export const dailyContent = [
       "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు.",
       "meaningInEnglish": "Affection",
       "phraseMeaningInEnglish": "Listener needs wisdom, speaker needs patience"
+    },
+    "tamil": {
+      "word": "ஊக்குவிப்பு",
+      "pronunciation": "ookkuvippu",
+      "meaning": "செயலுக்கு தூண்டும் ஆதரவு",
+      "example": "மாணவர்களுக்கு ஊக்குவிப்பு தேவை.",
+      "phrase": "நேரம் காத்திருக்காது",
+      "phrasePronunciation": "neram kaaththirukkaathu",
+      "phraseMeaning": "நேரத்தை வீணாக்கக்கூடாது",
+      "phraseExample": "படிக்க ஆரம்பி, நேரம் காத்திருக்காது.",
+      "meaningInEnglish": "Encouragement",
+      "phraseMeaningInEnglish": "Time waits for no one"
     }
   },
   {
@@ -17469,6 +21825,18 @@ export const dailyContent = [
       "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు.",
       "meaningInEnglish": "Guilelessness",
       "phraseMeaningInEnglish": "To appear very grand and impressive"
+    },
+    "tamil": {
+      "word": "சகிப்புத்தன்மை",
+      "pronunciation": "chakippuththanmai",
+      "meaning": "பொறுத்துக்கொள்ளும் பண்பு",
+      "example": "சகிப்புத்தன்மை சமூக நல்லிணக்கத்திற்கு அவசியம்.",
+      "phrase": "ஒற்றுமையில் பலம்",
+      "phrasePronunciation": "orrumaiyil palam",
+      "phraseMeaning": "ஒன்றாக இருந்தால் வலிமை உண்டு",
+      "phraseExample": "குடும்பம் ஒன்றாக இருக்க வேண்டும் — ஒற்றுமையில் பலம்.",
+      "meaningInEnglish": "Tolerance",
+      "phraseMeaningInEnglish": "Unity is strength"
     }
   },
   {
@@ -17517,6 +21885,18 @@ export const dailyContent = [
       "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది.",
       "meaningInEnglish": "Refuge",
       "phraseMeaningInEnglish": "Hard work yields suitable rewards"
+    },
+    "tamil": {
+      "word": "தன்னிறைவு",
+      "pronunciation": "thanniraivu",
+      "meaning": "பிறரை சாராமல் இருத்தல்",
+      "example": "தன்னிறைவு அடைவது முக்கிய இலக்கு.",
+      "phrase": "ஆபத்துக்கு உதவுபவனே நண்பன்",
+      "phrasePronunciation": "aapaththukku uthavupavane nanpan",
+      "phraseMeaning": "உண்மையான நண்பன் கஷ்ட நேரத்தில் உதவுவான்",
+      "phraseExample": "எல்லாரும் ஓடிவிட்டார்கள் அவன் மட்டும் நின்றான் — ஆபத்துக்கு உதவுபவனே நண்பன்.",
+      "meaningInEnglish": "Self-sufficiency",
+      "phraseMeaningInEnglish": "A friend in need is a friend indeed"
     }
   }
 ];
