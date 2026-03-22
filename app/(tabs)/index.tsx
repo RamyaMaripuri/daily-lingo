@@ -15,10 +15,16 @@ function speak(text: string, lang: string) {
   Speech.speak(text, { language: LANG_CODES[lang] ?? "en", rate: 0.85 });
 }
 
-function speakAll(parts: string[], lang: string) {
+function speakAll(parts: string[], lang: string, englishPart?: string) {
   Speech.stop();
   const combined = parts.join(". \n");
-  Speech.speak(combined, { language: LANG_CODES[lang] ?? "en", rate: 0.85 });
+  Speech.speak(combined, {
+    language: LANG_CODES[lang] ?? "en",
+    rate: 0.85,
+    onDone: englishPart
+      ? () => Speech.speak(englishPart, { language: "en", rate: 0.85 })
+      : undefined,
+  });
 }
 
 function SpeakerButton({ text, lang }: { text: string; lang: string }) {
@@ -65,7 +71,11 @@ export default function HomeScreen() {
         <View style={styles.sectionHeader}>
           <Text style={styles.title}>Word</Text>
           <TouchableOpacity
-            onPress={() => speakAll([content.word, content.meaning, content.example], lang)}
+            onPress={() => speakAll(
+              [content.word, content.meaning, content.example],
+              lang,
+              lang !== "english" ? content.meaningInEnglish : undefined
+            )}
             hitSlop={{ top: 8, bottom: 8, left: 8, right: 8 }}
           >
             <Text style={styles.readAllIcon}>📖</Text>
@@ -85,7 +95,11 @@ export default function HomeScreen() {
         <View style={styles.sectionHeader}>
           <Text style={styles.title}>Phrase</Text>
           <TouchableOpacity
-            onPress={() => speakAll([content.phrase, content.phraseMeaning, content.phraseExample], lang)}
+            onPress={() => speakAll(
+              [content.phrase, content.phraseMeaning, content.phraseExample],
+              lang,
+              lang !== "english" ? content.phraseMeaningInEnglish : undefined
+            )}
             hitSlop={{ top: 8, bottom: 8, left: 8, right: 8 }}
           >
             <Text style={styles.readAllIcon}>📖</Text>
