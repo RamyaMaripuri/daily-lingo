@@ -39,6 +39,7 @@ function SpeakerButton({ text, lang }: { text: string; lang: string }) {
 
 export default function HomeScreen() {
   const [lang, setLang] = useState<"english" | "hindi" | "kannada" | "telugu">("english");
+  const [offset, setOffset] = useState(0);
 
   const today = new Date();
   const dayOfYear =
@@ -48,7 +49,7 @@ export default function HomeScreen() {
         (1000 * 60 * 60 * 24)
     );
 
-  const index = dayOfYear % dailyContent.length;
+  const index = (dayOfYear + offset) % dailyContent.length;
   const content = dailyContent[index][lang];
 
   return (
@@ -125,6 +126,13 @@ export default function HomeScreen() {
           <Text style={styles.englishMeaning}>{content.phraseMeaningInEnglish}</Text>
         ) : null}
         <Text style={styles.example}>{content.phraseExample}</Text>
+
+        <TouchableOpacity
+          style={styles.skipBtn}
+          onPress={() => { Speech.stop(); setOffset(o => o + 1); }}
+        >
+          <Text style={styles.skipText}>Know this? Next word →</Text>
+        </TouchableOpacity>
       </View>
     </View>
   );
@@ -205,5 +213,18 @@ const styles = StyleSheet.create({
   example: {
     fontStyle: "italic",
     marginBottom: 10,
+  },
+  skipBtn: {
+    alignSelf: "center",
+    marginTop: 16,
+    paddingVertical: 8,
+    paddingHorizontal: 20,
+    borderRadius: 20,
+    backgroundColor: "#EEF2FF",
+  },
+  skipText: {
+    color: "#4F46E5",
+    fontWeight: "600",
+    fontSize: 14,
   },
 });
