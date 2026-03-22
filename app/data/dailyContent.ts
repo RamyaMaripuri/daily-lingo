@@ -485,8 +485,8 @@ export const dailyContent = [
       pronunciation: "kan-did",
       meaning: "Truthful and straightforward",
       example: "She gave a candid opinion.",
-      phrase: "Don't count your chickens before they hatch"s mind",
-      phrasePronunciation: "dont kownt yor chik-inz"s mind",
+      phrase: "Don't count your chickens before they hatch",
+      phrasePronunciation: "dont kownt yor chik-inz",
       phraseMeaning: "Don't assume outcomes prematurely",
       phraseExample: "The deal isn't done yet — don't count your chickens."
     },
@@ -689,7 +689,7 @@ export const dailyContent = [
       example: "वह अपने गुरु का अनुकरण करती है।",
       phrase: "खून का घूँट पीना",
       phrasePronunciation: "khoon ka ghoont peena",
-      phraseMeaning: "गुस्सा दबाकर सहना"s path",
+      phraseMeaning: "गुस्सा दबाकर सहना",
       phraseExample: "अपमान सुनकर उसने खून का घूँट पी लिया।"
     },
     kannada: {
@@ -945,7 +945,7 @@ export const dailyContent = [
       example: "उसने स्पष्टवादी राय दी।",
       phrase: "आग बबूला होना",
       phrasePronunciation: "aag baboola hona",
-      phraseMeaning: "बहुत गुस्सा होना"s true feelings",
+      phraseMeaning: "बहुत गुस्सा होना",
       phraseExample: "देरी सुनकर बॉस आग बबूला हो गया।"
     },
     kannada: {
@@ -2824,7 +2824,7 @@ export const dailyContent = [
     phrase: "Blood is thicker than water",
     phrasePronunciation: "blud iz thik-er than waw-ter",
     phraseMeaning: "Family bonds are stronger than other ties",
-    phraseExample: "She chose family — blood is thicker than water."s just kick back and relax."
+    phraseExample: "She chose family — blood is thicker than water.",
   },
     hindi: {
     word: "निर्धन",
@@ -3079,7 +3079,7 @@ export const dailyContent = [
     example: "The witness corroborated the story.",
     phrase: "Sell like hotcakes",
     phrasePronunciation: "sel like hot-kayks",
-    phraseMeaning: "To sell very quickly"s claim",
+    phraseMeaning: "To sell very quickly",
     phraseExample: "The new phone is selling like hotcakes."
   },
     hindi: {
@@ -3173,9 +3173,9 @@ export const dailyContent = [
       pronunciation: "ob-sti-nit",
       meaning: "Stubbornly refusing to change",
       example: "He is obstinate in his views.",
-      phrase: "Actions speak louder than words"s guns",
-      phrasePronunciation: "ak-shunz speek lowd-er than wurdz"s guns",
-      phraseMeaning: "What you do matters more than what you say"s opinion",
+      phrase: "Actions speak louder than words",
+      phrasePronunciation: "ak-shunz speek lowd-er than wurdz",
+      phraseMeaning: "What you do matters more than what you say",
       phraseExample: "Prove it — actions speak louder than words."
     },
     hindi: {
@@ -3240,7 +3240,7 @@ export const dailyContent = [
     phrase: "A penny for your thoughts",
     phrasePronunciation: "a pen-ee for yor thawts",
     phraseMeaning: "Asking someone what they're thinking",
-    phraseExample: "You look deep in thought — a penny for your thoughts?"t work."
+    phraseExample: "You look deep in thought — a penny for your thoughts?",
   },
     hindi: {
     word: "विधर्म",
@@ -3621,8 +3621,8 @@ export const dailyContent = [
       pronunciation: "gar-uh-luhs",
       meaning: "Excessively talkative",
       example: "He is a garrulous person.",
-      phrase: "Every cloud has a silver lining"s head off",
-      phrasePronunciation: "ev-ree klowd haz a sil-ver ly-ning"s head off",
+      phrase: "Every cloud has a silver lining",
+      phrasePronunciation: "ev-ree klowd haz a sil-ver ly-ning",
       phraseMeaning: "Something good in every bad situation",
       phraseExample: "Losing that job was tough, but every cloud has a silver lining."
     },
@@ -3717,8 +3717,8 @@ export const dailyContent = [
     pronunciation: "kuh-nuhn-drum",
     meaning: "A confusing problem",
     example: "The budget deficit is a real conundrum.",
-    phrase: "A blessing in disguise"s brain",
-    phrasePronunciation: "a bles-ing in dis-gize"s brain",
+    phrase: "A blessing in disguise",
+    phrasePronunciation: "a bles-ing in dis-gize",
     phraseMeaning: "Something bad that turns out good",
     phraseExample: "Getting fired was a blessing in disguise — I found a better job."
   },
@@ -3784,7 +3784,7 @@ export const dailyContent = [
     phrase: "The tip of the iceberg",
     phrasePronunciation: "the tip of the ais-berg",
     phraseMeaning: "Only a small visible part of a larger problem",
-    phraseExample: "The scandal was just the tip of the iceberg."s off the hook now."
+    phraseExample: "The scandal was just the tip of the iceberg.",
   },
     hindi: {
     word: "बदलता दृश्य",
@@ -3877,10 +3877,10 @@ export const dailyContent = [
     pronunciation: "hap-lis",
     meaning: "Unfortunate",
     example: "The hapless traveler lost his wallet.",
-    phrase: "Burn one's bridges"s luck",
-    phrasePronunciation: "burn wunz brij-iz"s luck",
+    phrase: "Burn one's bridges",
+    phrasePronunciation: "burn wunz brij-iz",
     phraseMeaning: "To destroy all options for going back",
-    phraseExample: "Don't burn your bridges with that company."s been down on his luck lately."
+    phraseExample: "Don't burn your bridges with that company.",
   },
     hindi: {
     word: "पक्षपाती",
@@ -3909,8 +3909,8 @@ export const dailyContent = [
     pronunciation: "in-kor-i-juh-buhl",
     meaning: "Not able to be reformed",
     example: "He is an incorrigible optimist.",
-    phrase: "Let the cat out of the bag"s ways",
-    phrasePronunciation: "let the kat owt of the bag"s ways",
+    phrase: "Let the cat out of the bag",
+    phrasePronunciation: "let the kat owt of the bag",
     phraseMeaning: "To accidentally reveal a secret",
     phraseExample: "She let the cat out of the bag about the merger."
   },
@@ -4005,10 +4005,10 @@ export const dailyContent = [
     pronunciation: "law-duh-buhl",
     meaning: "Deserving praise",
     example: "Her efforts are laudable.",
-    phrase: "Throw a spanner in the works"s off to",
-    phrasePronunciation: "throh a span-er in the wurks"s off to",
+    phrase: "Throw a spanner in the works",
+    phrasePronunciation: "throh a span-er in the wurks",
     phraseMeaning: "To cause a disruption in plans",
-    phraseExample: "The rain threw a spanner in the works."s off to the volunteers."
+    phraseExample: "The rain threw a spanner in the works.",
   },
     hindi: {
     word: "परम आनंद",
@@ -4040,7 +4040,7 @@ export const dailyContent = [
     phrase: "The pot calling the kettle black",
     phrasePronunciation: "the pot kawl-ing the ket-l blak",
     phraseMeaning: "Criticizing someone for a fault you also have",
-    phraseExample: "Him calling me lazy is the pot calling the kettle black."s been down in the dumps."
+    phraseExample: "Him calling me lazy is the pot calling the kettle black.",
   },
     hindi: {
     word: "पराजय",
@@ -4200,7 +4200,7 @@ export const dailyContent = [
     phrase: "Sailing close to the wind",
     phrasePronunciation: "say-ling klohs to the wind",
     phraseMeaning: "Taking a risky approach",
-    phraseExample: "Submitting that late was sailing close to the wind."t walk the walk."
+    phraseExample: "Submitting that late was sailing close to the wind.",
   },
     hindi: {
       word: "फुर्तीला",
@@ -4391,7 +4391,7 @@ export const dailyContent = [
     example: "It is an axiom that practice makes perfect.",
     phrase: "A leopard can't change its spots",
     phrasePronunciation: "a lep-erd kant chaynj its spots",
-    phraseMeaning: "People can't change their fundamental nature"t need to be stated",
+    phraseMeaning: "People can't change their fundamental nature",
     phraseExample: "He apologized, but a leopard can't change its spots."
   },
     hindi: {
@@ -4453,8 +4453,8 @@ export const dailyContent = [
     pronunciation: "kuh-thahr-sis",
     meaning: "Release of strong emotions",
     example: "Writing was a form of catharsis for her.",
-    phrase: "Bite off more than you can chew"s chest",
-    phrasePronunciation: "bite off mor than yoo kan choo"s chest",
+    phrase: "Bite off more than you can chew",
+    phrasePronunciation: "bite off mor than yoo kan choo",
     phraseMeaning: "To take on more than you can handle",
     phraseExample: "He bit off more than he could chew with that project."
   },
@@ -4584,7 +4584,7 @@ export const dailyContent = [
     phrase: "Rome wasn't built in a day",
     phrasePronunciation: "rohm wuz-nt bilt in a day",
     phraseMeaning: "Great things take time",
-    phraseExample: "Be patient — Rome wasn't built in a day."t fall for their tricks."
+    phraseExample: "Be patient — Rome wasn't built in a day.",
   },
     hindi: {
     word: "आशान्वित",
@@ -4616,7 +4616,7 @@ export const dailyContent = [
     phrase: "The straw that broke the camel's back",
     phrasePronunciation: "the straw that brohk the kam-elz bak",
     phraseMeaning: "A final small event causing a big reaction",
-    phraseExample: "Missing the bus was the straw that broke the camel's back."s take a breather."
+    phraseExample: "Missing the bus was the straw that broke the camel's back.",
   },
     hindi: {
       word: "आशावादी",
@@ -4776,7 +4776,7 @@ export const dailyContent = [
     phrase: "Actions speak louder than words",
     phrasePronunciation: "ak-shunz speek lowd-er than wurdz",
     phraseMeaning: "What you do matters more than what you say",
-    phraseExample: "Prove it — actions speak louder than words."m feeling under the weather today."
+    phraseExample: "Prove it — actions speak louder than words.",
   },
     hindi: {
     word: "शुभ",
@@ -4805,8 +4805,8 @@ export const dailyContent = [
     pronunciation: "net-l",
     meaning: "To irritate or annoy",
     example: "His remarks nettled her.",
-    phrase: "Burning the midnight oil"s skin",
-    phrasePronunciation: "burn-ing the mid-nite oil"s skin",
+    phrase: "Burning the midnight oil",
+    phrasePronunciation: "burn-ing the mid-nite oil",
     phraseMeaning: "Working late into the night",
     phraseExample: "She was burning the midnight oil before the deadline."
   },
@@ -4903,8 +4903,8 @@ export const dailyContent = [
     example: "The querulous child wouldn't stop crying.",
     phrase: "Bite the bullet",
     phrasePronunciation: "bite the bool-it",
-    phraseMeaning: "To endure something painful with courage"t be undone",
-    phraseExample: "I bit the bullet and had the difficult conversation."s no use crying over spilt milk."
+    phraseMeaning: "To endure something painful with courage",
+    phraseExample: "I bit the bullet and had the difficult conversation.",
   },
     hindi: {
     word: "उत्तेजित करना",
@@ -4968,7 +4968,7 @@ export const dailyContent = [
     phrase: "Let sleeping dogs lie",
     phrasePronunciation: "let sleep-ing dogz lie",
     phraseMeaning: "Don't disturb a settled situation",
-    phraseExample: "I wouldn't bring that up — let sleeping dogs lie."t pull the wool over my eyes."
+    phraseExample: "I wouldn't bring that up — let sleeping dogs lie.",
   },
     hindi: {
     word: "अक्खड़",
@@ -5128,7 +5128,7 @@ export const dailyContent = [
     phrase: "Cost an arm and a leg",
     phrasePronunciation: "kost an arm and a leg",
     phraseMeaning: "Extremely expensive",
-    phraseExample: "That watch cost an arm and a leg."s cut to the chase."
+    phraseExample: "That watch cost an arm and a leg.",
   },
     hindi: {
     word: "अनावश्यक",
@@ -5160,7 +5160,7 @@ export const dailyContent = [
     phrase: "Break the ice",
     phrasePronunciation: "brayk the ais",
     phraseMeaning: "To initiate social interaction",
-    phraseExample: "His joke helped break the ice at the meeting."t have a crystal ball."
+    phraseExample: "His joke helped break the ice at the meeting.",
   },
     hindi: {
       word: "जोश",
@@ -5381,10 +5381,10 @@ export const dailyContent = [
     pronunciation: "im-pur-vee-uhs",
     meaning: "Unable to be affected",
     example: "She seemed impervious to criticism.",
-    phrase: "The tip of the iceberg"s back",
-    phrasePronunciation: "the tip of the ais-berg"s back",
+    phrase: "The tip of the iceberg",
+    phrasePronunciation: "the tip of the ais-berg",
     phraseMeaning: "Only a small visible part of a larger problem",
-    phraseExample: "The scandal was just the tip of the iceberg."s back to him."
+    phraseExample: "The scandal was just the tip of the iceberg.",
   },
     hindi: {
     word: "प्रख्यात",
@@ -5445,10 +5445,10 @@ export const dailyContent = [
     pronunciation: "in-tran-si-juhnt",
     meaning: "Unwilling to compromise",
     example: "The intransigent leaders blocked the deal.",
-    phrase: "A drop in the ocean"t budge",
-    phrasePronunciation: "a drop in the oh-shun"t budge",
+    phrase: "A drop in the ocean",
+    phrasePronunciation: "a drop in the oh-shun",
     phraseMeaning: "An insignificant amount",
-    phraseExample: "Our donation was just a drop in the ocean."t budge on the price."
+    phraseExample: "Our donation was just a drop in the ocean.",
   },
     hindi: {
     word: "स्वादिष्ट",
@@ -5701,9 +5701,9 @@ export const dailyContent = [
     pronunciation: "mav-er-ik",
     meaning: "An independent-minded person",
     example: "She's a maverick in her field.",
-    phrase: "A bird in the hand is worth two in the bush"s own drum",
-    phrasePronunciation: "a burd in the hand"s own drum",
-    phraseMeaning: "What you have is more valuable than what you might get"s own way",
+    phrase: "A bird in the hand is worth two in the bush",
+    phrasePronunciation: "a burd in the hand",
+    phraseMeaning: "What you have is more valuable than what you might get",
     phraseExample: "Take the offer — a bird in the hand is worth two in the bush."
   },
     hindi: {
@@ -5832,7 +5832,7 @@ export const dailyContent = [
     phrase: "Throw caution to the wind",
     phrasePronunciation: "throh kaw-shun to the wind",
     phraseMeaning: "To act recklessly",
-    phraseExample: "She threw caution to the wind and quit her job."s a man of few words."
+    phraseExample: "She threw caution to the wind and quit her job.",
   },
     hindi: {
       word: "स्पष्ट",
@@ -5896,7 +5896,7 @@ export const dailyContent = [
     phrase: "Steal someone's thunder",
     phrasePronunciation: "steel sum-wunz thun-der",
     phraseMeaning: "To take credit for someone's achievement",
-    phraseExample: "He stole my thunder by announcing the idea first."s always the life of the party."
+    phraseExample: "He stole my thunder by announcing the idea first.",
   },
     hindi: {
     word: "लोभ",
@@ -5928,7 +5928,7 @@ export const dailyContent = [
     phrase: "Put all your eggs in one basket",
     phrasePronunciation: "poot awl yor egz in wun bas-kit",
     phraseMeaning: "To risk everything on one plan",
-    phraseExample: "Diversify — don't put all your eggs in one basket."s walk down memory lane."
+    phraseExample: "Diversify — don't put all your eggs in one basket.",
   },
     hindi: {
     word: "अप्रभावित",
@@ -5992,7 +5992,7 @@ export const dailyContent = [
     phrase: "A leopard can't change its spots",
     phrasePronunciation: "a lep-erd kant chaynj its spots",
     phraseMeaning: "People can't change their fundamental nature",
-    phraseExample: "He apologized, but a leopard can't change its spots."s no shrinking violet."
+    phraseExample: "He apologized, but a leopard can't change its spots.",
   },
     hindi: {
     word: "पंडिताऊ",
@@ -6088,7 +6088,7 @@ export const dailyContent = [
     phrase: "Cry wolf",
     phrasePronunciation: "kry woolf",
     phraseMeaning: "To raise a false alarm",
-    phraseExample: "Nobody believed him anymore — he had cried wolf too many times."s just a yes man."
+    phraseExample: "Nobody believed him anymore — he had cried wolf too many times.",
   },
     hindi: {
       word: "वाचाल",
@@ -6149,8 +6149,8 @@ export const dailyContent = [
     pronunciation: "uh-droit",
     meaning: "Clever and skillful",
     example: "An adroit negotiator closed the deal.",
-    phrase: "Raining cats and dogs"s feet",
-    phrasePronunciation: "ray-ning kats and dogz"s feet",
+    phrase: "Raining cats and dogs",
+    phrasePronunciation: "ray-ning kats and dogz",
     phraseMeaning: "Raining very heavily",
     phraseExample: "We stayed home because it was raining cats and dogs."
   },
@@ -6568,7 +6568,7 @@ export const dailyContent = [
     phrase: "Let sleeping dogs lie",
     phrasePronunciation: "let sleep-ing dogz lie",
     phraseMeaning: "Don't disturb a settled situation",
-    phraseExample: "I wouldn't bring that up — let sleeping dogs lie."s a real social butterfly."
+    phraseExample: "I wouldn't bring that up — let sleeping dogs lie.",
   },
     hindi: {
     word: "शिकायती",
@@ -6632,7 +6632,7 @@ export const dailyContent = [
     phrase: "Once in a blue moon",
     phrasePronunciation: "wunss in a bloo moon",
     phraseMeaning: "Very rarely",
-    phraseExample: "He visits once in a blue moon."ve hit a dead end."
+    phraseExample: "He visits once in a blue moon.",
   },
     hindi: {
       word: "अहंकारी",
@@ -6856,7 +6856,7 @@ export const dailyContent = [
     phrase: "The elephant in the room",
     phrasePronunciation: "the el-uh-funt in the room",
     phraseMeaning: "An obvious problem nobody discusses",
-    phraseExample: "His poor performance is the elephant in the room."s the same old story every time."
+    phraseExample: "His poor performance is the elephant in the room.",
   },
     hindi: {
     word: "सुगंधित",
@@ -6917,8 +6917,8 @@ export const dailyContent = [
     pronunciation: "ri-kal-si-truhnt",
     meaning: "Stubbornly resistant",
     example: "The recalcitrant student refused to listen.",
-    phrase: "A blessing in disguise"s heels",
-    phrasePronunciation: "a bles-ing in dis-gize"s heels",
+    phrase: "A blessing in disguise",
+    phrasePronunciation: "a bles-ing in dis-gize",
     phraseMeaning: "Something bad that turns out good",
     phraseExample: "Getting fired was a blessing in disguise — I found a better job."
   },
@@ -6952,7 +6952,7 @@ export const dailyContent = [
     phrase: "Rob Peter to pay Paul",
     phrasePronunciation: "rob pee-ter to pay pawl",
     phraseMeaning: "Solving one problem by creating another",
-    phraseExample: "Borrowing from savings to pay debt is robbing Peter to pay Paul."s an apple polisher."
+    phraseExample: "Borrowing from savings to pay debt is robbing Peter to pay Paul.",
   },
     hindi: {
       word: "स्पर्शनीय",
@@ -7208,7 +7208,7 @@ export const dailyContent = [
     phrase: "Throw a spanner in the works",
     phrasePronunciation: "throh a span-er in the wurks",
     phraseMeaning: "To cause a disruption in plans",
-    phraseExample: "The rain threw a spanner in the works."s a smooth operator."
+    phraseExample: "The rain threw a spanner in the works.",
   },
     hindi: {
     word: "उपयुक्त",
@@ -7304,7 +7304,7 @@ export const dailyContent = [
     phrase: "A bird in the hand is worth two in the bush",
     phrasePronunciation: "a burd in the hand",
     phraseMeaning: "What you have is more valuable than what you might get",
-    phraseExample: "Take the offer — a bird in the hand is worth two in the bush."ve heard that excuse before."
+    phraseExample: "Take the offer — a bird in the hand is worth two in the bush.",
   },
     hindi: {
     word: "विरेचन",
@@ -7400,7 +7400,7 @@ export const dailyContent = [
     phrase: "Sailing close to the wind",
     phrasePronunciation: "say-ling klohs to the wind",
     phraseMeaning: "Taking a risky approach",
-    phraseExample: "Submitting that late was sailing close to the wind."s always on the move."
+    phraseExample: "Submitting that late was sailing close to the wind.",
   },
     hindi: {
     word: "शून्यवाद",
@@ -7432,7 +7432,7 @@ export const dailyContent = [
     phrase: "Throw caution to the wind",
     phrasePronunciation: "throh kaw-shun to the wind",
     phraseMeaning: "To act recklessly",
-    phraseExample: "She threw caution to the wind and quit her job."s a bright spark."
+    phraseExample: "She threw caution to the wind and quit her job.",
   },
     hindi: {
     word: "खुशामदबाजी",
@@ -7496,7 +7496,7 @@ export const dailyContent = [
     phrase: "Steal someone's thunder",
     phrasePronunciation: "steel sum-wunz thun-der",
     phraseMeaning: "To take credit for someone's achievement",
-    phraseExample: "He stole my thunder by announcing the idea first."s a catch-22 situation."
+    phraseExample: "He stole my thunder by announcing the idea first.",
   },
     hindi: {
     word: "पुरानी यादें",
@@ -7560,7 +7560,7 @@ export const dailyContent = [
     phrase: "The writing is on the wall",
     phrasePronunciation: "the ry-ting iz on the wawl",
     phraseMeaning: "Clear signs of future trouble",
-    phraseExample: "The writing was on the wall for months before the crash."t take offense at criticism."
+    phraseExample: "The writing was on the wall for months before the crash.",
   },
     hindi: {
     word: "सुखवाद",
@@ -7717,8 +7717,8 @@ export const dailyContent = [
     pronunciation: "gaf",
     meaning: "A social blunder",
     example: "He committed a terrible gaffe.",
-    phrase: "Make a mountain out of a molehill"s foot in it",
-    phrasePronunciation: "mayk a mown-tin owt of a mohl-hil"s foot in it",
+    phrase: "Make a mountain out of a molehill",
+    phrasePronunciation: "mayk a mown-tin owt of a mohl-hil",
     phraseMeaning: "To exaggerate a minor issue",
     phraseExample: "You're making a mountain out of a molehill."
   },
@@ -7813,10 +7813,10 @@ export const dailyContent = [
     pronunciation: "nahy-uh-liz-uhm",
     meaning: "Belief that life is meaningless",
     example: "He embraced nihilism.",
-    phrase: "The straw that broke the camel's back"s the point",
-    phrasePronunciation: "the straw that brohk the kam-elz bak"s the point",
+    phrase: "The straw that broke the camel's back",
+    phrasePronunciation: "the straw that brohk the kam-elz bak",
     phraseMeaning: "A final small event causing a big reaction",
-    phraseExample: "Missing the bus was the straw that broke the camel's back."s the point."
+    phraseExample: "Missing the bus was the straw that broke the camel's back.",
   },
     hindi: {
       word: "बहुमुखी",
@@ -7848,7 +7848,7 @@ export const dailyContent = [
     phrase: "Turn over a new leaf",
     phrasePronunciation: "turn oh-ver a noo leef",
     phraseMeaning: "To start behaving better",
-    phraseExample: "After rehab, he turned over a new leaf."m between a rock and a hard place."
+    phraseExample: "After rehab, he turned over a new leaf.",
   },
     hindi: {
       word: "हठी",
@@ -7909,8 +7909,8 @@ export const dailyContent = [
     pronunciation: "uh-plom",
     meaning: "Self-confidence in a demanding situation",
     example: "She handled the crisis with aplomb.",
-    phrase: "Walking on eggshells"s cool",
-    phrasePronunciation: "wawk-ing on eg-shelz"s cool",
+    phrase: "Walking on eggshells",
+    phrasePronunciation: "wawk-ing on eg-shelz",
     phraseMeaning: "Being very careful not to offend",
     phraseExample: "Everyone walks on eggshells around the boss."
   },
@@ -8136,7 +8136,7 @@ export const dailyContent = [
     phrase: "A storm in a teacup",
     phrasePronunciation: "a storm in a tee-kup",
     phraseMeaning: "A big fuss over a small matter",
-    phraseExample: "The argument was just a storm in a teacup."s eat drink and be merry."
+    phraseExample: "The argument was just a storm in a teacup.",
   },
     hindi: {
       word: "कपट",
@@ -8232,7 +8232,7 @@ export const dailyContent = [
     phrase: "Once in a blue moon",
     phrasePronunciation: "wunss in a bloo moon",
     phraseMeaning: "Very rarely",
-    phraseExample: "He visits once in a blue moon."m lost in the maze of regulations."
+    phraseExample: "He visits once in a blue moon.",
   },
     hindi: {
       word: "चंचल",
@@ -8389,8 +8389,8 @@ export const dailyContent = [
     pronunciation: "rek-uhn-dahyt",
     meaning: "Obscure and difficult",
     example: "The book dealt with recondite topics.",
-    phrase: "Caught between a rock and a hard place"s head",
-    phrasePronunciation: "kawt bee-tween a rok and a hard plays"s head",
+    phrase: "Caught between a rock and a hard place",
+    phrasePronunciation: "kawt bee-tween a rok and a hard plays",
     phraseMeaning: "Stuck between two difficult choices",
     phraseExample: "I was caught between a rock and a hard place."
   },
@@ -8456,7 +8456,7 @@ export const dailyContent = [
     phrase: "The elephant in the room",
     phrasePronunciation: "the el-uh-funt in the room",
     phraseMeaning: "An obvious problem nobody discusses",
-    phraseExample: "His poor performance is the elephant in the room."s been a rocky road."
+    phraseExample: "His poor performance is the elephant in the room.",
   },
     hindi: {
     word: "शोकाकुल",
@@ -8584,7 +8584,7 @@ export const dailyContent = [
     phrase: "The tip of the iceberg",
     phrasePronunciation: "the tip of the ais-berg",
     phraseMeaning: "Only a small visible part of a larger problem",
-    phraseExample: "The scandal was just the tip of the iceberg."m on the fence about it."
+    phraseExample: "The scandal was just the tip of the iceberg.",
   },
     hindi: {
     word: "विषाद",
@@ -8616,7 +8616,7 @@ export const dailyContent = [
     phrase: "Between the devil and the deep blue sea",
     phrasePronunciation: "bee-tween the dev-il and the deep bloo see",
     phraseMeaning: "Between two equally bad choices",
-    phraseExample: "She was between the devil and the deep blue sea."ll know the truth."
+    phraseExample: "She was between the devil and the deep blue sea.",
   },
     hindi: {
     word: "विरोधाभास",
@@ -8712,7 +8712,7 @@ export const dailyContent = [
     phrase: "Let the cat out of the bag",
     phrasePronunciation: "let the kat owt of the bag",
     phraseMeaning: "To accidentally reveal a secret",
-    phraseExample: "She let the cat out of the bag about the merger."s a walking encyclopedia."
+    phraseExample: "She let the cat out of the bag about the merger.",
   },
     hindi: {
     word: "खुल्लमखुल्ला",
@@ -8808,7 +8808,7 @@ export const dailyContent = [
     phrase: "Throw a spanner in the works",
     phrasePronunciation: "throh a span-er in the wurks",
     phraseMeaning: "To cause a disruption in plans",
-    phraseExample: "The rain threw a spanner in the works."re the top dog in the industry."
+    phraseExample: "The rain threw a spanner in the works.",
   },
     hindi: {
     word: "कटु",
@@ -8904,7 +8904,7 @@ export const dailyContent = [
     phrase: "A bird in the hand is worth two in the bush",
     phrasePronunciation: "a burd in the hand",
     phraseMeaning: "What you have is more valuable than what you might get",
-    phraseExample: "Take the offer — a bird in the hand is worth two in the bush."s been on the wagon for a year."
+    phraseExample: "Take the offer — a bird in the hand is worth two in the bush.",
   },
     hindi: {
     word: "बारीकी",
@@ -8933,10 +8933,10 @@ export const dailyContent = [
     pronunciation: "mahy-op-ik",
     meaning: "Lacking foresight",
     example: "The myopic policy failed.",
-    phrase: "Move heaven and earth"t see the forest for the trees",
-    phrasePronunciation: "moov hev-en and urth"t see the forest for the trees",
+    phrase: "Move heaven and earth",
+    phrasePronunciation: "moov hev-en and urth",
     phraseMeaning: "To do everything possible",
-    phraseExample: "She moved heaven and earth to get the project done."t see the forest for the trees."
+    phraseExample: "She moved heaven and earth to get the project done.",
   },
     hindi: {
     word: "सर्वविदित सत्य",
@@ -9128,7 +9128,7 @@ export const dailyContent = [
     phrase: "Put all your eggs in one basket",
     phrasePronunciation: "poot awl yor egz in wun bas-kit",
     phraseMeaning: "To risk everything on one plan",
-    phraseExample: "Diversify — don't put all your eggs in one basket."s plenty to go around."
+    phraseExample: "Diversify — don't put all your eggs in one basket.",
   },
     hindi: {
       word: "गुप्त",
@@ -9159,7 +9159,7 @@ export const dailyContent = [
     example: "Beauty is ephemeral.",
     phrase: "The writing is on the wall",
     phrasePronunciation: "the ry-ting iz on the wawl",
-    phraseMeaning: "Clear signs of future trouble"t last",
+    phraseMeaning: "Clear signs of future trouble",
     phraseExample: "The writing was on the wall for months before the crash."
   },
     hindi: {
@@ -9189,8 +9189,8 @@ export const dailyContent = [
     pronunciation: "ig-nuh-min-ee-uhs",
     meaning: "Deserving public disgrace",
     example: "The team suffered an ignominious defeat.",
-    phrase: "A leopard can't change its spots"s face",
-    phrasePronunciation: "a lep-erd kant chaynj its spots"s face",
+    phrase: "A leopard can't change its spots",
+    phrasePronunciation: "a lep-erd kant chaynj its spots",
     phraseMeaning: "People can't change their fundamental nature",
     phraseExample: "He apologized, but a leopard can't change its spots."
   },
@@ -9256,7 +9256,7 @@ export const dailyContent = [
     phrase: "Bite off more than you can chew",
     phrasePronunciation: "bite off mor than yoo kan choo",
     phraseMeaning: "To take on more than you can handle",
-    phraseExample: "He bit off more than he could chew with that project."s a big fish in a small pond."
+    phraseExample: "He bit off more than he could chew with that project.",
   },
     hindi: {
     word: "द्विधा",
@@ -9288,7 +9288,7 @@ export const dailyContent = [
     phrase: "Cry wolf",
     phrasePronunciation: "kry woolf",
     phraseMeaning: "To raise a false alarm",
-    phraseExample: "Nobody believed him anymore — he had cried wolf too many times."s a tall order."
+    phraseExample: "Nobody believed him anymore — he had cried wolf too many times.",
   },
     hindi: {
     word: "सुस्त",
@@ -9512,7 +9512,7 @@ export const dailyContent = [
     phrase: "Walking on eggshells",
     phrasePronunciation: "wawk-ing on eg-shelz",
     phraseMeaning: "Being very careful not to offend",
-    phraseExample: "Everyone walks on eggshells around the boss."s a die-hard fan of the team."
+    phraseExample: "Everyone walks on eggshells around the boss.",
   },
     hindi: {
     word: "अभागा",
@@ -9704,7 +9704,7 @@ export const dailyContent = [
     phrase: "Bite the bullet",
     phrasePronunciation: "bite the bool-it",
     phraseMeaning: "To endure something painful with courage",
-    phraseExample: "I bit the bullet and had the difficult conversation."s a real money grabber."
+    phraseExample: "I bit the bullet and had the difficult conversation.",
   },
     hindi: {
     word: "रहस्य",
@@ -9736,7 +9736,7 @@ export const dailyContent = [
     phrase: "A storm in a teacup",
     phrasePronunciation: "a storm in a tee-kup",
     phraseMeaning: "A big fuss over a small matter",
-    phraseExample: "The argument was just a storm in a teacup."s join forces on this project."
+    phraseExample: "The argument was just a storm in a teacup.",
   },
     hindi: {
     word: "प्रायोगिक",
@@ -9991,7 +9991,7 @@ export const dailyContent = [
     example: "He is an inveterate liar.",
     phrase: "Caught between a rock and a hard place",
     phrasePronunciation: "kawt bee-tween a rok and a hard plays",
-    phraseMeaning: "Stuck between two difficult choices"s difficult to change habits",
+    phraseMeaning: "Stuck between two difficult choices",
     phraseExample: "I was caught between a rock and a hard place."
   },
     hindi: {
@@ -10088,7 +10088,7 @@ export const dailyContent = [
     phrase: "Don't count your chickens before they hatch",
     phrasePronunciation: "dont kownt yor chik-inz",
     phraseMeaning: "Don't assume outcomes prematurely",
-    phraseExample: "The deal isn't done yet — don't count your chickens."s been a whirlwind of a week."
+    phraseExample: "The deal isn't done yet — don't count your chickens.",
   },
     hindi: {
     word: "लेटा हुआ",
@@ -10117,8 +10117,8 @@ export const dailyContent = [
     pronunciation: "nem-uh-sis",
     meaning: "An archrival or downfall",
     example: "He met his nemesis.",
-    phrase: "A blessing in disguise"s match",
-    phrasePronunciation: "a bles-ing in dis-gize"s match",
+    phrase: "A blessing in disguise",
+    phrasePronunciation: "a bles-ing in dis-gize",
     phraseMeaning: "Something bad that turns out good",
     phraseExample: "Getting fired was a blessing in disguise — I found a better job."
   },
@@ -10216,7 +10216,7 @@ export const dailyContent = [
     phrase: "Between the devil and the deep blue sea",
     phrasePronunciation: "bee-tween the dev-il and the deep bloo see",
     phraseMeaning: "Between two equally bad choices",
-    phraseExample: "She was between the devil and the deep blue sea."s just buttering up the manager."
+    phraseExample: "She was between the devil and the deep blue sea.",
   },
     hindi: {
     word: "उभरता हुआ",
@@ -10277,10 +10277,10 @@ export const dailyContent = [
     pronunciation: "skroo-pyuh-luhs",
     meaning: "Very careful and thorough",
     example: "She was scrupulous in her work.",
-    phrase: "Burn one's bridges"s and cross the t's",
-    phrasePronunciation: "burn wunz brij-iz"s and cross the t's",
+    phrase: "Burn one's bridges",
+    phrasePronunciation: "burn wunz brij-iz",
     phraseMeaning: "To destroy all options for going back",
-    phraseExample: "Don't burn your bridges with that company."s and cross the t's."
+    phraseExample: "Don't burn your bridges with that company.",
   },
     hindi: {
       word: "कम करना",
@@ -10312,7 +10312,7 @@ export const dailyContent = [
     phrase: "Let the cat out of the bag",
     phrasePronunciation: "let the kat owt of the bag",
     phraseMeaning: "To accidentally reveal a secret",
-    phraseExample: "She let the cat out of the bag about the merger."s become a couch potato."
+    phraseExample: "She let the cat out of the bag about the merger.",
   },
     hindi: {
     word: "कर्कश",
@@ -10440,7 +10440,7 @@ export const dailyContent = [
     phrase: "The pot calling the kettle black",
     phrasePronunciation: "the pot kawl-ing the ket-l blak",
     phraseMeaning: "Criticizing someone for a fault you also have",
-    phraseExample: "Him calling me lazy is the pot calling the kettle black."s my way or the highway."
+    phraseExample: "Him calling me lazy is the pot calling the kettle black.",
   },
     hindi: {
     word: "विद्वान",
@@ -10661,8 +10661,8 @@ export const dailyContent = [
     pronunciation: "ri-pyoo-dee-eyt",
     meaning: "To refuse to accept",
     example: "She repudiated the allegations.",
-    phrase: "Paint the town red"s hands of",
-    phrasePronunciation: "paynt the town red"s hands of",
+    phrase: "Paint the town red",
+    phrasePronunciation: "paynt the town red",
     phraseMeaning: "To go out and celebrate wildly",
     phraseExample: "After the win, they painted the town red."
   },
@@ -10760,7 +10760,7 @@ export const dailyContent = [
     phrase: "The writing is on the wall",
     phrasePronunciation: "the ry-ting iz on the wawl",
     phraseMeaning: "Clear signs of future trouble",
-    phraseExample: "The writing was on the wall for months before the crash."s a jack of all trades master of none."
+    phraseExample: "The writing was on the wall for months before the crash.",
   },
     hindi: {
       word: "विश्वसनीय",
@@ -10824,7 +10824,7 @@ export const dailyContent = [
     phrase: "Blood is thicker than water",
     phrasePronunciation: "blud iz thik-er than waw-ter",
     phraseMeaning: "Family bonds are stronger than other ties",
-    phraseExample: "She chose family — blood is thicker than water."s wipe the slate clean."
+    phraseExample: "She chose family — blood is thicker than water.",
   },
     hindi: {
     word: "अबूझ",
@@ -10920,7 +10920,7 @@ export const dailyContent = [
     phrase: "Make a mountain out of a molehill",
     phrasePronunciation: "mayk a mown-tin owt of a mohl-hil",
     phraseMeaning: "To exaggerate a minor issue",
-    phraseExample: "You're making a mountain out of a molehill."t give me lip."
+    phraseExample: "You're making a mountain out of a molehill.",
   },
     hindi: {
     word: "मजाकिया",
@@ -10949,8 +10949,8 @@ export const dailyContent = [
     pronunciation: "lahr-jes",
     meaning: "Generosity in giving",
     example: "The billionaire's largesse funded the park.",
-    phrase: "Raining cats and dogs"s wallet",
-    phrasePronunciation: "ray-ning kats and dogz"s wallet",
+    phrase: "Raining cats and dogs",
+    phrasePronunciation: "ray-ning kats and dogz",
     phraseMeaning: "Raining very heavily",
     phraseExample: "We stayed home because it was raining cats and dogs."
   },
@@ -11016,7 +11016,7 @@ export const dailyContent = [
     phrase: "The straw that broke the camel's back",
     phrasePronunciation: "the straw that brohk the kam-elz bak",
     phraseMeaning: "A final small event causing a big reaction",
-    phraseExample: "Missing the bus was the straw that broke the camel's back."s walking a tightrope."
+    phraseExample: "Missing the bus was the straw that broke the camel's back.",
   },
     hindi: {
     word: "घुमा-फिराकर कहना",
@@ -11112,7 +11112,7 @@ export const dailyContent = [
     phrase: "Walking on eggshells",
     phrasePronunciation: "wawk-ing on eg-shelz",
     phraseMeaning: "Being very careful not to offend",
-    phraseExample: "Everyone walks on eggshells around the boss."t just state the obvious."
+    phraseExample: "Everyone walks on eggshells around the boss.",
   },
     hindi: {
     word: "गूढ़",
@@ -11141,8 +11141,8 @@ export const dailyContent = [
     pronunciation: "vee-uh-muhnt",
     meaning: "Showing strong feeling",
     example: "She was vehement in her objection.",
-    phrase: "The best of both worlds"s foot down",
-    phrasePronunciation: "the best of bohth wurldz"s foot down",
+    phrase: "The best of both worlds",
+    phrasePronunciation: "the best of bohth wurldz",
     phraseMeaning: "Enjoying two different advantages",
     phraseExample: "Working from home gives me the best of both worlds."
   },
@@ -11336,7 +11336,7 @@ export const dailyContent = [
     phrase: "A storm in a teacup",
     phrasePronunciation: "a storm in a tee-kup",
     phraseMeaning: "A big fuss over a small matter",
-    phraseExample: "The argument was just a storm in a teacup."s just brown-nosing the boss."
+    phraseExample: "The argument was just a storm in a teacup.",
   },
     hindi: {
     word: "शिष्ट",
@@ -11592,7 +11592,7 @@ export const dailyContent = [
     phrase: "Caught between a rock and a hard place",
     phrasePronunciation: "kawt bee-tween a rok and a hard plays",
     phraseMeaning: "Stuck between two difficult choices",
-    phraseExample: "I was caught between a rock and a hard place."s the plan."
+    phraseExample: "I was caught between a rock and a hard place.",
   },
     hindi: {
     word: "चुलबुला",
@@ -11621,8 +11621,8 @@ export const dailyContent = [
     pronunciation: "ee-kwuh-nim-i-tee",
     meaning: "Mental calmness under stress",
     example: "She faced the trial with equanimity.",
-    phrase: "Every cloud has a silver lining"s head",
-    phrasePronunciation: "ev-ree klowd haz a sil-ver ly-ning"s head",
+    phrase: "Every cloud has a silver lining",
+    phrasePronunciation: "ev-ree klowd haz a sil-ver ly-ning",
     phraseMeaning: "Something good in every bad situation",
     phraseExample: "Losing that job was tough, but every cloud has a silver lining."
   },
@@ -11656,7 +11656,7 @@ export const dailyContent = [
     phrase: "The elephant in the room",
     phrasePronunciation: "the el-uh-funt in the room",
     phraseMeaning: "An obvious problem nobody discusses",
-    phraseExample: "His poor performance is the elephant in the room."s focus on the big picture."
+    phraseExample: "His poor performance is the elephant in the room.",
   },
     hindi: {
     word: "रोकना",
