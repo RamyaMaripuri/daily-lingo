@@ -4,7 +4,7 @@ import * as Speech from 'expo-speech';
 import { dailyContent } from '../data/dailyContent';
 
 const LANG_CODES: Record<string, string> = {
-  english: "en",
+  english: "en-US",
   hindi: "hi",
   kannada: "kn",
   telugu: "te",
