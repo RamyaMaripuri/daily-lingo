@@ -37,23 +37,51 @@ function SpeakerButton({ text, lang }: { text: string; lang: string }) {
   );
 }
 
+function seededRng(seed: number) {
+  let s = seed | 0;
+  return () => {
+    s = Math.imul(s, 1664525) + 1013904223 | 0;
+    return (s >>> 0) / 0x100000000;
+  };
+}
+
+function shuffledIndices(seed: number, len: number) {
+  const rng = seededRng(seed);
+  const idx = Array.from({ length: len }, (_, i) => i);
+  for (let i = len - 1; i > 0; i--) {
+    const j = Math.floor(rng() * (i + 1));
+    [idx[i], idx[j]] = [idx[j], idx[i]];
+  }
+  return idx;
+}
+
+function randomIndex(exclude: number, len: number) {
+  let next: number;
+  do { next = Math.floor(Math.random() * len); } while (next === exclude && len > 1);
+  return next;
+}
+
 export default function HomeScreen() {
   const [lang, setLang] = useState<"english" | "hindi" | "kannada" | "telugu">("english");
-  const [wordOffset, setWordOffset] = useState(0);
-  const [phraseOffset, setPhraseOffset] = useState(0);
 
   const today = new Date();
+  const year = today.getFullYear();
   const dayOfYear =
     Math.floor(
-      (Date.UTC(today.getFullYear(), today.getMonth(), today.getDate()) -
-        Date.UTC(today.getFullYear(), 0, 0)) /
+      (Date.UTC(year, today.getMonth(), today.getDate()) -
+        Date.UTC(year, 0, 0)) /
         (1000 * 60 * 60 * 24)
     );
 
-  const wordIndex = (dayOfYear + wordOffset) % dailyContent.length;
-  const phraseIndex = (dayOfYear + phraseOffset) % dailyContent.length;
-  const wordContent = dailyContent[wordIndex][lang];
-  const phraseContent = dailyContent[phraseIndex][lang];
+  const len = dailyContent.length;
+  const order = shuffledIndices(year, len);
+  const todayWordIdx = order[dayOfYear % len];
+  const todayPhraseIdx = order[(dayOfYear + 183) % len];
+
+  const [wordIdx, setWordIdx] = useState(todayWordIdx);
+  const [phraseIdx, setPhraseIdx] = useState(todayPhraseIdx);
+  const wordContent = dailyContent[wordIdx][lang];
+  const phraseContent = dailyContent[phraseIdx][lang];
 
   return (
     <View style={styles.container}>
@@ -101,7 +129,7 @@ export default function HomeScreen() {
         <Text style={styles.example}>{wordContent.example}</Text>
         <TouchableOpacity
           style={styles.skipBtn}
-          onPress={() => { Speech.stop(); setWordOffset(o => o + 1); }}
+          onPress={() => { Speech.stop(); setWordIdx(i => randomIndex(i, len)); }}
         >
           <Text style={styles.skipText}>Know this? Next word →</Text>
         </TouchableOpacity>
@@ -137,7 +165,7 @@ export default function HomeScreen() {
         <Text style={styles.example}>{phraseContent.phraseExample}</Text>
         <TouchableOpacity
           style={styles.skipBtn}
-          onPress={() => { Speech.stop(); setPhraseOffset(o => o + 1); }}
+          onPress={() => { Speech.stop(); setPhraseIdx(i => randomIndex(i, len)); }}
         >
           <Text style={styles.skipText}>Know this? Next phrase →</Text>
         </TouchableOpacity>
