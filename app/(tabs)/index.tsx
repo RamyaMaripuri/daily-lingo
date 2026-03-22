@@ -7,6 +7,7 @@ const LANG_CODES: Record<string, string> = {
   english: "en",
   hindi: "hi",
   kannada: "kn",
+  telugu: "te",
 };
 
 function speak(text: string, lang: string) {
@@ -33,7 +34,7 @@ function SpeakerButton({ text, lang }: { text: string; lang: string }) {
 }
 
 export default function HomeScreen() {
-  const [lang, setLang] = useState<"english" | "hindi" | "kannada">("english");
+  const [lang, setLang] = useState<"english" | "hindi" | "kannada" | "telugu">("english");
 
   const today = new Date();
   const dayOfYear =
@@ -51,7 +52,7 @@ export default function HomeScreen() {
       <Text style={styles.header}>Daily Lingo</Text>
 
       <View style={styles.tabs}>
-        {(["english", "hindi", "kannada"] as const).map(l => (
+        {(["english", "hindi", "kannada", "telugu"] as const).map(l => (
           <TouchableOpacity key={l} onPress={() => setLang(l)}>
             <Text style={[styles.tab, lang === l && styles.activeTab]}>
               {l.toUpperCase()}
