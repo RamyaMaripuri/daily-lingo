@@ -18,7 +18,9 @@ export const dailyContent = [
       "phrase": "आँखों का तारा",
       "phrasePronunciation": "aankhon ka taara",
       "phraseMeaning": "बहुत प्रिय व्यक्ति",
-      "phraseExample": "बेटा उसकी आँखों का तारा है।"
+      "phraseExample": "बेटा उसकी आँखों का तारा है।",
+      "meaningInEnglish": "Indescribable",
+      "phraseMeaningInEnglish": "A very dear person; apple of one's eye"
     },
     "kannada": {
       "word": "ರೂಪಾಂತರ",
@@ -28,7 +30,9 @@ export const dailyContent = [
       "phrase": "ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ",
       "phrasePronunciation": "hottege hittilla juttige mallige",
       "phraseMeaning": "ಆಡಂಬರ ಹೆಚ್ಚು ಆದರೆ ಯೋಗ್ಯತೆ ಇಲ್ಲ",
-      "phraseExample": "ಅವನ ಬಳಿ ಏನೂ ಇಲ್ಲ ಆದರೆ ತೋರಿಕೆ ಹೆಚ್ಚು — ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ."
+      "phraseExample": "ಅವನ ಬಳಿ ಏನೂ ಇಲ್ಲ ಆದರೆ ತೋರಿಕೆ ಹೆಚ್ಚು — ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ.",
+      "meaningInEnglish": "Transformation",
+      "phraseMeaningInEnglish": "All show and no substance"
     },
     "telugu": {
       "word": "అద్భుతం",
@@ -38,7 +42,9 @@ export const dailyContent = [
       "phrase": "అడవిలో పుట్టి, అడవిలో పెరిగినా, అడవి కోతి మారదు",
       "phrasePronunciation": "adavilo putti adavilo periginaa adavi koti maaradu",
       "phraseMeaning": "మనిషి స్వభావం సులభంగా మారదు",
-      "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు."
+      "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు.",
+      "meaningInEnglish": "Wonder",
+      "phraseMeaningInEnglish": "A person's nature doesn't change easily"
     }
   },
   {
@@ -60,7 +66,9 @@ export const dailyContent = [
       "phrase": "अंगूठा दिखाना",
       "phrasePronunciation": "angootha dikhana",
       "phraseMeaning": "साफ मना कर देना",
-      "phraseExample": "उसने मदद माँगी तो लोगों ने अंगूठा दिखा दिया।"
+      "phraseExample": "उसने मदद माँगी तो लोगों ने अंगूठा दिखा दिया।",
+      "meaningInEnglish": "Indifferent",
+      "phraseMeaningInEnglish": "To flatly refuse"
     },
     "kannada": {
       "word": "ಸತ್ಯನಿಷ್ಠ",
@@ -70,7 +78,9 @@ export const dailyContent = [
       "phrase": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು",
       "phrasePronunciation": "kai kesaraadare baayi mosaru",
       "phraseMeaning": "ಕಷ್ಟಪಟ್ಟರೆ ಫಲ ಸಿಗುತ್ತದೆ",
-      "phraseExample": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು — ಪ್ರಯತ್ನ ಮಾಡು."
+      "phraseExample": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು — ಪ್ರಯತ್ನ ಮಾಡು.",
+      "meaningInEnglish": "Truthful",
+      "phraseMeaningInEnglish": "Hard work yields fruit"
     },
     "telugu": {
       "word": "ప్రతిభ",
@@ -80,7 +90,9 @@ export const dailyContent = [
       "phrase": "ఆకలి రుచి ఎరుగదు",
       "phrasePronunciation": "aakali ruchi erugadu",
       "phraseMeaning": "ఆకలి ఉన్నప్పుడు ఏది తిన్నా బాగుంటుంది",
-      "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా."
+      "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా.",
+      "meaningInEnglish": "Talent",
+      "phraseMeaningInEnglish": "When hungry, anything tastes good"
     }
   },
   {
@@ -102,7 +114,9 @@ export const dailyContent = [
       "phrase": "अक्ल पर पत्थर पड़ना",
       "phrasePronunciation": "akl par patthar padna",
       "phraseMeaning": "बुद्धि काम न करना",
-      "phraseExample": "ऐसा फैसला लेते वक्त उसकी अक्ल पर पत्थर पड़ गए थे।"
+      "phraseExample": "ऐसा फैसला लेते वक्त उसकी अक्ल पर पत्थर पड़ गए थे।",
+      "meaningInEnglish": "Generosity",
+      "phraseMeaningInEnglish": "To lose one's wits"
     },
     "kannada": {
       "word": "ಬದಲಾಯಿಸು",
@@ -112,7 +126,9 @@ export const dailyContent = [
       "phrase": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ",
       "phrasePronunciation": "aliya banda aduge mane tanaka",
       "phraseMeaning": "ಅತಿಥಿ ಅತಿಯಾಗಿ ಹಕ್ಕು ಚಲಾಯಿಸುವುದು",
-      "phraseExample": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ ಎಂಬಂತೆ ಅವನು ಮನೆಯಲ್ಲಿ ರಾಜ್ಯ ಆಳುತ್ತಿದ್ದಾನೆ."
+      "phraseExample": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ ಎಂಬಂತೆ ಅವನು ಮನೆಯಲ್ಲಿ ರಾಜ್ಯ ಆಳುತ್ತಿದ್ದಾನೆ.",
+      "meaningInEnglish": "To change",
+      "phraseMeaningInEnglish": "A guest overstepping their welcome"
     },
     "telugu": {
       "word": "విజ్ఞానం",
@@ -122,7 +138,9 @@ export const dailyContent = [
       "phrase": "ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు",
       "phrasePronunciation": "ooru kaani ooru vaste kukkalu moriginattlu",
       "phraseMeaning": "కొత్త చోటికి వెళ్తే ఇబ్బందులు ఎదురవుతాయి",
-      "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు."
+      "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు.",
+      "meaningInEnglish": "Knowledge",
+      "phraseMeaningInEnglish": "New places bring new challenges"
     }
   },
   {
@@ -144,7 +162,9 @@ export const dailyContent = [
       "phrase": "ऊँट के मुँह में जीरा",
       "phrasePronunciation": "oont ke munh mein jeera",
       "phraseMeaning": "ज़रूरत के मुकाबले बहुत कम",
-      "phraseExample": "इतने बड़े परिवार के लिए यह तनख्वाह ऊँट के मुँह में जीरा है।"
+      "phraseExample": "इतने बड़े परिवार के लिए यह तनख्वाह ऊँट के मुँह में जीरा है।",
+      "meaningInEnglish": "To enchant",
+      "phraseMeaningInEnglish": "Far too little for the need"
     },
     "kannada": {
       "word": "ಸರ್ವರೋಗ ನಿವಾರಕ",
@@ -154,7 +174,9 @@ export const dailyContent = [
       "phrase": "ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ",
       "phrasePronunciation": "ettige jvara bandare emmege bare",
       "phraseMeaning": "ಒಬ್ಬರ ಸಮಸ್ಯೆಯನ್ನು ಇನ್ನೊಬ್ಬರ ಮೇಲೆ ಹಾಕುವುದು",
-      "phraseExample": "ನನ್ನ ತಪ್ಪಿಗೆ ಅವನಿಗೆ ಶಿಕ್ಷೆ — ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ."
+      "phraseExample": "ನನ್ನ ತಪ್ಪಿಗೆ ಅವನಿಗೆ ಶಿಕ್ಷೆ — ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ.",
+      "meaningInEnglish": "Panacea",
+      "phraseMeaningInEnglish": "Passing one's problems onto others"
     },
     "telugu": {
       "word": "సాహసం",
@@ -164,7 +186,9 @@ export const dailyContent = [
       "phrase": "కాకి పిల్ల కాకికి ముద్దు",
       "phrasePronunciation": "kaaki pilla kaakiki muddu",
       "phraseMeaning": "ప్రతి తల్లికి తన బిడ్డ ముద్దే",
-      "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా."
+      "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా.",
+      "meaningInEnglish": "Courage",
+      "phraseMeaningInEnglish": "Every mother loves her own child most"
     }
   },
   {
@@ -186,7 +210,9 @@ export const dailyContent = [
       "phrase": "कान भरना",
       "phrasePronunciation": "kaan bharna",
       "phraseMeaning": "किसी के खिलाफ भड़काना",
-      "phraseExample": "किसी ने बॉस के कान भर दिए।"
+      "phraseExample": "किसी ने बॉस के कान भर दिए।",
+      "meaningInEnglish": "To yield",
+      "phraseMeaningInEnglish": "To incite against someone"
     },
     "kannada": {
       "word": "ಮರೆವು",
@@ -196,7 +222,9 @@ export const dailyContent = [
       "phrase": "ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ",
       "phrasePronunciation": "kuri kaayuvavana kaili dana kottante",
       "phraseMeaning": "ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ ಜವಾಬ್ದಾರಿ ಕೊಡುವುದು",
-      "phraseExample": "ಅವನಿಗೆ ಆ ಕೆಲಸ ಕೊಟ್ಟದ್ದು ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ."
+      "phraseExample": "ಅವನಿಗೆ ಆ ಕೆಲಸ ಕೊಟ್ಟದ್ದು ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ.",
+      "meaningInEnglish": "Forgetfulness",
+      "phraseMeaningInEnglish": "Giving responsibility to an unworthy person"
     },
     "telugu": {
       "word": "ఆనందం",
@@ -206,7 +234,9 @@ export const dailyContent = [
       "phrase": "గోరుచుట్టుపై రోకలి పోటు",
       "phrasePronunciation": "goruchuttupai rokali potu",
       "phraseMeaning": "ఉన్న సమస్యపై మరో సమస్య",
-      "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు."
+      "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు.",
+      "meaningInEnglish": "Joy",
+      "phraseMeaningInEnglish": "Adding insult to injury"
     }
   },
   {
@@ -228,7 +258,9 @@ export const dailyContent = [
       "phrase": "घर की मुर्गी दाल बराबर",
       "phrasePronunciation": "ghar ki murgi daal barabar",
       "phraseMeaning": "अपनी चीज की कदर नहीं",
-      "phraseExample": "देश में इतने अच्छे कलाकार हैं पर घर की मुर्गी दाल बराबर।"
+      "phraseExample": "देश में इतने अच्छे कलाकार हैं पर घर की मुर्गी दाल बराबर।",
+      "meaningInEnglish": "Ruthless",
+      "phraseMeaningInEnglish": "Not appreciating what you have"
     },
     "kannada": {
       "word": "ಸಂಯಮದ",
@@ -238,7 +270,9 @@ export const dailyContent = [
       "phrase": "ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ",
       "phrasePronunciation": "gaali bandaaga tooriko",
       "phraseMeaning": "ಅವಕಾಶ ಸಿಕ್ಕಾಗ ಉಪಯೋಗಿಸಿಕೊ",
-      "phraseExample": "ಅವಕಾಶ ಸಿಕ್ಕಿದೆ, ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ."
+      "phraseExample": "ಅವಕಾಶ ಸಿಕ್ಕಿದೆ, ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ.",
+      "meaningInEnglish": "Restrained",
+      "phraseMeaningInEnglish": "Seize the opportunity when it comes"
     },
     "telugu": {
       "word": "క్షమాపణ",
@@ -248,7 +282,9 @@ export const dailyContent = [
       "phrase": "చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం",
       "phrasePronunciation": "chetilo venna undagaa neyi kosam vetakadam",
       "phraseMeaning": "ఉన్నది వదిలి ఇంకేదో వెతకడం",
-      "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం."
+      "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం.",
+      "meaningInEnglish": "Apology",
+      "phraseMeaningInEnglish": "Leaving what you have for something uncertain"
     }
   },
   {
@@ -270,7 +306,9 @@ export const dailyContent = [
       "phrase": "चार चाँद लगाना",
       "phrasePronunciation": "chaar chaand lagana",
       "phraseMeaning": "शोभा बढ़ाना",
-      "phraseExample": "उसकी मेहनत ने कार्यक्रम में चार चाँद लगा दिए।"
+      "phraseExample": "उसकी मेहनत ने कार्यक्रम में चार चाँद लगा दिए।",
+      "meaningInEnglish": "Hardworking",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದುರ್ಲಭ",
@@ -280,7 +318,9 @@ export const dailyContent = [
       "phrase": "ಮೊಸಳೆ ಕಣ್ಣೀರು",
       "phrasePronunciation": "mosale kanneeru",
       "phraseMeaning": "ಸುಳ್ಳು ಅನುಕಂಪ",
-      "phraseExample": "ಅವನ ದುಃಖ ಮೊಸಳೆ ಕಣ್ಣೀರು."
+      "phraseExample": "ಅವನ ದುಃಖ ಮೊಸಳೆ ಕಣ್ಣೀರು.",
+      "meaningInEnglish": "Rare",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ధైర్యం",
@@ -290,7 +330,9 @@ export const dailyContent = [
       "phrase": "తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు",
       "phrasePronunciation": "taati chettu ekkevadiki tongi chooddam alavatu",
       "phraseMeaning": "పనిలో అనుభవం ఉన్నవాళ్ళకు అది సాధారణం",
-      "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు."
+      "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు.",
+      "meaningInEnglish": "Bravery",
+      "phraseMeaningInEnglish": "Routine for the experienced"
     }
   },
   {
@@ -312,7 +354,9 @@ export const dailyContent = [
       "phrase": "छाती पर साँप लोटना",
       "phrasePronunciation": "chhaati par saanp lotna",
       "phraseMeaning": "ईर्ष्या से जलना",
-      "phraseExample": "पड़ोसी की तरक्की देख उसकी छाती पर साँप लोट गया।"
+      "phraseExample": "पड़ोसी की तरक्की देख उसकी छाती पर साँप लोट गया।",
+      "meaningInEnglish": "Visionary",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಚುರುಕು ಉತ್ತರ",
@@ -322,7 +366,9 @@ export const dailyContent = [
       "phrase": "ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ",
       "phrasePronunciation": "kodali kaavu koduva mara",
       "phraseMeaning": "ತನ್ನನ್ನೇ ಕಡಿಯಲು ಸಹಾಯ ಮಾಡುವುದು",
-      "phraseExample": "ಅವನಿಗೇ ಮಾಹಿತಿ ಕೊಟ್ಟೆ — ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ ಆದೆ."
+      "phraseExample": "ಅವನಿಗೇ ಮಾಹಿತಿ ಕೊಟ್ಟೆ — ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ ಆದೆ.",
+      "meaningInEnglish": "Quick-witted reply",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "వివేకం",
@@ -332,7 +378,9 @@ export const dailyContent = [
       "phrase": "నక్కకు నిద్ర వస్తే కోడి కూస్తుంది",
       "phrasePronunciation": "nakkaku nidra vaste kodi koostundi",
       "phraseMeaning": "ఒకరు అజాగ్రత్తగా ఉంటే మరొకరు లాభపడతారు",
-      "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది."
+      "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది.",
+      "meaningInEnglish": "Wisdom",
+      "phraseMeaningInEnglish": "When one is careless, another profits"
     }
   },
   {
@@ -354,7 +402,9 @@ export const dailyContent = [
       "phrase": "तिल का ताड़ बनाना",
       "phrasePronunciation": "til ka taad banana",
       "phraseMeaning": "छोटी बात को बड़ा बनाना",
-      "phraseExample": "बस एक गलती थी, उसने तिल का ताड़ बना दिया।"
+      "phraseExample": "बस एक गलती थी, उसने तिल का ताड़ बना दिया।",
+      "meaningInEnglish": "Compassionate",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಬಲಿಷ್ಠ",
@@ -364,7 +414,9 @@ export const dailyContent = [
       "phrase": "ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ",
       "phrasePronunciation": "tumbida koda tulukuvudilla",
       "phraseMeaning": "ಜ್ಞಾನಿ ಅಹಂಕಾರ ತೋರಿಸುವುದಿಲ್ಲ",
-      "phraseExample": "ಅವರು ವಿನಯಶೀಲರು — ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ."
+      "phraseExample": "ಅವರು ವಿನಯಶೀಲರು — ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ.",
+      "meaningInEnglish": "Powerful",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంకల్పం",
@@ -374,7 +426,9 @@ export const dailyContent = [
       "phrase": "పందికి బంగారు పట్టెడ ఎందుకు",
       "phrasePronunciation": "pandiki bangaaru patteda enduku",
       "phraseMeaning": "విలువ తెలియనివాడికి విలువైనది ఇచ్చి ఏం లాభం",
-      "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు."
+      "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు.",
+      "meaningInEnglish": "Determination",
+      "phraseMeaningInEnglish": "Don't give pearls to those who can't value them"
     }
   },
   {
@@ -396,7 +450,9 @@ export const dailyContent = [
       "phrase": "दाल में काला होना",
       "phrasePronunciation": "daal mein kaala hona",
       "phraseMeaning": "कुछ गड़बड़ होना",
-      "phraseExample": "उसकी बातों में दाल में कुछ काला है।"
+      "phraseExample": "उसकी बातों में दाल में कुछ काला है।",
+      "meaningInEnglish": "To inspire",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಿಳ್ಳೆ",
@@ -406,7 +462,9 @@ export const dailyContent = [
       "phrase": "ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು",
       "phrasePronunciation": "haavu saayabeku kolu muriyabaaradu",
       "phraseMeaning": "ಕೆಲಸ ಆಗಬೇಕು ಯಾರಿಗೂ ಹಾನಿ ಆಗಬಾರದು",
-      "phraseExample": "ಜಾಣತನದಿಂದ ಮಾಡು — ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು."
+      "phraseExample": "ಜಾಣತನದಿಂದ ಮಾಡು — ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು.",
+      "meaningInEnglish": "Whistle",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఔదార్యం",
@@ -416,7 +474,9 @@ export const dailyContent = [
       "phrase": "బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి",
       "phrasePronunciation": "boggu muttukuṇṭe chetulu nallabadataay",
       "phraseMeaning": "చెడ్డ వాళ్ళతో తిరిగితే మనం కూడా చెడిపోతాం",
-      "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి."
+      "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి.",
+      "meaningInEnglish": "Generosity",
+      "phraseMeaningInEnglish": "Bad company corrupts good character"
     }
   },
   {
@@ -438,7 +498,9 @@ export const dailyContent = [
       "phrase": "नौ दो ग्यारह होना",
       "phrasePronunciation": "nau do gyaarah hona",
       "phraseMeaning": "भाग जाना",
-      "phraseExample": "पुलिस को देखते ही चोर नौ दो ग्यारह हो गए।"
+      "phraseExample": "पुलिस को देखते ही चोर नौ दो ग्यारह हो गए।",
+      "meaningInEnglish": "To diminish",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ತಿದ್ದಲಾಗದ",
@@ -448,7 +510,9 @@ export const dailyContent = [
       "phrase": "ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ",
       "phrasePronunciation": "maadiddunno mahaaraaya",
       "phraseMeaning": "ಮಾಡಿದ ಕೆಲಸದ ಫಲ ಅನುಭವಿಸು",
-      "phraseExample": "ಈಗ ಅಳಬೇಡ, ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ."
+      "phraseExample": "ಈಗ ಅಳಬೇಡ, ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ.",
+      "meaningInEnglish": "Incorrigible",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "పరిశ్రమ",
@@ -458,7 +522,9 @@ export const dailyContent = [
       "phrase": "మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది",
       "phrasePronunciation": "manchi chesi choodu manasu nindugaa untundi",
       "phraseMeaning": "ఇతరులకు మేలు చేస్తే మనసుకు తృప్తి",
-      "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది."
+      "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది.",
+      "meaningInEnglish": "Hard work",
+      "phraseMeaningInEnglish": "Helping others brings inner peace"
     }
   },
   {
@@ -480,7 +546,9 @@ export const dailyContent = [
       "phrase": "पानी-पानी होना",
       "phrasePronunciation": "paani-paani hona",
       "phraseMeaning": "बहुत शर्मिंदा होना",
-      "phraseExample": "सच सामने आने पर वह पानी-पानी हो गया।"
+      "phraseExample": "सच सामने आने पर वह पानी-पानी हो गया।",
+      "meaningInEnglish": "Enthusiastic",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ನಿಷ್ಕ್ರಿಯ ಸ್ಥಿತಿ",
@@ -490,7 +558,9 @@ export const dailyContent = [
       "phrase": "ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ",
       "phrasePronunciation": "adikege hoda maana aane kottaroo baralla",
       "phraseMeaning": "ಹೋದ ಗೌರವ ಮರಳಿ ಬರುವುದಿಲ್ಲ",
-      "phraseExample": "ಮರ್ಯಾದೆ ಕಳೆದುಕೊಂಡ — ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ."
+      "phraseExample": "ಮರ್ಯಾದೆ ಕಳೆದುಕೊಂಡ — ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ.",
+      "meaningInEnglish": "State of inactivity",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంతోషం",
@@ -500,7 +570,9 @@ export const dailyContent = [
       "phrase": "రాతికి పూచే పూలు రాలిపోతాయి",
       "phrasePronunciation": "raatiki pooche poolu raalipotaayi",
       "phraseMeaning": "శాశ్వతమైనది ఏదీ లేదు",
-      "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి."
+      "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి.",
+      "meaningInEnglish": "Happiness",
+      "phraseMeaningInEnglish": "Nothing is permanent"
     }
   },
   {
@@ -522,7 +594,9 @@ export const dailyContent = [
       "phrase": "बंदर क्या जाने अदरक का स्वाद",
       "phrasePronunciation": "bandar kya jaane adrak ka swaad",
       "phraseMeaning": "अनजान व्यक्ति गुणों की कदर नहीं करता",
-      "phraseExample": "उसे संगीत की क्या समझ, बंदर क्या जाने अदरक का स्वाद।"
+      "phraseExample": "उसे संगीत की क्या समझ, बंदर क्या जाने अदरक का स्वाद।",
+      "meaningInEnglish": "Harmful",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಖಿನ್ನ",
@@ -532,7 +606,9 @@ export const dailyContent = [
       "phrase": "ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ",
       "phrasePronunciation": "ooru kottaroo hola koda",
       "phraseMeaning": "ನೆರೆಹೊರೆ ಒಳ್ಳೆಯದಾಗಿರಬೇಕು",
-      "phraseExample": "ಒಳ್ಳೆಯ ನೆರೆಹೊರೆ ಮುಖ್ಯ — ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ."
+      "phraseExample": "ಒಳ್ಳೆಯ ನೆರೆಹೊರೆ ಮುಖ್ಯ — ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ.",
+      "meaningInEnglish": "Gloomy",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిజాయితీ",
@@ -542,7 +618,9 @@ export const dailyContent = [
       "phrase": "విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు",
       "phrasePronunciation": "vinnavaariki telivi cheppinavaariki orpu",
       "phraseMeaning": "వినేవాడికి జ్ఞానం, చెప్పేవాడికి సహనం కావాలి",
-      "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు."
+      "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు.",
+      "meaningInEnglish": "Honesty",
+      "phraseMeaningInEnglish": "Listener needs wisdom, speaker needs patience"
     }
   },
   {
@@ -564,7 +642,9 @@ export const dailyContent = [
       "phrase": "लोहा मानना",
       "phrasePronunciation": "loha maanna",
       "phraseMeaning": "किसी की श्रेष्ठता स्वीकार करना",
-      "phraseExample": "विरोधियों ने भी उसका लोहा मान लिया।"
+      "phraseExample": "विरोधियों ने भी उसका लोहा मान लिया।",
+      "meaningInEnglish": "Sycophant",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಡ್ಡಿಯಾಗು",
@@ -574,7 +654,9 @@ export const dailyContent = [
       "phrase": "ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ",
       "phrasePronunciation": "kallana manassu kattale",
       "phraseMeaning": "ತಪ್ಪು ಮಾಡಿದವನಿಗೆ ಯಾವಾಗಲೂ ಭಯ",
-      "phraseExample": "ಅವನು ಯಾವಾಗಲೂ ಹೆದರುತ್ತಾನೆ — ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ."
+      "phraseExample": "ಅವನು ಯಾವಾಗಲೂ ಹೆದರುತ್ತಾನೆ — ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ.",
+      "meaningInEnglish": "To obstruct",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సహనం",
@@ -584,7 +666,9 @@ export const dailyContent = [
       "phrase": "ఏనుగు మీద దీపం ఉంచినట్లు",
       "phrasePronunciation": "enugu meeda deepam unchinattlu",
       "phraseMeaning": "చాలా గొప్పగా కనిపించడం",
-      "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు."
+      "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు.",
+      "meaningInEnglish": "Patience",
+      "phraseMeaningInEnglish": "To appear very grand and impressive"
     }
   },
   {
@@ -606,7 +690,9 @@ export const dailyContent = [
       "phrase": "गुड़ गोबर करना",
       "phrasePronunciation": "gud gobar karna",
       "phraseMeaning": "बना-बनाया काम बिगाड़ना",
-      "phraseExample": "आखिरी वक्त पर उसने सब गुड़ गोबर कर दिया।"
+      "phraseExample": "आखिरी वक्त पर उसने सब गुड़ गोबर कर दिया।",
+      "meaningInEnglish": "Elated",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಭೀತಿ",
@@ -616,7 +702,9 @@ export const dailyContent = [
       "phrase": "ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ",
       "phrasePronunciation": "maatu belli mauna bangaara",
       "phraseMeaning": "ಮಾತಿಗಿಂತ ಮೌನ ಮೌಲ್ಯಯುತ",
-      "phraseExample": "ಈ ಸಮಯದಲ್ಲಿ ಸುಮ್ಮನಿರು — ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ."
+      "phraseExample": "ಈ ಸಮಯದಲ್ಲಿ ಸುಮ್ಮನಿರು — ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ.",
+      "meaningInEnglish": "Fear",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "కృతజ్ఞత",
@@ -626,7 +714,9 @@ export const dailyContent = [
       "phrase": "కష్టపడితే ఫలం దక్కుతుంది",
       "phrasePronunciation": "kashtapadite phalam dakkutundi",
       "phraseMeaning": "పరిశ్రమకు తగిన ఫలితం వస్తుంది",
-      "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది."
+      "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది.",
+      "meaningInEnglish": "Gratitude",
+      "phraseMeaningInEnglish": "Hard work yields suitable rewards"
     }
   },
   {
@@ -648,7 +738,9 @@ export const dailyContent = [
       "phrase": "हाथ कंगन को आरसी क्या",
       "phrasePronunciation": "haath kangan ko aarsi kya",
       "phraseMeaning": "प्रत्यक्ष को प्रमाण की ज़रूरत नहीं",
-      "phraseExample": "नतीजे सामने हैं, हाथ कंगन को आरसी क्या।"
+      "phraseExample": "नतीजे सामने हैं, हाथ कंगन को आरसी क्या।",
+      "meaningInEnglish": "Clever",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸುಖವಾದ",
@@ -658,7 +750,9 @@ export const dailyContent = [
       "phrase": "ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ",
       "phrasePronunciation": "hole neerige donne naayaka",
       "phraseMeaning": "ಅಧಿಕಾರವಿಲ್ಲದವನ ಆಡಂಬರ",
-      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಅಧಿಕಾರವೂ ಇಲ್ಲ ಆದರೆ ರೋಬ್ — ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ."
+      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಅಧಿಕಾರವೂ ಇಲ್ಲ ಆದರೆ ರೋಬ್ — ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ.",
+      "meaningInEnglish": "Pleasurable",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆత్మవిశ్వాసం",
@@ -668,7 +762,9 @@ export const dailyContent = [
       "phrase": "అందని ద్రాక్ష పుల్లన",
       "phrasePronunciation": "andani draaksha pullana",
       "phraseMeaning": "సాధించలేనిది తక్కువ అని చెప్పడం",
-      "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు."
+      "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు.",
+      "meaningInEnglish": "Self-confidence",
+      "phraseMeaningInEnglish": "Sour grapes; dismissing what you can't get"
     }
   },
   {
@@ -690,7 +786,9 @@ export const dailyContent = [
       "phrase": "आँख का पानी ढलना",
       "phrasePronunciation": "aankh ka paani dhalna",
       "phraseMeaning": "बेशर्म हो जाना",
-      "phraseExample": "झूठ बोलते-बोलते उसकी आँख का पानी ढल गया।"
+      "phraseExample": "झूठ बोलते-बोलते उसकी आँख का पानी ढल गया।",
+      "meaningInEnglish": "Random; aimless",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಾಮಾಜಿಕ ತಪ್ಪು",
@@ -700,7 +798,9 @@ export const dailyContent = [
       "phrase": "ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ",
       "phrasePronunciation": "naayi bogalidare devaloka haalaguvudilla",
       "phraseMeaning": "ಕೆಟ್ಟವರ ಮಾತಿಗೆ ಮಹತ್ವ ಕೊಡಬೇಡ",
-      "phraseExample": "ಅವರ ಟೀಕೆ ಬಿಡು — ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ."
+      "phraseExample": "ಅವರ ಟೀಕೆ ಬಿಡು — ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ.",
+      "meaningInEnglish": "Social blunder",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిబద్ధత",
@@ -710,7 +810,9 @@ export const dailyContent = [
       "phrase": "చెప్పేది ఒకటి చేసేది ఒకటి",
       "phrasePronunciation": "cheppedi okati chesedi okati",
       "phraseMeaning": "మాటలకు చేతలకు పొంతన లేకపోవడం",
-      "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి."
+      "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి.",
+      "meaningInEnglish": "Commitment",
+      "phraseMeaningInEnglish": "Actions don't match words; hypocrisy"
     }
   },
   {
@@ -732,7 +834,9 @@ export const dailyContent = [
       "phrase": "अपने मुँह मियाँ मिट्ठू बनना",
       "phrasePronunciation": "apne munh miyan mitthu banna",
       "phraseMeaning": "खुद अपनी तारीफ करना",
-      "phraseExample": "हर बात में अपने मुँह मियाँ मिट्ठू बनता है।"
+      "phraseExample": "हर बात में अपने मुँह मियाँ मिट्ठू बनता है।",
+      "meaningInEnglish": "Kinetic; relating to motion",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕಲ್ಪನಾತ್ಮಕ",
@@ -742,7 +846,9 @@ export const dailyContent = [
       "phrase": "ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು",
       "phrasePronunciation": "ati aase gati kedu",
       "phraseMeaning": "ಅತಿಯಾಸೆ ವಿನಾಶಕ್ಕೆ ಕಾರಣ",
-      "phraseExample": "ಹೆಚ್ಚು ಬೇಡ — ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು."
+      "phraseExample": "ಹೆಚ್ಚು ಬೇಡ — ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು.",
+      "meaningInEnglish": "Imaginative",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "స్ఫూర్తి",
@@ -752,7 +858,9 @@ export const dailyContent = [
       "phrase": "తాడిని తన్నేవాడు కొబ్బరిని తన్నడు",
       "phrasePronunciation": "taadini tannedvaadu kobbarini tannadu",
       "phraseMeaning": "అంత సామర్థ్యం లేనివాడు పెద్ద పనులు చేయలేడు",
-      "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు."
+      "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు.",
+      "meaningInEnglish": "Inspiration",
+      "phraseMeaningInEnglish": "One without ability can't do big things"
     }
   },
   {
@@ -774,7 +882,9 @@ export const dailyContent = [
       "phrase": "घोड़े बेचकर सोना",
       "phrasePronunciation": "ghode bechkar sona",
       "phraseMeaning": "बेफिक्र होकर सोना",
-      "phraseExample": "परीक्षा खत्म, अब घोड़े बेचकर सोएंगे।"
+      "phraseExample": "परीक्षा खत्म, अब घोड़े बेचकर सोएंगे।",
+      "meaningInEnglish": "Tendency; inclination",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಪಾಯಕಾರಿ",
@@ -784,7 +894,9 @@ export const dailyContent = [
       "phrase": "ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸು",
       "phrasePronunciation": "kallu haaki doni mulugisu",
       "phraseMeaning": "ಇತರರ ಕೆಲಸ ಹಾಳು ಮಾಡು",
-      "phraseExample": "ಅವನು ನನ್ನ ಯೋಜನೆಗೆ ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸಿದ."
+      "phraseExample": "ಅವನು ನನ್ನ ಯೋಜನೆಗೆ ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸಿದ.",
+      "meaningInEnglish": "Dangerous",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "చాతుర్యం",
@@ -794,7 +906,9 @@ export const dailyContent = [
       "phrase": "నీటిలో దూకినవాడు తడవకుండా ఉంటాడా",
       "phrasePronunciation": "neetilo dookinavaadu tadavakunda untadaa",
       "phraseMeaning": "పనిలో దిగినప్పుడు ఫలితాలు ఉంటాయి",
-      "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా."
+      "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా.",
+      "meaningInEnglish": "Cleverness",
+      "phraseMeaningInEnglish": "Results come when you get to work"
     }
   },
   {
@@ -816,7 +930,9 @@ export const dailyContent = [
       "phrase": "आस्तीन का साँप",
       "phrasePronunciation": "aasteen ka saanp",
       "phraseMeaning": "करीबी होकर धोखा देने वाला",
-      "phraseExample": "वह तो आस्तीन का साँप निकला।"
+      "phraseExample": "वह तो आस्तीन का साँप निकला।",
+      "meaningInEnglish": "Realism; verisimilitude",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ನಿಪುಣ",
@@ -826,7 +942,9 @@ export const dailyContent = [
       "phrase": "ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ",
       "phrasePronunciation": "bekkige chellaata ilige praana sankata",
       "phraseMeaning": "ಒಬ್ಬರಿಗೆ ಆಟ ಇನ್ನೊಬ್ಬರಿಗೆ ಕಷ್ಟ",
-      "phraseExample": "ಅವನಿಗೆ ತಮಾಷೆ ನನಗೆ ತೊಂದರೆ — ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ."
+      "phraseExample": "ಅವನಿಗೆ ತಮಾಷೆ ನನಗೆ ತೊಂದರೆ — ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ.",
+      "meaningInEnglish": "Skilled",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సమర్పణ",
@@ -836,7 +954,9 @@ export const dailyContent = [
       "phrase": "పేదవాని బండికి ఎద్దులు ఆగవు",
       "phrasePronunciation": "pedavaani bandiki eddulu aagavu",
       "phraseMeaning": "డబ్బు లేనివాడికి ఏదీ సమయానికి జరగదు",
-      "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు."
+      "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు.",
+      "meaningInEnglish": "Dedication",
+      "phraseMeaningInEnglish": "Nothing works on time for the poor"
     }
   },
   {
@@ -858,7 +978,9 @@ export const dailyContent = [
       "phrase": "एक पंथ दो काज",
       "phrasePronunciation": "ek panth do kaaj",
       "phraseMeaning": "एक काम से दो फायदे",
-      "phraseExample": "वहाँ जाकर मिलना भी हो जाएगा और काम भी — एक पंथ दो काज।"
+      "phraseExample": "वहाँ जाकर मिलना भी हो जाएगा और काम भी — एक पंथ दो काज।",
+      "meaningInEnglish": "Abundant; plentiful",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸುಳಿ",
@@ -868,7 +990,9 @@ export const dailyContent = [
       "phrase": "ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ",
       "phrasePronunciation": "koti kaili hoomaale",
       "phraseMeaning": "ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ ಒಳ್ಳೆಯ ವಸ್ತು",
-      "phraseExample": "ಅವನಿಗೆ ಆ ಅವಕಾಶ ಕೊಟ್ಟದ್ದು ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ."
+      "phraseExample": "ಅವನಿಗೆ ಆ ಅವಕಾಶ ಕೊಟ್ಟದ್ದು ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ.",
+      "meaningInEnglish": "Whirlpool; vortex",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "విశ్వాసం",
@@ -878,7 +1002,9 @@ export const dailyContent = [
       "phrase": "మనసు మంచిదైతే మార్గం కనిపిస్తుంది",
       "phrasePronunciation": "manasu manchidaite maargam kanipistundi",
       "phraseMeaning": "మంచి ఉద్దేశ్యం ఉంటే దారి దొరుకుతుంది",
-      "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది."
+      "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది.",
+      "meaningInEnglish": "Trust",
+      "phraseMeaningInEnglish": "Good intentions find a way"
     }
   },
   {
@@ -900,7 +1026,9 @@ export const dailyContent = [
       "phrase": "खून का घूँट पीना",
       "phrasePronunciation": "khoon ka ghoont peena",
       "phraseMeaning": "गुस्सा दबाकर सहना",
-      "phraseExample": "अपमान सुनकर उसने खून का घूँट पी लिया।"
+      "phraseExample": "अपमान सुनकर उसने खून का घूँट पी लिया।",
+      "meaningInEnglish": "To imitate; to emulate",
+      "phraseMeaningInEnglish": "To suppress anger and endure"
     },
     "kannada": {
       "word": "ಪಕ್ಕಪಕ್ಕ ಇಡು",
@@ -910,7 +1038,9 @@ export const dailyContent = [
       "phrase": "ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು",
       "phrasePronunciation": "ondu kaiyalli chappaale tattalu aagadu",
       "phraseMeaning": "ಜಗಳದಲ್ಲಿ ಇಬ್ಬರ ತಪ್ಪು ಇರುತ್ತದೆ",
-      "phraseExample": "ಇಬ್ಬರೂ ತಪ್ಪು — ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು."
+      "phraseExample": "ಇಬ್ಬರೂ ತಪ್ಪು — ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು.",
+      "meaningInEnglish": "To juxtapose; place side by side",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంయమనం",
@@ -920,7 +1050,9 @@ export const dailyContent = [
       "phrase": "రాయిని దేవుడని పూజిస్తే అది దేవుడే",
       "phrasePronunciation": "raayini devudani poojisite adi devude",
       "phraseMeaning": "నమ్మకం ఉంటే ఏదైనా సాధ్యం",
-      "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే."
+      "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే.",
+      "meaningInEnglish": "Self-restraint",
+      "phraseMeaningInEnglish": "Faith makes anything possible"
     }
   },
   {
@@ -942,7 +1074,9 @@ export const dailyContent = [
       "phrase": "गागर में सागर भरना",
       "phrasePronunciation": "gaagar mein saagar bharna",
       "phraseMeaning": "कम शब्दों में गहरी बात कहना",
-      "phraseExample": "कबीर के दोहे गागर में सागर भरते हैं।"
+      "phraseExample": "कबीर के दोहे गागर में सागर भरते हैं।",
+      "meaningInEnglish": "Rare",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಭವ್ಯ",
@@ -952,7 +1086,9 @@ export const dailyContent = [
       "phrase": "ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು",
       "phrasePronunciation": "oorige bandavalu neerigoo barabeku",
       "phraseMeaning": "ಎಲ್ಲಾ ಕಷ್ಟ ಸಹಿಸಬೇಕು",
-      "phraseExample": "ಇಲ್ಲಿ ಬಂದ ಮೇಲೆ ಕಷ್ಟ ಸಹಿಸು — ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು."
+      "phraseExample": "ಇಲ್ಲಿ ಬಂದ ಮೇಲೆ ಕಷ್ಟ ಸಹಿಸು — ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು.",
+      "meaningInEnglish": "Grand; magnificent",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అనుభవం",
@@ -962,7 +1098,9 @@ export const dailyContent = [
       "phrase": "ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది",
       "phrasePronunciation": "enta pedda chettainaa vittananto modalavutundi",
       "phraseMeaning": "ప్రతి గొప్ప విషయం చిన్నగా మొదలవుతుంది",
-      "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది."
+      "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది.",
+      "meaningInEnglish": "Experience",
+      "phraseMeaningInEnglish": "Every great thing starts small"
     }
   },
   {
@@ -984,7 +1122,9 @@ export const dailyContent = [
       "phrase": "चिराग तले अँधेरा",
       "phrasePronunciation": "chiraag tale andhera",
       "phraseMeaning": "अपने घर में ही खराबी",
-      "phraseExample": "पुलिस अधिकारी का बेटा चोर — चिराग तले अँधेरा।"
+      "phraseExample": "पुलिस अधिकारी का बेटा चोर — चिराग तले अँधेरा।",
+      "meaningInEnglish": "Cliché; overused statement",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಉದ್ದೇಶರಹಿತ",
@@ -994,7 +1134,9 @@ export const dailyContent = [
       "phrase": "ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ",
       "phrasePronunciation": "aadu muttada soppilla",
       "phraseMeaning": "ಎಲ್ಲದರಲ್ಲೂ ಕೈ ಹಾಕುವವನು",
-      "phraseExample": "ಅವನಿಗೆ ಎಲ್ಲ ವಿಷಯದಲ್ಲೂ ತಲೆ ಹಾಕಬೇಕು — ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ."
+      "phraseExample": "ಅವನಿಗೆ ಎಲ್ಲ ವಿಷಯದಲ್ಲೂ ತಲೆ ಹಾಕಬೇಕು — ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ.",
+      "meaningInEnglish": "Aimless; purposeless",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "పరిణామం",
@@ -1004,7 +1146,9 @@ export const dailyContent = [
       "phrase": "నవ్వు నాలుగు విధాల మేలు",
       "phrasePronunciation": "navvu naalugu vidhaala melu",
       "phraseMeaning": "నవ్వడం ఆరోగ్యానికి మంచిది",
-      "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు."
+      "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు.",
+      "meaningInEnglish": "Evolution",
+      "phraseMeaningInEnglish": "Laughter is the best medicine"
     }
   },
   {
@@ -1026,7 +1170,9 @@ export const dailyContent = [
       "phrase": "जले पर नमक छिड़कना",
       "phrasePronunciation": "jale par namak chhidakna",
       "phraseMeaning": "दुखी को और दुखी करना",
-      "phraseExample": "हार के बाद ताने मत मारो, जले पर नमक मत छिड़को।"
+      "phraseExample": "हार के बाद ताने मत मारो, जले पर नमक मत छिड़को।",
+      "meaningInEnglish": "Humor; comedy",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪ್ರಾಬಲ್ಯ",
@@ -1036,7 +1182,9 @@ export const dailyContent = [
       "phrase": "ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು",
       "phrasePronunciation": "hasivige anna kodu rogakke maddu kodu",
       "phraseMeaning": "ಸಮಸ್ಯೆಗೆ ಸರಿಯಾದ ಪರಿಹಾರ ಕೊಡು",
-      "phraseExample": "ಸರಿಯಾದ ಪರಿಹಾರ ಬೇಕು — ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು."
+      "phraseExample": "ಸರಿಯಾದ ಪರಿಹಾರ ಬೇಕು — ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು.",
+      "meaningInEnglish": "Dominance; prevalence",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సామర్థ్యం",
@@ -1046,7 +1194,9 @@ export const dailyContent = [
       "phrase": "అప్పు తీర్చని వాడికి పరపతి ఉండదు",
       "phrasePronunciation": "appu teerchani vaadiki parapati undadu",
       "phraseMeaning": "నమ్మకం కోల్పోతే మళ్ళీ రాదు",
-      "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు."
+      "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు.",
+      "meaningInEnglish": "Capability",
+      "phraseMeaningInEnglish": "Trust, once lost, is hard to regain"
     }
   },
   {
@@ -1068,7 +1218,9 @@ export const dailyContent = [
       "phrase": "नाक कटना",
       "phrasePronunciation": "naak katna",
       "phraseMeaning": "इज्जत जाना",
-      "phraseExample": "बेटे के व्यवहार से पिता की नाक कट गई।"
+      "phraseExample": "बेटे के व्यवहार से पिता की नाक कट गई।",
+      "meaningInEnglish": "Unprecedented",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಚತುರ",
@@ -1078,7 +1230,9 @@ export const dailyContent = [
       "phrase": "ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ",
       "phrasePronunciation": "kereya neeranu kerege chelli",
       "phraseMeaning": "ಪಡೆದುದನ್ನು ಹಿಂದಿರುಗಿಸು",
-      "phraseExample": "ಸಮಾಜಕ್ಕೆ ಹಿಂತಿರುಗಿಸು — ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ."
+      "phraseExample": "ಸಮಾಜಕ್ಕೆ ಹಿಂತಿರುಗಿಸು — ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ.",
+      "meaningInEnglish": "Clever; astute",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిర్మలం",
@@ -1088,7 +1242,9 @@ export const dailyContent = [
       "phrase": "ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు",
       "phrasePronunciation": "ekkada chepalu levo akkada kappe raaju",
       "phraseMeaning": "సమర్థులు లేని చోట అసమర్థులు పెత్తనం చేస్తారు",
-      "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు."
+      "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు.",
+      "meaningInEnglish": "Purity",
+      "phraseMeaningInEnglish": "In the land of the blind, the one-eyed is king"
     }
   },
   {
@@ -1110,7 +1266,9 @@ export const dailyContent = [
       "phrase": "पेट में चूहे दौड़ना",
       "phrasePronunciation": "pet mein choohe daudna",
       "phraseMeaning": "बहुत भूख लगना",
-      "phraseExample": "दोपहर से कुछ नहीं खाया, पेट में चूहे दौड़ रहे हैं।"
+      "phraseExample": "दोपहर से कुछ नहीं खाया, पेट में चूहे दौड़ रहे हैं।",
+      "meaningInEnglish": "Discerning",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಹೇರಳ",
@@ -1120,7 +1278,9 @@ export const dailyContent = [
       "phrase": "ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ",
       "phrasePronunciation": "manege maari oorige upakari",
       "phraseMeaning": "ತನ್ನವರಿಗೆ ಕೆಟ್ಟವನು ಹೊರಗಿನವರಿಗೆ ಒಳ್ಳೆಯವನು",
-      "phraseExample": "ಅವನು ಮನೆಯಲ್ಲಿ ಕೆಟ್ಟವನು ಹೊರಗೆ ಒಳ್ಳೆಯವನು — ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ."
+      "phraseExample": "ಅವನು ಮನೆಯಲ್ಲಿ ಕೆಟ್ಟವನು ಹೊರಗೆ ಒಳ್ಳೆಯವನು — ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ.",
+      "meaningInEnglish": "Abundant; plentiful",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆశీర్వాదం",
@@ -1130,7 +1290,9 @@ export const dailyContent = [
       "phrase": "చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది",
       "phrasePronunciation": "chettu narikina modalu unte chiguristundi",
       "phraseMeaning": "మూలం బలంగా ఉంటే తిరిగి లేవగలం",
-      "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది."
+      "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది.",
+      "meaningInEnglish": "Blessing",
+      "phraseMeaningInEnglish": "Strong roots help you rise again"
     }
   },
   {
@@ -1152,7 +1314,9 @@ export const dailyContent = [
       "phrase": "मक्खी पर मक्खी मारना",
       "phrasePronunciation": "makkhi par makkhi maarna",
       "phraseMeaning": "नकल करना",
-      "phraseExample": "वह हमेशा दूसरों पर मक्खी मारता है।"
+      "phraseExample": "वह हमेशा दूसरों पर मक्खी मारता है।",
+      "meaningInEnglish": "Rhetoric; speechmaking",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಯಾಂತ್ರಿಕ",
@@ -1162,7 +1326,9 @@ export const dailyContent = [
       "phrase": "ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ",
       "phrasePronunciation": "hannu maagidare taane beeluttade",
       "phraseMeaning": "ಸಮಯ ಬಂದಾಗ ತಾನಾಗಿ ಆಗುತ್ತದೆ",
-      "phraseExample": "ಆತುರಪಡಬೇಡ — ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ."
+      "phraseExample": "ಆತುರಪಡಬೇಡ — ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ.",
+      "meaningInEnglish": "Mechanical; automatic",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సృజనాత్మకత",
@@ -1172,7 +1338,9 @@ export const dailyContent = [
       "phrase": "కుక్క తోక వంకరే",
       "phrasePronunciation": "kukka toka vankare",
       "phraseMeaning": "కొందరి స్వభావం ఎప్పటికీ మారదు",
-      "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే."
+      "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే.",
+      "meaningInEnglish": "Creativity",
+      "phraseMeaningInEnglish": "A leopard can't change its spots"
     }
   },
   {
@@ -1194,7 +1362,9 @@ export const dailyContent = [
       "phrase": "उल्टी गंगा बहाना",
       "phrasePronunciation": "ulti ganga bahana",
       "phraseMeaning": "सामान्य नियम के विपरीत करना",
-      "phraseExample": "बच्चे बड़ों को सिखा रहे हैं — उल्टी गंगा बह रही है।"
+      "phraseExample": "बच्चे बड़ों को सिखा रहे हैं — उल्टी गंगा बह रही है।",
+      "meaningInEnglish": "Silent; tacit",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಶರಣಾಗು",
@@ -1204,7 +1374,9 @@ export const dailyContent = [
       "phrase": "ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟು",
       "phrasePronunciation": "maatinalli mallige kattu",
       "phraseMeaning": "ಬಹಳ ಮಧುರವಾಗಿ ಮಾತನಾಡು",
-      "phraseExample": "ಅವಳ ಮಾತು ಎಷ್ಟು ಚೆಂದ — ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟುತ್ತಾಳೆ."
+      "phraseExample": "ಅವಳ ಮಾತು ಎಷ್ಟು ಚೆಂದ — ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟುತ್ತಾಳೆ.",
+      "meaningInEnglish": "To surrender; to submit",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "దయ",
@@ -1214,7 +1386,9 @@ export const dailyContent = [
       "phrase": "తినే చేతిని కోయరాదు",
       "phrasePronunciation": "tine chetini koyaraadu",
       "phraseMeaning": "తనకు సహాయం చేసేవాళ్ళను మోసం చేయకూడదు",
-      "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు."
+      "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు.",
+      "meaningInEnglish": "Mercy",
+      "phraseMeaningInEnglish": "Don't bite the hand that feeds you"
     }
   },
   {
@@ -1236,7 +1410,9 @@ export const dailyContent = [
       "phrase": "आग बबूला होना",
       "phrasePronunciation": "aag baboola hona",
       "phraseMeaning": "बहुत गुस्सा होना",
-      "phraseExample": "देरी सुनकर बॉस आग बबूला हो गया।"
+      "phraseExample": "देरी सुनकर बॉस आग बबूला हो गया।",
+      "meaningInEnglish": "Outspoken; candid",
+      "phraseMeaningInEnglish": "To be furious; to see red"
     },
     "kannada": {
       "word": "ಉಗ್ರ",
@@ -1246,7 +1422,9 @@ export const dailyContent = [
       "phrase": "ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿ",
       "phrasePronunciation": "betta agedu ili hidi",
       "phraseMeaning": "ಬಹಳ ಪ್ರಯತ್ನಕ್ಕೆ ಕಡಿಮೆ ಫಲ",
-      "phraseExample": "ಇಷ್ಟು ಶ್ರಮ ಹಾಕಿ ಇಷ್ಟೇ ಸಿಕ್ಕಿತು — ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿದಂತೆ."
+      "phraseExample": "ಇಷ್ಟು ಶ್ರಮ ಹಾಕಿ ಇಷ್ಟೇ ಸಿಕ್ಕಿತು — ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿದಂತೆ.",
+      "meaningInEnglish": "Fierce; intense",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సమతుల్యం",
@@ -1256,7 +1434,9 @@ export const dailyContent = [
       "phrase": "దూరపు కొండలు నునుపు",
       "phrasePronunciation": "doorapu kondalu nunupu",
       "phraseMeaning": "దూరం నుండి చూస్తే అన్నీ బాగుంటాయి",
-      "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు."
+      "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు.",
+      "meaningInEnglish": "Balance",
+      "phraseMeaningInEnglish": "Distant hills look green"
     }
   },
   {
@@ -1278,7 +1458,9 @@ export const dailyContent = [
       "phrase": "टेढ़ी खीर होना",
       "phrasePronunciation": "tedhi kheer hona",
       "phraseMeaning": "बहुत कठिन काम",
-      "phraseExample": "इस परीक्षा को पास करना टेढ़ी खीर है।"
+      "phraseExample": "इस परीक्षा को पास करना टेढ़ी खीर है।",
+      "meaningInEnglish": "To replace; to supersede",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದುಷ್ಟ",
@@ -1288,7 +1470,9 @@ export const dailyContent = [
       "phrase": "ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ",
       "phrasePronunciation": "adige maadi ootakke kare",
       "phraseMeaning": "ಎಲ್ಲಾ ಸಿದ್ಧ ಮಾಡಿ ಆಮಂತ್ರಿಸು",
-      "phraseExample": "ತಯಾರಿ ಮುಗಿಸಿ ಕರೆ — ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ."
+      "phraseExample": "ತಯಾರಿ ಮುಗಿಸಿ ಕರೆ — ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ.",
+      "meaningInEnglish": "Wicked; evil",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "విజయం",
@@ -1298,7 +1482,9 @@ export const dailyContent = [
       "phrase": "ఆకు రాలినా చెట్టు నిలబడుతుంది",
       "phrasePronunciation": "aaku raalinaa chettu nilabadutundi",
       "phraseMeaning": "కష్టాలు వచ్చినా మనిషి నిలబడాలి",
-      "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది."
+      "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది.",
+      "meaningInEnglish": "Victory",
+      "phraseMeaningInEnglish": "Stand firm even in adversity"
     }
   },
   {
@@ -1320,7 +1506,9 @@ export const dailyContent = [
       "phrase": "हवा से बातें करना",
       "phrasePronunciation": "hava se baaten karna",
       "phraseMeaning": "बहुत तेज दौड़ना",
-      "phraseExample": "वह घोड़ा हवा से बातें करता है।"
+      "phraseExample": "वह घोड़ा हवा से बातें करता है।",
+      "meaningInEnglish": "Enthusiastic",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಗ್ರಾಮೀಣ",
@@ -1330,7 +1518,9 @@ export const dailyContent = [
       "phrase": "ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ",
       "phrasePronunciation": "kallanige beegada kai kottante",
       "phraseMeaning": "ಅಪ್ರಾಮಾಣಿಕ ವ್ಯಕ್ತಿಗೆ ಜವಾಬ್ದಾರಿ ಕೊಟ್ಟಂತೆ",
-      "phraseExample": "ಅವನಿಗೆ ಖಜಾನೆ ಕೊಟ್ಟದ್ದು — ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ."
+      "phraseExample": "ಅವನಿಗೆ ಖಜಾನೆ ಕೊಟ್ಟದ್ದು — ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ.",
+      "meaningInEnglish": "Rural; pastoral",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఐక్యత",
@@ -1340,7 +1530,9 @@ export const dailyContent = [
       "phrase": "ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు",
       "phrasePronunciation": "mundu choopu lenivadu venakki choostadu",
       "phraseMeaning": "ముందు ఆలోచించకపోతే తర్వాత బాధపడతాడు",
-      "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు."
+      "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు.",
+      "meaningInEnglish": "Unity",
+      "phraseMeaningInEnglish": "Failing to plan is planning to fail"
     }
   },
   {
@@ -1362,7 +1554,9 @@ export const dailyContent = [
       "phrase": "पहाड़ टूट पड़ना",
       "phrasePronunciation": "pahaad toot padna",
       "phraseMeaning": "बड़ी मुसीबत आना",
-      "phraseExample": "नौकरी जाने से उस पर दुखों का पहाड़ टूट पड़ा।"
+      "phraseExample": "नौकरी जाने से उस पर दुखों का पहाड़ टूट पड़ा।",
+      "meaningInEnglish": "Uncertain; precarious",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ವಿರಾಮ",
@@ -1372,7 +1566,9 @@ export const dailyContent = [
       "phrase": "ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ",
       "phrasePronunciation": "male bandare mane illa biisilige adige illa",
       "phraseMeaning": "ಎಲ್ಲ ಕಡೆ ಸಮಸ್ಯೆ",
-      "phraseExample": "ಅವನ ಪರಿಸ್ಥಿತಿ ಕಷ್ಟ — ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ."
+      "phraseExample": "ಅವನ ಪರಿಸ್ಥಿತಿ ಕಷ್ಟ — ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ.",
+      "meaningInEnglish": "Pause; rest",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అభిమానం",
@@ -1382,7 +1578,9 @@ export const dailyContent = [
       "phrase": "ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది",
       "phrasePronunciation": "eddu puttindi ellaku panikostundi",
       "phraseMeaning": "అన్నీ సమయం వచ్చినప్పుడు ఉపయోగపడతాయి",
-      "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది."
+      "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది.",
+      "meaningInEnglish": "Affection",
+      "phraseMeaningInEnglish": "Everything has its time and use"
     }
   },
   {
@@ -1404,7 +1602,9 @@ export const dailyContent = [
       "phrase": "तूती बोलना",
       "phrasePronunciation": "tooti bolna",
       "phraseMeaning": "बहुत प्रभाव होना",
-      "phraseExample": "इस शहर में उसकी तूती बोलती है।"
+      "phraseExample": "इस शहर में उसकी तूती बोलती है।",
+      "meaningInEnglish": "Deliberate; intentional",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸ್ವಯಂಸಿದ್ಧ",
@@ -1414,7 +1614,9 @@ export const dailyContent = [
       "phrase": "ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು",
       "phrasePronunciation": "haalu kudida makkalu",
       "phraseMeaning": "ಮುಗ್ಧ ಮತ್ತು ಅನನುಭವಿ",
-      "phraseExample": "ಅವರು ಇನ್ನೂ ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು."
+      "phraseExample": "ಅವರು ಇನ್ನೂ ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು.",
+      "meaningInEnglish": "Self-evident; axiomatic",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఉత్సాహం",
@@ -1424,7 +1626,9 @@ export const dailyContent = [
       "phrase": "బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు",
       "phrasePronunciation": "buddhi unnavadiki balam avasaram ledu",
       "phraseMeaning": "తెలివి ఉంటే శక్తి అవసరం లేదు",
-      "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు."
+      "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు.",
+      "meaningInEnglish": "Enthusiasm",
+      "phraseMeaningInEnglish": "Brain over brawn"
     }
   },
   {
@@ -1446,7 +1650,9 @@ export const dailyContent = [
       "phrase": "नानी याद आना",
       "phrasePronunciation": "naani yaad aana",
       "phraseMeaning": "बहुत कठिनाई होना",
-      "phraseExample": "पहाड़ चढ़ते-चढ़ते नानी याद आ गई।"
+      "phraseExample": "पहाड़ चढ़ते-चढ़ते नानी याद आ गई।",
+      "meaningInEnglish": "Misconduct; malfeasance",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕಪಟ",
@@ -1456,7 +1662,9 @@ export const dailyContent = [
       "phrase": "ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು",
       "phrasePronunciation": "kaage koota mara muriyitu",
       "phraseMeaning": "ಕಾಕತಾಳೀಯ ಘಟನೆ",
-      "phraseExample": "ಅವನು ಬಂದ ಕೂಡಲೇ ಮಳೆ ಬಂತು — ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು."
+      "phraseExample": "ಅವನು ಬಂದ ಕೂಡಲೇ ಮಳೆ ಬಂತು — ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು.",
+      "meaningInEnglish": "Deceit; duplicity",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రమాణం",
@@ -1466,7 +1674,9 @@ export const dailyContent = [
       "phrase": "పెద్దల మాట చద్దన్నం మూట",
       "phrasePronunciation": "peddala maata chaddannam moota",
       "phraseMeaning": "పెద్దల సలహా ఎల్లప్పుడూ ఉపయోగకరం",
-      "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట."
+      "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట.",
+      "meaningInEnglish": "Standard",
+      "phraseMeaningInEnglish": "Elders' advice is always valuable"
     }
   },
   {
@@ -1488,7 +1698,9 @@ export const dailyContent = [
       "phrase": "कमर कसना",
       "phrasePronunciation": "kamar kasna",
       "phraseMeaning": "तैयारी करना",
-      "phraseExample": "परीक्षा के लिए कमर कस ली।"
+      "phraseExample": "परीक्षा के लिए कमर कस ली।",
+      "meaningInEnglish": "Abundant",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪ್ರಜ್ವಲಿಸುವ",
@@ -1498,7 +1710,9 @@ export const dailyContent = [
       "phrase": "ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ",
       "phrasePronunciation": "akka hogi nentar mane tangi hogi gandan mane",
       "phraseMeaning": "ಎಲ್ಲರೂ ತಮ್ಮ ದಾರಿ ಹಿಡಿದರು",
-      "phraseExample": "ಮಕ್ಕಳೆಲ್ಲ ಬೆಳೆದು ಹೋದರು — ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ."
+      "phraseExample": "ಮಕ್ಕಳೆಲ್ಲ ಬೆಳೆದು ಹೋದರು — ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ.",
+      "meaningInEnglish": "Blazing; radiant",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "చైతన్యం",
@@ -1508,7 +1722,9 @@ export const dailyContent = [
       "phrase": "మాటే మంత్రం",
       "phrasePronunciation": "maate mantram",
       "phraseMeaning": "మాటలో చాలా శక్తి ఉంది",
-      "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం."
+      "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం.",
+      "meaningInEnglish": "Awareness",
+      "phraseMeaningInEnglish": "Words carry great power"
     }
   },
   {
@@ -1530,7 +1746,9 @@ export const dailyContent = [
       "phrase": "दिन में तारे दिखाना",
       "phrasePronunciation": "din mein taare dikhana",
       "phraseMeaning": "बहुत परेशान करना",
-      "phraseExample": "इस बीमारी ने दिन में तारे दिखा दिए।"
+      "phraseExample": "इस बीमारी ने दिन में तारे दिखा दिए।",
+      "meaningInEnglish": "Transient; momentary",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ವರ್ಣನಾತೀತ",
@@ -1540,7 +1758,9 @@ export const dailyContent = [
       "phrase": "ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು",
       "phrasePronunciation": "obbana oota ibbarige saaladu",
       "phraseMeaning": "ಕಡಿಮೆ ಸಂಪನ್ಮೂಲ",
-      "phraseExample": "ಇಷ್ಟು ಸಂಬಳ ಸಾಲದು — ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು."
+      "phraseExample": "ಇಷ್ಟು ಸಂಬಳ ಸಾಲದು — ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು.",
+      "meaningInEnglish": "Indescribable",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆదరణ",
@@ -1550,7 +1770,9 @@ export const dailyContent = [
       "phrase": "కంటికి రెప్పలా కాపాడు",
       "phrasePronunciation": "kantiki reppalaa kaapaadu",
       "phraseMeaning": "చాలా జాగ్రత్తగా రక్షించడం",
-      "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది."
+      "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది.",
+      "meaningInEnglish": "Hospitality",
+      "phraseMeaningInEnglish": "To guard something very preciously"
     }
   },
   {
@@ -1572,7 +1794,9 @@ export const dailyContent = [
       "phrase": "खरी-खरी सुनाना",
       "phrasePronunciation": "khari-khari sunana",
       "phraseMeaning": "सीधी सच्ची बात कहना",
-      "phraseExample": "उसने बॉस को खरी-खरी सुना दी।"
+      "phraseExample": "उसने बॉस को खरी-खरी सुना दी।",
+      "meaningInEnglish": "Obsequious; flattering",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸತ್ಯಾಭಾಸ",
@@ -1582,7 +1806,9 @@ export const dailyContent = [
       "phrase": "ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ",
       "phrasePronunciation": "kaleda kaala matte baralla",
       "phraseMeaning": "ಹೋದ ಸಮಯ ಹಿಂತಿರುಗುವುದಿಲ್ಲ",
-      "phraseExample": "ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಬೇಡ — ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ."
+      "phraseExample": "ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಬೇಡ — ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ.",
+      "meaningInEnglish": "Verisimilitude; seeming true",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సహకారం",
@@ -1592,7 +1818,9 @@ export const dailyContent = [
       "phrase": "ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు",
       "phrasePronunciation": "aachaaram aaripoyinaa aavakaaya aaradu",
       "phraseMeaning": "కొన్ని అలవాట్లు ఎప్పటికీ మారవు",
-      "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు."
+      "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు.",
+      "meaningInEnglish": "Cooperation",
+      "phraseMeaningInEnglish": "Old habits die hard"
     }
   },
   {
@@ -1614,7 +1842,9 @@ export const dailyContent = [
       "phrase": "चादर देखकर पैर फैलाना",
       "phrasePronunciation": "chaadar dekhkar pair failana",
       "phraseMeaning": "आय के अनुसार खर्च करना",
-      "phraseExample": "चादर देखकर पैर फैलाओ वरना कर्ज में डूब जाओगे।"
+      "phraseExample": "चादर देखकर पैर फैलाओ वरना कर्ज में डूब जाओगे।",
+      "meaningInEnglish": "Imminent; near",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪ್ರೇರೇಪಿಸು",
@@ -1624,7 +1854,9 @@ export const dailyContent = [
       "phrase": "ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು",
       "phrasePronunciation": "ketta mele buddhi bantu",
       "phraseMeaning": "ನಷ್ಟ ಆದ ಮೇಲೆ ಅರಿವು ಬಂತು",
-      "phraseExample": "ಈಗ ಅರ್ಥ ಆಯಿತು — ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು."
+      "phraseExample": "ಈಗ ಅರ್ಥ ಆಯಿತು — ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು.",
+      "meaningInEnglish": "To motivate; to incite",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నమ్రత",
@@ -1634,7 +1866,9 @@ export const dailyContent = [
       "phrase": "నిజం తెలిసినా తెలియనట్లు ఉండటం",
       "phrasePronunciation": "nijam telisina teliyannattlu undadam",
       "phraseMeaning": "నిజం తెలిసి కూడా మౌనంగా ఉండటం",
-      "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం."
+      "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం.",
+      "meaningInEnglish": "Humility",
+      "phraseMeaningInEnglish": "Knowing the truth but staying silent"
     }
   },
   {
@@ -1656,7 +1890,9 @@ export const dailyContent = [
       "phrase": "एक और एक ग्यारह होना",
       "phrasePronunciation": "ek aur ek gyaarah hona",
       "phraseMeaning": "एकता में बल होना",
-      "phraseExample": "दोनों दोस्तों ने मिलकर काम किया — एक और एक ग्यारह हो गए।"
+      "phraseExample": "दोनों दोस्तों ने मिलकर काम किया — एक और एक ग्यारह हो गए।",
+      "meaningInEnglish": "Fierce; belligerent",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಹಠಮಾರಿ",
@@ -1666,7 +1902,9 @@ export const dailyContent = [
       "phrase": "ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ",
       "phrasePronunciation": "kottiddu tanage bachchittiddu pararige",
       "phraseMeaning": "ದಾನ ಮಾಡಿದ್ದು ನಿಮಗೇ ಲಾಭ",
-      "phraseExample": "ದಾನ ಮಾಡು — ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ."
+      "phraseExample": "ದಾನ ಮಾಡು — ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ.",
+      "meaningInEnglish": "Stubborn; adamant",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రజ్ఞ",
@@ -1676,7 +1914,9 @@ export const dailyContent = [
       "phrase": "వెన్నెల్లో చల్లగాలి తగిలినట్లు",
       "phrasePronunciation": "vennello challagaali tagilinattlu",
       "phraseMeaning": "చాలా హాయిగా ఉండటం",
-      "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది."
+      "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది.",
+      "meaningInEnglish": "Profound wisdom",
+      "phraseMeaningInEnglish": "Feeling very pleasant and comfortable"
     }
   },
   {
@@ -1698,7 +1938,9 @@ export const dailyContent = [
       "phrase": "लकीर का फकीर होना",
       "phrasePronunciation": "lakeer ka fakeer hona",
       "phraseMeaning": "पुरानी बातों पर ही चलना",
-      "phraseExample": "वह लकीर का फकीर है, नई सोच स्वीकार नहीं करता।"
+      "phraseExample": "वह लकीर का फकीर है, नई सोच स्वीकार नहीं करता।",
+      "meaningInEnglish": "To exonerate; to acquit",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮಸುಕಾದ",
@@ -1708,7 +1950,9 @@ export const dailyContent = [
       "phrase": "ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ",
       "phrasePronunciation": "kalitavanige kadaloo halla",
       "phraseMeaning": "ಜ್ಞಾನಿಗೆ ಎಲ್ಲವೂ ಸುಲಭ",
-      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಕೆಲಸವೂ ಕಷ್ಟವಲ್ಲ — ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ."
+      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಕೆಲಸವೂ ಕಷ್ಟವಲ್ಲ — ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ.",
+      "meaningInEnglish": "Dim; faded",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సౌందర్యం",
@@ -1718,7 +1962,9 @@ export const dailyContent = [
       "phrase": "ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా",
       "phrasePronunciation": "aavu chelo meste dooda gattuna mestundaa",
       "phraseMeaning": "పెద్దలు చేసేది పిల్లలు కూడా చేస్తారు",
-      "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా."
+      "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా.",
+      "meaningInEnglish": "Beauty",
+      "phraseMeaningInEnglish": "Children follow what elders do"
     }
   },
   {
@@ -1740,7 +1986,9 @@ export const dailyContent = [
       "phrase": "सिर पर कफन बाँधना",
       "phrasePronunciation": "sir par kafan baandhna",
       "phraseMeaning": "मरने को तैयार होना",
-      "phraseExample": "सैनिकों ने सिर पर कफन बाँध लिया।"
+      "phraseExample": "सैनिकों ने सिर पर कफन बाँध लिया।",
+      "meaningInEnglish": "Culpable; guilty",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಗೂಢ",
@@ -1750,7 +1998,9 @@ export const dailyContent = [
       "phrase": "ಹೊಸ ಬಾಳೆ ಎಲೆ ಹಳೆ ಬಾಳೆ ಎಲೆ ಜೊತೆ ಸೇರಿ ಸುಟ್ಟು ಹೋಯಿತು",
       "phrasePronunciation": "hosa baale ele hale baale ele jote seri suttu hoyitu",
       "phraseMeaning": "ಒಳ್ಳೆಯವನು ಕೆಟ್ಟವರ ಸಹವಾಸದಲ್ಲಿ ಹಾಳಾಗುತ್ತಾನೆ",
-      "phraseExample": "ಕೆಟ್ಟ ಸ್ನೇಹಿತರಿಂದ ದೂರ ಇರು."
+      "phraseExample": "ಕೆಟ್ಟ ಸ್ನೇಹಿತರಿಂದ ದೂರ ಇರು.",
+      "meaningInEnglish": "Cryptic; obscure",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "కరుణ",
@@ -1760,7 +2010,9 @@ export const dailyContent = [
       "phrase": "ఒక చేత్తో చప్పట్లు కొట్టలేం",
       "phrasePronunciation": "oka chettto chappatlu kottalem",
       "phraseMeaning": "ఒంటరిగా ఏదీ సాధ్యం కాదు",
-      "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం."
+      "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం.",
+      "meaningInEnglish": "Compassion",
+      "phraseMeaningInEnglish": "Nothing is possible alone; teamwork matters"
     }
   },
   {
@@ -1782,7 +2034,9 @@ export const dailyContent = [
       "phrase": "दूध का दूध पानी का पानी",
       "phrasePronunciation": "doodh ka doodh paani ka paani",
       "phraseMeaning": "सच और झूठ का फैसला करना",
-      "phraseExample": "जाँच में दूध का दूध पानी का पानी हो जाएगा।"
+      "phraseExample": "जाँच में दूध का दूध पानी का पानी हो जाएगा।",
+      "meaningInEnglish": "To aggravate; to worsen",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಳಿಸು",
@@ -1792,7 +2046,9 @@ export const dailyContent = [
       "phrase": "ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು",
       "phrasePronunciation": "idda oorige illada hesaru",
       "phraseMeaning": "ಸುಳ್ಳು ಪ್ರಚಾರ",
-      "phraseExample": "ಆ ವಂದನೆಗಳೆಲ್ಲ ಸುಳ್ಳು — ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು."
+      "phraseExample": "ಆ ವಂದನೆಗಳೆಲ್ಲ ಸುಳ್ಳು — ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು.",
+      "meaningInEnglish": "To erase; to obliterate",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "పరిపూర్ణత",
@@ -1802,7 +2058,9 @@ export const dailyContent = [
       "phrase": "వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు",
       "phrasePronunciation": "vepachettu kinda paalu taaginaa chedu antaaru",
       "phraseMeaning": "చెడ్డ పేరు వస్తే ఎంత మంచి చేసినా నమ్మరు",
-      "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు."
+      "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు.",
+      "meaningInEnglish": "Perfection",
+      "phraseMeaningInEnglish": "A bad name sticks no matter what"
     }
   },
   {
@@ -1824,7 +2082,9 @@ export const dailyContent = [
       "phrase": "सर आँखों पर बिठाना",
       "phrasePronunciation": "sar aankhon par bithana",
       "phraseMeaning": "बहुत सम्मान देना",
-      "phraseExample": "मेहमान को सर आँखों पर बिठाया।"
+      "phraseExample": "मेहमान को सर आँखों पर बिठाया।",
+      "meaningInEnglish": "Relevant; pertinent",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಉತ್ಸುಕ",
@@ -1834,7 +2094,9 @@ export const dailyContent = [
       "phrase": "ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು",
       "phrasePronunciation": "neeru bandaaga oddu kattu",
       "phraseMeaning": "ಸಮಸ್ಯೆ ಬಂದಾಗ ತಕ್ಷಣ ಪರಿಹಾರ ಮಾಡು",
-      "phraseExample": "ಈಗಲೇ ಕ್ರಮ ತೆಗೆದುಕೊ — ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು."
+      "phraseExample": "ಈಗಲೇ ಕ್ರಮ ತೆಗೆದುಕೊ — ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು.",
+      "meaningInEnglish": "Eager; enthusiastic",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "వినోదం",
@@ -1844,7 +2106,9 @@ export const dailyContent = [
       "phrase": "దొరికిన దారే దగ్గరి దారి",
       "phrasePronunciation": "dorikina daare daggari daari",
       "phraseMeaning": "అందుబాటులో ఉన్న మార్గం ఉత్తమమైనది",
-      "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి."
+      "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి.",
+      "meaningInEnglish": "Entertainment",
+      "phraseMeaningInEnglish": "A bird in hand is worth two in the bush"
     }
   },
   {
@@ -1866,7 +2130,9 @@ export const dailyContent = [
       "phrase": "जहाँ चाह वहाँ राह",
       "phrasePronunciation": "jahan chaah vahan raah",
       "phraseMeaning": "इच्छा हो तो रास्ता निकलता है",
-      "phraseExample": "उसने साबित कर दिया कि जहाँ चाह वहाँ राह।"
+      "phraseExample": "उसने साबित कर दिया कि जहाँ चाह वहाँ राह।",
+      "meaningInEnglish": "Veracity; truthfulness",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪಾಂಡಿತ್ಯ ಮೆರೆಯುವ",
@@ -1876,7 +2142,9 @@ export const dailyContent = [
       "phrase": "ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು",
       "phrasePronunciation": "aluva maguvige haalu hechchu",
       "phraseMeaning": "ಕೇಳಿದವರಿಗೆ ಹೆಚ್ಚು ಸಿಗುತ್ತದೆ",
-      "phraseExample": "ಕೇಳು — ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು."
+      "phraseExample": "ಕೇಳು — ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು.",
+      "meaningInEnglish": "Pedantic; showing off learning",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంస్కృతి",
@@ -1886,7 +2154,9 @@ export const dailyContent = [
       "phrase": "ఏనుగు కాలికి ముల్లు గుచ్చినట్లు",
       "phrasePronunciation": "enugu kaaliki mullu gucchinattlu",
       "phraseMeaning": "శక్తివంతుడికి చిన్న సమస్య ఎదురైనా బాధిస్తుంది",
-      "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు."
+      "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు.",
+      "meaningInEnglish": "Culture",
+      "phraseMeaningInEnglish": "Even small problems trouble the mighty"
     }
   },
   {
@@ -1908,7 +2178,9 @@ export const dailyContent = [
       "phrase": "अपनी खिचड़ी अलग पकाना",
       "phrasePronunciation": "apni khichdi alag pakana",
       "phraseMeaning": "सबसे अलग रहना",
-      "phraseExample": "वह हमेशा अपनी खिचड़ी अलग पकाता है।"
+      "phraseExample": "वह हमेशा अपनी खिचड़ी अलग पकाता है।",
+      "meaningInEnglish": "Tempestuous; stormy",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದೃಢೀಕರಿಸು",
@@ -1918,7 +2190,9 @@ export const dailyContent = [
       "phrase": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ",
       "phrasePronunciation": "taayi idda mane devara mane",
       "phraseMeaning": "ತಾಯಿ ಇರುವ ಮನೆ ಪವಿತ್ರ",
-      "phraseExample": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ — ಅವಳನ್ನು ಗೌರವಿಸು."
+      "phraseExample": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ — ಅವಳನ್ನು ಗೌರವಿಸು.",
+      "meaningInEnglish": "To confirm; to corroborate",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "తేజస్సు",
@@ -1928,7 +2202,9 @@ export const dailyContent = [
       "phrase": "మంచికి మంచి, చెడుకు చెడు",
       "phrasePronunciation": "manchiki manchi cheduki chedu",
       "phraseMeaning": "చేసిన దానికి తగిన ఫలితం వస్తుంది",
-      "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు."
+      "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు.",
+      "meaningInEnglish": "Radiance",
+      "phraseMeaningInEnglish": "You reap what you sow"
     }
   },
   {
@@ -1950,7 +2226,9 @@ export const dailyContent = [
       "phrase": "आँखें चुराना",
       "phrasePronunciation": "aankhein churana",
       "phraseMeaning": "नज़र बचाना",
-      "phraseExample": "गलती करने के बाद वह आँखें चुरा रहा था।"
+      "phraseExample": "गलती करने के बाद वह आँखें चुरा रहा था।",
+      "meaningInEnglish": "Concise; brief",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಮಚಿತ್ತ",
@@ -1960,7 +2238,9 @@ export const dailyContent = [
       "phrase": "ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ",
       "phrasePronunciation": "duddiddavane doddappa",
       "phraseMeaning": "ಹಣ ಇದ್ದವನಿಗೆ ಗೌರವ",
-      "phraseExample": "ಈ ಜಗತ್ತಿನಲ್ಲಿ ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ."
+      "phraseExample": "ಈ ಜಗತ್ತಿನಲ್ಲಿ ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ.",
+      "meaningInEnglish": "Equanimous; balanced",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అనురాగం",
@@ -1970,7 +2250,9 @@ export const dailyContent = [
       "phrase": "చదువుకున్న చెడిపోయినవాడు లేడు",
       "phrasePronunciation": "chaduvukunna chedipoyinavadu ledu",
       "phraseMeaning": "చదువు ఎప్పుడూ ఉపయోగపడుతుంది",
-      "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు."
+      "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు.",
+      "meaningInEnglish": "Love",
+      "phraseMeaningInEnglish": "Education always proves useful"
     }
   },
   {
@@ -1992,7 +2274,9 @@ export const dailyContent = [
       "phrase": "मुँह में पानी आना",
       "phrasePronunciation": "munh mein paani aana",
       "phraseMeaning": "लालच आना",
-      "phraseExample": "पकवान देखकर मुँह में पानी आ गया।"
+      "phraseExample": "पकवान देखकर मुँह में पानी आ गया।",
+      "meaningInEnglish": "Deadlock; impasse",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸೂಕ್ಷ್ಮ ದೃಷ್ಟಿ",
@@ -2002,7 +2286,9 @@ export const dailyContent = [
       "phrase": "ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ",
       "phrasePronunciation": "hottege hittilla juttige mallige",
       "phraseMeaning": "ಆಡಂಬರ ಹೆಚ್ಚು ಆದರೆ ಯೋಗ್ಯತೆ ಇಲ್ಲ",
-      "phraseExample": "ಅವನ ಬಳಿ ಏನೂ ಇಲ್ಲ ಆದರೆ ತೋರಿಕೆ ಹೆಚ್ಚು — ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ."
+      "phraseExample": "ಅವನ ಬಳಿ ಏನೂ ಇಲ್ಲ ಆದರೆ ತೋರಿಕೆ ಹೆಚ್ಚು — ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ.",
+      "meaningInEnglish": "Perspicacious; keenly perceptive",
+      "phraseMeaningInEnglish": "All show and no substance"
     },
     "telugu": {
       "word": "స్వతంత్రం",
@@ -2012,7 +2298,9 @@ export const dailyContent = [
       "phrase": "రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది",
       "phrasePronunciation": "rekkala kashtam raallu karigistundi",
       "phraseMeaning": "కష్టపడి పనిచేస్తే అసాధ్యమైనది కూడా సాధ్యం",
-      "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది."
+      "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది.",
+      "meaningInEnglish": "Freedom",
+      "phraseMeaningInEnglish": "With hard work, the impossible becomes possible"
     }
   },
   {
@@ -2034,7 +2322,9 @@ export const dailyContent = [
       "phrase": "अंधे की लाठी",
       "phrasePronunciation": "andhe ki laathi",
       "phraseMeaning": "एकमात्र सहारा",
-      "phraseExample": "बूढ़ी माँ के लिए बेटा अंधे की लाठी है।"
+      "phraseExample": "बूढ़ी माँ के लिए बेटा अंधे की लाठी है।",
+      "meaningInEnglish": "Strident; loud",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕಠೋರ",
@@ -2044,7 +2334,9 @@ export const dailyContent = [
       "phrase": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು",
       "phrasePronunciation": "kai kesaraadare baayi mosaru",
       "phraseMeaning": "ಕಷ್ಟಪಟ್ಟರೆ ಫಲ ಸಿಗುತ್ತದೆ",
-      "phraseExample": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು — ಪ್ರಯತ್ನ ಮಾಡು."
+      "phraseExample": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು — ಪ್ರಯತ್ನ ಮಾಡು.",
+      "meaningInEnglish": "Strict; austere",
+      "phraseMeaningInEnglish": "Hard work yields fruit"
     },
     "telugu": {
       "word": "మేధస్సు",
@@ -2054,7 +2346,9 @@ export const dailyContent = [
       "phrase": "పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు",
       "phrasePronunciation": "pogada chettu ekkada ledu kaani marri chettu arudu",
       "phraseMeaning": "సాధారణం ఎక్కడైనా దొరుకుతుంది, ప్రత్యేకమైనది అరుదు",
-      "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు."
+      "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు.",
+      "meaningInEnglish": "Intellect",
+      "phraseMeaningInEnglish": "The ordinary is common, the special is rare"
     }
   },
   {
@@ -2076,7 +2370,9 @@ export const dailyContent = [
       "phrase": "दो नावों पर पैर रखना",
       "phrasePronunciation": "do naavon par pair rakhna",
       "phraseMeaning": "दो तरफ से फायदा उठाना",
-      "phraseExample": "दो नावों पर पैर रखोगे तो डूब जाओगे।"
+      "phraseExample": "दो नावों पर पैर रखोगे तो डूब जाओगे।",
+      "meaningInEnglish": "Revenge; nemesis",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದ್ವೈತ",
@@ -2086,7 +2382,9 @@ export const dailyContent = [
       "phrase": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ",
       "phrasePronunciation": "aliya banda aduge mane tanaka",
       "phraseMeaning": "ಅತಿಥಿ ಅತಿಯಾಗಿ ಹಕ್ಕು ಚಲಾಯಿಸುವುದು",
-      "phraseExample": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ ಎಂಬಂತೆ ಅವನು ಮನೆಯಲ್ಲಿ ರಾಜ್ಯ ಆಳುತ್ತಿದ್ದಾನೆ."
+      "phraseExample": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ ಎಂಬಂತೆ ಅವನು ಮನೆಯಲ್ಲಿ ರಾಜ್ಯ ಆಳುತ್ತಿದ್ದಾನೆ.",
+      "meaningInEnglish": "Dichotomy; duality",
+      "phraseMeaningInEnglish": "A guest overstepping their welcome"
     },
     "telugu": {
       "word": "సాంత్వన",
@@ -2096,7 +2394,9 @@ export const dailyContent = [
       "phrase": "తూరుపు తెలిసేవాడికి దిక్కు తెలియదా",
       "phrasePronunciation": "toorupu telisevadiki dikku teliyada",
       "phraseMeaning": "ఒకటి తెలిస్తే మిగిలినవి కూడా తెలుస్తాయి",
-      "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా."
+      "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా.",
+      "meaningInEnglish": "Consolation",
+      "phraseMeaningInEnglish": "Knowing one thing leads to knowing others"
     }
   },
   {
@@ -2118,7 +2418,9 @@ export const dailyContent = [
       "phrase": "आँखों का तारा",
       "phrasePronunciation": "aankhon ka taara",
       "phraseMeaning": "बहुत प्रिय व्यक्ति",
-      "phraseExample": "बेटा उसकी आँखों का तारा है।"
+      "phraseExample": "बेटा उसकी आँखों का तारा है।",
+      "meaningInEnglish": "To concur; to agree",
+      "phraseMeaningInEnglish": "A very dear person; apple of one's eye"
     },
     "kannada": {
       "word": "ಮುಖಸ್ತುತಿ",
@@ -2128,7 +2430,9 @@ export const dailyContent = [
       "phrase": "ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ",
       "phrasePronunciation": "ettige jvara bandare emmege bare",
       "phraseMeaning": "ಒಬ್ಬರ ಸಮಸ್ಯೆಯನ್ನು ಇನ್ನೊಬ್ಬರ ಮೇಲೆ ಹಾಕುವುದು",
-      "phraseExample": "ನನ್ನ ತಪ್ಪಿಗೆ ಅವನಿಗೆ ಶಿಕ್ಷೆ — ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ."
+      "phraseExample": "ನನ್ನ ತಪ್ಪಿಗೆ ಅವನಿಗೆ ಶಿಕ್ಷೆ — ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ.",
+      "meaningInEnglish": "Flattery; adulation",
+      "phraseMeaningInEnglish": "Passing one's problems onto others"
     },
     "telugu": {
       "word": "ఉపకారం",
@@ -2138,7 +2442,9 @@ export const dailyContent = [
       "phrase": "అడవిలో పుట్టి, అడవిలో పెరిగినా, అడవి కోతి మారదు",
       "phrasePronunciation": "adavilo putti adavilo periginaa adavi koti maaradu",
       "phraseMeaning": "మనిషి స్వభావం సులభంగా మారదు",
-      "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు."
+      "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు.",
+      "meaningInEnglish": "Benevolence",
+      "phraseMeaningInEnglish": "A person's nature doesn't change easily"
     }
   },
   {
@@ -2160,7 +2466,9 @@ export const dailyContent = [
       "phrase": "अंगूठा दिखाना",
       "phrasePronunciation": "angootha dikhana",
       "phraseMeaning": "साफ मना कर देना",
-      "phraseExample": "उसने मदद माँगी तो लोगों ने अंगूठा दिखा दिया।"
+      "phraseExample": "उसने मदद माँगी तो लोगों ने अंगूठा दिखा दिया।",
+      "meaningInEnglish": "Affinity; connection",
+      "phraseMeaningInEnglish": "To flatly refuse"
     },
     "kannada": {
       "word": "ಅಲ್ಪಮಾತಿ",
@@ -2170,7 +2478,9 @@ export const dailyContent = [
       "phrase": "ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ",
       "phrasePronunciation": "kuri kaayuvavana kaili dana kottante",
       "phraseMeaning": "ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ ಜವಾಬ್ದಾರಿ ಕೊಡುವುದು",
-      "phraseExample": "ಅವನಿಗೆ ಆ ಕೆಲಸ ಕೊಟ್ಟದ್ದು ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ."
+      "phraseExample": "ಅವನಿಗೆ ಆ ಕೆಲಸ ಕೊಟ್ಟದ್ದು ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ.",
+      "meaningInEnglish": "Taciturn; of few words",
+      "phraseMeaningInEnglish": "Giving responsibility to an unworthy person"
     },
     "telugu": {
       "word": "వైరాగ్యం",
@@ -2180,7 +2490,9 @@ export const dailyContent = [
       "phrase": "ఆకలి రుచి ఎరుగదు",
       "phrasePronunciation": "aakali ruchi erugadu",
       "phraseMeaning": "ఆకలి ఉన్నప్పుడు ఏది తిన్నా బాగుంటుంది",
-      "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా."
+      "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా.",
+      "meaningInEnglish": "Renunciation",
+      "phraseMeaningInEnglish": "When hungry, anything tastes good"
     }
   },
   {
@@ -2202,7 +2514,9 @@ export const dailyContent = [
       "phrase": "अक्ल पर पत्थर पड़ना",
       "phrasePronunciation": "akl par patthar padna",
       "phraseMeaning": "बुद्धि काम न करना",
-      "phraseExample": "ऐसा फैसला लेते वक्त उसकी अक्ल पर पत्थर पड़ गए थे।"
+      "phraseExample": "ऐसा फैसला लेते वक्त उसकी अक्ल पर पत्थर पड़ गए थे।",
+      "meaningInEnglish": "Flattery; sycophancy",
+      "phraseMeaningInEnglish": "To lose one's wits"
     },
     "kannada": {
       "word": "ಉದ್ದೇಶಪೂರ್ವಕ",
@@ -2212,7 +2526,9 @@ export const dailyContent = [
       "phrase": "ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ",
       "phrasePronunciation": "gaali bandaaga tooriko",
       "phraseMeaning": "ಅವಕಾಶ ಸಿಕ್ಕಾಗ ಉಪಯೋಗಿಸಿಕೊ",
-      "phraseExample": "ಅವಕಾಶ ಸಿಕ್ಕಿದೆ, ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ."
+      "phraseExample": "ಅವಕಾಶ ಸಿಕ್ಕಿದೆ, ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ.",
+      "meaningInEnglish": "Deliberate; intentional",
+      "phraseMeaningInEnglish": "Seize the opportunity when it comes"
     },
     "telugu": {
       "word": "సంఘర్షణ",
@@ -2222,7 +2538,9 @@ export const dailyContent = [
       "phrase": "ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు",
       "phrasePronunciation": "ooru kaani ooru vaste kukkalu moriginattlu",
       "phraseMeaning": "కొత్త చోటికి వెళ్తే ఇబ్బందులు ఎదురవుతాయి",
-      "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు."
+      "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు.",
+      "meaningInEnglish": "Conflict",
+      "phraseMeaningInEnglish": "New places bring new challenges"
     }
   },
   {
@@ -2244,7 +2562,9 @@ export const dailyContent = [
       "phrase": "ऊँट के मुँह में जीरा",
       "phrasePronunciation": "oont ke munh mein jeera",
       "phraseMeaning": "ज़रूरत के मुकाबले बहुत कम",
-      "phraseExample": "इतने बड़े परिवार के लिए यह तनख्वाह ऊँट के मुँह में जीरा है।"
+      "phraseExample": "इतने बड़े परिवार के लिए यह तनख्वाह ऊँट के मुँह में जीरा है।",
+      "meaningInEnglish": "Equanimity; composure",
+      "phraseMeaningInEnglish": "Far too little for the need"
     },
     "kannada": {
       "word": "ತಿರುವು ಬಿಂದು",
@@ -2254,7 +2574,9 @@ export const dailyContent = [
       "phrase": "ಮೊಸಳೆ ಕಣ್ಣೀರು",
       "phrasePronunciation": "mosale kanneeru",
       "phraseMeaning": "ಸುಳ್ಳು ಅನುಕಂಪ",
-      "phraseExample": "ಅವನ ದುಃಖ ಮೊಸಳೆ ಕಣ್ಣೀರು."
+      "phraseExample": "ಅವನ ದುಃಖ ಮೊಸಳೆ ಕಣ್ಣೀರು.",
+      "meaningInEnglish": "Turning point; pivotal moment",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రశాంతత",
@@ -2264,7 +2586,9 @@ export const dailyContent = [
       "phrase": "కాకి పిల్ల కాకికి ముద్దు",
       "phrasePronunciation": "kaaki pilla kaakiki muddu",
       "phraseMeaning": "ప్రతి తల్లికి తన బిడ్డ ముద్దే",
-      "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా."
+      "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా.",
+      "meaningInEnglish": "Tranquility",
+      "phraseMeaningInEnglish": "Every mother loves her own child most"
     }
   },
   {
@@ -2286,7 +2610,9 @@ export const dailyContent = [
       "phrase": "कान भरना",
       "phrasePronunciation": "kaan bharna",
       "phraseMeaning": "किसी के खिलाफ भड़काना",
-      "phraseExample": "किसी ने बॉस के कान भर दिए।"
+      "phraseExample": "किसी ने बॉस के कान भर दिए।",
+      "meaningInEnglish": "Esoteric knowledge",
+      "phraseMeaningInEnglish": "To incite against someone"
     },
     "kannada": {
       "word": "ಸಂಶಯಪಡುವ",
@@ -2296,7 +2622,9 @@ export const dailyContent = [
       "phrase": "ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ",
       "phrasePronunciation": "kodali kaavu koduva mara",
       "phraseMeaning": "ತನ್ನನ್ನೇ ಕಡಿಯಲು ಸಹಾಯ ಮಾಡುವುದು",
-      "phraseExample": "ಅವನಿಗೇ ಮಾಹಿತಿ ಕೊಟ್ಟೆ — ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ ಆದೆ."
+      "phraseExample": "ಅವನಿಗೇ ಮಾಹಿತಿ ಕೊಟ್ಟೆ — ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ ಆದೆ.",
+      "meaningInEnglish": "Skeptical; doubtful",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఔన్నత్యం",
@@ -2306,7 +2634,9 @@ export const dailyContent = [
       "phrase": "గోరుచుట్టుపై రోకలి పోటు",
       "phrasePronunciation": "goruchuttupai rokali potu",
       "phraseMeaning": "ఉన్న సమస్యపై మరో సమస్య",
-      "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు."
+      "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు.",
+      "meaningInEnglish": "Greatness",
+      "phraseMeaningInEnglish": "Adding insult to injury"
     }
   },
   {
@@ -2328,7 +2658,9 @@ export const dailyContent = [
       "phrase": "घर की मुर्गी दाल बराबर",
       "phrasePronunciation": "ghar ki murgi daal barabar",
       "phraseMeaning": "अपनी चीज की कदर नहीं",
-      "phraseExample": "देश में इतने अच्छे कलाकार हैं पर घर की मुर्गी दाल बराबर।"
+      "phraseExample": "देश में इतने अच्छे कलाकार हैं पर घर की मुर्गी दाल बराबर।",
+      "meaningInEnglish": "Potent; powerful",
+      "phraseMeaningInEnglish": "Not appreciating what you have"
     },
     "kannada": {
       "word": "ವೈರಿ",
@@ -2338,7 +2670,9 @@ export const dailyContent = [
       "phrase": "ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ",
       "phrasePronunciation": "tumbida koda tulukuvudilla",
       "phraseMeaning": "ಜ್ಞಾನಿ ಅಹಂಕಾರ ತೋರಿಸುವುದಿಲ್ಲ",
-      "phraseExample": "ಅವರು ವಿನಯಶೀಲರು — ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ."
+      "phraseExample": "ಅವರು ವಿನಯಶೀಲರು — ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ.",
+      "meaningInEnglish": "Hostile; antagonistic",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంపద",
@@ -2348,7 +2682,9 @@ export const dailyContent = [
       "phrase": "చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం",
       "phrasePronunciation": "chetilo venna undagaa neyi kosam vetakadam",
       "phraseMeaning": "ఉన్నది వదిలి ఇంకేదో వెతకడం",
-      "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం."
+      "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం.",
+      "meaningInEnglish": "Wealth",
+      "phraseMeaningInEnglish": "Leaving what you have for something uncertain"
     }
   },
   {
@@ -2370,7 +2706,9 @@ export const dailyContent = [
       "phrase": "चार चाँद लगाना",
       "phrasePronunciation": "chaar chaand lagana",
       "phraseMeaning": "शोभा बढ़ाना",
-      "phraseExample": "उसकी मेहनत ने कार्यक्रम में चार चाँद लगा दिए।"
+      "phraseExample": "उसकी मेहनत ने कार्यक्रम में चार चाँद लगा दिए।",
+      "meaningInEnglish": "Imagery; visual art",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಹಸಿದ",
@@ -2380,7 +2718,9 @@ export const dailyContent = [
       "phrase": "ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು",
       "phrasePronunciation": "haavu saayabeku kolu muriyabaaradu",
       "phraseMeaning": "ಕೆಲಸ ಆಗಬೇಕು ಯಾರಿಗೂ ಹಾನಿ ಆಗಬಾರದು",
-      "phraseExample": "ಜಾಣತನದಿಂದ ಮಾಡು — ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು."
+      "phraseExample": "ಜಾಣತನದಿಂದ ಮಾಡು — ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು.",
+      "meaningInEnglish": "Ravenous; starving",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "వీరత్వం",
@@ -2390,7 +2730,9 @@ export const dailyContent = [
       "phrase": "తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు",
       "phrasePronunciation": "taati chettu ekkevadiki tongi chooddam alavatu",
       "phraseMeaning": "పనిలో అనుభవం ఉన్నవాళ్ళకు అది సాధారణం",
-      "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు."
+      "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు.",
+      "meaningInEnglish": "Heroism",
+      "phraseMeaningInEnglish": "Routine for the experienced"
     }
   },
   {
@@ -2412,7 +2754,9 @@ export const dailyContent = [
       "phrase": "छाती पर साँप लोटना",
       "phrasePronunciation": "chhaati par saanp lotna",
       "phraseMeaning": "ईर्ष्या से जलना",
-      "phraseExample": "पड़ोसी की तरक्की देख उसकी छाती पर साँप लोट गया।"
+      "phraseExample": "पड़ोसी की तरक्की देख उसकी छाती पर साँप लोट गया।",
+      "meaningInEnglish": "Strict; austere",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮಾತಾಡುವ",
@@ -2422,7 +2766,9 @@ export const dailyContent = [
       "phrase": "ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ",
       "phrasePronunciation": "maadiddunno mahaaraaya",
       "phraseMeaning": "ಮಾಡಿದ ಕೆಲಸದ ಫಲ ಅನುಭವಿಸು",
-      "phraseExample": "ಈಗ ಅಳಬೇಡ, ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ."
+      "phraseExample": "ಈಗ ಅಳಬೇಡ, ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ.",
+      "meaningInEnglish": "Talkative; loquacious",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అనుకంప",
@@ -2432,7 +2778,9 @@ export const dailyContent = [
       "phrase": "నక్కకు నిద్ర వస్తే కోడి కూస్తుంది",
       "phrasePronunciation": "nakkaku nidra vaste kodi koostundi",
       "phraseMeaning": "ఒకరు అజాగ్రత్తగా ఉంటే మరొకరు లాభపడతారు",
-      "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది."
+      "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది.",
+      "meaningInEnglish": "Sympathy",
+      "phraseMeaningInEnglish": "When one is careless, another profits"
     }
   },
   {
@@ -2454,7 +2802,9 @@ export const dailyContent = [
       "phrase": "तिल का ताड़ बनाना",
       "phrasePronunciation": "til ka taad banana",
       "phraseMeaning": "छोटी बात को बड़ा बनाना",
-      "phraseExample": "बस एक गलती थी, उसने तिल का ताड़ बना दिया।"
+      "phraseExample": "बस एक गलती थी, उसने तिल का ताड़ बना दिया।",
+      "meaningInEnglish": "Shy; demure",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ವಿಚಿತ್ರವಾದ",
@@ -2464,7 +2814,9 @@ export const dailyContent = [
       "phrase": "ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ",
       "phrasePronunciation": "adikege hoda maana aane kottaroo baralla",
       "phraseMeaning": "ಹೋದ ಗೌರವ ಮರಳಿ ಬರುವುದಿಲ್ಲ",
-      "phraseExample": "ಮರ್ಯಾದೆ ಕಳೆದುಕೊಂಡ — ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ."
+      "phraseExample": "ಮರ್ಯಾದೆ ಕಳೆದುಕೊಂಡ — ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ.",
+      "meaningInEnglish": "Quirky; charmingly unusual",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సమృద్ధి",
@@ -2474,7 +2826,9 @@ export const dailyContent = [
       "phrase": "పందికి బంగారు పట్టెడ ఎందుకు",
       "phrasePronunciation": "pandiki bangaaru patteda enduku",
       "phraseMeaning": "విలువ తెలియనివాడికి విలువైనది ఇచ్చి ఏం లాభం",
-      "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు."
+      "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు.",
+      "meaningInEnglish": "Abundance",
+      "phraseMeaningInEnglish": "Don't give pearls to those who can't value them"
     }
   },
   {
@@ -2496,7 +2850,9 @@ export const dailyContent = [
       "phrase": "दाल में काला होना",
       "phrasePronunciation": "daal mein kaala hona",
       "phraseMeaning": "कुछ गड़बड़ होना",
-      "phraseExample": "उसकी बातों में दाल में कुछ काला है।"
+      "phraseExample": "उसकी बातों में दाल में कुछ काला है।",
+      "meaningInEnglish": "Origin; genesis",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪಕ್ಷಪಾತರಹಿತ",
@@ -2506,7 +2862,9 @@ export const dailyContent = [
       "phrase": "ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ",
       "phrasePronunciation": "ooru kottaroo hola koda",
       "phraseMeaning": "ನೆರೆಹೊರೆ ಒಳ್ಳೆಯದಾಗಿರಬೇಕು",
-      "phraseExample": "ಒಳ್ಳೆಯ ನೆರೆಹೊರೆ ಮುಖ್ಯ — ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ."
+      "phraseExample": "ಒಳ್ಳೆಯ ನೆರೆಹೊರೆ ಮುಖ್ಯ — ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ.",
+      "meaningInEnglish": "Impartial; unbiased",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రాముఖ్యం",
@@ -2516,7 +2874,9 @@ export const dailyContent = [
       "phrase": "బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి",
       "phrasePronunciation": "boggu muttukuṇṭe chetulu nallabadataay",
       "phraseMeaning": "చెడ్డ వాళ్ళతో తిరిగితే మనం కూడా చెడిపోతాం",
-      "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి."
+      "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి.",
+      "meaningInEnglish": "Importance",
+      "phraseMeaningInEnglish": "Bad company corrupts good character"
     }
   },
   {
@@ -2538,7 +2898,9 @@ export const dailyContent = [
       "phrase": "नौ दो ग्यारह होना",
       "phrasePronunciation": "nau do gyaarah hona",
       "phraseMeaning": "भाग जाना",
-      "phraseExample": "पुलिस को देखते ही चोर नौ दो ग्यारह हो गए।"
+      "phraseExample": "पुलिस को देखते ही चोर नौ दो ग्यारह हो गए।",
+      "meaningInEnglish": "Fickle; capricious",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಹಜ ಒಲವು",
@@ -2548,7 +2910,9 @@ export const dailyContent = [
       "phrase": "ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ",
       "phrasePronunciation": "kallana manassu kattale",
       "phraseMeaning": "ತಪ್ಪು ಮಾಡಿದವನಿಗೆ ಯಾವಾಗಲೂ ಭಯ",
-      "phraseExample": "ಅವನು ಯಾವಾಗಲೂ ಹೆದರುತ್ತಾನೆ — ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ."
+      "phraseExample": "ಅವನು ಯಾವಾಗಲೂ ಹೆದರುತ್ತಾನೆ — ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ.",
+      "meaningInEnglish": "Natural inclination; innate tendency",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "స్నేహం",
@@ -2558,7 +2922,9 @@ export const dailyContent = [
       "phrase": "మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది",
       "phrasePronunciation": "manchi chesi choodu manasu nindugaa untundi",
       "phraseMeaning": "ఇతరులకు మేలు చేస్తే మనసుకు తృప్తి",
-      "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది."
+      "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది.",
+      "meaningInEnglish": "Friendship",
+      "phraseMeaningInEnglish": "Helping others brings inner peace"
     }
   },
   {
@@ -2580,7 +2946,9 @@ export const dailyContent = [
       "phrase": "पानी-पानी होना",
       "phrasePronunciation": "paani-paani hona",
       "phraseMeaning": "बहुत शर्मिंदा होना",
-      "phraseExample": "सच सामने आने पर वह पानी-पानी हो गया।"
+      "phraseExample": "सच सामने आने पर वह पानी-पानी हो गया।",
+      "meaningInEnglish": "Quagmire; morass",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಹೊಗಳಿಕೆ ಪದ್ಧತಿ",
@@ -2590,7 +2958,9 @@ export const dailyContent = [
       "phrase": "ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ",
       "phrasePronunciation": "maatu belli mauna bangaara",
       "phraseMeaning": "ಮಾತಿಗಿಂತ ಮೌನ ಮೌಲ್ಯಯುತ",
-      "phraseExample": "ಈ ಸಮಯದಲ್ಲಿ ಸುಮ್ಮನಿರು — ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ."
+      "phraseExample": "ಈ ಸಮಯದಲ್ಲಿ ಸುಮ್ಮನಿರು — ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ.",
+      "meaningInEnglish": "Sycophancy; habit of flattering",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అనుభూతి",
@@ -2600,7 +2970,9 @@ export const dailyContent = [
       "phrase": "రాతికి పూచే పూలు రాలిపోతాయి",
       "phrasePronunciation": "raatiki pooche poolu raalipotaayi",
       "phraseMeaning": "శాశ్వతమైనది ఏదీ లేదు",
-      "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి."
+      "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి.",
+      "meaningInEnglish": "Feeling",
+      "phraseMeaningInEnglish": "Nothing is permanent"
     }
   },
   {
@@ -2622,7 +2994,9 @@ export const dailyContent = [
       "phrase": "बंदर क्या जाने अदरक का स्वाद",
       "phrasePronunciation": "bandar kya jaane adrak ka swaad",
       "phraseMeaning": "अनजान व्यक्ति गुणों की कदर नहीं करता",
-      "phraseExample": "उसे संगीत की क्या समझ, बंदर क्या जाने अदरक का स्वाद।"
+      "phraseExample": "उसे संगीत की क्या समझ, बंदर क्या जाने अदरक का स्वाद।",
+      "meaningInEnglish": "Harbinger; precursor",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಶಿಷ್ಟ",
@@ -2632,7 +3006,9 @@ export const dailyContent = [
       "phrase": "ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ",
       "phrasePronunciation": "hole neerige donne naayaka",
       "phraseMeaning": "ಅಧಿಕಾರವಿಲ್ಲದವನ ಆಡಂಬರ",
-      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಅಧಿಕಾರವೂ ಇಲ್ಲ ಆದರೆ ರೋಬ್ — ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ."
+      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಅಧಿಕಾರವೂ ಇಲ್ಲ ಆದರೆ ರೋಬ್ — ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ.",
+      "meaningInEnglish": "Suave; polished",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సమన్వయం",
@@ -2642,7 +3018,9 @@ export const dailyContent = [
       "phrase": "విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు",
       "phrasePronunciation": "vinnavaariki telivi cheppinavaariki orpu",
       "phraseMeaning": "వినేవాడికి జ్ఞానం, చెప్పేవాడికి సహనం కావాలి",
-      "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు."
+      "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు.",
+      "meaningInEnglish": "Coordination",
+      "phraseMeaningInEnglish": "Listener needs wisdom, speaker needs patience"
     }
   },
   {
@@ -2664,7 +3042,9 @@ export const dailyContent = [
       "phrase": "लोहा मानना",
       "phrasePronunciation": "loha maanna",
       "phraseMeaning": "किसी की श्रेष्ठता स्वीकार करना",
-      "phraseExample": "विरोधियों ने भी उसका लोहा मान लिया।"
+      "phraseExample": "विरोधियों ने भी उसका लोहा मान लिया।",
+      "meaningInEnglish": "Didactic; instructive",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪರಿಶ್ರಮಿ",
@@ -2674,7 +3054,9 @@ export const dailyContent = [
       "phrase": "ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ",
       "phrasePronunciation": "naayi bogalidare devaloka haalaguvudilla",
       "phraseMeaning": "ಕೆಟ್ಟವರ ಮಾತಿಗೆ ಮಹತ್ವ ಕೊಡಬೇಡ",
-      "phraseExample": "ಅವರ ಟೀಕೆ ಬಿಡು — ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ."
+      "phraseExample": "ಅವರ ಟೀಕೆ ಬಿಡು — ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ.",
+      "meaningInEnglish": "Hardworking; industrious",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆరోగ్యం",
@@ -2684,7 +3066,9 @@ export const dailyContent = [
       "phrase": "ఏనుగు మీద దీపం ఉంచినట్లు",
       "phrasePronunciation": "enugu meeda deepam unchinattlu",
       "phraseMeaning": "చాలా గొప్పగా కనిపించడం",
-      "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు."
+      "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు.",
+      "meaningInEnglish": "Health",
+      "phraseMeaningInEnglish": "To appear very grand and impressive"
     }
   },
   {
@@ -2706,7 +3090,9 @@ export const dailyContent = [
       "phrase": "गुड़ गोबर करना",
       "phrasePronunciation": "gud gobar karna",
       "phraseMeaning": "बना-बनाया काम बिगाड़ना",
-      "phraseExample": "आखिरी वक्त पर उसने सब गुड़ गोबर कर दिया।"
+      "phraseExample": "आखिरी वक्त पर उसने सब गुड़ गोबर कर दिया।",
+      "meaningInEnglish": "Trivial; petty",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಶೋಕಪೂರ್ಣ",
@@ -2716,7 +3102,9 @@ export const dailyContent = [
       "phrase": "ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು",
       "phrasePronunciation": "ati aase gati kedu",
       "phraseMeaning": "ಅತಿಯಾಸೆ ವಿನಾಶಕ್ಕೆ ಕಾರಣ",
-      "phraseExample": "ಹೆಚ್ಚು ಬೇಡ — ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು."
+      "phraseExample": "ಹೆಚ್ಚು ಬೇಡ — ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು.",
+      "meaningInEnglish": "Plaintive; mournful",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "విచక్షణ",
@@ -2726,7 +3114,9 @@ export const dailyContent = [
       "phrase": "కష్టపడితే ఫలం దక్కుతుంది",
       "phrasePronunciation": "kashtapadite phalam dakkutundi",
       "phraseMeaning": "పరిశ్రమకు తగిన ఫలితం వస్తుంది",
-      "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది."
+      "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది.",
+      "meaningInEnglish": "Discernment",
+      "phraseMeaningInEnglish": "Hard work yields suitable rewards"
     }
   },
   {
@@ -2748,7 +3138,9 @@ export const dailyContent = [
       "phrase": "हाथ कंगन को आरसी क्या",
       "phrasePronunciation": "haath kangan ko aarsi kya",
       "phraseMeaning": "प्रत्यक्ष को प्रमाण की ज़रूरत नहीं",
-      "phraseExample": "नतीजे सामने हैं, हाथ कंगन को आरसी क्या।"
+      "phraseExample": "नतीजे सामने हैं, हाथ कंगन को आरसी क्या।",
+      "meaningInEnglish": "Indolent; lazy",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಉತ್ಸಾಹಿ",
@@ -2758,7 +3150,9 @@ export const dailyContent = [
       "phrase": "ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸು",
       "phrasePronunciation": "kallu haaki doni mulugisu",
       "phraseMeaning": "ಇತರರ ಕೆಲಸ ಹಾಳು ಮಾಡು",
-      "phraseExample": "ಅವನು ನನ್ನ ಯೋಜನೆಗೆ ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸಿದ."
+      "phraseExample": "ಅವನು ನನ್ನ ಯೋಜನೆಗೆ ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸಿದ.",
+      "meaningInEnglish": "Ebullient; spirited",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆశయం",
@@ -2768,7 +3162,9 @@ export const dailyContent = [
       "phrase": "అందని ద్రాక్ష పుల్లన",
       "phrasePronunciation": "andani draaksha pullana",
       "phraseMeaning": "సాధించలేనిది తక్కువ అని చెప్పడం",
-      "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు."
+      "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు.",
+      "meaningInEnglish": "Aspiration",
+      "phraseMeaningInEnglish": "Sour grapes; dismissing what you can't get"
     }
   },
   {
@@ -2790,7 +3186,9 @@ export const dailyContent = [
       "phrase": "आँख का पानी ढलना",
       "phrasePronunciation": "aankh ka paani dhalna",
       "phraseMeaning": "बेशर्म हो जाना",
-      "phraseExample": "झूठ बोलते-बोलते उसकी आँख का पानी ढल गया।"
+      "phraseExample": "झूठ बोलते-बोलते उसकी आँख का पानी ढल गया।",
+      "meaningInEnglish": "Apprehension; fear",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಶುಭ",
@@ -2800,7 +3198,9 @@ export const dailyContent = [
       "phrase": "ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ",
       "phrasePronunciation": "bekkige chellaata ilige praana sankata",
       "phraseMeaning": "ಒಬ್ಬರಿಗೆ ಆಟ ಇನ್ನೊಬ್ಬರಿಗೆ ಕಷ್ಟ",
-      "phraseExample": "ಅವನಿಗೆ ತಮಾಷೆ ನನಗೆ ತೊಂದರೆ — ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ."
+      "phraseExample": "ಅವನಿಗೆ ತಮಾಷೆ ನನಗೆ ತೊಂದರೆ — ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ.",
+      "meaningInEnglish": "Good fortune",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రతిష్ఠ",
@@ -2810,7 +3210,9 @@ export const dailyContent = [
       "phrase": "చెప్పేది ఒకటి చేసేది ఒకటి",
       "phrasePronunciation": "cheppedi okati chesedi okati",
       "phraseMeaning": "మాటలకు చేతలకు పొంతన లేకపోవడం",
-      "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి."
+      "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి.",
+      "meaningInEnglish": "Prestige",
+      "phraseMeaningInEnglish": "Actions don't match words; hypocrisy"
     }
   },
   {
@@ -2832,7 +3234,9 @@ export const dailyContent = [
       "phrase": "अपने मुँह मियाँ मिट्ठू बनना",
       "phrasePronunciation": "apne munh miyan mitthu banna",
       "phraseMeaning": "खुद अपनी तारीफ करना",
-      "phraseExample": "हर बात में अपने मुँह मियाँ मिट्ठू बनता है।"
+      "phraseExample": "हर बात में अपने मुँह मियाँ मिट्ठू बनता है।",
+      "meaningInEnglish": "Magnate; tycoon",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಂಬಂಧಿತ",
@@ -2842,7 +3246,9 @@ export const dailyContent = [
       "phrase": "ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ",
       "phrasePronunciation": "koti kaili hoomaale",
       "phraseMeaning": "ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ ಒಳ್ಳೆಯ ವಸ್ತು",
-      "phraseExample": "ಅವನಿಗೆ ಆ ಅವಕಾಶ ಕೊಟ್ಟದ್ದು ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ."
+      "phraseExample": "ಅವನಿಗೆ ಆ ಅವಕಾಶ ಕೊಟ್ಟದ್ದು ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ.",
+      "meaningInEnglish": "Related; relevant",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సామరస్యం",
@@ -2852,7 +3258,9 @@ export const dailyContent = [
       "phrase": "తాడిని తన్నేవాడు కొబ్బరిని తన్నడు",
       "phrasePronunciation": "taadini tannedvaadu kobbarini tannadu",
       "phraseMeaning": "అంత సామర్థ్యం లేనివాడు పెద్ద పనులు చేయలేడు",
-      "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు."
+      "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు.",
+      "meaningInEnglish": "Harmony",
+      "phraseMeaningInEnglish": "One without ability can't do big things"
     }
   },
   {
@@ -2874,7 +3282,9 @@ export const dailyContent = [
       "phrase": "घोड़े बेचकर सोना",
       "phrasePronunciation": "ghode bechkar sona",
       "phraseMeaning": "बेफिक्र होकर सोना",
-      "phraseExample": "परीक्षा खत्म, अब घोड़े बेचकर सोएंगे।"
+      "phraseExample": "परीक्षा खत्म, अब घोड़े बेचकर सोएंगे।",
+      "meaningInEnglish": "Languid; weary",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಹಾನಿಕಾರಕ",
@@ -2884,7 +3294,9 @@ export const dailyContent = [
       "phrase": "ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು",
       "phrasePronunciation": "ondu kaiyalli chappaale tattalu aagadu",
       "phraseMeaning": "ಜಗಳದಲ್ಲಿ ಇಬ್ಬರ ತಪ್ಪು ಇರುತ್ತದೆ",
-      "phraseExample": "ಇಬ್ಬರೂ ತಪ್ಪು — ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು."
+      "phraseExample": "ಇಬ್ಬರೂ ತಪ್ಪು — ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು.",
+      "meaningInEnglish": "Detrimental; harmful",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆవిష్కరణ",
@@ -2894,7 +3306,9 @@ export const dailyContent = [
       "phrase": "నీటిలో దూకినవాడు తడవకుండా ఉంటాడా",
       "phrasePronunciation": "neetilo dookinavaadu tadavakunda untadaa",
       "phraseMeaning": "పనిలో దిగినప్పుడు ఫలితాలు ఉంటాయి",
-      "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా."
+      "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా.",
+      "meaningInEnglish": "Invention",
+      "phraseMeaningInEnglish": "Results come when you get to work"
     }
   },
   {
@@ -2916,7 +3330,9 @@ export const dailyContent = [
       "phrase": "आस्तीन का साँप",
       "phrasePronunciation": "aasteen ka saanp",
       "phraseMeaning": "करीबी होकर धोखा देने वाला",
-      "phraseExample": "वह तो आस्तीन का साँप निकला।"
+      "phraseExample": "वह तो आस्तीन का साँप निकला।",
+      "meaningInEnglish": "Mundane; daily",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕಬಳಿಸು",
@@ -2926,7 +3342,9 @@ export const dailyContent = [
       "phrase": "ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು",
       "phrasePronunciation": "oorige bandavalu neerigoo barabeku",
       "phraseMeaning": "ಎಲ್ಲಾ ಕಷ್ಟ ಸಹಿಸಬೇಕು",
-      "phraseExample": "ಇಲ್ಲಿ ಬಂದ ಮೇಲೆ ಕಷ್ಟ ಸಹಿಸು — ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು."
+      "phraseExample": "ಇಲ್ಲಿ ಬಂದ ಮೇಲೆ ಕಷ್ಟ ಸಹಿಸು — ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು.",
+      "meaningInEnglish": "To usurp; to seize illegally",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిష్ఠ",
@@ -2936,7 +3354,9 @@ export const dailyContent = [
       "phrase": "పేదవాని బండికి ఎద్దులు ఆగవు",
       "phrasePronunciation": "pedavaani bandiki eddulu aagavu",
       "phraseMeaning": "డబ్బు లేనివాడికి ఏదీ సమయానికి జరగదు",
-      "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు."
+      "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు.",
+      "meaningInEnglish": "Devotion",
+      "phraseMeaningInEnglish": "Nothing works on time for the poor"
     }
   },
   {
@@ -2958,7 +3378,9 @@ export const dailyContent = [
       "phrase": "एक पंथ दो काज",
       "phrasePronunciation": "ek panth do kaaj",
       "phraseMeaning": "एक काम से दो फायदे",
-      "phraseExample": "वहाँ जाकर मिलना भी हो जाएगा और काम भी — एक पंथ दो काज।"
+      "phraseExample": "वहाँ जाकर मिलना भी हो जाएगा और काम भी — एक पंथ दो काज।",
+      "meaningInEnglish": "Astute; meticulous",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮುಖಸ್ತುತಿ",
@@ -2968,7 +3390,9 @@ export const dailyContent = [
       "phrase": "ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ",
       "phrasePronunciation": "aadu muttada soppilla",
       "phraseMeaning": "ಎಲ್ಲದರಲ್ಲೂ ಕೈ ಹಾಕುವವನು",
-      "phraseExample": "ಅವನಿಗೆ ಎಲ್ಲ ವಿಷಯದಲ್ಲೂ ತಲೆ ಹಾಕಬೇಕು — ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ."
+      "phraseExample": "ಅವನಿಗೆ ಎಲ್ಲ ವಿಷಯದಲ್ಲೂ ತಲೆ ಹಾಕಬೇಕು — ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ.",
+      "meaningInEnglish": "Flattery; adulation",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సౌహార్దం",
@@ -2978,7 +3402,9 @@ export const dailyContent = [
       "phrase": "మనసు మంచిదైతే మార్గం కనిపిస్తుంది",
       "phrasePronunciation": "manasu manchidaite maargam kanipistundi",
       "phraseMeaning": "మంచి ఉద్దేశ్యం ఉంటే దారి దొరుకుతుంది",
-      "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది."
+      "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది.",
+      "meaningInEnglish": "Cordiality",
+      "phraseMeaningInEnglish": "Good intentions find a way"
     }
   },
   {
@@ -3000,7 +3426,9 @@ export const dailyContent = [
       "phrase": "खून का घूँट पीना",
       "phrasePronunciation": "khoon ka ghoont peena",
       "phraseMeaning": "गुस्सा दबाकर सहना",
-      "phraseExample": "अपमान सुनकर उसने खून का घूँट पी लिया।"
+      "phraseExample": "अपमान सुनकर उसने खून का घूँट पी लिया।",
+      "meaningInEnglish": "Quick; active",
+      "phraseMeaningInEnglish": "To suppress anger and endure"
     },
     "kannada": {
       "word": "ದುರ್ನಡತೆ",
@@ -3010,7 +3438,9 @@ export const dailyContent = [
       "phrase": "ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು",
       "phrasePronunciation": "hasivige anna kodu rogakke maddu kodu",
       "phraseMeaning": "ಸಮಸ್ಯೆಗೆ ಸರಿಯಾದ ಪರಿಹಾರ ಕೊಡು",
-      "phraseExample": "ಸರಿಯಾದ ಪರಿಹಾರ ಬೇಕು — ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು."
+      "phraseExample": "ಸರಿಯಾದ ಪರಿಹಾರ ಬೇಕು — ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು.",
+      "meaningInEnglish": "Malfeasance; misconduct",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "మనోబలం",
@@ -3020,7 +3450,9 @@ export const dailyContent = [
       "phrase": "రాయిని దేవుడని పూజిస్తే అది దేవుడే",
       "phrasePronunciation": "raayini devudani poojisite adi devude",
       "phraseMeaning": "నమ్మకం ఉంటే ఏదైనా సాధ్యం",
-      "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే."
+      "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే.",
+      "meaningInEnglish": "Mental strength",
+      "phraseMeaningInEnglish": "Faith makes anything possible"
     }
   },
   {
@@ -3042,7 +3474,9 @@ export const dailyContent = [
       "phrase": "गागर में सागर भरना",
       "phrasePronunciation": "gaagar mein saagar bharna",
       "phraseMeaning": "कम शब्दों में गहरी बात कहना",
-      "phraseExample": "कबीर के दोहे गागर में सागर भरते हैं।"
+      "phraseExample": "कबीर के दोहे गागर में सागर भरते हैं।",
+      "meaningInEnglish": "Gloomy; somber",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸೂಕ್ಷ್ಮ ವ್ಯತ್ಯಾಸ",
@@ -3052,7 +3486,9 @@ export const dailyContent = [
       "phrase": "ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ",
       "phrasePronunciation": "kereya neeranu kerege chelli",
       "phraseMeaning": "ಪಡೆದುದನ್ನು ಹಿಂದಿರುಗಿಸು",
-      "phraseExample": "ಸಮಾಜಕ್ಕೆ ಹಿಂತಿರುಗಿಸು — ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ."
+      "phraseExample": "ಸಮಾಜಕ್ಕೆ ಹಿಂತಿರುಗಿಸು — ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ.",
+      "meaningInEnglish": "Nuance; subtle difference",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆత్మీయత",
@@ -3062,7 +3498,9 @@ export const dailyContent = [
       "phrase": "ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది",
       "phrasePronunciation": "enta pedda chettainaa vittananto modalavutundi",
       "phraseMeaning": "ప్రతి గొప్ప విషయం చిన్నగా మొదలవుతుంది",
-      "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది."
+      "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది.",
+      "meaningInEnglish": "Intimacy",
+      "phraseMeaningInEnglish": "Every great thing starts small"
     }
   },
   {
@@ -3084,7 +3522,9 @@ export const dailyContent = [
       "phrase": "चिराग तले अँधेरा",
       "phrasePronunciation": "chiraag tale andhera",
       "phraseMeaning": "अपने घर में ही खराबी",
-      "phraseExample": "पुलिस अधिकारी का बेटा चोर — चिराग तले अँधेरा।"
+      "phraseExample": "पुलिस अधिकारी का बेटा चोर — चिराग तले अँधेरा।",
+      "meaningInEnglish": "To soothe; to pacify",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಆಳವಾಗಿ ಅರ್ಥಮಾಡು",
@@ -3094,7 +3534,9 @@ export const dailyContent = [
       "phrase": "ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ",
       "phrasePronunciation": "manege maari oorige upakari",
       "phraseMeaning": "ತನ್ನವರಿಗೆ ಕೆಟ್ಟವನು ಹೊರಗಿನವರಿಗೆ ಒಳ್ಳೆಯವನು",
-      "phraseExample": "ಅವನು ಮನೆಯಲ್ಲಿ ಕೆಟ್ಟವನು ಹೊರಗೆ ಒಳ್ಳೆಯವನು — ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ."
+      "phraseExample": "ಅವನು ಮನೆಯಲ್ಲಿ ಕೆಟ್ಟವನು ಹೊರಗೆ ಒಳ್ಳೆಯವನು — ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ.",
+      "meaningInEnglish": "To fathom; to understand deeply",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రవీణత",
@@ -3104,7 +3546,9 @@ export const dailyContent = [
       "phrase": "నవ్వు నాలుగు విధాల మేలు",
       "phrasePronunciation": "navvu naalugu vidhaala melu",
       "phraseMeaning": "నవ్వడం ఆరోగ్యానికి మంచిది",
-      "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు."
+      "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు.",
+      "meaningInEnglish": "Expertise",
+      "phraseMeaningInEnglish": "Laughter is the best medicine"
     }
   },
   {
@@ -3126,7 +3570,9 @@ export const dailyContent = [
       "phrase": "जले पर नमक छिड़कना",
       "phrasePronunciation": "jale par namak chhidakna",
       "phraseMeaning": "दुखी को और दुखी करना",
-      "phraseExample": "हार के बाद ताने मत मारो, जले पर नमक मत छिड़को।"
+      "phraseExample": "हार के बाद ताने मत मारो, जले पर नमक मत छिड़को।",
+      "meaningInEnglish": "Abundance; excess",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಹನಶೀಲತೆ",
@@ -3136,7 +3582,9 @@ export const dailyContent = [
       "phrase": "ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ",
       "phrasePronunciation": "hannu maagidare taane beeluttade",
       "phraseMeaning": "ಸಮಯ ಬಂದಾಗ ತಾನಾಗಿ ಆಗುತ್ತದೆ",
-      "phraseExample": "ಆತುರಪಡಬೇಡ — ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ."
+      "phraseExample": "ಆತುರಪಡಬೇಡ — ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ.",
+      "meaningInEnglish": "Tolerance; forbearance",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఉదారత",
@@ -3146,7 +3594,9 @@ export const dailyContent = [
       "phrase": "అప్పు తీర్చని వాడికి పరపతి ఉండదు",
       "phrasePronunciation": "appu teerchani vaadiki parapati undadu",
       "phraseMeaning": "నమ్మకం కోల్పోతే మళ్ళీ రాదు",
-      "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు."
+      "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు.",
+      "meaningInEnglish": "Generosity",
+      "phraseMeaningInEnglish": "Trust, once lost, is hard to regain"
     }
   },
   {
@@ -3168,7 +3618,9 @@ export const dailyContent = [
       "phrase": "नाक कटना",
       "phrasePronunciation": "naak katna",
       "phraseMeaning": "इज्जत जाना",
-      "phraseExample": "बेटे के व्यवहार से पिता की नाक कट गई।"
+      "phraseExample": "बेटे के व्यवहार से पिता की नाक कट गई।",
+      "meaningInEnglish": "Forbearance; tolerance",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಶಮನ",
@@ -3178,7 +3630,9 @@ export const dailyContent = [
       "phrase": "ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟು",
       "phrasePronunciation": "maatinalli mallige kattu",
       "phraseMeaning": "ಬಹಳ ಮಧುರವಾಗಿ ಮಾತನಾಡು",
-      "phraseExample": "ಅವಳ ಮಾತು ಎಷ್ಟು ಚೆಂದ — ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟುತ್ತಾಳೆ."
+      "phraseExample": "ಅವಳ ಮಾತು ಎಷ್ಟು ಚೆಂದ — ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟುತ್ತಾಳೆ.",
+      "meaningInEnglish": "Shamana",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సాధన",
@@ -3188,7 +3642,9 @@ export const dailyContent = [
       "phrase": "ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు",
       "phrasePronunciation": "ekkada chepalu levo akkada kappe raaju",
       "phraseMeaning": "సమర్థులు లేని చోట అసమర్థులు పెత్తనం చేస్తారు",
-      "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు."
+      "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు.",
+      "meaningInEnglish": "Practice",
+      "phraseMeaningInEnglish": "In the land of the blind, the one-eyed is king"
     }
   },
   {
@@ -3210,7 +3666,9 @@ export const dailyContent = [
       "phrase": "पेट में चूहे दौड़ना",
       "phrasePronunciation": "pet mein choohe daudna",
       "phraseMeaning": "बहुत भूख लगना",
-      "phraseExample": "दोपहर से कुछ नहीं खाया, पेट में चूहे दौड़ रहे हैं।"
+      "phraseExample": "दोपहर से कुछ नहीं खाया, पेट में चूहे दौड़ रहे हैं।",
+      "meaningInEnglish": "Worn out; overused",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ರಮಣೀಯ",
@@ -3220,7 +3678,9 @@ export const dailyContent = [
       "phrase": "ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿ",
       "phrasePronunciation": "betta agedu ili hidi",
       "phraseMeaning": "ಬಹಳ ಪ್ರಯತ್ನಕ್ಕೆ ಕಡಿಮೆ ಫಲ",
-      "phraseExample": "ಇಷ್ಟು ಶ್ರಮ ಹಾಕಿ ಇಷ್ಟೇ ಸಿಕ್ಕಿತು — ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿದಂತೆ."
+      "phraseExample": "ಇಷ್ಟು ಶ್ರಮ ಹಾಕಿ ಇಷ್ಟೇ ಸಿಕ್ಕಿತು — ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿದಂತೆ.",
+      "meaningInEnglish": "Ramaneeya",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అంకితం",
@@ -3230,7 +3690,9 @@ export const dailyContent = [
       "phrase": "చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది",
       "phrasePronunciation": "chettu narikina modalu unte chiguristundi",
       "phraseMeaning": "మూలం బలంగా ఉంటే తిరిగి లేవగలం",
-      "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది."
+      "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది.",
+      "meaningInEnglish": "Dedication",
+      "phraseMeaningInEnglish": "Strong roots help you rise again"
     }
   },
   {
@@ -3252,7 +3714,9 @@ export const dailyContent = [
       "phrase": "मक्खी पर मक्खी मारना",
       "phrasePronunciation": "makkhi par makkhi maarna",
       "phraseMeaning": "नकल करना",
-      "phraseExample": "वह हमेशा दूसरों पर मक्खी मारता है।"
+      "phraseExample": "वह हमेशा दूसरों पर मक्खी मारता है।",
+      "meaningInEnglish": "To exonerate; to acquit",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸ್ಪಷ್ಟ",
@@ -3262,7 +3726,9 @@ export const dailyContent = [
       "phrase": "ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ",
       "phrasePronunciation": "adige maadi ootakke kare",
       "phraseMeaning": "ಎಲ್ಲಾ ಸಿದ್ಧ ಮಾಡಿ ಆಮಂತ್ರಿಸು",
-      "phraseExample": "ತಯಾರಿ ಮುಗಿಸಿ ಕರೆ — ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ."
+      "phraseExample": "ತಯಾರಿ ಮುಗಿಸಿ ಕರೆ — ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ.",
+      "meaningInEnglish": "Clear",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిరాడంబరం",
@@ -3272,7 +3738,9 @@ export const dailyContent = [
       "phrase": "కుక్క తోక వంకరే",
       "phrasePronunciation": "kukka toka vankare",
       "phraseMeaning": "కొందరి స్వభావం ఎప్పటికీ మారదు",
-      "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే."
+      "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే.",
+      "meaningInEnglish": "Simplicity",
+      "phraseMeaningInEnglish": "A leopard can't change its spots"
     }
   },
   {
@@ -3294,7 +3762,9 @@ export const dailyContent = [
       "phrase": "उल्टी गंगा बहाना",
       "phrasePronunciation": "ulti ganga bahana",
       "phraseMeaning": "सामान्य नियम के विपरीत करना",
-      "phraseExample": "बच्चे बड़ों को सिखा रहे हैं — उल्टी गंगा बह रही है।"
+      "phraseExample": "बच्चे बड़ों को सिखा रहे हैं — उल्टी गंगा बह रही है।",
+      "meaningInEnglish": "Din; cacophony",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಶಾಂತ",
@@ -3304,7 +3774,9 @@ export const dailyContent = [
       "phrase": "ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ",
       "phrasePronunciation": "kallanige beegada kai kottante",
       "phraseMeaning": "ಅಪ್ರಾಮಾಣಿಕ ವ್ಯಕ್ತಿಗೆ ಜವಾಬ್ದಾರಿ ಕೊಟ್ಟಂತೆ",
-      "phraseExample": "ಅವನಿಗೆ ಖಜಾನೆ ಕೊಟ್ಟದ್ದು — ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ."
+      "phraseExample": "ಅವನಿಗೆ ಖಜಾನೆ ಕೊಟ್ಟದ್ದು — ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ.",
+      "meaningInEnglish": "Shaanta",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రభావం",
@@ -3314,7 +3786,9 @@ export const dailyContent = [
       "phrase": "తినే చేతిని కోయరాదు",
       "phrasePronunciation": "tine chetini koyaraadu",
       "phraseMeaning": "తనకు సహాయం చేసేవాళ్ళను మోసం చేయకూడదు",
-      "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు."
+      "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు.",
+      "meaningInEnglish": "Influence",
+      "phraseMeaningInEnglish": "Don't bite the hand that feeds you"
     }
   },
   {
@@ -3336,7 +3810,9 @@ export const dailyContent = [
       "phrase": "आग बबूला होना",
       "phrasePronunciation": "aag baboola hona",
       "phraseMeaning": "बहुत गुस्सा होना",
-      "phraseExample": "देरी सुनकर बॉस आग बबूला हो गया।"
+      "phraseExample": "देरी सुनकर बॉस आग बबूला हो गया।",
+      "meaningInEnglish": "Skeptical; doubtful",
+      "phraseMeaningInEnglish": "To be furious; to see red"
     },
     "kannada": {
       "word": "ಮಾರಕ",
@@ -3346,7 +3822,9 @@ export const dailyContent = [
       "phrase": "ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ",
       "phrasePronunciation": "male bandare mane illa biisilige adige illa",
       "phraseMeaning": "ಎಲ್ಲ ಕಡೆ ಸಮಸ್ಯೆ",
-      "phraseExample": "ಅವನ ಪರಿಸ್ಥಿತಿ ಕಷ್ಟ — ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ."
+      "phraseExample": "ಅವನ ಪರಿಸ್ಥಿತಿ ಕಷ್ಟ — ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ.",
+      "meaningInEnglish": "Maaraka",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "విశ్రాంతి",
@@ -3356,7 +3834,9 @@ export const dailyContent = [
       "phrase": "దూరపు కొండలు నునుపు",
       "phrasePronunciation": "doorapu kondalu nunupu",
       "phraseMeaning": "దూరం నుండి చూస్తే అన్నీ బాగుంటాయి",
-      "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు."
+      "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు.",
+      "meaningInEnglish": "Rest",
+      "phraseMeaningInEnglish": "Distant hills look green"
     }
   },
   {
@@ -3378,7 +3858,9 @@ export const dailyContent = [
       "phrase": "टेढ़ी खीर होना",
       "phrasePronunciation": "tedhi kheer hona",
       "phraseMeaning": "बहुत कठिन काम",
-      "phraseExample": "इस परीक्षा को पास करना टेढ़ी खीर है।"
+      "phraseExample": "इस परीक्षा को पास करना टेढ़ी खीर है।",
+      "meaningInEnglish": "Sophistry; fallacious reasoning",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಧರ್ಮವಿರೋಧ",
@@ -3388,7 +3870,9 @@ export const dailyContent = [
       "phrase": "ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು",
       "phrasePronunciation": "haalu kudida makkalu",
       "phraseMeaning": "ಮುಗ್ಧ ಮತ್ತು ಅನನುಭವಿ",
-      "phraseExample": "ಅವರು ಇನ್ನೂ ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು."
+      "phraseExample": "ಅವರು ಇನ್ನೂ ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು.",
+      "meaningInEnglish": "Dharmavirodha",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సౌజన్యం",
@@ -3398,7 +3882,9 @@ export const dailyContent = [
       "phrase": "ఆకు రాలినా చెట్టు నిలబడుతుంది",
       "phrasePronunciation": "aaku raalinaa chettu nilabadutundi",
       "phraseMeaning": "కష్టాలు వచ్చినా మనిషి నిలబడాలి",
-      "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది."
+      "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది.",
+      "meaningInEnglish": "Courtesy",
+      "phraseMeaningInEnglish": "Stand firm even in adversity"
     }
   },
   {
@@ -3420,7 +3906,9 @@ export const dailyContent = [
       "phrase": "हवा से बातें करना",
       "phrasePronunciation": "hava se baaten karna",
       "phraseMeaning": "बहुत तेज दौड़ना",
-      "phraseExample": "वह घोड़ा हवा से बातें करता है।"
+      "phraseExample": "वह घोड़ा हवा से बातें करता है।",
+      "meaningInEnglish": "Sycophant",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕಟುವಾದ",
@@ -3430,7 +3918,9 @@ export const dailyContent = [
       "phrase": "ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು",
       "phrasePronunciation": "kaage koota mara muriyitu",
       "phraseMeaning": "ಕಾಕತಾಳೀಯ ಘಟನೆ",
-      "phraseExample": "ಅವನು ಬಂದ ಕೂಡಲೇ ಮಳೆ ಬಂತು — ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು."
+      "phraseExample": "ಅವನು ಬಂದ ಕೂಡಲೇ ಮಳೆ ಬಂತು — ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು.",
+      "meaningInEnglish": "Katuvaada",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అభ్యుదయం",
@@ -3440,7 +3930,9 @@ export const dailyContent = [
       "phrase": "ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు",
       "phrasePronunciation": "mundu choopu lenivadu venakki choostadu",
       "phraseMeaning": "ముందు ఆలోచించకపోతే తర్వాత బాధపడతాడు",
-      "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు."
+      "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు.",
+      "meaningInEnglish": "Progress",
+      "phraseMeaningInEnglish": "Failing to plan is planning to fail"
     }
   },
   {
@@ -3462,7 +3954,9 @@ export const dailyContent = [
       "phrase": "पहाड़ टूट पड़ना",
       "phrasePronunciation": "pahaad toot padna",
       "phraseMeaning": "बड़ी मुसीबत आना",
-      "phraseExample": "नौकरी जाने से उस पर दुखों का पहाड़ टूट पड़ा।"
+      "phraseExample": "नौकरी जाने से उस पर दुखों का पहाड़ टूट पड़ा।",
+      "meaningInEnglish": "To relegate; to demote",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಉದ್ಯಮಿ",
@@ -3472,7 +3966,9 @@ export const dailyContent = [
       "phrase": "ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ",
       "phrasePronunciation": "akka hogi nentar mane tangi hogi gandan mane",
       "phraseMeaning": "ಎಲ್ಲರೂ ತಮ್ಮ ದಾರಿ ಹಿಡಿದರು",
-      "phraseExample": "ಮಕ್ಕಳೆಲ್ಲ ಬೆಳೆದು ಹೋದರು — ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ."
+      "phraseExample": "ಮಕ್ಕಳೆಲ್ಲ ಬೆಳೆದು ಹೋದರು — ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ.",
+      "meaningInEnglish": "Entrepreneur; magnate",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఏకాగ్రత",
@@ -3482,7 +3978,9 @@ export const dailyContent = [
       "phrase": "ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది",
       "phrasePronunciation": "eddu puttindi ellaku panikostundi",
       "phraseMeaning": "అన్నీ సమయం వచ్చినప్పుడు ఉపయోగపడతాయి",
-      "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది."
+      "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది.",
+      "meaningInEnglish": "Concentration",
+      "phraseMeaningInEnglish": "Everything has its time and use"
     }
   },
   {
@@ -3504,7 +4002,9 @@ export const dailyContent = [
       "phrase": "तूती बोलना",
       "phrasePronunciation": "tooti bolna",
       "phraseMeaning": "बहुत प्रभाव होना",
-      "phraseExample": "इस शहर में उसकी तूती बोलती है।"
+      "phraseExample": "इस शहर में उसकी तूती बोलती है।",
+      "meaningInEnglish": "Defunct; no longer existing",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಆಶಾವಾದಿ",
@@ -3514,7 +4014,9 @@ export const dailyContent = [
       "phrase": "ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು",
       "phrasePronunciation": "obbana oota ibbarige saaladu",
       "phraseMeaning": "ಕಡಿಮೆ ಸಂಪನ್ಮೂಲ",
-      "phraseExample": "ಇಷ್ಟು ಸಂಬಳ ಸಾಲದು — ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು."
+      "phraseExample": "ಇಷ್ಟು ಸಂಬಳ ಸಾಲದು — ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು.",
+      "meaningInEnglish": "Aashaavaadi",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "కటాక్షం",
@@ -3524,7 +4026,9 @@ export const dailyContent = [
       "phrase": "బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు",
       "phrasePronunciation": "buddhi unnavadiki balam avasaram ledu",
       "phraseMeaning": "తెలివి ఉంటే శక్తి అవసరం లేదు",
-      "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు."
+      "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు.",
+      "meaningInEnglish": "Graceful glance",
+      "phraseMeaningInEnglish": "Brain over brawn"
     }
   },
   {
@@ -3546,7 +4050,9 @@ export const dailyContent = [
       "phrase": "नानी याद आना",
       "phrasePronunciation": "naani yaad aana",
       "phraseMeaning": "बहुत कठिनाई होना",
-      "phraseExample": "पहाड़ चढ़ते-चढ़ते नानी याद आ गई।"
+      "phraseExample": "पहाड़ चढ़ते-चढ़ते नानी याद आ गई।",
+      "meaningInEnglish": "To tease; to irritate",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಸ್ಪಷ್ಟಗೊಳಿಸು",
@@ -3556,7 +4062,9 @@ export const dailyContent = [
       "phrase": "ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ",
       "phrasePronunciation": "kaleda kaala matte baralla",
       "phraseMeaning": "ಹೋದ ಸಮಯ ಹಿಂತಿರುಗುವುದಿಲ್ಲ",
-      "phraseExample": "ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಬೇಡ — ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ."
+      "phraseExample": "ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಬೇಡ — ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ.",
+      "meaningInEnglish": "As-pashta-golisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "వైభవం",
@@ -3566,7 +4074,9 @@ export const dailyContent = [
       "phrase": "పెద్దల మాట చద్దన్నం మూట",
       "phrasePronunciation": "peddala maata chaddannam moota",
       "phraseMeaning": "పెద్దల సలహా ఎల్లప్పుడూ ఉపయోగకరం",
-      "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట."
+      "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట.",
+      "meaningInEnglish": "Grandeur",
+      "phraseMeaningInEnglish": "Elders' advice is always valuable"
     }
   },
   {
@@ -3588,7 +4098,9 @@ export const dailyContent = [
       "phrase": "कमर कसना",
       "phrasePronunciation": "kamar kasna",
       "phraseMeaning": "तैयारी करना",
-      "phraseExample": "परीक्षा के लिए कमर कस ली।"
+      "phraseExample": "परीक्षा के लिए कमर कस ली।",
+      "meaningInEnglish": "Fake; counterfeit",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸ್ಥಿರತೆ ಹೊಂದಿರುವ",
@@ -3598,7 +4110,9 @@ export const dailyContent = [
       "phrase": "ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು",
       "phrasePronunciation": "ketta mele buddhi bantu",
       "phraseMeaning": "ನಷ್ಟ ಆದ ಮೇಲೆ ಅರಿವು ಬಂತು",
-      "phraseExample": "ಈಗ ಅರ್ಥ ಆಯಿತು — ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು."
+      "phraseExample": "ಈಗ ಅರ್ಥ ಆಯಿತು — ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು.",
+      "meaningInEnglish": "Sthirate hondiruva",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అనుసరణ",
@@ -3608,7 +4122,9 @@ export const dailyContent = [
       "phrase": "మాటే మంత్రం",
       "phrasePronunciation": "maate mantram",
       "phraseMeaning": "మాటలో చాలా శక్తి ఉంది",
-      "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం."
+      "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం.",
+      "meaningInEnglish": "Following",
+      "phraseMeaningInEnglish": "Words carry great power"
     }
   },
   {
@@ -3630,7 +4146,9 @@ export const dailyContent = [
       "phrase": "दिन में तारे दिखाना",
       "phrasePronunciation": "din mein taare dikhana",
       "phraseMeaning": "बहुत परेशान करना",
-      "phraseExample": "इस बीमारी ने दिन में तारे दिखा दिए।"
+      "phraseExample": "इस बीमारी ने दिन में तारे दिखा दिए।",
+      "meaningInEnglish": "Iconoclast; tradition-breaker",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪ್ರಾಯೋಗಿಕ",
@@ -3640,7 +4158,9 @@ export const dailyContent = [
       "phrase": "ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ",
       "phrasePronunciation": "kottiddu tanage bachchittiddu pararige",
       "phraseMeaning": "ದಾನ ಮಾಡಿದ್ದು ನಿಮಗೇ ಲಾಭ",
-      "phraseExample": "ದಾನ ಮಾಡು — ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ."
+      "phraseExample": "ದಾನ ಮಾಡು — ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ.",
+      "meaningInEnglish": "Prayogika",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రేరణ",
@@ -3650,7 +4170,9 @@ export const dailyContent = [
       "phrase": "కంటికి రెప్పలా కాపాడు",
       "phrasePronunciation": "kantiki reppalaa kaapaadu",
       "phraseMeaning": "చాలా జాగ్రత్తగా రక్షించడం",
-      "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది."
+      "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది.",
+      "meaningInEnglish": "Motivation",
+      "phraseMeaningInEnglish": "To guard something very preciously"
     }
   },
   {
@@ -3672,7 +4194,9 @@ export const dailyContent = [
       "phrase": "खरी-खरी सुनाना",
       "phrasePronunciation": "khari-khari sunana",
       "phraseMeaning": "सीधी सच्ची बात कहना",
-      "phraseExample": "उसने बॉस को खरी-खरी सुना दी।"
+      "phraseExample": "उसने बॉस को खरी-खरी सुना दी।",
+      "meaningInEnglish": "To soothe; to pacify",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ವ್ಯರ್ಥ",
@@ -3682,7 +4206,9 @@ export const dailyContent = [
       "phrase": "ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ",
       "phrasePronunciation": "kalitavanige kadaloo halla",
       "phraseMeaning": "ಜ್ಞಾನಿಗೆ ಎಲ್ಲವೂ ಸುಲಭ",
-      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಕೆಲಸವೂ ಕಷ್ಟವಲ್ಲ — ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ."
+      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಕೆಲಸವೂ ಕಷ್ಟವಲ್ಲ — ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ.",
+      "meaningInEnglish": "Vyartha",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిర్ణయం",
@@ -3692,7 +4218,9 @@ export const dailyContent = [
       "phrase": "ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు",
       "phrasePronunciation": "aachaaram aaripoyinaa aavakaaya aaradu",
       "phraseMeaning": "కొన్ని అలవాట్లు ఎప్పటికీ మారవు",
-      "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు."
+      "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు.",
+      "meaningInEnglish": "Decision",
+      "phraseMeaningInEnglish": "Old habits die hard"
     }
   },
   {
@@ -3714,7 +4242,9 @@ export const dailyContent = [
       "phrase": "चादर देखकर पैर फैलाना",
       "phrasePronunciation": "chaadar dekhkar pair failana",
       "phraseMeaning": "आय के अनुसार खर्च करना",
-      "phraseExample": "चादर देखकर पैर फैलाओ वरना कर्ज में डूब जाओगे।"
+      "phraseExample": "चादर देखकर पैर फैलाओ वरना कर्ज में डूब जाओगे।",
+      "meaningInEnglish": "Destitute; impoverished",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕಪಟ",
@@ -3724,7 +4254,9 @@ export const dailyContent = [
       "phrase": "ಹೊಸ ಬಾಳೆ ಎಲೆ ಹಳೆ ಬಾಳೆ ಎಲೆ ಜೊತೆ ಸೇರಿ ಸುಟ್ಟು ಹೋಯಿತು",
       "phrasePronunciation": "hosa baale ele hale baale ele jote seri suttu hoyitu",
       "phraseMeaning": "ಒಳ್ಳೆಯವನು ಕೆಟ್ಟವರ ಸಹವಾಸದಲ್ಲಿ ಹಾಳಾಗುತ್ತಾನೆ",
-      "phraseExample": "ಕೆಟ್ಟ ಸ್ನೇಹಿತರಿಂದ ದೂರ ಇರು."
+      "phraseExample": "ಕೆಟ್ಟ ಸ್ನೇಹಿತರಿಂದ ದೂರ ಇರು.",
+      "meaningInEnglish": "Deceit; duplicity",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సారాంశం",
@@ -3734,7 +4266,9 @@ export const dailyContent = [
       "phrase": "నిజం తెలిసినా తెలియనట్లు ఉండటం",
       "phrasePronunciation": "nijam telisina teliyannattlu undadam",
       "phraseMeaning": "నిజం తెలిసి కూడా మౌనంగా ఉండటం",
-      "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం."
+      "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం.",
+      "meaningInEnglish": "Essence",
+      "phraseMeaningInEnglish": "Knowing the truth but staying silent"
     }
   },
   {
@@ -3756,7 +4290,9 @@ export const dailyContent = [
       "phrase": "एक और एक ग्यारह होना",
       "phrasePronunciation": "ek aur ek gyaarah hona",
       "phraseMeaning": "एकता में बल होना",
-      "phraseExample": "दोनों दोस्तों ने मिलकर काम किया — एक और एक ग्यारह हो गए।"
+      "phraseExample": "दोनों दोस्तों ने मिलकर काम किया — एक और एक ग्यारह हो गए।",
+      "meaningInEnglish": "To bolster; to strengthen",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ತೀಕ್ಷ್ಣ ಟೀಕೆ",
@@ -3766,7 +4302,9 @@ export const dailyContent = [
       "phrase": "ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು",
       "phrasePronunciation": "idda oorige illada hesaru",
       "phraseMeaning": "ಸುಳ್ಳು ಪ್ರಚಾರ",
-      "phraseExample": "ಆ ವಂದನೆಗಳೆಲ್ಲ ಸುಳ್ಳು — ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು."
+      "phraseExample": "ಆ ವಂದನೆಗಳೆಲ್ಲ ಸುಳ್ಳು — ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು.",
+      "meaningInEnglish": "Teekshna teeke",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆకాంక్ష",
@@ -3776,7 +4314,9 @@ export const dailyContent = [
       "phrase": "వెన్నెల్లో చల్లగాలి తగిలినట్లు",
       "phrasePronunciation": "vennello challagaali tagilinattlu",
       "phraseMeaning": "చాలా హాయిగా ఉండటం",
-      "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది."
+      "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది.",
+      "meaningInEnglish": "Aspiration",
+      "phraseMeaningInEnglish": "Feeling very pleasant and comfortable"
     }
   },
   {
@@ -3798,7 +4338,9 @@ export const dailyContent = [
       "phrase": "लकीर का फकीर होना",
       "phrasePronunciation": "lakeer ka fakeer hona",
       "phraseMeaning": "पुरानी बातों पर ही चलना",
-      "phraseExample": "वह लकीर का फकीर है, नई सोच स्वीकार नहीं करता।"
+      "phraseExample": "वह लकीर का फकीर है, नई सोच स्वीकार नहीं करता।",
+      "meaningInEnglish": "Ambiguous; vague",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಶೂನ್ಯವಾದ",
@@ -3808,7 +4350,9 @@ export const dailyContent = [
       "phrase": "ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು",
       "phrasePronunciation": "neeru bandaaga oddu kattu",
       "phraseMeaning": "ಸಮಸ್ಯೆ ಬಂದಾಗ ತಕ್ಷಣ ಪರಿಹಾರ ಮಾಡು",
-      "phraseExample": "ಈಗಲೇ ಕ್ರಮ ತೆಗೆದುಕೊ — ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು."
+      "phraseExample": "ಈಗಲೇ ಕ್ರಮ ತೆಗೆದುಕೊ — ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು.",
+      "meaningInEnglish": "Shoonyavaada",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "బాధ్యత",
@@ -3818,7 +4362,9 @@ export const dailyContent = [
       "phrase": "ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా",
       "phrasePronunciation": "aavu chelo meste dooda gattuna mestundaa",
       "phraseMeaning": "పెద్దలు చేసేది పిల్లలు కూడా చేస్తారు",
-      "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా."
+      "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా.",
+      "meaningInEnglish": "Responsibility",
+      "phraseMeaningInEnglish": "Children follow what elders do"
     }
   },
   {
@@ -3840,7 +4386,9 @@ export const dailyContent = [
       "phrase": "सिर पर कफन बाँधना",
       "phrasePronunciation": "sir par kafan baandhna",
       "phraseMeaning": "मरने को तैयार होना",
-      "phraseExample": "सैनिकों ने सिर पर कफन बाँध लिया।"
+      "phraseExample": "सैनिकों ने सिर पर कफन बाँध लिया।",
+      "meaningInEnglish": "Blunder; social error",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸುಳ್ಳುಗಾರ",
@@ -3850,7 +4398,9 @@ export const dailyContent = [
       "phrase": "ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು",
       "phrasePronunciation": "aluva maguvige haalu hechchu",
       "phraseMeaning": "ಕೇಳಿದವರಿಗೆ ಹೆಚ್ಚು ಸಿಗುತ್ತದೆ",
-      "phraseExample": "ಕೇಳು — ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು."
+      "phraseExample": "ಕೇಳು — ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು.",
+      "meaningInEnglish": "Sullugaara",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రతిఫలం",
@@ -3860,7 +4410,9 @@ export const dailyContent = [
       "phrase": "ఒక చేత్తో చప్పట్లు కొట్టలేం",
       "phrasePronunciation": "oka chettto chappatlu kottalem",
       "phraseMeaning": "ఒంటరిగా ఏదీ సాధ్యం కాదు",
-      "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం."
+      "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం.",
+      "meaningInEnglish": "Reward",
+      "phraseMeaningInEnglish": "Nothing is possible alone; teamwork matters"
     }
   },
   {
@@ -3882,7 +4434,9 @@ export const dailyContent = [
       "phrase": "दूध का दूध पानी का पानी",
       "phrasePronunciation": "doodh ka doodh paani ka paani",
       "phraseMeaning": "सच और झूठ का फैसला करना",
-      "phraseExample": "जाँच में दूध का दूध पानी का पानी हो जाएगा।"
+      "phraseExample": "जाँच में दूध का दूध पानी का पानी हो जाएगा।",
+      "meaningInEnglish": "To ostracize; to exclude",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ನ್ಯಾಯಶಾಸ್ತ್ರ",
@@ -3892,7 +4446,9 @@ export const dailyContent = [
       "phrase": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ",
       "phrasePronunciation": "taayi idda mane devara mane",
       "phraseMeaning": "ತಾಯಿ ಇರುವ ಮನೆ ಪವಿತ್ರ",
-      "phraseExample": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ — ಅವಳನ್ನು ಗೌರವಿಸು."
+      "phraseExample": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ — ಅವಳನ್ನು ಗೌರವಿಸು.",
+      "meaningInEnglish": "Nyaayashaastra",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "చేతన",
@@ -3902,7 +4458,9 @@ export const dailyContent = [
       "phrase": "వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు",
       "phrasePronunciation": "vepachettu kinda paalu taaginaa chedu antaaru",
       "phraseMeaning": "చెడ్డ పేరు వస్తే ఎంత మంచి చేసినా నమ్మరు",
-      "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు."
+      "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు.",
+      "meaningInEnglish": "Consciousness",
+      "phraseMeaningInEnglish": "A bad name sticks no matter what"
     }
   },
   {
@@ -3924,7 +4482,9 @@ export const dailyContent = [
       "phrase": "सर आँखों पर बिठाना",
       "phrasePronunciation": "sar aankhon par bithana",
       "phraseMeaning": "बहुत सम्मान देना",
-      "phraseExample": "मेहमान को सर आँखों पर बिठाया।"
+      "phraseExample": "मेहमान को सर आँखों पर बिठाया।",
+      "meaningInEnglish": "Blazing",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ನೆನಪಿನ ನೋವು",
@@ -3934,7 +4494,9 @@ export const dailyContent = [
       "phrase": "ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ",
       "phrasePronunciation": "duddiddavane doddappa",
       "phraseMeaning": "ಹಣ ಇದ್ದವನಿಗೆ ಗೌರವ",
-      "phraseExample": "ಈ ಜಗತ್ತಿನಲ್ಲಿ ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ."
+      "phraseExample": "ಈ ಜಗತ್ತಿನಲ್ಲಿ ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ.",
+      "meaningInEnglish": "Nenapina novu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఉపదేశం",
@@ -3944,7 +4506,9 @@ export const dailyContent = [
       "phrase": "దొరికిన దారే దగ్గరి దారి",
       "phrasePronunciation": "dorikina daare daggari daari",
       "phraseMeaning": "అందుబాటులో ఉన్న మార్గం ఉత్తమమైనది",
-      "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి."
+      "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి.",
+      "meaningInEnglish": "Advice",
+      "phraseMeaningInEnglish": "A bird in hand is worth two in the bush"
     }
   },
   {
@@ -3966,7 +4530,9 @@ export const dailyContent = [
       "phrase": "जहाँ चाह वहाँ राह",
       "phrasePronunciation": "jahan chaah vahan raah",
       "phraseMeaning": "इच्छा हो तो रास्ता निकलता है",
-      "phraseExample": "उसने साबित कर दिया कि जहाँ चाह वहाँ राह।"
+      "phraseExample": "उसने साबित कर दिया कि जहाँ चाह वहाँ राह।",
+      "meaningInEnglish": "Serene; tranquil",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ನಂಬಬಹುದಾದ",
@@ -3976,7 +4542,9 @@ export const dailyContent = [
       "phrase": "ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ",
       "phrasePronunciation": "hottege hittilla juttige mallige",
       "phraseMeaning": "ಆಡಂಬರ ಹೆಚ್ಚು ಆದರೆ ಯೋಗ್ಯತೆ ಇಲ್ಲ",
-      "phraseExample": "ಅವನ ಬಳಿ ಏನೂ ಇಲ್ಲ ಆದರೆ ತೋರಿಕೆ ಹೆಚ್ಚು — ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ."
+      "phraseExample": "ಅವನ ಬಳಿ ಏನೂ ಇಲ್ಲ ಆದರೆ ತೋರಿಕೆ ಹೆಚ್ಚು — ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ.",
+      "meaningInEnglish": "Nambabahudaada",
+      "phraseMeaningInEnglish": "All show and no substance"
     },
     "telugu": {
       "word": "అభినందన",
@@ -3986,7 +4554,9 @@ export const dailyContent = [
       "phrase": "ఏనుగు కాలికి ముల్లు గుచ్చినట్లు",
       "phrasePronunciation": "enugu kaaliki mullu gucchinattlu",
       "phraseMeaning": "శక్తివంతుడికి చిన్న సమస్య ఎదురైనా బాధిస్తుంది",
-      "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు."
+      "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు.",
+      "meaningInEnglish": "Congratulations",
+      "phraseMeaningInEnglish": "Even small problems trouble the mighty"
     }
   },
   {
@@ -4008,7 +4578,9 @@ export const dailyContent = [
       "phrase": "अपनी खिचड़ी अलग पकाना",
       "phrasePronunciation": "apni khichdi alag pakana",
       "phraseMeaning": "सबसे अलग रहना",
-      "phraseExample": "वह हमेशा अपनी खिचड़ी अलग पकाता है।"
+      "phraseExample": "वह हमेशा अपनी खिचड़ी अलग पकाता है।",
+      "meaningInEnglish": "To repudiate; to deny",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕಠಿಣ",
@@ -4018,7 +4590,9 @@ export const dailyContent = [
       "phrase": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು",
       "phrasePronunciation": "kai kesaraadare baayi mosaru",
       "phraseMeaning": "ಕಷ್ಟಪಟ್ಟರೆ ಫಲ ಸಿಗುತ್ತದೆ",
-      "phraseExample": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು — ಪ್ರಯತ್ನ ಮಾಡು."
+      "phraseExample": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು — ಪ್ರಯತ್ನ ಮಾಡು.",
+      "meaningInEnglish": "Hard",
+      "phraseMeaningInEnglish": "Hard work yields fruit"
     },
     "telugu": {
       "word": "సౌఖ్యం",
@@ -4028,7 +4602,9 @@ export const dailyContent = [
       "phrase": "మంచికి మంచి, చెడుకు చెడు",
       "phrasePronunciation": "manchiki manchi cheduki chedu",
       "phraseMeaning": "చేసిన దానికి తగిన ఫలితం వస్తుంది",
-      "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు."
+      "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు.",
+      "meaningInEnglish": "Well-being",
+      "phraseMeaningInEnglish": "You reap what you sow"
     }
   },
   {
@@ -4050,7 +4626,9 @@ export const dailyContent = [
       "phrase": "आँखें चुराना",
       "phrasePronunciation": "aankhein churana",
       "phraseMeaning": "नज़र बचाना",
-      "phraseExample": "गलती करने के बाद वह आँखें चुरा रहा था।"
+      "phraseExample": "गलती करने के बाद वह आँखें चुरा रहा था।",
+      "meaningInEnglish": "Stealthily; covertly",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಹಂಕಾರಿ",
@@ -4060,7 +4638,9 @@ export const dailyContent = [
       "phrase": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ",
       "phrasePronunciation": "aliya banda aduge mane tanaka",
       "phraseMeaning": "ಅತಿಥಿ ಅತಿಯಾಗಿ ಹಕ್ಕು ಚಲಾಯಿಸುವುದು",
-      "phraseExample": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ ಎಂಬಂತೆ ಅವನು ಮನೆಯಲ್ಲಿ ರಾಜ್ಯ ಆಳುತ್ತಿದ್ದಾನೆ."
+      "phraseExample": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ ಎಂಬಂತೆ ಅವನು ಮನೆಯಲ್ಲಿ ರಾಜ್ಯ ಆಳುತ್ತಿದ್ದಾನೆ.",
+      "meaningInEnglish": "Ahankaari",
+      "phraseMeaningInEnglish": "A guest overstepping their welcome"
     },
     "telugu": {
       "word": "పరిణతి",
@@ -4070,7 +4650,9 @@ export const dailyContent = [
       "phrase": "చదువుకున్న చెడిపోయినవాడు లేడు",
       "phrasePronunciation": "chaduvukunna chedipoyinavadu ledu",
       "phraseMeaning": "చదువు ఎప్పుడూ ఉపయోగపడుతుంది",
-      "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు."
+      "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు.",
+      "meaningInEnglish": "Maturity",
+      "phraseMeaningInEnglish": "Education always proves useful"
     }
   },
   {
@@ -4092,7 +4674,9 @@ export const dailyContent = [
       "phrase": "मुँह में पानी आना",
       "phrasePronunciation": "munh mein paani aana",
       "phraseMeaning": "लालच आना",
-      "phraseExample": "पकवान देखकर मुँह में पानी आ गया।"
+      "phraseExample": "पकवान देखकर मुँह में पानी आ गया।",
+      "meaningInEnglish": "Perspicacious; keenly perceptive",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಬಹುಮುಖ",
@@ -4102,7 +4686,9 @@ export const dailyContent = [
       "phrase": "ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ",
       "phrasePronunciation": "ettige jvara bandare emmege bare",
       "phraseMeaning": "ಒಬ್ಬರ ಸಮಸ್ಯೆಯನ್ನು ಇನ್ನೊಬ್ಬರ ಮೇಲೆ ಹಾಕುವುದು",
-      "phraseExample": "ನನ್ನ ತಪ್ಪಿಗೆ ಅವನಿಗೆ ಶಿಕ್ಷೆ — ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ."
+      "phraseExample": "ನನ್ನ ತಪ್ಪಿಗೆ ಅವನಿಗೆ ಶಿಕ್ಷೆ — ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ.",
+      "meaningInEnglish": "Versatile; multi-faceted",
+      "phraseMeaningInEnglish": "Passing one's problems onto others"
     },
     "telugu": {
       "word": "నిరంతరం",
@@ -4112,7 +4698,9 @@ export const dailyContent = [
       "phrase": "రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది",
       "phrasePronunciation": "rekkala kashtam raallu karigistundi",
       "phraseMeaning": "కష్టపడి పనిచేస్తే అసాధ్యమైనది కూడా సాధ్యం",
-      "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది."
+      "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది.",
+      "meaningInEnglish": "Continuously",
+      "phraseMeaningInEnglish": "With hard work, the impossible becomes possible"
     }
   },
   {
@@ -4134,7 +4722,9 @@ export const dailyContent = [
       "phrase": "अंधे की लाठी",
       "phrasePronunciation": "andhe ki laathi",
       "phraseMeaning": "एकमात्र सहारा",
-      "phraseExample": "बूढ़ी माँ के लिए बेटा अंधे की लाठी है।"
+      "phraseExample": "बूढ़ी माँ के लिए बेटा अंधे की लाठी है।",
+      "meaningInEnglish": "Self-confidence",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಮರ್ಥ",
@@ -4144,7 +4734,9 @@ export const dailyContent = [
       "phrase": "ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ",
       "phrasePronunciation": "kuri kaayuvavana kaili dana kottante",
       "phraseMeaning": "ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ ಜವಾಬ್ದಾರಿ ಕೊಡುವುದು",
-      "phraseExample": "ಅವನಿಗೆ ಆ ಕೆಲಸ ಕೊಟ್ಟದ್ದು ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ."
+      "phraseExample": "ಅವನಿಗೆ ಆ ಕೆಲಸ ಕೊಟ್ಟದ್ದು ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ.",
+      "meaningInEnglish": "Capable",
+      "phraseMeaningInEnglish": "Giving responsibility to an unworthy person"
     },
     "telugu": {
       "word": "అవగాహన",
@@ -4154,7 +4746,9 @@ export const dailyContent = [
       "phrase": "పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు",
       "phrasePronunciation": "pogada chettu ekkada ledu kaani marri chettu arudu",
       "phraseMeaning": "సాధారణం ఎక్కడైనా దొరుకుతుంది, ప్రత్యేకమైనది అరుదు",
-      "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు."
+      "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు.",
+      "meaningInEnglish": "Understanding",
+      "phraseMeaningInEnglish": "The ordinary is common, the special is rare"
     }
   },
   {
@@ -4176,7 +4770,9 @@ export const dailyContent = [
       "phrase": "दो नावों पर पैर रखना",
       "phrasePronunciation": "do naavon par pair rakhna",
       "phraseMeaning": "दो तरफ से फायदा उठाना",
-      "phraseExample": "दो नावों पर पैर रखोगे तो डूब जाओगे।"
+      "phraseExample": "दो नावों पर पैर रखोगे तो डूब जाओगे।",
+      "meaningInEnglish": "To impede; to obstruct",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಲ್ಪಪ್ರಧಾನ",
@@ -4186,7 +4782,9 @@ export const dailyContent = [
       "phrase": "ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ",
       "phrasePronunciation": "gaali bandaaga tooriko",
       "phraseMeaning": "ಅವಕಾಶ ಸಿಕ್ಕಾಗ ಉಪಯೋಗಿಸಿಕೊ",
-      "phraseExample": "ಅವಕಾಶ ಸಿಕ್ಕಿದೆ, ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ."
+      "phraseExample": "ಅವಕಾಶ ಸಿಕ್ಕಿದೆ, ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ.",
+      "meaningInEnglish": "Alpapradhana",
+      "phraseMeaningInEnglish": "Seize the opportunity when it comes"
     },
     "telugu": {
       "word": "ఔచిత్యం",
@@ -4196,7 +4794,9 @@ export const dailyContent = [
       "phrase": "తూరుపు తెలిసేవాడికి దిక్కు తెలియదా",
       "phrasePronunciation": "toorupu telisevadiki dikku teliyada",
       "phraseMeaning": "ఒకటి తెలిస్తే మిగిలినవి కూడా తెలుస్తాయి",
-      "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా."
+      "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా.",
+      "meaningInEnglish": "Propriety",
+      "phraseMeaningInEnglish": "Knowing one thing leads to knowing others"
     }
   },
   {
@@ -4218,7 +4818,9 @@ export const dailyContent = [
       "phrase": "आँखों का तारा",
       "phrasePronunciation": "aankhon ka taara",
       "phraseMeaning": "बहुत प्रिय व्यक्ति",
-      "phraseExample": "बेटा उसकी आँखों का तारा है।"
+      "phraseExample": "बेटा उसकी आँखों का तारा है।",
+      "meaningInEnglish": "Taciturn; reticent",
+      "phraseMeaningInEnglish": "A very dear person; apple of one's eye"
     },
     "kannada": {
       "word": "ದ್ವಂದ್ವ",
@@ -4228,7 +4830,9 @@ export const dailyContent = [
       "phrase": "ಮೊಸಳೆ ಕಣ್ಣೀರು",
       "phrasePronunciation": "mosale kanneeru",
       "phraseMeaning": "ಸುಳ್ಳು ಅನುಕಂಪ",
-      "phraseExample": "ಅವನ ದುಃಖ ಮೊಸಳೆ ಕಣ್ಣೀರು."
+      "phraseExample": "ಅವನ ದುಃಖ ಮೊಸಳೆ ಕಣ್ಣೀರು.",
+      "meaningInEnglish": "Dvandva",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "మాధుర్యం",
@@ -4238,7 +4842,9 @@ export const dailyContent = [
       "phrase": "అడవిలో పుట్టి, అడవిలో పెరిగినా, అడవి కోతి మారదు",
       "phrasePronunciation": "adavilo putti adavilo periginaa adavi koti maaradu",
       "phraseMeaning": "మనిషి స్వభావం సులభంగా మారదు",
-      "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు."
+      "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు.",
+      "meaningInEnglish": "Sweetness",
+      "phraseMeaningInEnglish": "A person's nature doesn't change easily"
     }
   },
   {
@@ -4260,7 +4866,9 @@ export const dailyContent = [
       "phrase": "अंगूठा दिखाना",
       "phrasePronunciation": "angootha dikhana",
       "phraseMeaning": "साफ मना कर देना",
-      "phraseExample": "उसने मदद माँगी तो लोगों ने अंगूठा दिखा दिया।"
+      "phraseExample": "उसने मदद माँगी तो लोगों ने अंगूठा दिखा दिया।",
+      "meaningInEnglish": "Heresy; unorthodox belief",
+      "phraseMeaningInEnglish": "To flatly refuse"
     },
     "kannada": {
       "word": "ಸಂಗ್ರಹಿಸು",
@@ -4270,7 +4878,9 @@ export const dailyContent = [
       "phrase": "ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ",
       "phrasePronunciation": "kodali kaavu koduva mara",
       "phraseMeaning": "ತನ್ನನ್ನೇ ಕಡಿಯಲು ಸಹಾಯ ಮಾಡುವುದು",
-      "phraseExample": "ಅವನಿಗೇ ಮಾಹಿತಿ ಕೊಟ್ಟೆ — ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ ಆದೆ."
+      "phraseExample": "ಅವನಿಗೇ ಮಾಹಿತಿ ಕೊಟ್ಟೆ — ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ ಆದೆ.",
+      "meaningInEnglish": "Sangrahisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అనన్యం",
@@ -4280,7 +4890,9 @@ export const dailyContent = [
       "phrase": "ఆకలి రుచి ఎరుగదు",
       "phrasePronunciation": "aakali ruchi erugadu",
       "phraseMeaning": "ఆకలి ఉన్నప్పుడు ఏది తిన్నా బాగుంటుంది",
-      "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా."
+      "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా.",
+      "meaningInEnglish": "Unique",
+      "phraseMeaningInEnglish": "When hungry, anything tastes good"
     }
   },
   {
@@ -4302,7 +4914,9 @@ export const dailyContent = [
       "phrase": "अक्ल पर पत्थर पड़ना",
       "phrasePronunciation": "akl par patthar padna",
       "phraseMeaning": "बुद्धि काम न करना",
-      "phraseExample": "ऐसा फैसला लेते वक्त उसकी अक्ल पर पत्थर पड़ गए थे।"
+      "phraseExample": "ऐसा फैसला लेते वक्त उसकी अक्ल पर पत्थर पड़ गए थे।",
+      "meaningInEnglish": "Fervent; intense",
+      "phraseMeaningInEnglish": "To lose one's wits"
     },
     "kannada": {
       "word": "ಬದಲಾವಣೆ ಆಗು",
@@ -4312,7 +4926,9 @@ export const dailyContent = [
       "phrase": "ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ",
       "phrasePronunciation": "tumbida koda tulukuvudilla",
       "phraseMeaning": "ಜ್ಞಾನಿ ಅಹಂಕಾರ ತೋರಿಸುವುದಿಲ್ಲ",
-      "phraseExample": "ಅವರು ವಿನಯಶೀಲರು — ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ."
+      "phraseExample": "ಅವರು ವಿನಯಶೀಲರು — ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ.",
+      "meaningInEnglish": "Badalavane aagu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంస్కారం",
@@ -4322,7 +4938,9 @@ export const dailyContent = [
       "phrase": "ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు",
       "phrasePronunciation": "ooru kaani ooru vaste kukkalu moriginattlu",
       "phraseMeaning": "కొత్త చోటికి వెళ్తే ఇబ్బందులు ఎదురవుతాయి",
-      "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు."
+      "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు.",
+      "meaningInEnglish": "Refinement",
+      "phraseMeaningInEnglish": "New places bring new challenges"
     }
   },
   {
@@ -4344,7 +4962,9 @@ export const dailyContent = [
       "phrase": "ऊँट के मुँह में जीरा",
       "phrasePronunciation": "oont ke munh mein jeera",
       "phraseMeaning": "ज़रूरत के मुकाबले बहुत कम",
-      "phraseExample": "इतने बड़े परिवार के लिए यह तनख्वाह ऊँट के मुँह में जीरा है।"
+      "phraseExample": "इतने बड़े परिवार के लिए यह तनख्वाह ऊँट के मुँह में जीरा है।",
+      "meaningInEnglish": "Ephemeral",
+      "phraseMeaningInEnglish": "Far too little for the need"
     },
     "kannada": {
       "word": "ಅಭೂತಪೂರ್ವ",
@@ -4354,7 +4974,9 @@ export const dailyContent = [
       "phrase": "ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು",
       "phrasePronunciation": "haavu saayabeku kolu muriyabaaradu",
       "phraseMeaning": "ಕೆಲಸ ಆಗಬೇಕು ಯಾರಿಗೂ ಹಾನಿ ಆಗಬಾರದು",
-      "phraseExample": "ಜಾಣತನದಿಂದ ಮಾಡು — ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು."
+      "phraseExample": "ಜಾಣತನದಿಂದ ಮಾಡು — ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು.",
+      "meaningInEnglish": "Abhootapoorva",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "కల్పన",
@@ -4364,7 +4986,9 @@ export const dailyContent = [
       "phrase": "కాకి పిల్ల కాకికి ముద్దు",
       "phrasePronunciation": "kaaki pilla kaakiki muddu",
       "phraseMeaning": "ప్రతి తల్లికి తన బిడ్డ ముద్దే",
-      "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా."
+      "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా.",
+      "meaningInEnglish": "Imagination",
+      "phraseMeaningInEnglish": "Every mother loves her own child most"
     }
   },
   {
@@ -4386,7 +5010,9 @@ export const dailyContent = [
       "phrase": "कान भरना",
       "phrasePronunciation": "kaan bharna",
       "phraseMeaning": "किसी के खिलाफ भड़काना",
-      "phraseExample": "किसी ने बॉस के कान भर दिए।"
+      "phraseExample": "किसी ने बॉस के कान भर दिए।",
+      "meaningInEnglish": "To encumber; to hinder",
+      "phraseMeaningInEnglish": "To incite against someone"
     },
     "kannada": {
       "word": "ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಹೇಳು",
@@ -4396,7 +5022,9 @@ export const dailyContent = [
       "phrase": "ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ",
       "phrasePronunciation": "maadiddunno mahaaraaya",
       "phraseMeaning": "ಮಾಡಿದ ಕೆಲಸದ ಫಲ ಅನುಭವಿಸು",
-      "phraseExample": "ಈಗ ಅಳಬೇಡ, ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ."
+      "phraseExample": "ಈಗ ಅಳಬೇಡ, ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ.",
+      "meaningInEnglish": "Sankshiptavaagi helu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అభిరుచి",
@@ -4406,7 +5034,9 @@ export const dailyContent = [
       "phrase": "గోరుచుట్టుపై రోకలి పోటు",
       "phrasePronunciation": "goruchuttupai rokali potu",
       "phraseMeaning": "ఉన్న సమస్యపై మరో సమస్య",
-      "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు."
+      "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు.",
+      "meaningInEnglish": "Interest",
+      "phraseMeaningInEnglish": "Adding insult to injury"
     }
   },
   {
@@ -4428,7 +5058,9 @@ export const dailyContent = [
       "phrase": "घर की मुर्गी दाल बराबर",
       "phrasePronunciation": "ghar ki murgi daal barabar",
       "phraseMeaning": "अपनी चीज की कदर नहीं",
-      "phraseExample": "देश में इतने अच्छे कलाकार हैं पर घर की मुर्गी दाल बराबर।"
+      "phraseExample": "देश में इतने अच्छे कलाकार हैं पर घर की मुर्गी दाल बराबर।",
+      "meaningInEnglish": "Vigilant; alert",
+      "phraseMeaningInEnglish": "Not appreciating what you have"
     },
     "kannada": {
       "word": "ಗುಟ್ಟಾಗಿ",
@@ -4438,7 +5070,9 @@ export const dailyContent = [
       "phrase": "ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ",
       "phrasePronunciation": "adikege hoda maana aane kottaroo baralla",
       "phraseMeaning": "ಹೋದ ಗೌರವ ಮರಳಿ ಬರುವುದಿಲ್ಲ",
-      "phraseExample": "ಮರ್ಯಾದೆ ಕಳೆದುಕೊಂಡ — ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ."
+      "phraseExample": "ಮರ್ಯಾದೆ ಕಳೆದುಕೊಂಡ — ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ.",
+      "meaningInEnglish": "Guttaagi",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "తపస్సు",
@@ -4448,7 +5082,9 @@ export const dailyContent = [
       "phrase": "చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం",
       "phrasePronunciation": "chetilo venna undagaa neyi kosam vetakadam",
       "phraseMeaning": "ఉన్నది వదిలి ఇంకేదో వెతకడం",
-      "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం."
+      "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం.",
+      "meaningInEnglish": "Penance",
+      "phraseMeaningInEnglish": "Leaving what you have for something uncertain"
     }
   },
   {
@@ -4470,7 +5106,9 @@ export const dailyContent = [
       "phrase": "चार चाँद लगाना",
       "phrasePronunciation": "chaar chaand lagana",
       "phraseMeaning": "शोभा बढ़ाना",
-      "phraseExample": "उसकी मेहनत ने कार्यक्रम में चार चाँद लगा दिए।"
+      "phraseExample": "उसकी मेहनत ने कार्यक्रम में चार चाँद लगा दिए।",
+      "meaningInEnglish": "Turning point; crucial juncture",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಭವಿಷ್ಯದರ್ಶಿ",
@@ -4480,7 +5118,9 @@ export const dailyContent = [
       "phrase": "ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ",
       "phrasePronunciation": "ooru kottaroo hola koda",
       "phraseMeaning": "ನೆರೆಹೊರೆ ಒಳ್ಳೆಯದಾಗಿರಬೇಕು",
-      "phraseExample": "ಒಳ್ಳೆಯ ನೆರೆಹೊರೆ ಮುಖ್ಯ — ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ."
+      "phraseExample": "ಒಳ್ಳೆಯ ನೆರೆಹೊರೆ ಮುಖ್ಯ — ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ.",
+      "meaningInEnglish": "Bhavishyadarshi",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆవేదన",
@@ -4490,7 +5130,9 @@ export const dailyContent = [
       "phrase": "తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు",
       "phrasePronunciation": "taati chettu ekkevadiki tongi chooddam alavatu",
       "phraseMeaning": "పనిలో అనుభవం ఉన్నవాళ్ళకు అది సాధారణం",
-      "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు."
+      "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు.",
+      "meaningInEnglish": "Anguish",
+      "phraseMeaningInEnglish": "Routine for the experienced"
     }
   },
   {
@@ -4512,7 +5154,9 @@ export const dailyContent = [
       "phrase": "छाती पर साँप लोटना",
       "phrasePronunciation": "chhaati par saanp lotna",
       "phraseMeaning": "ईर्ष्या से जलना",
-      "phraseExample": "पड़ोसी की तरक्की देख उसकी छाती पर साँप लोट गया।"
+      "phraseExample": "पड़ोसी की तरक्की देख उसकी छाती पर साँप लोट गया।",
+      "meaningInEnglish": "To juxtapose; place alongside",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮತಾಂಧ",
@@ -4522,7 +5166,9 @@ export const dailyContent = [
       "phrase": "ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ",
       "phrasePronunciation": "kallana manassu kattale",
       "phraseMeaning": "ತಪ್ಪು ಮಾಡಿದವನಿಗೆ ಯಾವಾಗಲೂ ಭಯ",
-      "phraseExample": "ಅವನು ಯಾವಾಗಲೂ ಹೆದರುತ್ತಾನೆ — ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ."
+      "phraseExample": "ಅವನು ಯಾವಾಗಲೂ ಹೆದರುತ್ತಾನೆ — ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ.",
+      "meaningInEnglish": "Mataandha",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ధ్యేయం",
@@ -4532,7 +5178,9 @@ export const dailyContent = [
       "phrase": "నక్కకు నిద్ర వస్తే కోడి కూస్తుంది",
       "phrasePronunciation": "nakkaku nidra vaste kodi koostundi",
       "phraseMeaning": "ఒకరు అజాగ్రత్తగా ఉంటే మరొకరు లాభపడతారు",
-      "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది."
+      "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది.",
+      "meaningInEnglish": "Goal",
+      "phraseMeaningInEnglish": "When one is careless, another profits"
     }
   },
   {
@@ -4554,7 +5202,9 @@ export const dailyContent = [
       "phrase": "तिल का ताड़ बनाना",
       "phrasePronunciation": "til ka taad banana",
       "phraseMeaning": "छोटी बात को बड़ा बनाना",
-      "phraseExample": "बस एक गलती थी, उसने तिल का ताड़ बना दिया।"
+      "phraseExample": "बस एक गलती थी, उसने तिल का ताड़ बना दिया।",
+      "meaningInEnglish": "Flabbergasted; stunned",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅತಿ ವಿಧೇಯ",
@@ -4564,7 +5214,9 @@ export const dailyContent = [
       "phrase": "ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ",
       "phrasePronunciation": "maatu belli mauna bangaara",
       "phraseMeaning": "ಮಾತಿಗಿಂತ ಮೌನ ಮೌಲ್ಯಯುತ",
-      "phraseExample": "ಈ ಸಮಯದಲ್ಲಿ ಸುಮ್ಮನಿರು — ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ."
+      "phraseExample": "ಈ ಸಮಯದಲ್ಲಿ ಸುಮ್ಮನಿರು — ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ.",
+      "meaningInEnglish": "Ati vidheya",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆదర్శం",
@@ -4574,7 +5226,9 @@ export const dailyContent = [
       "phrase": "పందికి బంగారు పట్టెడ ఎందుకు",
       "phrasePronunciation": "pandiki bangaaru patteda enduku",
       "phraseMeaning": "విలువ తెలియనివాడికి విలువైనది ఇచ్చి ఏం లాభం",
-      "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు."
+      "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు.",
+      "meaningInEnglish": "Ideal",
+      "phraseMeaningInEnglish": "Don't give pearls to those who can't value them"
     }
   },
   {
@@ -4596,7 +5250,9 @@ export const dailyContent = [
       "phrase": "दाल में काला होना",
       "phrasePronunciation": "daal mein kaala hona",
       "phraseMeaning": "कुछ गड़बड़ होना",
-      "phraseExample": "उसकी बातों में दाल में कुछ काला है।"
+      "phraseExample": "उसकी बातों में दाल में कुछ काला है।",
+      "meaningInEnglish": "Ambiguous; vague",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಹಂಕಾರ",
@@ -4606,7 +5262,9 @@ export const dailyContent = [
       "phrase": "ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ",
       "phrasePronunciation": "hole neerige donne naayaka",
       "phraseMeaning": "ಅಧಿಕಾರವಿಲ್ಲದವನ ಆಡಂಬರ",
-      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಅಧಿಕಾರವೂ ಇಲ್ಲ ಆದರೆ ರೋಬ್ — ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ."
+      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಅಧಿಕಾರವೂ ಇಲ್ಲ ಆದರೆ ರೋಬ್ — ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ.",
+      "meaningInEnglish": "Ahankaara",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "మౌలికం",
@@ -4616,7 +5274,9 @@ export const dailyContent = [
       "phrase": "బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి",
       "phrasePronunciation": "boggu muttukuṇṭe chetulu nallabadataay",
       "phraseMeaning": "చెడ్డ వాళ్ళతో తిరిగితే మనం కూడా చెడిపోతాం",
-      "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి."
+      "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి.",
+      "meaningInEnglish": "Fundamental",
+      "phraseMeaningInEnglish": "Bad company corrupts good character"
     }
   },
   {
@@ -4638,7 +5298,9 @@ export const dailyContent = [
       "phrase": "नौ दो ग्यारह होना",
       "phrasePronunciation": "nau do gyaarah hona",
       "phraseMeaning": "भाग जाना",
-      "phraseExample": "पुलिस को देखते ही चोर नौ दो ग्यारह हो गए।"
+      "phraseExample": "पुलिस को देखते ही चोर नौ दो ग्यारह हो गए।",
+      "meaningInEnglish": "Liar; dishonest",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪ್ರವೃತ್ತಿ",
@@ -4648,7 +5310,9 @@ export const dailyContent = [
       "phrase": "ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ",
       "phrasePronunciation": "naayi bogalidare devaloka haalaguvudilla",
       "phraseMeaning": "ಕೆಟ್ಟವರ ಮಾತಿಗೆ ಮಹತ್ವ ಕೊಡಬೇಡ",
-      "phraseExample": "ಅವರ ಟೀಕೆ ಬಿಡು — ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ."
+      "phraseExample": "ಅವರ ಟೀಕೆ ಬಿಡು — ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ.",
+      "meaningInEnglish": "Pravrutti",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రతిజ్ఞ",
@@ -4658,7 +5322,9 @@ export const dailyContent = [
       "phrase": "మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది",
       "phrasePronunciation": "manchi chesi choodu manasu nindugaa untundi",
       "phraseMeaning": "ఇతరులకు మేలు చేస్తే మనసుకు తృప్తి",
-      "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది."
+      "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది.",
+      "meaningInEnglish": "Pledge",
+      "phraseMeaningInEnglish": "Helping others brings inner peace"
     }
   },
   {
@@ -4680,7 +5346,9 @@ export const dailyContent = [
       "phrase": "पानी-पानी होना",
       "phrasePronunciation": "paani-paani hona",
       "phraseMeaning": "बहुत शर्मिंदा होना",
-      "phraseExample": "सच सामने आने पर वह पानी-पानी हो गया।"
+      "phraseExample": "सच सामने आने पर वह पानी-पानी हो गया।",
+      "meaningInEnglish": "Generous",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕೋಟೆ",
@@ -4690,7 +5358,9 @@ export const dailyContent = [
       "phrase": "ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು",
       "phrasePronunciation": "ati aase gati kedu",
       "phraseMeaning": "ಅತಿಯಾಸೆ ವಿನಾಶಕ್ಕೆ ಕಾರಣ",
-      "phraseExample": "ಹೆಚ್ಚು ಬೇಡ — ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು."
+      "phraseExample": "ಹೆಚ್ಚು ಬೇಡ — ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು.",
+      "meaningInEnglish": "Kote",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంభాషణ",
@@ -4700,7 +5370,9 @@ export const dailyContent = [
       "phrase": "రాతికి పూచే పూలు రాలిపోతాయి",
       "phrasePronunciation": "raatiki pooche poolu raalipotaayi",
       "phraseMeaning": "శాశ్వతమైనది ఏదీ లేదు",
-      "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి."
+      "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి.",
+      "meaningInEnglish": "Conversation",
+      "phraseMeaningInEnglish": "Nothing is permanent"
     }
   },
   {
@@ -4722,7 +5394,9 @@ export const dailyContent = [
       "phrase": "बंदर क्या जाने अदरक का स्वाद",
       "phrasePronunciation": "bandar kya jaane adrak ka swaad",
       "phraseMeaning": "अनजान व्यक्ति गुणों की कदर नहीं करता",
-      "phraseExample": "उसे संगीत की क्या समझ, बंदर क्या जाने अदरक का स्वाद।"
+      "phraseExample": "उसे संगीत की क्या समझ, बंदर क्या जाने अदरक का स्वाद।",
+      "meaningInEnglish": "Blending; amalgamation",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸುತ್ತುಮಾತು",
@@ -4732,7 +5406,9 @@ export const dailyContent = [
       "phrase": "ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸು",
       "phrasePronunciation": "kallu haaki doni mulugisu",
       "phraseMeaning": "ಇತರರ ಕೆಲಸ ಹಾಳು ಮಾಡು",
-      "phraseExample": "ಅವನು ನನ್ನ ಯೋಜನೆಗೆ ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸಿದ."
+      "phraseExample": "ಅವನು ನನ್ನ ಯೋಜನೆಗೆ ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸಿದ.",
+      "meaningInEnglish": "Suttumaatu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "పారదర్శకత",
@@ -4742,7 +5418,9 @@ export const dailyContent = [
       "phrase": "విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు",
       "phrasePronunciation": "vinnavaariki telivi cheppinavaariki orpu",
       "phraseMeaning": "వినేవాడికి జ్ఞానం, చెప్పేవాడికి సహనం కావాలి",
-      "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు."
+      "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు.",
+      "meaningInEnglish": "Transparency",
+      "phraseMeaningInEnglish": "Listener needs wisdom, speaker needs patience"
     }
   },
   {
@@ -4764,7 +5442,9 @@ export const dailyContent = [
       "phrase": "लोहा मानना",
       "phrasePronunciation": "loha maanna",
       "phraseMeaning": "किसी की श्रेष्ठता स्वीकार करना",
-      "phraseExample": "विरोधियों ने भी उसका लोहा मान लिया।"
+      "phraseExample": "विरोधियों ने भी उसका लोहा मान लिया।",
+      "meaningInEnglish": "Pause; intermission",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ವಿವರಿಸು",
@@ -4774,7 +5454,9 @@ export const dailyContent = [
       "phrase": "ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ",
       "phrasePronunciation": "bekkige chellaata ilige praana sankata",
       "phraseMeaning": "ಒಬ್ಬರಿಗೆ ಆಟ ಇನ್ನೊಬ್ಬರಿಗೆ ಕಷ್ಟ",
-      "phraseExample": "ಅವನಿಗೆ ತಮಾಷೆ ನನಗೆ ತೊಂದರೆ — ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ."
+      "phraseExample": "ಅವನಿಗೆ ತಮಾಷೆ ನನಗೆ ತೊಂದರೆ — ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ.",
+      "meaningInEnglish": "Vivarisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఉత్తేజం",
@@ -4784,7 +5466,9 @@ export const dailyContent = [
       "phrase": "ఏనుగు మీద దీపం ఉంచినట్లు",
       "phrasePronunciation": "enugu meeda deepam unchinattlu",
       "phraseMeaning": "చాలా గొప్పగా కనిపించడం",
-      "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు."
+      "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు.",
+      "meaningInEnglish": "Excitement",
+      "phraseMeaningInEnglish": "To appear very grand and impressive"
     }
   },
   {
@@ -4806,7 +5490,9 @@ export const dailyContent = [
       "phrase": "गुड़ गोबर करना",
       "phrasePronunciation": "gud gobar karna",
       "phraseMeaning": "बना-बनाया काम बिगाड़ना",
-      "phraseExample": "आखिरी वक्त पर उसने सब गुड़ गोबर कर दिया।"
+      "phraseExample": "आखिरी वक्त पर उसने सब गुड़ गोबर कर दिया।",
+      "meaningInEnglish": "Taciturn; reticent",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕುಖ್ಯಾತ",
@@ -4816,7 +5502,9 @@ export const dailyContent = [
       "phrase": "ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ",
       "phrasePronunciation": "koti kaili hoomaale",
       "phraseMeaning": "ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ ಒಳ್ಳೆಯ ವಸ್ತು",
-      "phraseExample": "ಅವನಿಗೆ ಆ ಅವಕಾಶ ಕೊಟ್ಟದ್ದು ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ."
+      "phraseExample": "ಅವನಿಗೆ ಆ ಅವಕಾಶ ಕೊಟ್ಟದ್ದು ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ.",
+      "meaningInEnglish": "Kukhyaata",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సమాధానం",
@@ -4826,7 +5514,9 @@ export const dailyContent = [
       "phrase": "కష్టపడితే ఫలం దక్కుతుంది",
       "phrasePronunciation": "kashtapadite phalam dakkutundi",
       "phraseMeaning": "పరిశ్రమకు తగిన ఫలితం వస్తుంది",
-      "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది."
+      "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది.",
+      "meaningInEnglish": "Solution",
+      "phraseMeaningInEnglish": "Hard work yields suitable rewards"
     }
   },
   {
@@ -4848,7 +5538,9 @@ export const dailyContent = [
       "phrase": "हाथ कंगन को आरसी क्या",
       "phrasePronunciation": "haath kangan ko aarsi kya",
       "phraseMeaning": "प्रत्यक्ष को प्रमाण की ज़रूरत नहीं",
-      "phraseExample": "नतीजे सामने हैं, हाथ कंगन को आरसी क्या।"
+      "phraseExample": "नतीजे सामने हैं, हाथ कंगन को आरसी क्या।",
+      "meaningInEnglish": "Inactive; dormant",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅನಿಯಂತ್ರಿತ",
@@ -4858,7 +5550,9 @@ export const dailyContent = [
       "phrase": "ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು",
       "phrasePronunciation": "ondu kaiyalli chappaale tattalu aagadu",
       "phraseMeaning": "ಜಗಳದಲ್ಲಿ ಇಬ್ಬರ ತಪ್ಪು ಇರುತ್ತದೆ",
-      "phraseExample": "ಇಬ್ಬರೂ ತಪ್ಪು — ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು."
+      "phraseExample": "ಇಬ್ಬರೂ ತಪ್ಪು — ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು.",
+      "meaningInEnglish": "Aniyantrita",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అనుబంధం",
@@ -4868,7 +5562,9 @@ export const dailyContent = [
       "phrase": "అందని ద్రాక్ష పుల్లన",
       "phrasePronunciation": "andani draaksha pullana",
       "phraseMeaning": "సాధించలేనిది తక్కువ అని చెప్పడం",
-      "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు."
+      "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు.",
+      "meaningInEnglish": "Bond",
+      "phraseMeaningInEnglish": "Sour grapes; dismissing what you can't get"
     }
   },
   {
@@ -4890,7 +5586,9 @@ export const dailyContent = [
       "phrase": "आँख का पानी ढलना",
       "phrasePronunciation": "aankh ka paani dhalna",
       "phraseMeaning": "बेशर्म हो जाना",
-      "phraseExample": "झूठ बोलते-बोलते उसकी आँख का पानी ढल गया।"
+      "phraseExample": "झूठ बोलते-बोलते उसकी आँख का पानी ढल गया।",
+      "meaningInEnglish": "Eloquence; oratory",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ವಿವೇಕಿ",
@@ -4900,7 +5598,9 @@ export const dailyContent = [
       "phrase": "ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು",
       "phrasePronunciation": "oorige bandavalu neerigoo barabeku",
       "phraseMeaning": "ಎಲ್ಲಾ ಕಷ್ಟ ಸಹಿಸಬೇಕು",
-      "phraseExample": "ಇಲ್ಲಿ ಬಂದ ಮೇಲೆ ಕಷ್ಟ ಸಹಿಸು — ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು."
+      "phraseExample": "ಇಲ್ಲಿ ಬಂದ ಮೇಲೆ ಕಷ್ಟ ಸಹಿಸು — ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು.",
+      "meaningInEnglish": "Viveki",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రగతి",
@@ -4910,7 +5610,9 @@ export const dailyContent = [
       "phrase": "చెప్పేది ఒకటి చేసేది ఒకటి",
       "phrasePronunciation": "cheppedi okati chesedi okati",
       "phraseMeaning": "మాటలకు చేతలకు పొంతన లేకపోవడం",
-      "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి."
+      "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి.",
+      "meaningInEnglish": "Progress",
+      "phraseMeaningInEnglish": "Actions don't match words; hypocrisy"
     }
   },
   {
@@ -4932,7 +5634,9 @@ export const dailyContent = [
       "phrase": "अपने मुँह मियाँ मिट्ठू बनना",
       "phrasePronunciation": "apne munh miyan mitthu banna",
       "phraseMeaning": "खुद अपनी तारीफ करना",
-      "phraseExample": "हर बात में अपने मुँह मियाँ मिट्ठू बनता है।"
+      "phraseExample": "हर बात में अपने मुँह मियाँ मिट्ठू बनता है।",
+      "meaningInEnglish": "To diminish; incident",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಸ್ಪಷ್ಟ",
@@ -4942,7 +5646,9 @@ export const dailyContent = [
       "phrase": "ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ",
       "phrasePronunciation": "aadu muttada soppilla",
       "phraseMeaning": "ಎಲ್ಲದರಲ್ಲೂ ಕೈ ಹಾಕುವವನು",
-      "phraseExample": "ಅವನಿಗೆ ಎಲ್ಲ ವಿಷಯದಲ್ಲೂ ತಲೆ ಹಾಕಬೇಕು — ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ."
+      "phraseExample": "ಅವನಿಗೆ ಎಲ್ಲ ವಿಷಯದಲ್ಲೂ ತಲೆ ಹಾಕಬೇಕು — ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ.",
+      "meaningInEnglish": "Unclear; ambiguous",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సహజం",
@@ -4952,7 +5658,9 @@ export const dailyContent = [
       "phrase": "తాడిని తన్నేవాడు కొబ్బరిని తన్నడు",
       "phrasePronunciation": "taadini tannedvaadu kobbarini tannadu",
       "phraseMeaning": "అంత సామర్థ్యం లేనివాడు పెద్ద పనులు చేయలేడు",
-      "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు."
+      "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు.",
+      "meaningInEnglish": "Natural",
+      "phraseMeaningInEnglish": "One without ability can't do big things"
     }
   },
   {
@@ -4974,7 +5682,9 @@ export const dailyContent = [
       "phrase": "घोड़े बेचकर सोना",
       "phrasePronunciation": "ghode bechkar sona",
       "phraseMeaning": "बेफिक्र होकर सोना",
-      "phraseExample": "परीक्षा खत्म, अब घोड़े बेचकर सोएंगे।"
+      "phraseExample": "परीक्षा खत्म, अब घोड़े बेचकर सोएंगे।",
+      "meaningInEnglish": "Kaleidoscope; ever-changing scene",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಹೊಗಳು ಭಟ್ಟ",
@@ -4984,7 +5694,9 @@ export const dailyContent = [
       "phrase": "ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು",
       "phrasePronunciation": "hasivige anna kodu rogakke maddu kodu",
       "phraseMeaning": "ಸಮಸ್ಯೆಗೆ ಸರಿಯಾದ ಪರಿಹಾರ ಕೊಡು",
-      "phraseExample": "ಸರಿಯಾದ ಪರಿಹಾರ ಬೇಕು — ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು."
+      "phraseExample": "ಸರಿಯಾದ ಪರಿಹಾರ ಬೇಕು — ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು.",
+      "meaningInEnglish": "Hogalu bhatta",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆలోచన",
@@ -4994,7 +5706,9 @@ export const dailyContent = [
       "phrase": "నీటిలో దూకినవాడు తడవకుండా ఉంటాడా",
       "phrasePronunciation": "neetilo dookinavaadu tadavakunda untadaa",
       "phraseMeaning": "పనిలో దిగినప్పుడు ఫలితాలు ఉంటాయి",
-      "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా."
+      "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా.",
+      "meaningInEnglish": "Thought",
+      "phraseMeaningInEnglish": "Results come when you get to work"
     }
   },
   {
@@ -5016,7 +5730,9 @@ export const dailyContent = [
       "phrase": "आस्तीन का साँप",
       "phrasePronunciation": "aasteen ka saanp",
       "phraseMeaning": "करीबी होकर धोखा देने वाला",
-      "phraseExample": "वह तो आस्तीन का साँप निकला।"
+      "phraseExample": "वह तो आस्तीन का साँप निकला।",
+      "meaningInEnglish": "Soliloquy; talking to oneself",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮೂಲ",
@@ -5026,7 +5742,9 @@ export const dailyContent = [
       "phrase": "ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ",
       "phrasePronunciation": "kereya neeranu kerege chelli",
       "phraseMeaning": "ಪಡೆದುದನ್ನು ಹಿಂದಿರುಗಿಸು",
-      "phraseExample": "ಸಮಾಜಕ್ಕೆ ಹಿಂತಿರುಗಿಸು — ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ."
+      "phraseExample": "ಸಮಾಜಕ್ಕೆ ಹಿಂತಿರುಗಿಸು — ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ.",
+      "meaningInEnglish": "Origin",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "వినమ్రత",
@@ -5036,7 +5754,9 @@ export const dailyContent = [
       "phrase": "పేదవాని బండికి ఎద్దులు ఆగవు",
       "phrasePronunciation": "pedavaani bandiki eddulu aagavu",
       "phraseMeaning": "డబ్బు లేనివాడికి ఏదీ సమయానికి జరగదు",
-      "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు."
+      "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు.",
+      "meaningInEnglish": "Modesty",
+      "phraseMeaningInEnglish": "Nothing works on time for the poor"
     }
   },
   {
@@ -5058,7 +5778,9 @@ export const dailyContent = [
       "phrase": "एक पंथ दो काज",
       "phrasePronunciation": "ek panth do kaaj",
       "phraseMeaning": "एक काम से दो फायदे",
-      "phraseExample": "वहाँ जाकर मिलना भी हो जाएगा और काम भी — एक पंथ दो काज।"
+      "phraseExample": "वहाँ जाकर मिलना भी हो जाएगा और काम भी — एक पंथ दो काज।",
+      "meaningInEnglish": "Incorrigible; beyond reform",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಒಗಟು",
@@ -5068,7 +5790,9 @@ export const dailyContent = [
       "phrase": "ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ",
       "phrasePronunciation": "manege maari oorige upakari",
       "phraseMeaning": "ತನ್ನವರಿಗೆ ಕೆಟ್ಟವನು ಹೊರಗಿನವರಿಗೆ ಒಳ್ಳೆಯವನು",
-      "phraseExample": "ಅವನು ಮನೆಯಲ್ಲಿ ಕೆಟ್ಟವನು ಹೊರಗೆ ಒಳ್ಳೆಯವನು — ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ."
+      "phraseExample": "ಅವನು ಮನೆಯಲ್ಲಿ ಕೆಟ್ಟವನು ಹೊರಗೆ ಒಳ್ಳೆಯವನು — ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ.",
+      "meaningInEnglish": "Ogatu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆహ్వానం",
@@ -5078,7 +5802,9 @@ export const dailyContent = [
       "phrase": "మనసు మంచిదైతే మార్గం కనిపిస్తుంది",
       "phrasePronunciation": "manasu manchidaite maargam kanipistundi",
       "phraseMeaning": "మంచి ఉద్దేశ్యం ఉంటే దారి దొరుకుతుంది",
-      "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది."
+      "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది.",
+      "meaningInEnglish": "Invitation",
+      "phraseMeaningInEnglish": "Good intentions find a way"
     }
   },
   {
@@ -5100,7 +5826,9 @@ export const dailyContent = [
       "phrase": "खून का घूँट पीना",
       "phrasePronunciation": "khoon ka ghoont peena",
       "phraseMeaning": "गुस्सा दबाकर सहना",
-      "phraseExample": "अपमान सुनकर उसने खून का घूँट पी लिया।"
+      "phraseExample": "अपमान सुनकर उसने खून का घूँट पी लिया।",
+      "meaningInEnglish": "Biased; opinionated",
+      "phraseMeaningInEnglish": "To suppress anger and endure"
     },
     "kannada": {
       "word": "ಉತ್ಪಾದಿಸು",
@@ -5110,7 +5838,9 @@ export const dailyContent = [
       "phrase": "ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ",
       "phrasePronunciation": "hannu maagidare taane beeluttade",
       "phraseMeaning": "ಸಮಯ ಬಂದಾಗ ತಾನಾಗಿ ಆಗುತ್ತದೆ",
-      "phraseExample": "ಆತುರಪಡಬೇಡ — ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ."
+      "phraseExample": "ಆತುರಪಡಬೇಡ — ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ.",
+      "meaningInEnglish": "Utpaadisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సహృదయం",
@@ -5120,7 +5850,9 @@ export const dailyContent = [
       "phrase": "రాయిని దేవుడని పూజిస్తే అది దేవుడే",
       "phrasePronunciation": "raayini devudani poojisite adi devude",
       "phraseMeaning": "నమ్మకం ఉంటే ఏదైనా సాధ్యం",
-      "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే."
+      "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే.",
+      "meaningInEnglish": "Good-hearted",
+      "phraseMeaningInEnglish": "Faith makes anything possible"
     }
   },
   {
@@ -5142,7 +5874,9 @@ export const dailyContent = [
       "phrase": "गागर में सागर भरना",
       "phrasePronunciation": "gaagar mein saagar bharna",
       "phraseMeaning": "कम शब्दों में गहरी बात कहना",
-      "phraseExample": "कबीर के दोहे गागर में सागर भरते हैं।"
+      "phraseExample": "कबीर के दोहे गागर में सागर भरते हैं।",
+      "meaningInEnglish": "Fierce",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಬಲವಂತಪಡಿಸು",
@@ -5152,7 +5886,9 @@ export const dailyContent = [
       "phrase": "ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟು",
       "phrasePronunciation": "maatinalli mallige kattu",
       "phraseMeaning": "ಬಹಳ ಮಧುರವಾಗಿ ಮಾತನಾಡು",
-      "phraseExample": "ಅವಳ ಮಾತು ಎಷ್ಟು ಚೆಂದ — ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟುತ್ತಾಳೆ."
+      "phraseExample": "ಅವಳ ಮಾತು ಎಷ್ಟು ಚೆಂದ — ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟುತ್ತಾಳೆ.",
+      "meaningInEnglish": "Balavantapadisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "తృప్తి",
@@ -5162,7 +5898,9 @@ export const dailyContent = [
       "phrase": "ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది",
       "phrasePronunciation": "enta pedda chettainaa vittananto modalavutundi",
       "phraseMeaning": "ప్రతి గొప్ప విషయం చిన్నగా మొదలవుతుంది",
-      "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది."
+      "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది.",
+      "meaningInEnglish": "Satisfaction",
+      "phraseMeaningInEnglish": "Every great thing starts small"
     }
   },
   {
@@ -5184,7 +5922,9 @@ export const dailyContent = [
       "phrase": "चिराग तले अँधेरा",
       "phrasePronunciation": "chiraag tale andhera",
       "phraseMeaning": "अपने घर में ही खराबी",
-      "phraseExample": "पुलिस अधिकारी का बेटा चोर — चिराग तले अँधेरा।"
+      "phraseExample": "पुलिस अधिकारी का बेटा चोर — चिराग तले अँधेरा।",
+      "meaningInEnglish": "Conundrum; puzzle",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ತೀವ್ರ",
@@ -5194,7 +5934,9 @@ export const dailyContent = [
       "phrase": "ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿ",
       "phrasePronunciation": "betta agedu ili hidi",
       "phraseMeaning": "ಬಹಳ ಪ್ರಯತ್ನಕ್ಕೆ ಕಡಿಮೆ ಫಲ",
-      "phraseExample": "ಇಷ್ಟು ಶ್ರಮ ಹಾಕಿ ಇಷ್ಟೇ ಸಿಕ್ಕಿತು — ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿದಂತೆ."
+      "phraseExample": "ಇಷ್ಟು ಶ್ರಮ ಹಾಕಿ ಇಷ್ಟೇ ಸಿಕ್ಕಿತು — ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿದಂತೆ.",
+      "meaningInEnglish": "Acute",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రమాదం",
@@ -5204,7 +5946,9 @@ export const dailyContent = [
       "phrase": "నవ్వు నాలుగు విధాల మేలు",
       "phrasePronunciation": "navvu naalugu vidhaala melu",
       "phraseMeaning": "నవ్వడం ఆరోగ్యానికి మంచిది",
-      "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు."
+      "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు.",
+      "meaningInEnglish": "Danger",
+      "phraseMeaningInEnglish": "Laughter is the best medicine"
     }
   },
   {
@@ -5226,7 +5970,9 @@ export const dailyContent = [
       "phrase": "जले पर नमक छिड़कना",
       "phrasePronunciation": "jale par namak chhidakna",
       "phraseMeaning": "दुखी को और दुखी करना",
-      "phraseExample": "हार के बाद ताने मत मारो, जले पर नमक मत छिड़को।"
+      "phraseExample": "हार के बाद ताने मत मारो, जले पर नमक मत छिड़को।",
+      "meaningInEnglish": "Mirage; vortex",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪ್ರಶಂಸನೀಯ",
@@ -5236,7 +5982,9 @@ export const dailyContent = [
       "phrase": "ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ",
       "phrasePronunciation": "adige maadi ootakke kare",
       "phraseMeaning": "ಎಲ್ಲಾ ಸಿದ್ಧ ಮಾಡಿ ಆಮಂತ್ರಿಸು",
-      "phraseExample": "ತಯಾರಿ ಮುಗಿಸಿ ಕರೆ — ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ."
+      "phraseExample": "ತಯಾರಿ ಮುಗಿಸಿ ಕರೆ — ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ.",
+      "meaningInEnglish": "Prashamsaniya",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నేర్పు",
@@ -5246,7 +5994,9 @@ export const dailyContent = [
       "phrase": "అప్పు తీర్చని వాడికి పరపతి ఉండదు",
       "phrasePronunciation": "appu teerchani vaadiki parapati undadu",
       "phraseMeaning": "నమ్మకం కోల్పోతే మళ్ళీ రాదు",
-      "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు."
+      "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు.",
+      "meaningInEnglish": "Skill",
+      "phraseMeaningInEnglish": "Trust, once lost, is hard to regain"
     }
   },
   {
@@ -5268,7 +6018,9 @@ export const dailyContent = [
       "phrase": "नाक कटना",
       "phrasePronunciation": "naak katna",
       "phraseMeaning": "इज्जत जाना",
-      "phraseExample": "बेटे के व्यवहार से पिता की नाक कट गई।"
+      "phraseExample": "बेटे के व्यवहार से पिता की नाक कट गई।",
+      "meaningInEnglish": "Euphoria; supreme bliss",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪಾರದರ್ಶಕ",
@@ -5278,7 +6030,9 @@ export const dailyContent = [
       "phrase": "ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ",
       "phrasePronunciation": "kallanige beegada kai kottante",
       "phraseMeaning": "ಅಪ್ರಾಮಾಣಿಕ ವ್ಯಕ್ತಿಗೆ ಜವಾಬ್ದಾರಿ ಕೊಟ್ಟಂತೆ",
-      "phraseExample": "ಅವನಿಗೆ ಖಜಾನೆ ಕೊಟ್ಟದ್ದು — ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ."
+      "phraseExample": "ಅವನಿಗೆ ಖಜಾನೆ ಕೊಟ್ಟದ್ದು — ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ.",
+      "meaningInEnglish": "Paaradarshaka",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "వ్యూహం",
@@ -5288,7 +6042,9 @@ export const dailyContent = [
       "phrase": "ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు",
       "phrasePronunciation": "ekkada chepalu levo akkada kappe raaju",
       "phraseMeaning": "సమర్థులు లేని చోట అసమర్థులు పెత్తనం చేస్తారు",
-      "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు."
+      "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు.",
+      "meaningInEnglish": "Strategy",
+      "phraseMeaningInEnglish": "In the land of the blind, the one-eyed is king"
     }
   },
   {
@@ -5310,7 +6066,9 @@ export const dailyContent = [
       "phrase": "पेट में चूहे दौड़ना",
       "phrasePronunciation": "pet mein choohe daudna",
       "phraseMeaning": "बहुत भूख लगना",
-      "phraseExample": "दोपहर से कुछ नहीं खाया, पेट में चूहे दौड़ रहे हैं।"
+      "phraseExample": "दोपहर से कुछ नहीं खाया, पेट में चूहे दौड़ रहे हैं।",
+      "meaningInEnglish": "Debacle; sudden defeat",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕಡಿಮೆಯಾಗು",
@@ -5320,7 +6078,9 @@ export const dailyContent = [
       "phrase": "ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ",
       "phrasePronunciation": "male bandare mane illa biisilige adige illa",
       "phraseMeaning": "ಎಲ್ಲ ಕಡೆ ಸಮಸ್ಯೆ",
-      "phraseExample": "ಅವನ ಪರಿಸ್ಥಿತಿ ಕಷ್ಟ — ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ."
+      "phraseExample": "ಅವನ ಪರಿಸ್ಥಿತಿ ಕಷ್ಟ — ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ.",
+      "meaningInEnglish": "Kadimeyaagu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆత్మగౌరవం",
@@ -5330,7 +6090,9 @@ export const dailyContent = [
       "phrase": "చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది",
       "phrasePronunciation": "chettu narikina modalu unte chiguristundi",
       "phraseMeaning": "మూలం బలంగా ఉంటే తిరిగి లేవగలం",
-      "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది."
+      "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది.",
+      "meaningInEnglish": "Self-respect",
+      "phraseMeaningInEnglish": "Strong roots help you rise again"
     }
   },
   {
@@ -5352,7 +6114,9 @@ export const dailyContent = [
       "phrase": "मक्खी पर मक्खी मारना",
       "phrasePronunciation": "makkhi par makkhi maarna",
       "phraseMeaning": "नकल करना",
-      "phraseExample": "वह हमेशा दूसरों पर मक्खी मारता है।"
+      "phraseExample": "वह हमेशा दूसरों पर मक्खी मारता है।",
+      "meaningInEnglish": "To corroborate; to confirm",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ತತ್ಪರತೆ",
@@ -5362,7 +6126,9 @@ export const dailyContent = [
       "phrase": "ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು",
       "phrasePronunciation": "haalu kudida makkalu",
       "phraseMeaning": "ಮುಗ್ಧ ಮತ್ತು ಅನನುಭವಿ",
-      "phraseExample": "ಅವರು ಇನ್ನೂ ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು."
+      "phraseExample": "ಅವರು ಇನ್ನೂ ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು.",
+      "meaningInEnglish": "Tatparate",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఉదయం",
@@ -5372,7 +6138,9 @@ export const dailyContent = [
       "phrase": "కుక్క తోక వంకరే",
       "phrasePronunciation": "kukka toka vankare",
       "phraseMeaning": "కొందరి స్వభావం ఎప్పటికీ మారదు",
-      "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే."
+      "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే.",
+      "meaningInEnglish": "Morning",
+      "phraseMeaningInEnglish": "A leopard can't change its spots"
     }
   },
   {
@@ -5394,7 +6162,9 @@ export const dailyContent = [
       "phrase": "उल्टी गंगा बहाना",
       "phrasePronunciation": "ulti ganga bahana",
       "phraseMeaning": "सामान्य नियम के विपरीत करना",
-      "phraseExample": "बच्चे बड़ों को सिखा रहे हैं — उल्टी गंगा बह रही है।"
+      "phraseExample": "बच्चे बड़ों को सिखा रहे हैं — उल्टी गंगा बह रही है।",
+      "meaningInEnglish": "Precocious; beyond one's age",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಾಮಾನ್ಯ",
@@ -5404,7 +6174,9 @@ export const dailyContent = [
       "phrase": "ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು",
       "phrasePronunciation": "kaage koota mara muriyitu",
       "phraseMeaning": "ಕಾಕತಾಳೀಯ ಘಟನೆ",
-      "phraseExample": "ಅವನು ಬಂದ ಕೂಡಲೇ ಮಳೆ ಬಂತು — ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು."
+      "phraseExample": "ಅವನು ಬಂದ ಕೂಡಲೇ ಮಳೆ ಬಂತು — ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು.",
+      "meaningInEnglish": "Ordinary; mundane",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంతృప్తి",
@@ -5414,7 +6186,9 @@ export const dailyContent = [
       "phrase": "తినే చేతిని కోయరాదు",
       "phrasePronunciation": "tine chetini koyaraadu",
       "phraseMeaning": "తనకు సహాయం చేసేవాళ్ళను మోసం చేయకూడదు",
-      "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు."
+      "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు.",
+      "meaningInEnglish": "Contentment",
+      "phraseMeaningInEnglish": "Don't bite the hand that feeds you"
     }
   },
   {
@@ -5436,7 +6210,9 @@ export const dailyContent = [
       "phrase": "आग बबूला होना",
       "phrasePronunciation": "aag baboola hona",
       "phraseMeaning": "बहुत गुस्सा होना",
-      "phraseExample": "देरी सुनकर बॉस आग बबूला हो गया।"
+      "phraseExample": "देरी सुनकर बॉस आग बबूला हो गया।",
+      "meaningInEnglish": "Surreptitious; secretive",
+      "phraseMeaningInEnglish": "To be furious; to see red"
     },
     "kannada": {
       "word": "ವಿರೋಧಾಭಾಸ",
@@ -5446,7 +6222,9 @@ export const dailyContent = [
       "phrase": "ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ",
       "phrasePronunciation": "akka hogi nentar mane tangi hogi gandan mane",
       "phraseMeaning": "ಎಲ್ಲರೂ ತಮ್ಮ ದಾರಿ ಹಿಡಿದರು",
-      "phraseExample": "ಮಕ್ಕಳೆಲ್ಲ ಬೆಳೆದು ಹೋದರು — ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ."
+      "phraseExample": "ಮಕ್ಕಳೆಲ್ಲ ಬೆಳೆದು ಹೋದರು — ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ.",
+      "meaningInEnglish": "Paradox; contradiction",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిష్కల్మషం",
@@ -5456,7 +6234,9 @@ export const dailyContent = [
       "phrase": "దూరపు కొండలు నునుపు",
       "phrasePronunciation": "doorapu kondalu nunupu",
       "phraseMeaning": "దూరం నుండి చూస్తే అన్నీ బాగుంటాయి",
-      "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు."
+      "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు.",
+      "meaningInEnglish": "Spotless",
+      "phraseMeaningInEnglish": "Distant hills look green"
     }
   },
   {
@@ -5478,7 +6258,9 @@ export const dailyContent = [
       "phrase": "टेढ़ी खीर होना",
       "phrasePronunciation": "tedhi kheer hona",
       "phraseMeaning": "बहुत कठिन काम",
-      "phraseExample": "इस परीक्षा को पास करना टेढ़ी खीर है।"
+      "phraseExample": "इस परीक्षा को पास करना टेढ़ी खीर है।",
+      "meaningInEnglish": "Meticulous; precise",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ನಿಜವಾದ",
@@ -5488,7 +6270,9 @@ export const dailyContent = [
       "phrase": "ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು",
       "phrasePronunciation": "obbana oota ibbarige saaladu",
       "phraseMeaning": "ಕಡಿಮೆ ಸಂಪನ್ಮೂಲ",
-      "phraseExample": "ಇಷ್ಟು ಸಂಬಳ ಸಾಲದು — ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು."
+      "phraseExample": "ಇಷ್ಟು ಸಂಬಳ ಸಾಲದು — ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು.",
+      "meaningInEnglish": "Nijavaada",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆచరణ",
@@ -5498,7 +6282,9 @@ export const dailyContent = [
       "phrase": "ఆకు రాలినా చెట్టు నిలబడుతుంది",
       "phrasePronunciation": "aaku raalinaa chettu nilabadutundi",
       "phraseMeaning": "కష్టాలు వచ్చినా మనిషి నిలబడాలి",
-      "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది."
+      "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది.",
+      "meaningInEnglish": "Practice",
+      "phraseMeaningInEnglish": "Stand firm even in adversity"
     }
   },
   {
@@ -5520,7 +6306,9 @@ export const dailyContent = [
       "phrase": "हवा से बातें करना",
       "phrasePronunciation": "hava se baaten karna",
       "phraseMeaning": "बहुत तेज दौड़ना",
-      "phraseExample": "वह घोड़ा हवा से बातें करता है।"
+      "phraseExample": "वह घोड़ा हवा से बातें करता है।",
+      "meaningInEnglish": "Agile; nimble",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಜೊತೆಯಲ್ಲಿಡುವಿಕೆ",
@@ -5530,7 +6318,9 @@ export const dailyContent = [
       "phrase": "ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ",
       "phrasePronunciation": "kaleda kaala matte baralla",
       "phraseMeaning": "ಹೋದ ಸಮಯ ಹಿಂತಿರುಗುವುದಿಲ್ಲ",
-      "phraseExample": "ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಬೇಡ — ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ."
+      "phraseExample": "ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಬೇಡ — ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ.",
+      "meaningInEnglish": "Joteyalliduvike",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఘనత",
@@ -5540,7 +6330,9 @@ export const dailyContent = [
       "phrase": "ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు",
       "phrasePronunciation": "mundu choopu lenivadu venakki choostadu",
       "phraseMeaning": "ముందు ఆలోచించకపోతే తర్వాత బాధపడతాడు",
-      "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు."
+      "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు.",
+      "meaningInEnglish": "Dignity",
+      "phraseMeaningInEnglish": "Failing to plan is planning to fail"
     }
   },
   {
@@ -5562,7 +6354,9 @@ export const dailyContent = [
       "phrase": "पहाड़ टूट पड़ना",
       "phrasePronunciation": "pahaad toot padna",
       "phraseMeaning": "बड़ी मुसीबत आना",
-      "phraseExample": "नौकरी जाने से उस पर दुखों का पहाड़ टूट पड़ा।"
+      "phraseExample": "नौकरी जाने से उस पर दुखों का पहाड़ टूट पड़ा।",
+      "meaningInEnglish": "Quick-witted; sharp repartee",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಂಪ್ರದಾಯ ಮುರಿಯುವವನು",
@@ -5572,7 +6366,9 @@ export const dailyContent = [
       "phrase": "ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು",
       "phrasePronunciation": "ketta mele buddhi bantu",
       "phraseMeaning": "ನಷ್ಟ ಆದ ಮೇಲೆ ಅರಿವು ಬಂತು",
-      "phraseExample": "ಈಗ ಅರ್ಥ ಆಯಿತು — ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು."
+      "phraseExample": "ಈಗ ಅರ್ಥ ಆಯಿತು — ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು.",
+      "meaningInEnglish": "Sampradaaya muriyuvavanu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆరాధన",
@@ -5582,7 +6378,9 @@ export const dailyContent = [
       "phrase": "ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది",
       "phrasePronunciation": "eddu puttindi ellaku panikostundi",
       "phraseMeaning": "అన్నీ సమయం వచ్చినప్పుడు ఉపయోగపడతాయి",
-      "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది."
+      "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది.",
+      "meaningInEnglish": "Worship",
+      "phraseMeaningInEnglish": "Everything has its time and use"
     }
   },
   {
@@ -5604,7 +6402,9 @@ export const dailyContent = [
       "phrase": "तूती बोलना",
       "phrasePronunciation": "tooti bolna",
       "phraseMeaning": "बहुत प्रभाव होना",
-      "phraseExample": "इस शहर में उसकी तूती बोलती है।"
+      "phraseExample": "इस शहर में उसकी तूती बोलती है।",
+      "meaningInEnglish": "Acumen; sharp judgment",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಲ್ಪಮಾತಿ",
@@ -5614,7 +6414,9 @@ export const dailyContent = [
       "phrase": "ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ",
       "phrasePronunciation": "kottiddu tanage bachchittiddu pararige",
       "phraseMeaning": "ದಾನ ಮಾಡಿದ್ದು ನಿಮಗೇ ಲಾಭ",
-      "phraseExample": "ದಾನ ಮಾಡು — ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ."
+      "phraseExample": "ದಾನ ಮಾಡು — ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ.",
+      "meaningInEnglish": "Taciturn; of few words",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "పరోపకారం",
@@ -5624,7 +6426,9 @@ export const dailyContent = [
       "phrase": "బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు",
       "phrasePronunciation": "buddhi unnavadiki balam avasaram ledu",
       "phraseMeaning": "తెలివి ఉంటే శక్తి అవసరం లేదు",
-      "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు."
+      "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు.",
+      "meaningInEnglish": "Altruism",
+      "phraseMeaningInEnglish": "Brain over brawn"
     }
   },
   {
@@ -5646,7 +6450,9 @@ export const dailyContent = [
       "phrase": "नानी याद आना",
       "phrasePronunciation": "naani yaad aana",
       "phraseMeaning": "बहुत कठिनाई होना",
-      "phraseExample": "पहाड़ चढ़ते-चढ़ते नानी याद आ गई।"
+      "phraseExample": "पहाड़ चढ़ते-चढ़ते नानी याद आ गई।",
+      "meaningInEnglish": "Enduring; perennial",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಗಟ್ಟಿಯಾಗಿ",
@@ -5656,7 +6462,9 @@ export const dailyContent = [
       "phrase": "ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ",
       "phrasePronunciation": "kalitavanige kadaloo halla",
       "phraseMeaning": "ಜ್ಞಾನಿಗೆ ಎಲ್ಲವೂ ಸುಲಭ",
-      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಕೆಲಸವೂ ಕಷ್ಟವಲ್ಲ — ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ."
+      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಕೆಲಸವೂ ಕಷ್ಟವಲ್ಲ — ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ.",
+      "meaningInEnglish": "Gattiyaagi",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సమీక్ష",
@@ -5666,7 +6474,9 @@ export const dailyContent = [
       "phrase": "పెద్దల మాట చద్దన్నం మూట",
       "phrasePronunciation": "peddala maata chaddannam moota",
       "phraseMeaning": "పెద్దల సలహా ఎల్లప్పుడూ ఉపయోగకరం",
-      "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట."
+      "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట.",
+      "meaningInEnglish": "Review",
+      "phraseMeaningInEnglish": "Elders' advice is always valuable"
     }
   },
   {
@@ -5688,7 +6498,9 @@ export const dailyContent = [
       "phrase": "कमर कसना",
       "phrasePronunciation": "kamar kasna",
       "phraseMeaning": "तैयारी करना",
-      "phraseExample": "परीक्षा के लिए कमर कस ली।"
+      "phraseExample": "परीक्षा के लिए कमर कस ली।",
+      "meaningInEnglish": "Mundane; ordinary",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ರುಚಿಕರ",
@@ -5698,7 +6510,9 @@ export const dailyContent = [
       "phrase": "ಹೊಸ ಬಾಳೆ ಎಲೆ ಹಳೆ ಬಾಳೆ ಎಲೆ ಜೊತೆ ಸೇರಿ ಸುಟ್ಟು ಹೋಯಿತು",
       "phrasePronunciation": "hosa baale ele hale baale ele jote seri suttu hoyitu",
       "phraseMeaning": "ಒಳ್ಳೆಯವನು ಕೆಟ್ಟವರ ಸಹವಾಸದಲ್ಲಿ ಹಾಳಾಗುತ್ತಾನೆ",
-      "phraseExample": "ಕೆಟ್ಟ ಸ್ನೇಹಿತರಿಂದ ದೂರ ಇರು."
+      "phraseExample": "ಕೆಟ್ಟ ಸ್ನೇಹಿತರಿಂದ ದೂರ ಇರು.",
+      "meaningInEnglish": "Ruchikara",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "స్థిరత్వం",
@@ -5708,7 +6522,9 @@ export const dailyContent = [
       "phrase": "మాటే మంత్రం",
       "phrasePronunciation": "maate mantram",
       "phraseMeaning": "మాటలో చాలా శక్తి ఉంది",
-      "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం."
+      "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం.",
+      "meaningInEnglish": "Stability",
+      "phraseMeaningInEnglish": "Words carry great power"
     }
   },
   {
@@ -5730,7 +6546,9 @@ export const dailyContent = [
       "phrase": "दिन में तारे दिखाना",
       "phrasePronunciation": "din mein taare dikhana",
       "phraseMeaning": "बहुत परेशान करना",
-      "phraseExample": "इस बीमारी ने दिन में तारे दिखा दिए।"
+      "phraseExample": "इस बीमारी ने दिन में तारे दिखा दिए।",
+      "meaningInEnglish": "Myopic; short-sighted",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಹಳೆಯ ನೆನಪು",
@@ -5740,7 +6558,9 @@ export const dailyContent = [
       "phrase": "ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು",
       "phrasePronunciation": "idda oorige illada hesaru",
       "phraseMeaning": "ಸುಳ್ಳು ಪ್ರಚಾರ",
-      "phraseExample": "ಆ ವಂದನೆಗಳೆಲ್ಲ ಸುಳ್ಳು — ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು."
+      "phraseExample": "ಆ ವಂದನೆಗಳೆಲ್ಲ ಸುಳ್ಳು — ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು.",
+      "meaningInEnglish": "Haleya nenapu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "వాత్సల్యం",
@@ -5750,7 +6570,9 @@ export const dailyContent = [
       "phrase": "కంటికి రెప్పలా కాపాడు",
       "phrasePronunciation": "kantiki reppalaa kaapaadu",
       "phraseMeaning": "చాలా జాగ్రత్తగా రక్షించడం",
-      "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది."
+      "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది.",
+      "meaningInEnglish": "Affection",
+      "phraseMeaningInEnglish": "To guard something very preciously"
     }
   },
   {
@@ -5772,7 +6594,9 @@ export const dailyContent = [
       "phrase": "खरी-खरी सुनाना",
       "phrasePronunciation": "khari-khari sunana",
       "phraseMeaning": "सीधी सच्ची बात कहना",
-      "phraseExample": "उसने बॉस को खरी-खरी सुना दी।"
+      "phraseExample": "उसने बॉस को खरी-खरी सुना दी।",
+      "meaningInEnglish": "Ruthless",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸೋಮಾರಿ",
@@ -5782,7 +6606,9 @@ export const dailyContent = [
       "phrase": "ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು",
       "phrasePronunciation": "neeru bandaaga oddu kattu",
       "phraseMeaning": "ಸಮಸ್ಯೆ ಬಂದಾಗ ತಕ್ಷಣ ಪರಿಹಾರ ಮಾಡು",
-      "phraseExample": "ಈಗಲೇ ಕ್ರಮ ತೆಗೆದುಕೊ — ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು."
+      "phraseExample": "ಈಗಲೇ ಕ್ರಮ ತೆಗೆದುಕೊ — ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು.",
+      "meaningInEnglish": "Lazy; indolent",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిష్కపటం",
@@ -5792,7 +6618,9 @@ export const dailyContent = [
       "phrase": "ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు",
       "phrasePronunciation": "aachaaram aaripoyinaa aavakaaya aaradu",
       "phraseMeaning": "కొన్ని అలవాట్లు ఎప్పటికీ మారవు",
-      "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు."
+      "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు.",
+      "meaningInEnglish": "Guilelessness",
+      "phraseMeaningInEnglish": "Old habits die hard"
     }
   },
   {
@@ -5814,7 +6642,9 @@ export const dailyContent = [
       "phrase": "चादर देखकर पैर फैलाना",
       "phrasePronunciation": "chaadar dekhkar pair failana",
       "phraseMeaning": "आय के अनुसार खर्च करना",
-      "phraseExample": "चादर देखकर पैर फैलाओ वरना कर्ज में डूब जाओगे।"
+      "phraseExample": "चादर देखकर पैर फैलाओ वरना कर्ज में डूब जाओगे।",
+      "meaningInEnglish": "To ameliorate; to improve",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸ್ಪಷ್ಟೀಕರಿಸು",
@@ -5824,7 +6654,9 @@ export const dailyContent = [
       "phrase": "ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು",
       "phrasePronunciation": "aluva maguvige haalu hechchu",
       "phraseMeaning": "ಕೇಳಿದವರಿಗೆ ಹೆಚ್ಚು ಸಿಗುತ್ತದೆ",
-      "phraseExample": "ಕೇಳು — ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು."
+      "phraseExample": "ಕೇಳು — ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು.",
+      "meaningInEnglish": "Spashtikarisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆశ్రయం",
@@ -5834,7 +6666,9 @@ export const dailyContent = [
       "phrase": "నిజం తెలిసినా తెలియనట్లు ఉండటం",
       "phrasePronunciation": "nijam telisina teliyannattlu undadam",
       "phraseMeaning": "నిజం తెలిసి కూడా మౌనంగా ఉండటం",
-      "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం."
+      "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం.",
+      "meaningInEnglish": "Refuge",
+      "phraseMeaningInEnglish": "Knowing the truth but staying silent"
     }
   },
   {
@@ -5856,7 +6690,9 @@ export const dailyContent = [
       "phrase": "एक और एक ग्यारह होना",
       "phrasePronunciation": "ek aur ek gyaarah hona",
       "phraseMeaning": "एकता में बल होना",
-      "phraseExample": "दोनों दोस्तों ने मिलकर काम किया — एक और एक ग्यारह हो गए।"
+      "phraseExample": "दोनों दोस्तों ने मिलकर काम किया — एक और एक ग्यारह हो गए।",
+      "meaningInEnglish": "Alacrity; eager readiness",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಹರ್ಷಚಿತ್ತ",
@@ -5866,7 +6702,9 @@ export const dailyContent = [
       "phrase": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ",
       "phrasePronunciation": "taayi idda mane devara mane",
       "phraseMeaning": "ತಾಯಿ ಇರುವ ಮನೆ ಪವಿತ್ರ",
-      "phraseExample": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ — ಅವಳನ್ನು ಗೌರವಿಸು."
+      "phraseExample": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ — ಅವಳನ್ನು ಗೌರವಿಸು.",
+      "meaningInEnglish": "Harshachitra",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రజ్వలనం",
@@ -5876,7 +6714,9 @@ export const dailyContent = [
       "phrase": "వెన్నెల్లో చల్లగాలి తగిలినట్లు",
       "phrasePronunciation": "vennello challagaali tagilinattlu",
       "phraseMeaning": "చాలా హాయిగా ఉండటం",
-      "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది."
+      "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది.",
+      "meaningInEnglish": "Illumination",
+      "phraseMeaningInEnglish": "Feeling very pleasant and comfortable"
     }
   },
   {
@@ -5898,7 +6738,9 @@ export const dailyContent = [
       "phrase": "लकीर का फकीर होना",
       "phrasePronunciation": "lakeer ka fakeer hona",
       "phraseMeaning": "पुरानी बातों पर ही चलना",
-      "phraseExample": "वह लकीर का फकीर है, नई सोच स्वीकार नहीं करता।"
+      "phraseExample": "वह लकीर का फकीर है, नई सोच स्वीकार नहीं करता।",
+      "meaningInEnglish": "Wanton; reckless",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಗುಪ್ತ",
@@ -5908,7 +6750,9 @@ export const dailyContent = [
       "phrase": "ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ",
       "phrasePronunciation": "duddiddavane doddappa",
       "phraseMeaning": "ಹಣ ಇದ್ದವನಿಗೆ ಗೌರವ",
-      "phraseExample": "ಈ ಜಗತ್ತಿನಲ್ಲಿ ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ."
+      "phraseExample": "ಈ ಜಗತ್ತಿನಲ್ಲಿ ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ.",
+      "meaningInEnglish": "Gupta",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంవేదన",
@@ -5918,7 +6762,9 @@ export const dailyContent = [
       "phrase": "ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా",
       "phrasePronunciation": "aavu chelo meste dooda gattuna mestundaa",
       "phraseMeaning": "పెద్దలు చేసేది పిల్లలు కూడా చేస్తారు",
-      "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా."
+      "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా.",
+      "meaningInEnglish": "Empathy",
+      "phraseMeaningInEnglish": "Children follow what elders do"
     }
   },
   {
@@ -5940,7 +6786,9 @@ export const dailyContent = [
       "phrase": "सिर पर कफन बाँधना",
       "phrasePronunciation": "sir par kafan baandhna",
       "phraseMeaning": "मरने को तैयार होना",
-      "phraseExample": "सैनिकों ने सिर पर कफन बाँध लिया।"
+      "phraseExample": "सैनिकों ने सिर पर कफन बाँध लिया।",
+      "meaningInEnglish": "Gentle",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಜಾಗರೂಕ",
@@ -5950,7 +6798,9 @@ export const dailyContent = [
       "phrase": "ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ",
       "phrasePronunciation": "hottege hittilla juttige mallige",
       "phraseMeaning": "ಆಡಂಬರ ಹೆಚ್ಚು ಆದರೆ ಯೋಗ್ಯತೆ ಇಲ್ಲ",
-      "phraseExample": "ಅವನ ಬಳಿ ಏನೂ ಇಲ್ಲ ಆದರೆ ತೋರಿಕೆ ಹೆಚ್ಚು — ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ."
+      "phraseExample": "ಅವನ ಬಳಿ ಏನೂ ಇಲ್ಲ ಆದರೆ ತೋರಿಕೆ ಹೆಚ್ಚು — ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ.",
+      "meaningInEnglish": "Jaagarooka",
+      "phraseMeaningInEnglish": "All show and no substance"
     },
     "telugu": {
       "word": "ఆధిపత్యం",
@@ -5960,7 +6810,9 @@ export const dailyContent = [
       "phrase": "ఒక చేత్తో చప్పట్లు కొట్టలేం",
       "phrasePronunciation": "oka chettto chappatlu kottalem",
       "phraseMeaning": "ఒంటరిగా ఏదీ సాధ్యం కాదు",
-      "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం."
+      "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం.",
+      "meaningInEnglish": "Dominance",
+      "phraseMeaningInEnglish": "Nothing is possible alone; teamwork matters"
     }
   },
   {
@@ -5982,7 +6834,9 @@ export const dailyContent = [
       "phrase": "दूध का दूध पानी का पानी",
       "phrasePronunciation": "doodh ka doodh paani ka paani",
       "phraseMeaning": "सच और झूठ का फैसला करना",
-      "phraseExample": "जाँच में दूध का दूध पानी का पानी हो जाएगा।"
+      "phraseExample": "जाँच में दूध का दूध पानी का पानी हो जाएगा।",
+      "meaningInEnglish": "To inspire",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಜೌಗು",
@@ -5992,7 +6846,9 @@ export const dailyContent = [
       "phrase": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು",
       "phrasePronunciation": "kai kesaraadare baayi mosaru",
       "phraseMeaning": "ಕಷ್ಟಪಟ್ಟರೆ ಫಲ ಸಿಗುತ್ತದೆ",
-      "phraseExample": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು — ಪ್ರಯತ್ನ ಮಾಡು."
+      "phraseExample": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು — ಪ್ರಯತ್ನ ಮಾಡು.",
+      "meaningInEnglish": "Jaugu",
+      "phraseMeaningInEnglish": "Hard work yields fruit"
     },
     "telugu": {
       "word": "నిగర్వం",
@@ -6002,7 +6858,9 @@ export const dailyContent = [
       "phrase": "వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు",
       "phrasePronunciation": "vepachettu kinda paalu taaginaa chedu antaaru",
       "phraseMeaning": "చెడ్డ పేరు వస్తే ఎంత మంచి చేసినా నమ్మరు",
-      "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు."
+      "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు.",
+      "meaningInEnglish": "Without pride",
+      "phraseMeaningInEnglish": "A bad name sticks no matter what"
     }
   },
   {
@@ -6024,7 +6882,9 @@ export const dailyContent = [
       "phrase": "सर आँखों पर बिठाना",
       "phrasePronunciation": "sar aankhon par bithana",
       "phraseMeaning": "बहुत सम्मान देना",
-      "phraseExample": "मेहमान को सर आँखों पर बिठाया।"
+      "phraseExample": "मेहमान को सर आँखों पर बिठाया।",
+      "meaningInEnglish": "Sanguine; optimistic despite difficulty",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮತಾಂಧ",
@@ -6034,7 +6894,9 @@ export const dailyContent = [
       "phrase": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ",
       "phrasePronunciation": "aliya banda aduge mane tanaka",
       "phraseMeaning": "ಅತಿಥಿ ಅತಿಯಾಗಿ ಹಕ್ಕು ಚಲಾಯಿಸುವುದು",
-      "phraseExample": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ ಎಂಬಂತೆ ಅವನು ಮನೆಯಲ್ಲಿ ರಾಜ್ಯ ಆಳುತ್ತಿದ್ದಾನೆ."
+      "phraseExample": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ ಎಂಬಂತೆ ಅವನು ಮನೆಯಲ್ಲಿ ರಾಜ್ಯ ಆಳುತ್ತಿದ್ದಾನೆ.",
+      "meaningInEnglish": "Mataandha",
+      "phraseMeaningInEnglish": "A guest overstepping their welcome"
     },
     "telugu": {
       "word": "విమర్శ",
@@ -6044,7 +6906,9 @@ export const dailyContent = [
       "phrase": "దొరికిన దారే దగ్గరి దారి",
       "phrasePronunciation": "dorikina daare daggari daari",
       "phraseMeaning": "అందుబాటులో ఉన్న మార్గం ఉత్తమమైనది",
-      "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి."
+      "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి.",
+      "meaningInEnglish": "Criticism",
+      "phraseMeaningInEnglish": "A bird in hand is worth two in the bush"
     }
   },
   {
@@ -6066,7 +6930,9 @@ export const dailyContent = [
       "phrase": "जहाँ चाह वहाँ राह",
       "phrasePronunciation": "jahan chaah vahan raah",
       "phraseMeaning": "इच्छा हो तो रास्ता निकलता है",
-      "phraseExample": "उसने साबित कर दिया कि जहाँ चाह वहाँ राह।"
+      "phraseExample": "उसने साबित कर दिया कि जहाँ चाह वहाँ राह।",
+      "meaningInEnglish": "Optimistic",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದುರ್ಬಲ",
@@ -6076,7 +6942,9 @@ export const dailyContent = [
       "phrase": "ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ",
       "phrasePronunciation": "ettige jvara bandare emmege bare",
       "phraseMeaning": "ಒಬ್ಬರ ಸಮಸ್ಯೆಯನ್ನು ಇನ್ನೊಬ್ಬರ ಮೇಲೆ ಹಾಕುವುದು",
-      "phraseExample": "ನನ್ನ ತಪ್ಪಿಗೆ ಅವನಿಗೆ ಶಿಕ್ಷೆ — ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ."
+      "phraseExample": "ನನ್ನ ತಪ್ಪಿಗೆ ಅವನಿಗೆ ಶಿಕ್ಷೆ — ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ.",
+      "meaningInEnglish": "Durbala",
+      "phraseMeaningInEnglish": "Passing one's problems onto others"
     },
     "telugu": {
       "word": "అలంకారం",
@@ -6086,7 +6954,9 @@ export const dailyContent = [
       "phrase": "ఏనుగు కాలికి ముల్లు గుచ్చినట్లు",
       "phrasePronunciation": "enugu kaaliki mullu gucchinattlu",
       "phraseMeaning": "శక్తివంతుడికి చిన్న సమస్య ఎదురైనా బాధిస్తుంది",
-      "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు."
+      "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు.",
+      "meaningInEnglish": "Decoration",
+      "phraseMeaningInEnglish": "Even small problems trouble the mighty"
     }
   },
   {
@@ -6108,7 +6978,9 @@ export const dailyContent = [
       "phrase": "अपनी खिचड़ी अलग पकाना",
       "phrasePronunciation": "apni khichdi alag pakana",
       "phraseMeaning": "सबसे अलग रहना",
-      "phraseExample": "वह हमेशा अपनी खिचड़ी अलग पकाता है।"
+      "phraseExample": "वह हमेशा अपनी खिचड़ी अलग पकाता है।",
+      "meaningInEnglish": "Ubiquitous; omnipresent",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಂಘಜೀವಿ",
@@ -6118,7 +6990,9 @@ export const dailyContent = [
       "phrase": "ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ",
       "phrasePronunciation": "kuri kaayuvavana kaili dana kottante",
       "phraseMeaning": "ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ ಜವಾಬ್ದಾರಿ ಕೊಡುವುದು",
-      "phraseExample": "ಅವನಿಗೆ ಆ ಕೆಲಸ ಕೊಟ್ಟದ್ದು ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ."
+      "phraseExample": "ಅವನಿಗೆ ಆ ಕೆಲಸ ಕೊಟ್ಟದ್ದು ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ.",
+      "meaningInEnglish": "Sanghajivi",
+      "phraseMeaningInEnglish": "Giving responsibility to an unworthy person"
     },
     "telugu": {
       "word": "వైవిధ్యం",
@@ -6128,7 +7002,9 @@ export const dailyContent = [
       "phrase": "మంచికి మంచి, చెడుకు చెడు",
       "phrasePronunciation": "manchiki manchi cheduki chedu",
       "phraseMeaning": "చేసిన దానికి తగిన ఫలితం వస్తుంది",
-      "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు."
+      "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు.",
+      "meaningInEnglish": "Diversity",
+      "phraseMeaningInEnglish": "You reap what you sow"
     }
   },
   {
@@ -6150,7 +7026,9 @@ export const dailyContent = [
       "phrase": "आँखें चुराना",
       "phrasePronunciation": "aankhein churana",
       "phraseMeaning": "नज़र बचाना",
-      "phraseExample": "गलती करने के बाद वह आँखें चुरा रहा था।"
+      "phraseExample": "गलती करने के बाद वह आँखें चुरा रहा था।",
+      "meaningInEnglish": "To be subservient; to bow",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕಲ್ಪಿತ",
@@ -6160,7 +7038,9 @@ export const dailyContent = [
       "phrase": "ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ",
       "phrasePronunciation": "gaali bandaaga tooriko",
       "phraseMeaning": "ಅವಕಾಶ ಸಿಕ್ಕಾಗ ಉಪಯೋಗಿಸಿಕೊ",
-      "phraseExample": "ಅವಕಾಶ ಸಿಕ್ಕಿದೆ, ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ."
+      "phraseExample": "ಅವಕಾಶ ಸಿಕ್ಕಿದೆ, ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ.",
+      "meaningInEnglish": "Kalpita",
+      "phraseMeaningInEnglish": "Seize the opportunity when it comes"
     },
     "telugu": {
       "word": "క్షేమం",
@@ -6170,7 +7050,9 @@ export const dailyContent = [
       "phrase": "చదువుకున్న చెడిపోయినవాడు లేడు",
       "phrasePronunciation": "chaduvukunna chedipoyinavadu ledu",
       "phraseMeaning": "చదువు ఎప్పుడూ ఉపయోగపడుతుంది",
-      "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు."
+      "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు.",
+      "meaningInEnglish": "Welfare",
+      "phraseMeaningInEnglish": "Education always proves useful"
     }
   },
   {
@@ -6192,7 +7074,9 @@ export const dailyContent = [
       "phrase": "मुँह में पानी आना",
       "phrasePronunciation": "munh mein paani aana",
       "phraseMeaning": "लालच आना",
-      "phraseExample": "पकवान देखकर मुँह में पानी आ गया।"
+      "phraseExample": "पकवान देखकर मुँह में पानी आ गया।",
+      "meaningInEnglish": "Quixotic; unrealistically idealistic",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದಾನಶೀಲತೆ",
@@ -6202,7 +7086,9 @@ export const dailyContent = [
       "phrase": "ಮೊಸಳೆ ಕಣ್ಣೀರು",
       "phrasePronunciation": "mosale kanneeru",
       "phraseMeaning": "ಸುಳ್ಳು ಅನುಕಂಪ",
-      "phraseExample": "ಅವನ ದುಃಖ ಮೊಸಳೆ ಕಣ್ಣೀರು."
+      "phraseExample": "ಅವನ ದುಃಖ ಮೊಸಳೆ ಕಣ್ಣೀರು.",
+      "meaningInEnglish": "Daanashilate",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆవేశం",
@@ -6212,7 +7098,9 @@ export const dailyContent = [
       "phrase": "రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది",
       "phrasePronunciation": "rekkala kashtam raallu karigistundi",
       "phraseMeaning": "కష్టపడి పనిచేస్తే అసాధ్యమైనది కూడా సాధ్యం",
-      "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది."
+      "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది.",
+      "meaningInEnglish": "Passion",
+      "phraseMeaningInEnglish": "With hard work, the impossible becomes possible"
     }
   },
   {
@@ -6234,7 +7122,9 @@ export const dailyContent = [
       "phrase": "अंधे की लाठी",
       "phrasePronunciation": "andhe ki laathi",
       "phraseMeaning": "एकमात्र सहारा",
-      "phraseExample": "बूढ़ी माँ के लिए बेटा अंधे की लाठी है।"
+      "phraseExample": "बूढ़ी माँ के लिए बेटा अंधे की लाठी है।",
+      "meaningInEnglish": "Emaciated; very weak",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಶೋಕಿಲ",
@@ -6244,7 +7134,9 @@ export const dailyContent = [
       "phrase": "ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ",
       "phrasePronunciation": "kodali kaavu koduva mara",
       "phraseMeaning": "ತನ್ನನ್ನೇ ಕಡಿಯಲು ಸಹಾಯ ಮಾಡುವುದು",
-      "phraseExample": "ಅವನಿಗೇ ಮಾಹಿತಿ ಕೊಟ್ಟೆ — ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ ಆದೆ."
+      "phraseExample": "ಅವನಿಗೇ ಮಾಹಿತಿ ಕೊಟ್ಟೆ — ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ ಆದೆ.",
+      "meaningInEnglish": "Shokila",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "స్వచ్ఛత",
@@ -6254,7 +7146,9 @@ export const dailyContent = [
       "phrase": "పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు",
       "phrasePronunciation": "pogada chettu ekkada ledu kaani marri chettu arudu",
       "phraseMeaning": "సాధారణం ఎక్కడైనా దొరుకుతుంది, ప్రత్యేకమైనది అరుదు",
-      "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు."
+      "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు.",
+      "meaningInEnglish": "Cleanliness",
+      "phraseMeaningInEnglish": "The ordinary is common, the special is rare"
     }
   },
   {
@@ -6276,7 +7170,9 @@ export const dailyContent = [
       "phrase": "दो नावों पर पैर रखना",
       "phrasePronunciation": "do naavon par pair rakhna",
       "phraseMeaning": "दो तरफ से फायदा उठाना",
-      "phraseExample": "दो नावों पर पैर रखोगे तो डूब जाओगे।"
+      "phraseExample": "दो नावों पर पैर रखोगे तो डूब जाओगे।",
+      "meaningInEnglish": "Auspicious; favorable",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮಿತವ್ಯಯಿ",
@@ -6286,7 +7182,9 @@ export const dailyContent = [
       "phrase": "ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ",
       "phrasePronunciation": "tumbida koda tulukuvudilla",
       "phraseMeaning": "ಜ್ಞಾನಿ ಅಹಂಕಾರ ತೋರಿಸುವುದಿಲ್ಲ",
-      "phraseExample": "ಅವರು ವಿನಯಶೀಲರು — ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ."
+      "phraseExample": "ಅವರು ವಿನಯಶೀಲರು — ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ.",
+      "meaningInEnglish": "Mitavyayi",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆమోదం",
@@ -6296,7 +7194,9 @@ export const dailyContent = [
       "phrase": "తూరుపు తెలిసేవాడికి దిక్కు తెలియదా",
       "phrasePronunciation": "toorupu telisevadiki dikku teliyada",
       "phraseMeaning": "ఒకటి తెలిస్తే మిగిలినవి కూడా తెలుస్తాయి",
-      "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా."
+      "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా.",
+      "meaningInEnglish": "Approval",
+      "phraseMeaningInEnglish": "Knowing one thing leads to knowing others"
     }
   },
   {
@@ -6318,7 +7218,9 @@ export const dailyContent = [
       "phrase": "आँखों का तारा",
       "phrasePronunciation": "aankhon ka taara",
       "phraseMeaning": "बहुत प्रिय व्यक्ति",
-      "phraseExample": "बेटा उसकी आँखों का तारा है।"
+      "phraseExample": "बेटा उसकी आँखों का तारा है।",
+      "meaningInEnglish": "Robust; sturdy",
+      "phraseMeaningInEnglish": "A very dear person; apple of one's eye"
     },
     "kannada": {
       "word": "ಕ್ರೂರ",
@@ -6328,7 +7230,9 @@ export const dailyContent = [
       "phrase": "ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು",
       "phrasePronunciation": "haavu saayabeku kolu muriyabaaradu",
       "phraseMeaning": "ಕೆಲಸ ಆಗಬೇಕು ಯಾರಿಗೂ ಹಾನಿ ಆಗಬಾರದು",
-      "phraseExample": "ಜಾಣತನದಿಂದ ಮಾಡು — ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು."
+      "phraseExample": "ಜಾಣತನದಿಂದ ಮಾಡು — ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು.",
+      "meaningInEnglish": "Cruel; merciless",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "విస్మయం",
@@ -6338,7 +7242,9 @@ export const dailyContent = [
       "phrase": "అడవిలో పుట్టి, అడవిలో పెరిగినా, అడవి కోతి మారదు",
       "phrasePronunciation": "adavilo putti adavilo periginaa adavi koti maaradu",
       "phraseMeaning": "మనిషి స్వభావం సులభంగా మారదు",
-      "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు."
+      "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు.",
+      "meaningInEnglish": "Amazement",
+      "phraseMeaningInEnglish": "A person's nature doesn't change easily"
     }
   },
   {
@@ -6360,7 +7266,9 @@ export const dailyContent = [
       "phrase": "अंगूठा दिखाना",
       "phrasePronunciation": "angootha dikhana",
       "phraseMeaning": "साफ मना कर देना",
-      "phraseExample": "उसने मदद माँगी तो लोगों ने अंगूठा दिखा दिया।"
+      "phraseExample": "उसने मदद माँगी तो लोगों ने अंगूठा दिखा दिया।",
+      "meaningInEnglish": "Sycophancy; bootlicking",
+      "phraseMeaningInEnglish": "To flatly refuse"
     },
     "kannada": {
       "word": "ಹಾಸ್ಯಕರ",
@@ -6370,7 +7278,9 @@ export const dailyContent = [
       "phrase": "ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ",
       "phrasePronunciation": "maadiddunno mahaaraaya",
       "phraseMeaning": "ಮಾಡಿದ ಕೆಲಸದ ಫಲ ಅನುಭವಿಸು",
-      "phraseExample": "ಈಗ ಅಳಬೇಡ, ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ."
+      "phraseExample": "ಈಗ ಅಳಬೇಡ, ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ.",
+      "meaningInEnglish": "Haasyakara",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిరాకరణ",
@@ -6380,7 +7290,9 @@ export const dailyContent = [
       "phrase": "ఆకలి రుచి ఎరుగదు",
       "phrasePronunciation": "aakali ruchi erugadu",
       "phraseMeaning": "ఆకలి ఉన్నప్పుడు ఏది తిన్నా బాగుంటుంది",
-      "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా."
+      "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా.",
+      "meaningInEnglish": "Rejection",
+      "phraseMeaningInEnglish": "When hungry, anything tastes good"
     }
   },
   {
@@ -6402,7 +7314,9 @@ export const dailyContent = [
       "phrase": "अक्ल पर पत्थर पड़ना",
       "phrasePronunciation": "akl par patthar padna",
       "phraseMeaning": "बुद्धि काम न करना",
-      "phraseExample": "ऐसा फैसला लेते वक्त उसकी अक्ल पर पत्थर पड़ गए थे।"
+      "phraseExample": "ऐसा फैसला लेते वक्त उसकी अक्ल पर पत्थर पड़ गए थे।",
+      "meaningInEnglish": "Infamous; notorious",
+      "phraseMeaningInEnglish": "To lose one's wits"
     },
     "kannada": {
       "word": "ವ್ಯಂಗ್ಯ",
@@ -6412,7 +7326,9 @@ export const dailyContent = [
       "phrase": "ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ",
       "phrasePronunciation": "adikege hoda maana aane kottaroo baralla",
       "phraseMeaning": "ಹೋದ ಗೌರವ ಮರಳಿ ಬರುವುದಿಲ್ಲ",
-      "phraseExample": "ಮರ್ಯಾದೆ ಕಳೆದುಕೊಂಡ — ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ."
+      "phraseExample": "ಮರ್ಯಾದೆ ಕಳೆದುಕೊಂಡ — ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ.",
+      "meaningInEnglish": "Vyangya",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "పరిపాలన",
@@ -6422,7 +7338,9 @@ export const dailyContent = [
       "phrase": "ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు",
       "phrasePronunciation": "ooru kaani ooru vaste kukkalu moriginattlu",
       "phraseMeaning": "కొత్త చోటికి వెళ్తే ఇబ్బందులు ఎదురవుతాయి",
-      "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు."
+      "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు.",
+      "meaningInEnglish": "Governance",
+      "phraseMeaningInEnglish": "New places bring new challenges"
     }
   },
   {
@@ -6444,7 +7362,9 @@ export const dailyContent = [
       "phrase": "ऊँट के मुँह में जीरा",
       "phrasePronunciation": "oont ke munh mein jeera",
       "phraseMeaning": "ज़रूरत के मुकाबले बहुत कम",
-      "phraseExample": "इतने बड़े परिवार के लिए यह तनख्वाह ऊँट के मुँह में जीरा है।"
+      "phraseExample": "इतने बड़े परिवार के लिए यह तनख्वाह ऊँट के मुँह में जीरा है।",
+      "meaningInEnglish": "To galvanize; to stimulate",
+      "phraseMeaningInEnglish": "Far too little for the need"
     },
     "kannada": {
       "word": "ಒಲವು",
@@ -6454,7 +7374,9 @@ export const dailyContent = [
       "phrase": "ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ",
       "phrasePronunciation": "ooru kottaroo hola koda",
       "phraseMeaning": "ನೆರೆಹೊರೆ ಒಳ್ಳೆಯದಾಗಿರಬೇಕು",
-      "phraseExample": "ಒಳ್ಳೆಯ ನೆರೆಹೊರೆ ಮುಖ್ಯ — ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ."
+      "phraseExample": "ಒಳ್ಳೆಯ ನೆರೆಹೊರೆ ಮುಖ್ಯ — ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ.",
+      "meaningInEnglish": "Olavu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అభిలాష",
@@ -6464,7 +7386,9 @@ export const dailyContent = [
       "phrase": "కాకి పిల్ల కాకికి ముద్దు",
       "phrasePronunciation": "kaaki pilla kaakiki muddu",
       "phraseMeaning": "ప్రతి తల్లికి తన బిడ్డ ముద్దే",
-      "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా."
+      "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా.",
+      "meaningInEnglish": "Longing",
+      "phraseMeaningInEnglish": "Every mother loves her own child most"
     }
   },
   {
@@ -6486,7 +7410,9 @@ export const dailyContent = [
       "phrase": "कान भरना",
       "phrasePronunciation": "kaan bharna",
       "phraseMeaning": "किसी के खिलाफ भड़काना",
-      "phraseExample": "किसी ने बॉस के कान भर दिए।"
+      "phraseExample": "किसी ने बॉस के कान भर दिए।",
+      "meaningInEnglish": "Temperate; self-restrained",
+      "phraseMeaningInEnglish": "To incite against someone"
     },
     "kannada": {
       "word": "ಪ್ರತಿಕೂಲ",
@@ -6496,7 +7422,9 @@ export const dailyContent = [
       "phrase": "ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ",
       "phrasePronunciation": "kallana manassu kattale",
       "phraseMeaning": "ತಪ್ಪು ಮಾಡಿದವನಿಗೆ ಯಾವಾಗಲೂ ಭಯ",
-      "phraseExample": "ಅವನು ಯಾವಾಗಲೂ ಹೆದರುತ್ತಾನೆ — ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ."
+      "phraseExample": "ಅವನು ಯಾವಾಗಲೂ ಹೆದರುತ್ತಾನೆ — ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ.",
+      "meaningInEnglish": "Pratikoola",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంక్షేమం",
@@ -6506,7 +7434,9 @@ export const dailyContent = [
       "phrase": "గోరుచుట్టుపై రోకలి పోటు",
       "phrasePronunciation": "goruchuttupai rokali potu",
       "phraseMeaning": "ఉన్న సమస్యపై మరో సమస్య",
-      "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు."
+      "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు.",
+      "meaningInEnglish": "Well-being",
+      "phraseMeaningInEnglish": "Adding insult to injury"
     }
   },
   {
@@ -6528,7 +7458,9 @@ export const dailyContent = [
       "phrase": "घर की मुर्गी दाल बराबर",
       "phrasePronunciation": "ghar ki murgi daal barabar",
       "phraseMeaning": "अपनी चीज की कदर नहीं",
-      "phraseExample": "देश में इतने अच्छे कलाकार हैं पर घर की मुर्गी दाल बराबर।"
+      "phraseExample": "देश में इतने अच्छे कलाकार हैं पर घर की मुर्गी दाल बराबर।",
+      "meaningInEnglish": "Brusque; rudely blunt",
+      "phraseMeaningInEnglish": "Not appreciating what you have"
     },
     "kannada": {
       "word": "ಅಪಾರದರ್ಶಕ",
@@ -6538,7 +7470,9 @@ export const dailyContent = [
       "phrase": "ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ",
       "phrasePronunciation": "maatu belli mauna bangaara",
       "phraseMeaning": "ಮಾತಿಗಿಂತ ಮೌನ ಮೌಲ್ಯಯುತ",
-      "phraseExample": "ಈ ಸಮಯದಲ್ಲಿ ಸುಮ್ಮನಿರು — ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ."
+      "phraseExample": "ಈ ಸಮಯದಲ್ಲಿ ಸುಮ್ಮನಿರು — ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ.",
+      "meaningInEnglish": "Apaaradarshaka",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆత్మసాక్షి",
@@ -6548,7 +7482,9 @@ export const dailyContent = [
       "phrase": "చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం",
       "phrasePronunciation": "chetilo venna undagaa neyi kosam vetakadam",
       "phraseMeaning": "ఉన్నది వదిలి ఇంకేదో వెతకడం",
-      "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం."
+      "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం.",
+      "meaningInEnglish": "Conscience",
+      "phraseMeaningInEnglish": "Leaving what you have for something uncertain"
     }
   },
   {
@@ -6570,7 +7506,9 @@ export const dailyContent = [
       "phrase": "चार चाँद लगाना",
       "phrasePronunciation": "chaar chaand lagana",
       "phraseMeaning": "शोभा बढ़ाना",
-      "phraseExample": "उसकी मेहनत ने कार्यक्रम में चार चाँद लगा दिए।"
+      "phraseExample": "उसकी मेहनत ने कार्यक्रम में चार चाँद लगा दिए।",
+      "meaningInEnglish": "Eager",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಆಲಸ್ಯ",
@@ -6580,7 +7518,9 @@ export const dailyContent = [
       "phrase": "ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ",
       "phrasePronunciation": "hole neerige donne naayaka",
       "phraseMeaning": "ಅಧಿಕಾರವಿಲ್ಲದವನ ಆಡಂಬರ",
-      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಅಧಿಕಾರವೂ ಇಲ್ಲ ಆದರೆ ರೋಬ್ — ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ."
+      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಅಧಿಕಾರವೂ ಇಲ್ಲ ಆದರೆ ರೋಬ್ — ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ.",
+      "meaningInEnglish": "Aalasya",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఉపాయం",
@@ -6590,7 +7530,9 @@ export const dailyContent = [
       "phrase": "తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు",
       "phrasePronunciation": "taati chettu ekkevadiki tongi chooddam alavatu",
       "phraseMeaning": "పనిలో అనుభవం ఉన్నవాళ్ళకు అది సాధారణం",
-      "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు."
+      "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు.",
+      "meaningInEnglish": "Method",
+      "phraseMeaningInEnglish": "Routine for the experienced"
     }
   },
   {
@@ -6612,7 +7554,9 @@ export const dailyContent = [
       "phrase": "छाती पर साँप लोटना",
       "phrasePronunciation": "chhaati par saanp lotna",
       "phraseMeaning": "ईर्ष्या से जलना",
-      "phraseExample": "पड़ोसी की तरक्की देख उसकी छाती पर साँप लोट गया।"
+      "phraseExample": "पड़ोसी की तरक्की देख उसकी छाती पर साँप लोट गया।",
+      "meaningInEnglish": "Obstinate; stubborn",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ನಿರ್ದೋಷಿ ಎಂದು ಸಾಬೀತುಪಡಿಸು",
@@ -6622,7 +7566,9 @@ export const dailyContent = [
       "phrase": "ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ",
       "phrasePronunciation": "naayi bogalidare devaloka haalaguvudilla",
       "phraseMeaning": "ಕೆಟ್ಟವರ ಮಾತಿಗೆ ಮಹತ್ವ ಕೊಡಬೇಡ",
-      "phraseExample": "ಅವರ ಟೀಕೆ ಬಿಡು — ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ."
+      "phraseExample": "ಅವರ ಟೀಕೆ ಬಿಡು — ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ.",
+      "meaningInEnglish": "Nirdoshi endu saabitupadisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిర్మాణం",
@@ -6632,7 +7578,9 @@ export const dailyContent = [
       "phrase": "నక్కకు నిద్ర వస్తే కోడి కూస్తుంది",
       "phrasePronunciation": "nakkaku nidra vaste kodi koostundi",
       "phraseMeaning": "ఒకరు అజాగ్రత్తగా ఉంటే మరొకరు లాభపడతారు",
-      "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది."
+      "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది.",
+      "meaningInEnglish": "Construction",
+      "phraseMeaningInEnglish": "When one is careless, another profits"
     }
   },
   {
@@ -6654,7 +7602,9 @@ export const dailyContent = [
       "phrase": "तिल का ताड़ बनाना",
       "phrasePronunciation": "til ka taad banana",
       "phraseMeaning": "छोटी बात को बड़ा बनाना",
-      "phraseExample": "बस एक गलती थी, उसने तिल का ताड़ बना दिया।"
+      "phraseExample": "बस एक गलती थी, उसने तिल का ताड़ बना दिया।",
+      "meaningInEnglish": "Perfunctory; done carelessly",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮೌನ",
@@ -6664,7 +7614,9 @@ export const dailyContent = [
       "phrase": "ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು",
       "phrasePronunciation": "ati aase gati kedu",
       "phraseMeaning": "ಅತಿಯಾಸೆ ವಿನಾಶಕ್ಕೆ ಕಾರಣ",
-      "phraseExample": "ಹೆಚ್ಚು ಬೇಡ — ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು."
+      "phraseExample": "ಹೆಚ್ಚು ಬೇಡ — ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು.",
+      "meaningInEnglish": "Silence; tacit",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంతానం",
@@ -6674,7 +7626,9 @@ export const dailyContent = [
       "phrase": "పందికి బంగారు పట్టెడ ఎందుకు",
       "phrasePronunciation": "pandiki bangaaru patteda enduku",
       "phraseMeaning": "విలువ తెలియనివాడికి విలువైనది ఇచ్చి ఏం లాభం",
-      "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు."
+      "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు.",
+      "meaningInEnglish": "Offspring",
+      "phraseMeaningInEnglish": "Don't give pearls to those who can't value them"
     }
   },
   {
@@ -6696,7 +7650,9 @@ export const dailyContent = [
       "phrase": "दाल में काला होना",
       "phrasePronunciation": "daal mein kaala hona",
       "phraseMeaning": "कुछ गड़बड़ होना",
-      "phraseExample": "उसकी बातों में दाल में कुछ काला है।"
+      "phraseExample": "उसकी बातों में दाल में कुछ काला है।",
+      "meaningInEnglish": "To fathom; to comprehend deeply",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸ್ವತಂತ್ರ ಚಿಂತಕ",
@@ -6706,7 +7662,9 @@ export const dailyContent = [
       "phrase": "ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸು",
       "phrasePronunciation": "kallu haaki doni mulugisu",
       "phraseMeaning": "ಇತರರ ಕೆಲಸ ಹಾಳು ಮಾಡು",
-      "phraseExample": "ಅವನು ನನ್ನ ಯೋಜನೆಗೆ ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸಿದ."
+      "phraseExample": "ಅವನು ನನ್ನ ಯೋಜನೆಗೆ ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸಿದ.",
+      "meaningInEnglish": "Svatantra chintaka",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రసిద్ధి",
@@ -6716,7 +7674,9 @@ export const dailyContent = [
       "phrase": "బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి",
       "phrasePronunciation": "boggu muttukuṇṭe chetulu nallabadataay",
       "phraseMeaning": "చెడ్డ వాళ్ళతో తిరిగితే మనం కూడా చెడిపోతాం",
-      "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి."
+      "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి.",
+      "meaningInEnglish": "Fame",
+      "phraseMeaningInEnglish": "Bad company corrupts good character"
     }
   },
   {
@@ -6738,7 +7698,9 @@ export const dailyContent = [
       "phrase": "नौ दो ग्यारह होना",
       "phrasePronunciation": "nau do gyaarah hona",
       "phraseMeaning": "भाग जाना",
-      "phraseExample": "पुलिस को देखते ही चोर नौ दो ग्यारह हो गए।"
+      "phraseExample": "पुलिस को देखते ही चोर नौ दो ग्यारह हो गए।",
+      "meaningInEnglish": "Gratuitous; needless",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಜಡ",
@@ -6748,7 +7710,9 @@ export const dailyContent = [
       "phrase": "ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ",
       "phrasePronunciation": "bekkige chellaata ilige praana sankata",
       "phraseMeaning": "ಒಬ್ಬರಿಗೆ ಆಟ ಇನ್ನೊಬ್ಬರಿಗೆ ಕಷ್ಟ",
-      "phraseExample": "ಅವನಿಗೆ ತಮಾಷೆ ನನಗೆ ತೊಂದರೆ — ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ."
+      "phraseExample": "ಅವನಿಗೆ ತಮಾಷೆ ನನಗೆ ತೊಂದರೆ — ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ.",
+      "meaningInEnglish": "Inert; languid",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆపద",
@@ -6758,7 +7722,9 @@ export const dailyContent = [
       "phrase": "మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది",
       "phrasePronunciation": "manchi chesi choodu manasu nindugaa untundi",
       "phraseMeaning": "ఇతరులకు మేలు చేస్తే మనసుకు తృప్తి",
-      "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది."
+      "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది.",
+      "meaningInEnglish": "Calamity",
+      "phraseMeaningInEnglish": "Helping others brings inner peace"
     }
   },
   {
@@ -6780,7 +7746,9 @@ export const dailyContent = [
       "phrase": "पानी-पानी होना",
       "phrasePronunciation": "paani-paani hona",
       "phraseMeaning": "बहुत शर्मिंदा होना",
-      "phraseExample": "सच सामने आने पर वह पानी-पानी हो गया।"
+      "phraseExample": "सच सामने आने पर वह पानी-पानी हो गया।",
+      "meaningInEnglish": "Zeal; fervor",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸ್ಪಷ್ಟ ಮತ್ತು ಜೀವಂತ",
@@ -6790,7 +7758,9 @@ export const dailyContent = [
       "phrase": "ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ",
       "phrasePronunciation": "koti kaili hoomaale",
       "phraseMeaning": "ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ ಒಳ್ಳೆಯ ವಸ್ತು",
-      "phraseExample": "ಅವನಿಗೆ ಆ ಅವಕಾಶ ಕೊಟ್ಟದ್ದು ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ."
+      "phraseExample": "ಅವನಿಗೆ ಆ ಅವಕಾಶ ಕೊಟ್ಟದ್ದು ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ.",
+      "meaningInEnglish": "Spashta mattu jeevanta",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సామాజికం",
@@ -6800,7 +7770,9 @@ export const dailyContent = [
       "phrase": "రాతికి పూచే పూలు రాలిపోతాయి",
       "phrasePronunciation": "raatiki pooche poolu raalipotaayi",
       "phraseMeaning": "శాశ్వతమైనది ఏదీ లేదు",
-      "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి."
+      "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి.",
+      "meaningInEnglish": "Social",
+      "phraseMeaningInEnglish": "Nothing is permanent"
     }
   },
   {
@@ -6822,7 +7794,9 @@ export const dailyContent = [
       "phrase": "बंदर क्या जाने अदरक का स्वाद",
       "phrasePronunciation": "bandar kya jaane adrak ka swaad",
       "phraseMeaning": "अनजान व्यक्ति गुणों की कदर नहीं करता",
-      "phraseExample": "उसे संगीत की क्या समझ, बंदर क्या जाने अदरक का स्वाद।"
+      "phraseExample": "उसे संगीत की क्या समझ, बंदर क्या जाने अदरक का स्वाद।",
+      "meaningInEnglish": "Eccentric; peculiar",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಗೂಢಜ್ಞಾನ",
@@ -6832,7 +7806,9 @@ export const dailyContent = [
       "phrase": "ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು",
       "phrasePronunciation": "ondu kaiyalli chappaale tattalu aagadu",
       "phraseMeaning": "ಜಗಳದಲ್ಲಿ ಇಬ್ಬರ ತಪ್ಪು ಇರುತ್ತದೆ",
-      "phraseExample": "ಇಬ್ಬರೂ ತಪ್ಪು — ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು."
+      "phraseExample": "ಇಬ್ಬರೂ ತಪ್ಪು — ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು.",
+      "meaningInEnglish": "Goodhagnaana",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "విలువ",
@@ -6842,7 +7818,9 @@ export const dailyContent = [
       "phrase": "విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు",
       "phrasePronunciation": "vinnavaariki telivi cheppinavaariki orpu",
       "phraseMeaning": "వినేవాడికి జ్ఞానం, చెప్పేవాడికి సహనం కావాలి",
-      "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు."
+      "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు.",
+      "meaningInEnglish": "Value",
+      "phraseMeaningInEnglish": "Listener needs wisdom, speaker needs patience"
     }
   },
   {
@@ -6864,7 +7842,9 @@ export const dailyContent = [
       "phrase": "लोहा मानना",
       "phrasePronunciation": "loha maanna",
       "phraseMeaning": "किसी की श्रेष्ठता स्वीकार करना",
-      "phraseExample": "विरोधियों ने भी उसका लोहा मान लिया।"
+      "phraseExample": "विरोधियों ने भी उसका लोहा मान लिया।",
+      "meaningInEnglish": "Antagonist; opponent",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಹರಿತಗೊಳಿಸು",
@@ -6874,7 +7854,9 @@ export const dailyContent = [
       "phrase": "ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು",
       "phrasePronunciation": "oorige bandavalu neerigoo barabeku",
       "phraseMeaning": "ಎಲ್ಲಾ ಕಷ್ಟ ಸಹಿಸಬೇಕು",
-      "phraseExample": "ಇಲ್ಲಿ ಬಂದ ಮೇಲೆ ಕಷ್ಟ ಸಹಿಸು — ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು."
+      "phraseExample": "ಇಲ್ಲಿ ಬಂದ ಮೇಲೆ ಕಷ್ಟ ಸಹಿಸು — ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು.",
+      "meaningInEnglish": "Haritagolisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆవరణ",
@@ -6884,7 +7866,9 @@ export const dailyContent = [
       "phrase": "ఏనుగు మీద దీపం ఉంచినట్లు",
       "phrasePronunciation": "enugu meeda deepam unchinattlu",
       "phraseMeaning": "చాలా గొప్పగా కనిపించడం",
-      "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు."
+      "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు.",
+      "meaningInEnglish": "Premises",
+      "phraseMeaningInEnglish": "To appear very grand and impressive"
     }
   },
   {
@@ -6906,7 +7890,9 @@ export const dailyContent = [
       "phrase": "गुड़ गोबर करना",
       "phrasePronunciation": "gud gobar karna",
       "phraseMeaning": "बना-बनाया काम बिगाड़ना",
-      "phraseExample": "आखिरी वक्त पर उसने सब गुड़ गोबर कर दिया।"
+      "phraseExample": "आखिरी वक्त पर उसने सब गुड़ गोबर कर दिया।",
+      "meaningInEnglish": "Flagrant; blatantly wrong",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮಲಗಿರುವ",
@@ -6916,7 +7902,9 @@ export const dailyContent = [
       "phrase": "ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ",
       "phrasePronunciation": "aadu muttada soppilla",
       "phraseMeaning": "ಎಲ್ಲದರಲ್ಲೂ ಕೈ ಹಾಕುವವನು",
-      "phraseExample": "ಅವನಿಗೆ ಎಲ್ಲ ವಿಷಯದಲ್ಲೂ ತಲೆ ಹಾಕಬೇಕು — ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ."
+      "phraseExample": "ಅವನಿಗೆ ಎಲ್ಲ ವಿಷಯದಲ್ಲೂ ತಲೆ ಹಾಕಬೇಕು — ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ.",
+      "meaningInEnglish": "Malagiruva",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నైపుణ్యం",
@@ -6926,7 +7914,9 @@ export const dailyContent = [
       "phrase": "కష్టపడితే ఫలం దక్కుతుంది",
       "phrasePronunciation": "kashtapadite phalam dakkutundi",
       "phraseMeaning": "పరిశ్రమకు తగిన ఫలితం వస్తుంది",
-      "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది."
+      "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది.",
+      "meaningInEnglish": "Expertise",
+      "phraseMeaningInEnglish": "Hard work yields suitable rewards"
     }
   },
   {
@@ -6948,7 +7938,9 @@ export const dailyContent = [
       "phrase": "हाथ कंगन को आरसी क्या",
       "phrasePronunciation": "haath kangan ko aarsi kya",
       "phraseMeaning": "प्रत्यक्ष को प्रमाण की ज़रूरत नहीं",
-      "phraseExample": "नतीजे सामने हैं, हाथ कंगन को आरसी क्या।"
+      "phraseExample": "नतीजे सामने हैं, हाथ कंगन को आरसी क्या।",
+      "meaningInEnglish": "Animosity; bitter enmity",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದೋಷಿ",
@@ -6958,7 +7950,9 @@ export const dailyContent = [
       "phrase": "ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು",
       "phrasePronunciation": "hasivige anna kodu rogakke maddu kodu",
       "phraseMeaning": "ಸಮಸ್ಯೆಗೆ ಸರಿಯಾದ ಪರಿಹಾರ ಕೊಡು",
-      "phraseExample": "ಸರಿಯಾದ ಪರಿಹಾರ ಬೇಕು — ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು."
+      "phraseExample": "ಸರಿಯಾದ ಪರಿಹಾರ ಬೇಕು — ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು.",
+      "meaningInEnglish": "Doshi",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంవాదం",
@@ -6968,7 +7962,9 @@ export const dailyContent = [
       "phrase": "అందని ద్రాక్ష పుల్లన",
       "phrasePronunciation": "andani draaksha pullana",
       "phraseMeaning": "సాధించలేనిది తక్కువ అని చెప్పడం",
-      "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు."
+      "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు.",
+      "meaningInEnglish": "Debate",
+      "phraseMeaningInEnglish": "Sour grapes; dismissing what you can't get"
     }
   },
   {
@@ -6990,7 +7986,9 @@ export const dailyContent = [
       "phrase": "आँख का पानी ढलना",
       "phrasePronunciation": "aankh ka paani dhalna",
       "phraseMeaning": "बेशर्म हो जाना",
-      "phraseExample": "झूठ बोलते-बोलते उसकी आँख का पानी ढल गया।"
+      "phraseExample": "झूठ बोलते-बोलते उसकी आँख का पानी ढल गया।",
+      "meaningInEnglish": "To persevere; to persist",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪರಮಾನಂದ",
@@ -7000,7 +7998,9 @@ export const dailyContent = [
       "phrase": "ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ",
       "phrasePronunciation": "kereya neeranu kerege chelli",
       "phraseMeaning": "ಪಡೆದುದನ್ನು ಹಿಂದಿರುಗಿಸು",
-      "phraseExample": "ಸಮಾಜಕ್ಕೆ ಹಿಂತಿರುಗಿಸು — ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ."
+      "phraseExample": "ಸಮಾಜಕ್ಕೆ ಹಿಂತಿರುಗಿಸು — ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ.",
+      "meaningInEnglish": "Paramaananda",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆహ్లాదం",
@@ -7010,7 +8010,9 @@ export const dailyContent = [
       "phrase": "చెప్పేది ఒకటి చేసేది ఒకటి",
       "phrasePronunciation": "cheppedi okati chesedi okati",
       "phraseMeaning": "మాటలకు చేతలకు పొంతన లేకపోవడం",
-      "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి."
+      "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి.",
+      "meaningInEnglish": "Delight",
+      "phraseMeaningInEnglish": "Actions don't match words; hypocrisy"
     }
   },
   {
@@ -7032,7 +8034,9 @@ export const dailyContent = [
       "phrase": "अपने मुँह मियाँ मिट्ठू बनना",
       "phrasePronunciation": "apne munh miyan mitthu banna",
       "phraseMeaning": "खुद अपनी तारीफ करना",
-      "phraseExample": "हर बात में अपने मुँह मियाँ मिट्ठू बनता है।"
+      "phraseExample": "हर बात में अपने मुँह मियाँ मिट्ठू बनता है।",
+      "meaningInEnglish": "Immovable",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕ್ಷೀಣಿಸು",
@@ -7042,7 +8046,9 @@ export const dailyContent = [
       "phrase": "ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ",
       "phrasePronunciation": "manege maari oorige upakari",
       "phraseMeaning": "ತನ್ನವರಿಗೆ ಕೆಟ್ಟವನು ಹೊರಗಿನವರಿಗೆ ಒಳ್ಳೆಯವನು",
-      "phraseExample": "ಅವನು ಮನೆಯಲ್ಲಿ ಕೆಟ್ಟವನು ಹೊರಗೆ ಒಳ್ಳೆಯವನು — ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ."
+      "phraseExample": "ಅವನು ಮನೆಯಲ್ಲಿ ಕೆಟ್ಟವನು ಹೊರಗೆ ಒಳ್ಳೆಯವನು — ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ.",
+      "meaningInEnglish": "Ksheenisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రతిపాదన",
@@ -7052,7 +8058,9 @@ export const dailyContent = [
       "phrase": "తాడిని తన్నేవాడు కొబ్బరిని తన్నడు",
       "phrasePronunciation": "taadini tannedvaadu kobbarini tannadu",
       "phraseMeaning": "అంత సామర్థ్యం లేనివాడు పెద్ద పనులు చేయలేడు",
-      "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు."
+      "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు.",
+      "meaningInEnglish": "Proposal",
+      "phraseMeaningInEnglish": "One without ability can't do big things"
     }
   },
   {
@@ -7074,7 +8082,9 @@ export const dailyContent = [
       "phrase": "घोड़े बेचकर सोना",
       "phrasePronunciation": "ghode bechkar sona",
       "phraseMeaning": "बेफिक्र होकर सोना",
-      "phraseExample": "परीक्षा खत्म, अब घोड़े बेचकर सोएंगे।"
+      "phraseExample": "परीक्षा खत्म, अब घोड़े बेचकर सोएंगे।",
+      "meaningInEnglish": "Illustrious; renowned",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದೈನಂದಿನ",
@@ -7084,7 +8094,9 @@ export const dailyContent = [
       "phrase": "ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ",
       "phrasePronunciation": "hannu maagidare taane beeluttade",
       "phraseMeaning": "ಸಮಯ ಬಂದಾಗ ತಾನಾಗಿ ಆಗುತ್ತದೆ",
-      "phraseExample": "ಆತುರಪಡಬೇಡ — ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ."
+      "phraseExample": "ಆತುರಪಡಬೇಡ — ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ.",
+      "meaningInEnglish": "Dainandina",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆత్మార్పణ",
@@ -7094,7 +8106,9 @@ export const dailyContent = [
       "phrase": "నీటిలో దూకినవాడు తడవకుండా ఉంటాడా",
       "phrasePronunciation": "neetilo dookinavaadu tadavakunda untadaa",
       "phraseMeaning": "పనిలో దిగినప్పుడు ఫలితాలు ఉంటాయి",
-      "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా."
+      "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా.",
+      "meaningInEnglish": "Self-sacrifice",
+      "phraseMeaningInEnglish": "Results come when you get to work"
     }
   },
   {
@@ -7116,7 +8130,9 @@ export const dailyContent = [
       "phrase": "आस्तीन का साँप",
       "phrasePronunciation": "aasteen ka saanp",
       "phraseMeaning": "करीबी होकर धोखा देने वाला",
-      "phraseExample": "वह तो आस्तीन का साँप निकला।"
+      "phraseExample": "वह तो आस्तीन का साँप निकला।",
+      "meaningInEnglish": "To dissipate; to scatter",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಶ್ಲೀಲ",
@@ -7126,7 +8142,9 @@ export const dailyContent = [
       "phrase": "ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟು",
       "phrasePronunciation": "maatinalli mallige kattu",
       "phraseMeaning": "ಬಹಳ ಮಧುರವಾಗಿ ಮಾತನಾಡು",
-      "phraseExample": "ಅವಳ ಮಾತು ಎಷ್ಟು ಚೆಂದ — ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟುತ್ತಾಳೆ."
+      "phraseExample": "ಅವಳ ಮಾತು ಎಷ್ಟು ಚೆಂದ — ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟುತ್ತಾಳೆ.",
+      "meaningInEnglish": "Ashleela",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సమాచారం",
@@ -7136,7 +8154,9 @@ export const dailyContent = [
       "phrase": "పేదవాని బండికి ఎద్దులు ఆగవు",
       "phrasePronunciation": "pedavaani bandiki eddulu aagavu",
       "phraseMeaning": "డబ్బు లేనివాడికి ఏదీ సమయానికి జరగదు",
-      "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు."
+      "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు.",
+      "meaningInEnglish": "Information",
+      "phraseMeaningInEnglish": "Nothing works on time for the poor"
     }
   },
   {
@@ -7158,7 +8178,9 @@ export const dailyContent = [
       "phrase": "एक पंथ दो काज",
       "phrasePronunciation": "ek panth do kaaj",
       "phraseMeaning": "एक काम से दो फायदे",
-      "phraseExample": "वहाँ जाकर मिलना भी हो जाएगा और काम भी — एक पंथ दो काज।"
+      "phraseExample": "वहाँ जाकर मिलना भी हो जाएगा और काम भी — एक पंथ दो काज।",
+      "meaningInEnglish": "Palatable; agreeable",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದೋಷಮುಕ್ತ",
@@ -7168,7 +8190,9 @@ export const dailyContent = [
       "phrase": "ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿ",
       "phrasePronunciation": "betta agedu ili hidi",
       "phraseMeaning": "ಬಹಳ ಪ್ರಯತ್ನಕ್ಕೆ ಕಡಿಮೆ ಫಲ",
-      "phraseExample": "ಇಷ್ಟು ಶ್ರಮ ಹಾಕಿ ಇಷ್ಟೇ ಸಿಕ್ಕಿತು — ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿದಂತೆ."
+      "phraseExample": "ಇಷ್ಟು ಶ್ರಮ ಹಾಕಿ ಇಷ್ಟೇ ಸಿಕ್ಕಿತು — ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿದಂತೆ.",
+      "meaningInEnglish": "Doshamukta",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆకర్షణ",
@@ -7178,7 +8202,9 @@ export const dailyContent = [
       "phrase": "మనసు మంచిదైతే మార్గం కనిపిస్తుంది",
       "phrasePronunciation": "manasu manchidaite maargam kanipistundi",
       "phraseMeaning": "మంచి ఉద్దేశ్యం ఉంటే దారి దొరుకుతుంది",
-      "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది."
+      "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది.",
+      "meaningInEnglish": "Attraction",
+      "phraseMeaningInEnglish": "Good intentions find a way"
     }
   },
   {
@@ -7200,7 +8226,9 @@ export const dailyContent = [
       "phrase": "खून का घूँट पीना",
       "phrasePronunciation": "khoon ka ghoont peena",
       "phraseMeaning": "गुस्सा दबाकर सहना",
-      "phraseExample": "अपमान सुनकर उसने खून का घूँट पी लिया।"
+      "phraseExample": "अपमान सुनकर उसने खून का घूँट पी लिया।",
+      "meaningInEnglish": "Umbrage; resentment",
+      "phraseMeaningInEnglish": "To suppress anger and endure"
     },
     "kannada": {
       "word": "ಹಾನಿಕಾರಕ",
@@ -7210,7 +8238,9 @@ export const dailyContent = [
       "phrase": "ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ",
       "phrasePronunciation": "adige maadi ootakke kare",
       "phraseMeaning": "ಎಲ್ಲಾ ಸಿದ್ಧ ಮಾಡಿ ಆಮಂತ್ರಿಸು",
-      "phraseExample": "ತಯಾರಿ ಮುಗಿಸಿ ಕರೆ — ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ."
+      "phraseExample": "ತಯಾರಿ ಮುಗಿಸಿ ಕರೆ — ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ.",
+      "meaningInEnglish": "Detrimental; harmful",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "వ్యవస్థ",
@@ -7220,7 +8250,9 @@ export const dailyContent = [
       "phrase": "రాయిని దేవుడని పూజిస్తే అది దేవుడే",
       "phrasePronunciation": "raayini devudani poojisite adi devude",
       "phraseMeaning": "నమ్మకం ఉంటే ఏదైనా సాధ్యం",
-      "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే."
+      "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే.",
+      "meaningInEnglish": "System",
+      "phraseMeaningInEnglish": "Faith makes anything possible"
     }
   },
   {
@@ -7242,7 +8274,9 @@ export const dailyContent = [
       "phrase": "गागर में सागर भरना",
       "phrasePronunciation": "gaagar mein saagar bharna",
       "phraseMeaning": "कम शब्दों में गहरी बात कहना",
-      "phraseExample": "कबीर के दोहे गागर में सागर भरते हैं।"
+      "phraseExample": "कबीर के दोहे गागर में सागर भरते हैं।",
+      "meaningInEnglish": "Relevant; pertinent",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪ್ರಭಾವಿತವಾಗದ",
@@ -7252,7 +8286,9 @@ export const dailyContent = [
       "phrase": "ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ",
       "phrasePronunciation": "kallanige beegada kai kottante",
       "phraseMeaning": "ಅಪ್ರಾಮಾಣಿಕ ವ್ಯಕ್ತಿಗೆ ಜವಾಬ್ದಾರಿ ಕೊಟ್ಟಂತೆ",
-      "phraseExample": "ಅವನಿಗೆ ಖಜಾನೆ ಕೊಟ್ಟದ್ದು — ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ."
+      "phraseExample": "ಅವನಿಗೆ ಖಜಾನೆ ಕೊಟ್ಟದ್ದು — ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ.",
+      "meaningInEnglish": "Prabhavitavaagada",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అనంతం",
@@ -7262,7 +8298,9 @@ export const dailyContent = [
       "phrase": "ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది",
       "phrasePronunciation": "enta pedda chettainaa vittananto modalavutundi",
       "phraseMeaning": "ప్రతి గొప్ప విషయం చిన్నగా మొదలవుతుంది",
-      "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది."
+      "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది.",
+      "meaningInEnglish": "Infinity",
+      "phraseMeaningInEnglish": "Every great thing starts small"
     }
   },
   {
@@ -7284,7 +8322,9 @@ export const dailyContent = [
       "phrase": "चिराग तले अँधेरा",
       "phrasePronunciation": "chiraag tale andhera",
       "phraseMeaning": "अपने घर में ही खराबी",
-      "phraseExample": "पुलिस अधिकारी का बेटा चोर — चिराग तले अँधेरा।"
+      "phraseExample": "पुलिस अधिकारी का बेटा चोर — चिराग तले अँधेरा।",
+      "meaningInEnglish": "Adverse",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸುಗಂಧಿತ",
@@ -7294,7 +8334,9 @@ export const dailyContent = [
       "phrase": "ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ",
       "phrasePronunciation": "male bandare mane illa biisilige adige illa",
       "phraseMeaning": "ಎಲ್ಲ ಕಡೆ ಸಮಸ್ಯೆ",
-      "phraseExample": "ಅವನ ಪರಿಸ್ಥಿತಿ ಕಷ್ಟ — ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ."
+      "phraseExample": "ಅವನ ಪರಿಸ್ಥಿತಿ ಕಷ್ಟ — ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ.",
+      "meaningInEnglish": "Sugandhita",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంకేతం",
@@ -7304,7 +8346,9 @@ export const dailyContent = [
       "phrase": "నవ్వు నాలుగు విధాల మేలు",
       "phrasePronunciation": "navvu naalugu vidhaala melu",
       "phraseMeaning": "నవ్వడం ఆరోగ్యానికి మంచిది",
-      "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు."
+      "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు.",
+      "meaningInEnglish": "Signal",
+      "phraseMeaningInEnglish": "Laughter is the best medicine"
     }
   },
   {
@@ -7326,7 +8370,9 @@ export const dailyContent = [
       "phrase": "जले पर नमक छिड़कना",
       "phrasePronunciation": "jale par namak chhidakna",
       "phraseMeaning": "दुखी को और दुखी करना",
-      "phraseExample": "हार के बाद ताने मत मारो, जले पर नमक मत छिड़को।"
+      "phraseExample": "हार के बाद ताने मत मारो, जले पर नमक मत छिड़को।",
+      "meaningInEnglish": "Vociferous; forceful",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕುಶಾಗ್ರತೆ",
@@ -7336,7 +8382,9 @@ export const dailyContent = [
       "phrase": "ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು",
       "phrasePronunciation": "haalu kudida makkalu",
       "phraseMeaning": "ಮುಗ್ಧ ಮತ್ತು ಅನನುಭವಿ",
-      "phraseExample": "ಅವರು ಇನ್ನೂ ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು."
+      "phraseExample": "ಅವರು ಇನ್ನೂ ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು.",
+      "meaningInEnglish": "Kushaagrate",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆచారం",
@@ -7346,7 +8394,9 @@ export const dailyContent = [
       "phrase": "అప్పు తీర్చని వాడికి పరపతి ఉండదు",
       "phrasePronunciation": "appu teerchani vaadiki parapati undadu",
       "phraseMeaning": "నమ్మకం కోల్పోతే మళ్ళీ రాదు",
-      "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు."
+      "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు.",
+      "meaningInEnglish": "Custom",
+      "phraseMeaningInEnglish": "Trust, once lost, is hard to regain"
     }
   },
   {
@@ -7368,7 +8418,9 @@ export const dailyContent = [
       "phrase": "नाक कटना",
       "phrasePronunciation": "naak katna",
       "phraseMeaning": "इज्जत जाना",
-      "phraseExample": "बेटे के व्यवहार से पिता की नाक कट गई।"
+      "phraseExample": "बेटे के व्यवहार से पिता की नाक कट गई।",
+      "meaningInEnglish": "To embellish; to adorn",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಶಾಶ್ವತ",
@@ -7378,7 +8430,9 @@ export const dailyContent = [
       "phrase": "ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು",
       "phrasePronunciation": "kaage koota mara muriyitu",
       "phraseMeaning": "ಕಾಕತಾಳೀಯ ಘಟನೆ",
-      "phraseExample": "ಅವನು ಬಂದ ಕೂಡಲೇ ಮಳೆ ಬಂತು — ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು."
+      "phraseExample": "ಅವನು ಬಂದ ಕೂಡಲೇ ಮಳೆ ಬಂತು — ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು.",
+      "meaningInEnglish": "Permanent",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రస్థానం",
@@ -7388,7 +8442,9 @@ export const dailyContent = [
       "phrase": "ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు",
       "phrasePronunciation": "ekkada chepalu levo akkada kappe raaju",
       "phraseMeaning": "సమర్థులు లేని చోట అసమర్థులు పెత్తనం చేస్తారు",
-      "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు."
+      "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు.",
+      "meaningInEnglish": "Journey",
+      "phraseMeaningInEnglish": "In the land of the blind, the one-eyed is king"
     }
   },
   {
@@ -7410,7 +8466,9 @@ export const dailyContent = [
       "phrase": "पेट में चूहे दौड़ना",
       "phrasePronunciation": "pet mein choohe daudna",
       "phraseMeaning": "बहुत भूख लगना",
-      "phraseExample": "दोपहर से कुछ नहीं खाया, पेट में चूहे दौड़ रहे हैं।"
+      "phraseExample": "दोपहर से कुछ नहीं खाया, पेट में चूहे दौड़ रहे हैं।",
+      "meaningInEnglish": "To elucidate; to clarify",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಚಿತ್ರಕಲೆ",
@@ -7420,7 +8478,9 @@ export const dailyContent = [
       "phrase": "ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ",
       "phrasePronunciation": "akka hogi nentar mane tangi hogi gandan mane",
       "phraseMeaning": "ಎಲ್ಲರೂ ತಮ್ಮ ದಾರಿ ಹಿಡಿದರು",
-      "phraseExample": "ಮಕ್ಕಳೆಲ್ಲ ಬೆಳೆದು ಹೋದರು — ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ."
+      "phraseExample": "ಮಕ್ಕಳೆಲ್ಲ ಬೆಳೆದು ಹೋದರು — ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ.",
+      "meaningInEnglish": "Chitrakale",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంరక్షణ",
@@ -7430,7 +8490,9 @@ export const dailyContent = [
       "phrase": "చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది",
       "phrasePronunciation": "chettu narikina modalu unte chiguristundi",
       "phraseMeaning": "మూలం బలంగా ఉంటే తిరిగి లేవగలం",
-      "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది."
+      "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది.",
+      "meaningInEnglish": "Conservation",
+      "phraseMeaningInEnglish": "Strong roots help you rise again"
     }
   },
   {
@@ -7452,7 +8514,9 @@ export const dailyContent = [
       "phrase": "मक्खी पर मक्खी मारना",
       "phrasePronunciation": "makkhi par makkhi maarna",
       "phraseMeaning": "नकल करना",
-      "phraseExample": "वह हमेशा दूसरों पर मक्खी मारता है।"
+      "phraseExample": "वह हमेशा दूसरों पर मक्खी मारता है।",
+      "meaningInEnglish": "Maverick; independent thinker",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕರ್ಕಶ ಶಬ್ದ",
@@ -7462,7 +8526,9 @@ export const dailyContent = [
       "phrase": "ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು",
       "phrasePronunciation": "obbana oota ibbarige saaladu",
       "phraseMeaning": "ಕಡಿಮೆ ಸಂಪನ್ಮೂಲ",
-      "phraseExample": "ಇಷ್ಟು ಸಂಬಳ ಸಾಲದು — ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು."
+      "phraseExample": "ಇಷ್ಟು ಸಂಬಳ ಸಾಲದು — ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು.",
+      "meaningInEnglish": "Karkasha shabda",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆనవాలు",
@@ -7472,7 +8538,9 @@ export const dailyContent = [
       "phrase": "కుక్క తోక వంకరే",
       "phrasePronunciation": "kukka toka vankare",
       "phraseMeaning": "కొందరి స్వభావం ఎప్పటికీ మారదు",
-      "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే."
+      "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే.",
+      "meaningInEnglish": "Trace",
+      "phraseMeaningInEnglish": "A leopard can't change its spots"
     }
   },
   {
@@ -7494,7 +8562,9 @@ export const dailyContent = [
       "phrase": "उल्टी गंगा बहाना",
       "phrasePronunciation": "ulti ganga bahana",
       "phraseMeaning": "सामान्य नियम के विपरीत करना",
-      "phraseExample": "बच्चे बड़ों को सिखा रहे हैं — उल्टी गंगा बह रही है।"
+      "phraseExample": "बच्चे बड़ों को सिखा रहे हैं — उल्टी गंगा बह रही है।",
+      "meaningInEnglish": "To appease; to pacify",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಹೆಚ್ಚಿಸು",
@@ -7504,7 +8574,9 @@ export const dailyContent = [
       "phrase": "ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ",
       "phrasePronunciation": "kaleda kaala matte baralla",
       "phraseMeaning": "ಹೋದ ಸಮಯ ಹಿಂತಿರುಗುವುದಿಲ್ಲ",
-      "phraseExample": "ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಬೇಡ — ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ."
+      "phraseExample": "ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಬೇಡ — ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ.",
+      "meaningInEnglish": "Hechisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "వైరాగ్యం",
@@ -7514,7 +8586,9 @@ export const dailyContent = [
       "phrase": "తినే చేతిని కోయరాదు",
       "phrasePronunciation": "tine chetini koyaraadu",
       "phraseMeaning": "తనకు సహాయం చేసేవాళ్ళను మోసం చేయకూడదు",
-      "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు."
+      "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు.",
+      "meaningInEnglish": "Renunciation",
+      "phraseMeaningInEnglish": "Don't bite the hand that feeds you"
     }
   },
   {
@@ -7536,7 +8610,9 @@ export const dailyContent = [
       "phrase": "आग बबूला होना",
       "phrasePronunciation": "aag baboola hona",
       "phraseMeaning": "बहुत गुस्सा होना",
-      "phraseExample": "देरी सुनकर बॉस आग बबूला हो गया।"
+      "phraseExample": "देरी सुनकर बॉस आग बबूला हो गया।",
+      "meaningInEnglish": "Zealot; fanatic",
+      "phraseMeaningInEnglish": "To be furious; to see red"
     },
     "kannada": {
       "word": "ಸುಧಾರಿಸು",
@@ -7546,7 +8622,9 @@ export const dailyContent = [
       "phrase": "ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು",
       "phrasePronunciation": "ketta mele buddhi bantu",
       "phraseMeaning": "ನಷ್ಟ ಆದ ಮೇಲೆ ಅರಿವು ಬಂತು",
-      "phraseExample": "ಈಗ ಅರ್ಥ ಆಯಿತು — ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು."
+      "phraseExample": "ಈಗ ಅರ್ಥ ಆಯಿತು — ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು.",
+      "meaningInEnglish": "Sudhaarisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిర్వహణ",
@@ -7556,7 +8634,9 @@ export const dailyContent = [
       "phrase": "దూరపు కొండలు నునుపు",
       "phrasePronunciation": "doorapu kondalu nunupu",
       "phraseMeaning": "దూరం నుండి చూస్తే అన్నీ బాగుంటాయి",
-      "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు."
+      "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు.",
+      "meaningInEnglish": "Management",
+      "phraseMeaningInEnglish": "Distant hills look green"
     }
   },
   {
@@ -7578,7 +8658,9 @@ export const dailyContent = [
       "phrase": "टेढ़ी खीर होना",
       "phrasePronunciation": "tedhi kheer hona",
       "phraseMeaning": "बहुत कठिन काम",
-      "phraseExample": "इस परीक्षा को पास करना टेढ़ी खीर है।"
+      "phraseExample": "इस परीक्षा को पास करना टेढ़ी खीर है।",
+      "meaningInEnglish": "Resilient; flexible",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದೀರ್ಘಕಾಲಿಕ",
@@ -7588,7 +8670,9 @@ export const dailyContent = [
       "phrase": "ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ",
       "phrasePronunciation": "kottiddu tanage bachchittiddu pararige",
       "phraseMeaning": "ದಾನ ಮಾಡಿದ್ದು ನಿಮಗೇ ಲಾಭ",
-      "phraseExample": "ದಾನ ಮಾಡು — ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ."
+      "phraseExample": "ದಾನ ಮಾಡು — ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ.",
+      "meaningInEnglish": "Deerghakalika",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సాఫల్యం",
@@ -7598,7 +8682,9 @@ export const dailyContent = [
       "phrase": "ఆకు రాలినా చెట్టు నిలబడుతుంది",
       "phrasePronunciation": "aaku raalinaa chettu nilabadutundi",
       "phraseMeaning": "కష్టాలు వచ్చినా మనిషి నిలబడాలి",
-      "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది."
+      "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది.",
+      "meaningInEnglish": "Success",
+      "phraseMeaningInEnglish": "Stand firm even in adversity"
     }
   },
   {
@@ -7620,7 +8706,9 @@ export const dailyContent = [
       "phrase": "हवा से बातें करना",
       "phrasePronunciation": "hava se baaten karna",
       "phraseMeaning": "बहुत तेज दौड़ना",
-      "phraseExample": "वह घोड़ा हवा से बातें करता है।"
+      "phraseExample": "वह घोड़ा हवा से बातें करता है।",
+      "meaningInEnglish": "Ostentatious; showy",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸ್ನೇಹಪರ",
@@ -7630,7 +8718,9 @@ export const dailyContent = [
       "phrase": "ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ",
       "phrasePronunciation": "kalitavanige kadaloo halla",
       "phraseMeaning": "ಜ್ಞಾನಿಗೆ ಎಲ್ಲವೂ ಸುಲಭ",
-      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಕೆಲಸವೂ ಕಷ್ಟವಲ್ಲ — ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ."
+      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಕೆಲಸವೂ ಕಷ್ಟವಲ್ಲ — ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ.",
+      "meaningInEnglish": "Snehapara",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆలంబన",
@@ -7640,7 +8730,9 @@ export const dailyContent = [
       "phrase": "ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు",
       "phrasePronunciation": "mundu choopu lenivadu venakki choostadu",
       "phraseMeaning": "ముందు ఆలోచించకపోతే తర్వాత బాధపడతాడు",
-      "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు."
+      "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు.",
+      "meaningInEnglish": "Support",
+      "phraseMeaningInEnglish": "Failing to plan is planning to fail"
     }
   },
   {
@@ -7662,7 +8754,9 @@ export const dailyContent = [
       "phrase": "पहाड़ टूट पड़ना",
       "phrasePronunciation": "pahaad toot padna",
       "phraseMeaning": "बड़ी मुसीबत आना",
-      "phraseExample": "नौकरी जाने से उस पर दुखों का पहाड़ टूट पड़ा।"
+      "phraseExample": "नौकरी जाने से उस पर दुखों का पहाड़ टूट पड़ा।",
+      "meaningInEnglish": "Clear",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಐಶ್ವರ್ಯ",
@@ -7672,7 +8766,9 @@ export const dailyContent = [
       "phrase": "ಹೊಸ ಬಾಳೆ ಎಲೆ ಹಳೆ ಬಾಳೆ ಎಲೆ ಜೊತೆ ಸೇರಿ ಸುಟ್ಟು ಹೋಯಿತು",
       "phrasePronunciation": "hosa baale ele hale baale ele jote seri suttu hoyitu",
       "phraseMeaning": "ಒಳ್ಳೆಯವನು ಕೆಟ್ಟವರ ಸಹವಾಸದಲ್ಲಿ ಹಾಳಾಗುತ್ತಾನೆ",
-      "phraseExample": "ಕೆಟ್ಟ ಸ್ನೇಹಿತರಿಂದ ದೂರ ಇರು."
+      "phraseExample": "ಕೆಟ್ಟ ಸ್ನೇಹಿತರಿಂದ ದೂರ ಇರು.",
+      "meaningInEnglish": "Aishvarya",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రతిబింబం",
@@ -7682,7 +8778,9 @@ export const dailyContent = [
       "phrase": "ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది",
       "phrasePronunciation": "eddu puttindi ellaku panikostundi",
       "phraseMeaning": "అన్నీ సమయం వచ్చినప్పుడు ఉపయోగపడతాయి",
-      "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది."
+      "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది.",
+      "meaningInEnglish": "Reflection",
+      "phraseMeaningInEnglish": "Everything has its time and use"
     }
   },
   {
@@ -7704,7 +8802,9 @@ export const dailyContent = [
       "phrase": "तूती बोलना",
       "phrasePronunciation": "tooti bolna",
       "phraseMeaning": "बहुत प्रभाव होना",
-      "phraseExample": "इस शहर में उसकी तूती बोलती है।"
+      "phraseExample": "इस शहर में उसकी तूती बोलती है।",
+      "meaningInEnglish": "To obliterate; to erase",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ವಿಷಾದ",
@@ -7714,7 +8814,9 @@ export const dailyContent = [
       "phrase": "ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು",
       "phrasePronunciation": "idda oorige illada hesaru",
       "phraseMeaning": "ಸುಳ್ಳು ಪ್ರಚಾರ",
-      "phraseExample": "ಆ ವಂದನೆಗಳೆಲ್ಲ ಸುಳ್ಳು — ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು."
+      "phraseExample": "ಆ ವಂದನೆಗಳೆಲ್ಲ ಸುಳ್ಳು — ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು.",
+      "meaningInEnglish": "Vishaada",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సమర్థన",
@@ -7724,7 +8826,9 @@ export const dailyContent = [
       "phrase": "బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు",
       "phrasePronunciation": "buddhi unnavadiki balam avasaram ledu",
       "phraseMeaning": "తెలివి ఉంటే శక్తి అవసరం లేదు",
-      "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు."
+      "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు.",
+      "meaningInEnglish": "Endorsement",
+      "phraseMeaningInEnglish": "Brain over brawn"
     }
   },
   {
@@ -7746,7 +8850,9 @@ export const dailyContent = [
       "phrase": "नानी याद आना",
       "phrasePronunciation": "naani yaad aana",
       "phraseMeaning": "बहुत कठिनाई होना",
-      "phraseExample": "पहाड़ चढ़ते-चढ़ते नानी याद आ गई।"
+      "phraseExample": "पहाड़ चढ़ते-चढ़ते नानी याद आ गई।",
+      "meaningInEnglish": "Avarice; greed",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದಯಾಳು",
@@ -7756,7 +8862,9 @@ export const dailyContent = [
       "phrase": "ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು",
       "phrasePronunciation": "neeru bandaaga oddu kattu",
       "phraseMeaning": "ಸಮಸ್ಯೆ ಬಂದಾಗ ತಕ್ಷಣ ಪರಿಹಾರ ಮಾಡು",
-      "phraseExample": "ಈಗಲೇ ಕ್ರಮ ತೆಗೆದುಕೊ — ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು."
+      "phraseExample": "ಈಗಲೇ ಕ್ರಮ ತೆಗೆದುಕೊ — ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು.",
+      "meaningInEnglish": "Dayaalu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆరంభం",
@@ -7766,7 +8874,9 @@ export const dailyContent = [
       "phrase": "పెద్దల మాట చద్దన్నం మూట",
       "phrasePronunciation": "peddala maata chaddannam moota",
       "phraseMeaning": "పెద్దల సలహా ఎల్లప్పుడూ ఉపయోగకరం",
-      "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట."
+      "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట.",
+      "meaningInEnglish": "Beginning",
+      "phraseMeaningInEnglish": "Elders' advice is always valuable"
     }
   },
   {
@@ -7788,7 +8898,9 @@ export const dailyContent = [
       "phrase": "कमर कसना",
       "phrasePronunciation": "kamar kasna",
       "phraseMeaning": "तैयारी करना",
-      "phraseExample": "परीक्षा के लिए कमर कस ली।"
+      "phraseExample": "परीक्षा के लिए कमर कस ली।",
+      "meaningInEnglish": "Stoic; unaffected",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ವಿಲಾಪಿಸು",
@@ -7798,7 +8910,9 @@ export const dailyContent = [
       "phrase": "ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು",
       "phrasePronunciation": "aluva maguvige haalu hechchu",
       "phraseMeaning": "ಕೇಳಿದವರಿಗೆ ಹೆಚ್ಚು ಸಿಗುತ್ತದೆ",
-      "phraseExample": "ಕೇಳು — ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು."
+      "phraseExample": "ಕೇಳು — ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು.",
+      "meaningInEnglish": "Vilaapisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిరూపణ",
@@ -7808,7 +8922,9 @@ export const dailyContent = [
       "phrase": "మాటే మంత్రం",
       "phrasePronunciation": "maate mantram",
       "phraseMeaning": "మాటలో చాలా శక్తి ఉంది",
-      "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం."
+      "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం.",
+      "meaningInEnglish": "Proof",
+      "phraseMeaningInEnglish": "Words carry great power"
     }
   },
   {
@@ -7830,7 +8946,9 @@ export const dailyContent = [
       "phrase": "दिन में तारे दिखाना",
       "phrasePronunciation": "din mein taare dikhana",
       "phraseMeaning": "बहुत परेशान करना",
-      "phraseExample": "इस बीमारी ने दिन में तारे दिखा दिए।"
+      "phraseExample": "इस बीमारी ने दिन में तारे दिखा दिए।",
+      "meaningInEnglish": "Indefatigable; tireless",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ವಿಷಯಾಂತರ",
@@ -7840,7 +8958,9 @@ export const dailyContent = [
       "phrase": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ",
       "phrasePronunciation": "taayi idda mane devara mane",
       "phraseMeaning": "ತಾಯಿ ಇರುವ ಮನೆ ಪವಿತ್ರ",
-      "phraseExample": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ — ಅವಳನ್ನು ಗೌರವಿಸು."
+      "phraseExample": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ — ಅವಳನ್ನು ಗೌರವಿಸು.",
+      "meaningInEnglish": "Vishayaantara",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంతాపం",
@@ -7850,7 +8970,9 @@ export const dailyContent = [
       "phrase": "కంటికి రెప్పలా కాపాడు",
       "phrasePronunciation": "kantiki reppalaa kaapaadu",
       "phraseMeaning": "చాలా జాగ్రత్తగా రక్షించడం",
-      "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది."
+      "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది.",
+      "meaningInEnglish": "Condolence",
+      "phraseMeaningInEnglish": "To guard something very preciously"
     }
   },
   {
@@ -7872,7 +8994,9 @@ export const dailyContent = [
       "phrase": "खरी-खरी सुनाना",
       "phrasePronunciation": "khari-khari sunana",
       "phraseMeaning": "सीधी सच्ची बात कहना",
-      "phraseExample": "उसने बॉस को खरी-खरी सुना दी।"
+      "phraseExample": "उसने बॉस को खरी-खरी सुना दी।",
+      "meaningInEnglish": "Pedantic; overly detail-focused",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಂಬಂಧ",
@@ -7882,7 +9006,9 @@ export const dailyContent = [
       "phrase": "ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ",
       "phrasePronunciation": "duddiddavane doddappa",
       "phraseMeaning": "ಹಣ ಇದ್ದವನಿಗೆ ಗೌರವ",
-      "phraseExample": "ಈ ಜಗತ್ತಿನಲ್ಲಿ ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ."
+      "phraseExample": "ಈ ಜಗತ್ತಿನಲ್ಲಿ ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ.",
+      "meaningInEnglish": "Relationship; connection",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆహారం",
@@ -7892,7 +9018,9 @@ export const dailyContent = [
       "phrase": "ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు",
       "phrasePronunciation": "aachaaram aaripoyinaa aavakaaya aaradu",
       "phraseMeaning": "కొన్ని అలవాట్లు ఎప్పటికీ మారవు",
-      "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు."
+      "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు.",
+      "meaningInEnglish": "Food",
+      "phraseMeaningInEnglish": "Old habits die hard"
     }
   },
   {
@@ -7914,7 +9042,9 @@ export const dailyContent = [
       "phrase": "चादर देखकर पैर फैलाना",
       "phrasePronunciation": "chaadar dekhkar pair failana",
       "phraseMeaning": "आय के अनुसार खर्च करना",
-      "phraseExample": "चादर देखकर पैर फैलाओ वरना कर्ज में डूब जाओगे।"
+      "phraseExample": "चादर देखकर पैर फैलाओ वरना कर्ज में डूब जाओगे।",
+      "meaningInEnglish": "Garrulous; talkative",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ವಿನಯಶೀಲ",
@@ -7924,7 +9054,9 @@ export const dailyContent = [
       "phrase": "ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ",
       "phrasePronunciation": "hottege hittilla juttige mallige",
       "phraseMeaning": "ಆಡಂಬರ ಹೆಚ್ಚು ಆದರೆ ಯೋಗ್ಯತೆ ಇಲ್ಲ",
-      "phraseExample": "ಅವನ ಬಳಿ ಏನೂ ಇಲ್ಲ ಆದರೆ ತೋರಿಕೆ ಹೆಚ್ಚು — ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ."
+      "phraseExample": "ಅವನ ಬಳಿ ಏನೂ ಇಲ್ಲ ಆದರೆ ತೋರಿಕೆ ಹೆಚ್ಚು — ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ.",
+      "meaningInEnglish": "Vinayashila",
+      "phraseMeaningInEnglish": "All show and no substance"
     },
     "telugu": {
       "word": "సాక్ష్యం",
@@ -7934,7 +9066,9 @@ export const dailyContent = [
       "phrase": "నిజం తెలిసినా తెలియనట్లు ఉండటం",
       "phrasePronunciation": "nijam telisina teliyannattlu undadam",
       "phraseMeaning": "నిజం తెలిసి కూడా మౌనంగా ఉండటం",
-      "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం."
+      "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం.",
+      "meaningInEnglish": "Evidence",
+      "phraseMeaningInEnglish": "Knowing the truth but staying silent"
     }
   },
   {
@@ -7956,7 +9090,9 @@ export const dailyContent = [
       "phrase": "एक और एक ग्यारह होना",
       "phrasePronunciation": "ek aur ek gyaarah hona",
       "phraseMeaning": "एकता में बल होना",
-      "phraseExample": "दोनों दोस्तों ने मिलकर काम किया — एक और एक ग्यारह हो गए।"
+      "phraseExample": "दोनों दोस्तों ने मिलकर काम किया — एक और एक ग्यारह हो गए।",
+      "meaningInEnglish": "Harmful",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕಿರು ದೃಷ್ಟಿ",
@@ -7966,7 +9102,9 @@ export const dailyContent = [
       "phrase": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು",
       "phrasePronunciation": "kai kesaraadare baayi mosaru",
       "phraseMeaning": "ಕಷ್ಟಪಟ್ಟರೆ ಫಲ ಸಿಗುತ್ತದೆ",
-      "phraseExample": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು — ಪ್ರಯತ್ನ ಮಾಡು."
+      "phraseExample": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು — ಪ್ರಯತ್ನ ಮಾಡು.",
+      "meaningInEnglish": "Kiru drushti",
+      "phraseMeaningInEnglish": "Hard work yields fruit"
     },
     "telugu": {
       "word": "నిశ్చయం",
@@ -7976,7 +9114,9 @@ export const dailyContent = [
       "phrase": "వెన్నెల్లో చల్లగాలి తగిలినట్లు",
       "phrasePronunciation": "vennello challagaali tagilinattlu",
       "phraseMeaning": "చాలా హాయిగా ఉండటం",
-      "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది."
+      "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది.",
+      "meaningInEnglish": "Certainty",
+      "phraseMeaningInEnglish": "Feeling very pleasant and comfortable"
     }
   },
   {
@@ -7998,7 +9138,9 @@ export const dailyContent = [
       "phrase": "लकीर का फकीर होना",
       "phrasePronunciation": "lakeer ka fakeer hona",
       "phraseMeaning": "पुरानी बातों पर ही चलना",
-      "phraseExample": "वह लकीर का फकीर है, नई सोच स्वीकार नहीं करता।"
+      "phraseExample": "वह लकीर का फकीर है, नई सोच स्वीकार नहीं करता।",
+      "meaningInEnglish": "Loquacious; very talkative",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಸ್ವಸ್ಥತೆ",
@@ -8008,7 +9150,9 @@ export const dailyContent = [
       "phrase": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ",
       "phrasePronunciation": "aliya banda aduge mane tanaka",
       "phraseMeaning": "ಅತಿಥಿ ಅತಿಯಾಗಿ ಹಕ್ಕು ಚಲಾಯಿಸುವುದು",
-      "phraseExample": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ ಎಂಬಂತೆ ಅವನು ಮನೆಯಲ್ಲಿ ರಾಜ್ಯ ಆಳುತ್ತಿದ್ದಾನೆ."
+      "phraseExample": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ ಎಂಬಂತೆ ಅವನು ಮನೆಯಲ್ಲಿ ರಾಜ್ಯ ಆಳುತ್ತಿದ್ದಾನೆ.",
+      "meaningInEnglish": "Asvasthate",
+      "phraseMeaningInEnglish": "A guest overstepping their welcome"
     },
     "telugu": {
       "word": "ఆస్వాదన",
@@ -8018,7 +9162,9 @@ export const dailyContent = [
       "phrase": "ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా",
       "phrasePronunciation": "aavu chelo meste dooda gattuna mestundaa",
       "phraseMeaning": "పెద్దలు చేసేది పిల్లలు కూడా చేస్తారు",
-      "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా."
+      "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా.",
+      "meaningInEnglish": "Savoring",
+      "phraseMeaningInEnglish": "Children follow what elders do"
     }
   },
   {
@@ -8040,7 +9186,9 @@ export const dailyContent = [
       "phrase": "सिर पर कफन बाँधना",
       "phrasePronunciation": "sir par kafan baandhna",
       "phraseMeaning": "मरने को तैयार होना",
-      "phraseExample": "सैनिकों ने सिर पर कफन बाँध लिया।"
+      "phraseExample": "सैनिकों ने सिर पर कफन बाँध लिया।",
+      "meaningInEnglish": "Happy",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅನಿವಾರ್ಯ",
@@ -8050,7 +9198,9 @@ export const dailyContent = [
       "phrase": "ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ",
       "phrasePronunciation": "ettige jvara bandare emmege bare",
       "phraseMeaning": "ಒಬ್ಬರ ಸಮಸ್ಯೆಯನ್ನು ಇನ್ನೊಬ್ಬರ ಮೇಲೆ ಹಾಕುವುದು",
-      "phraseExample": "ನನ್ನ ತಪ್ಪಿಗೆ ಅವನಿಗೆ ಶಿಕ್ಷೆ — ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ."
+      "phraseExample": "ನನ್ನ ತಪ್ಪಿಗೆ ಅವನಿಗೆ ಶಿಕ್ಷೆ — ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ.",
+      "meaningInEnglish": "Inevitable",
+      "phraseMeaningInEnglish": "Passing one's problems onto others"
     },
     "telugu": {
       "word": "ప్రాధాన్యం",
@@ -8060,7 +9210,9 @@ export const dailyContent = [
       "phrase": "ఒక చేత్తో చప్పట్లు కొట్టలేం",
       "phrasePronunciation": "oka chettto chappatlu kottalem",
       "phraseMeaning": "ఒంటరిగా ఏదీ సాధ్యం కాదు",
-      "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం."
+      "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం.",
+      "meaningInEnglish": "Priority",
+      "phraseMeaningInEnglish": "Nothing is possible alone; teamwork matters"
     }
   },
   {
@@ -8082,7 +9234,9 @@ export const dailyContent = [
       "phrase": "दूध का दूध पानी का पानी",
       "phrasePronunciation": "doodh ka doodh paani ka paani",
       "phraseMeaning": "सच और झूठ का फैसला करना",
-      "phraseExample": "जाँच में दूध का दूध पानी का पानी हो जाएगा।"
+      "phraseExample": "जाँच में दूध का दूध पानी का पानी हो जाएगा।",
+      "meaningInEnglish": "Discursive; digressing",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪ್ರಸ್ತುತ",
@@ -8092,7 +9246,9 @@ export const dailyContent = [
       "phrase": "ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ",
       "phrasePronunciation": "kuri kaayuvavana kaili dana kottante",
       "phraseMeaning": "ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ ಜವಾಬ್ದಾರಿ ಕೊಡುವುದು",
-      "phraseExample": "ಅವನಿಗೆ ಆ ಕೆಲಸ ಕೊಟ್ಟದ್ದು ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ."
+      "phraseExample": "ಅವನಿಗೆ ಆ ಕೆಲಸ ಕೊಟ್ಟದ್ದು ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ.",
+      "meaningInEnglish": "Prastuta",
+      "phraseMeaningInEnglish": "Giving responsibility to an unworthy person"
     },
     "telugu": {
       "word": "సమానత",
@@ -8102,7 +9258,9 @@ export const dailyContent = [
       "phrase": "వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు",
       "phrasePronunciation": "vepachettu kinda paalu taaginaa chedu antaaru",
       "phraseMeaning": "చెడ్డ పేరు వస్తే ఎంత మంచి చేసినా నమ్మరు",
-      "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు."
+      "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు.",
+      "meaningInEnglish": "Equality",
+      "phraseMeaningInEnglish": "A bad name sticks no matter what"
     }
   },
   {
@@ -8124,7 +9282,9 @@ export const dailyContent = [
       "phrase": "सर आँखों पर बिठाना",
       "phrasePronunciation": "sar aankhon par bithana",
       "phraseMeaning": "बहुत सम्मान देना",
-      "phraseExample": "मेहमान को सर आँखों पर बिठाया।"
+      "phraseExample": "मेहमान को सर आँखों पर बिठाया।",
+      "meaningInEnglish": "Clever",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಹಳೆಯದು",
@@ -8134,7 +9294,9 @@ export const dailyContent = [
       "phrase": "ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ",
       "phrasePronunciation": "gaali bandaaga tooriko",
       "phraseMeaning": "ಅವಕಾಶ ಸಿಕ್ಕಾಗ ಉಪಯೋಗಿಸಿಕೊ",
-      "phraseExample": "ಅವಕಾಶ ಸಿಕ್ಕಿದೆ, ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ."
+      "phraseExample": "ಅವಕಾಶ ಸಿಕ್ಕಿದೆ, ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ.",
+      "meaningInEnglish": "Haleyadu",
+      "phraseMeaningInEnglish": "Seize the opportunity when it comes"
     },
     "telugu": {
       "word": "ఆజ్ఞ",
@@ -8144,7 +9306,9 @@ export const dailyContent = [
       "phrase": "దొరికిన దారే దగ్గరి దారి",
       "phrasePronunciation": "dorikina daare daggari daari",
       "phraseMeaning": "అందుబాటులో ఉన్న మార్గం ఉత్తమమైనది",
-      "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి."
+      "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి.",
+      "meaningInEnglish": "Command",
+      "phraseMeaningInEnglish": "A bird in hand is worth two in the bush"
     }
   },
   {
@@ -8166,7 +9330,9 @@ export const dailyContent = [
       "phrase": "जहाँ चाह वहाँ राह",
       "phrasePronunciation": "jahan chaah vahan raah",
       "phraseMeaning": "इच्छा हो तो रास्ता निकलता है",
-      "phraseExample": "उसने साबित कर दिया कि जहाँ चाह वहाँ राह।"
+      "phraseExample": "उसने साबित कर दिया कि जहाँ चाह वहाँ राह।",
+      "meaningInEnglish": "Parsimonious; miserly",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ತಡೆಯು",
@@ -8176,7 +9342,9 @@ export const dailyContent = [
       "phrase": "ಮೊಸಳೆ ಕಣ್ಣೀರು",
       "phrasePronunciation": "mosale kanneeru",
       "phraseMeaning": "ಸುಳ್ಳು ಅನುಕಂಪ",
-      "phraseExample": "ಅವನ ದುಃಖ ಮೊಸಳೆ ಕಣ್ಣೀರು."
+      "phraseExample": "ಅವನ ದುಃಖ ಮೊಸಳೆ ಕಣ್ಣೀರು.",
+      "meaningInEnglish": "Tadeyu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "వ్యాఖ్యానం",
@@ -8186,7 +9354,9 @@ export const dailyContent = [
       "phrase": "ఏనుగు కాలికి ముల్లు గుచ్చినట్లు",
       "phrasePronunciation": "enugu kaaliki mullu gucchinattlu",
       "phraseMeaning": "శక్తివంతుడికి చిన్న సమస్య ఎదురైనా బాధిస్తుంది",
-      "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు."
+      "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు.",
+      "meaningInEnglish": "Commentary",
+      "phraseMeaningInEnglish": "Even small problems trouble the mighty"
     }
   },
   {
@@ -8208,7 +9378,9 @@ export const dailyContent = [
       "phrase": "अपनी खिचड़ी अलग पकाना",
       "phrasePronunciation": "apni khichdi alag pakana",
       "phraseMeaning": "सबसे अलग रहना",
-      "phraseExample": "वह हमेशा अपनी खिचड़ी अलग पकाता है।"
+      "phraseExample": "वह हमेशा अपनी खिचड़ी अलग पकाता है।",
+      "meaningInEnglish": "Pellucid; completely clear",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಜೇಯ ಶಕ್ತಿ",
@@ -8218,7 +9390,9 @@ export const dailyContent = [
       "phrase": "ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ",
       "phrasePronunciation": "kodali kaavu koduva mara",
       "phraseMeaning": "ತನ್ನನ್ನೇ ಕಡಿಯಲು ಸಹಾಯ ಮಾಡುವುದು",
-      "phraseExample": "ಅವನಿಗೇ ಮಾಹಿತಿ ಕೊಟ್ಟೆ — ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ ಆದೆ."
+      "phraseExample": "ಅವನಿಗೇ ಮಾಹಿತಿ ಕೊಟ್ಟೆ — ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ ಆದೆ.",
+      "meaningInEnglish": "Ajeya shakti",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆత్మహత్య",
@@ -8228,7 +9402,9 @@ export const dailyContent = [
       "phrase": "మంచికి మంచి, చెడుకు చెడు",
       "phrasePronunciation": "manchiki manchi cheduki chedu",
       "phraseMeaning": "చేసిన దానికి తగిన ఫలితం వస్తుంది",
-      "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు."
+      "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు.",
+      "meaningInEnglish": "Renunciation; detachment",
+      "phraseMeaningInEnglish": "You reap what you sow"
     }
   },
   {
@@ -8250,7 +9426,9 @@ export const dailyContent = [
       "phrase": "आँखें चुराना",
       "phrasePronunciation": "aankhein churana",
       "phraseMeaning": "नज़र बचाना",
-      "phraseExample": "गलती करने के बाद वह आँखें चुरा रहा था।"
+      "phraseExample": "गलती करने के बाद वह आँखें चुरा रहा था।",
+      "meaningInEnglish": "Ravenous; extremely hungry",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ತ್ಯಜಿಸು",
@@ -8260,7 +9438,9 @@ export const dailyContent = [
       "phrase": "ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ",
       "phrasePronunciation": "tumbida koda tulukuvudilla",
       "phraseMeaning": "ಜ್ಞಾನಿ ಅಹಂಕಾರ ತೋರಿಸುವುದಿಲ್ಲ",
-      "phraseExample": "ಅವರು ವಿನಯಶೀಲರು — ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ."
+      "phraseExample": "ಅವರು ವಿನಯಶೀಲರು — ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ.",
+      "meaningInEnglish": "Tyajisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిబంధన",
@@ -8270,7 +9450,9 @@ export const dailyContent = [
       "phrase": "చదువుకున్న చెడిపోయినవాడు లేడు",
       "phrasePronunciation": "chaduvukunna chedipoyinavadu ledu",
       "phraseMeaning": "చదువు ఎప్పుడూ ఉపయోగపడుతుంది",
-      "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు."
+      "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు.",
+      "meaningInEnglish": "Condition",
+      "phraseMeaningInEnglish": "Education always proves useful"
     }
   },
   {
@@ -8292,7 +9474,9 @@ export const dailyContent = [
       "phrase": "मुँह में पानी आना",
       "phrasePronunciation": "munh mein paani aana",
       "phraseMeaning": "लालच आना",
-      "phraseExample": "पकवान देखकर मुँह में पानी आ गया।"
+      "phraseExample": "पकवान देखकर मुँह में पानी आ गया।",
+      "meaningInEnglish": "Salacious; indecent",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮುಂದೂಡು",
@@ -8302,7 +9486,9 @@ export const dailyContent = [
       "phrase": "ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು",
       "phrasePronunciation": "haavu saayabeku kolu muriyabaaradu",
       "phraseMeaning": "ಕೆಲಸ ಆಗಬೇಕು ಯಾರಿಗೂ ಹಾನಿ ಆಗಬಾರದು",
-      "phraseExample": "ಜಾಣತನದಿಂದ ಮಾಡು — ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು."
+      "phraseExample": "ಜಾಣತನದಿಂದ ಮಾಡು — ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು.",
+      "meaningInEnglish": "Mundoodu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంప్రదాయం",
@@ -8312,7 +9498,9 @@ export const dailyContent = [
       "phrase": "రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది",
       "phrasePronunciation": "rekkala kashtam raallu karigistundi",
       "phraseMeaning": "కష్టపడి పనిచేస్తే అసాధ్యమైనది కూడా సాధ్యం",
-      "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది."
+      "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది.",
+      "meaningInEnglish": "Tradition",
+      "phraseMeaningInEnglish": "With hard work, the impossible becomes possible"
     }
   },
   {
@@ -8334,7 +9522,9 @@ export const dailyContent = [
       "phrase": "अंधे की लाठी",
       "phrasePronunciation": "andhe ki laathi",
       "phraseMeaning": "एकमात्र सहारा",
-      "phraseExample": "बूढ़ी माँ के लिए बेटा अंधे की लाठी है।"
+      "phraseExample": "बूढ़ी माँ के लिए बेटा अंधे की लाठी है।",
+      "meaningInEnglish": "Articulate; eloquent",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪ್ರಶಂಸೆ",
@@ -8344,7 +9534,9 @@ export const dailyContent = [
       "phrase": "ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ",
       "phrasePronunciation": "maadiddunno mahaaraaya",
       "phraseMeaning": "ಮಾಡಿದ ಕೆಲಸದ ಫಲ ಅನುಭವಿಸು",
-      "phraseExample": "ಈಗ ಅಳಬೇಡ, ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ."
+      "phraseExample": "ಈಗ ಅಳಬೇಡ, ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ.",
+      "meaningInEnglish": "Praise",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సారథ్యం",
@@ -8354,7 +9546,9 @@ export const dailyContent = [
       "phrase": "పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు",
       "phrasePronunciation": "pogada chettu ekkada ledu kaani marri chettu arudu",
       "phraseMeaning": "సాధారణం ఎక్కడైనా దొరుకుతుంది, ప్రత్యేకమైనది అరుదు",
-      "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు."
+      "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు.",
+      "meaningInEnglish": "Leadership",
+      "phraseMeaningInEnglish": "The ordinary is common, the special is rare"
     }
   },
   {
@@ -8376,7 +9570,9 @@ export const dailyContent = [
       "phrase": "दो नावों पर पैर रखना",
       "phrasePronunciation": "do naavon par pair rakhna",
       "phraseMeaning": "दो तरफ से फायदा उठाना",
-      "phraseExample": "दो नावों पर पैर रखोगे तो डूब जाओगे।"
+      "phraseExample": "दो नावों पर पैर रखोगे तो डूब जाओगे।",
+      "meaningInEnglish": "Gullible; naive",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸೂಕ್ತ",
@@ -8386,7 +9582,9 @@ export const dailyContent = [
       "phrase": "ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ",
       "phrasePronunciation": "adikege hoda maana aane kottaroo baralla",
       "phraseMeaning": "ಹೋದ ಗೌರವ ಮರಳಿ ಬರುವುದಿಲ್ಲ",
-      "phraseExample": "ಮರ್ಯಾದೆ ಕಳೆದುಕೊಂಡ — ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ."
+      "phraseExample": "ಮರ್ಯಾದೆ ಕಳೆದುಕೊಂಡ — ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ.",
+      "meaningInEnglish": "Appropriate; proper",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆర్ద్రత",
@@ -8396,7 +9594,9 @@ export const dailyContent = [
       "phrase": "తూరుపు తెలిసేవాడికి దిక్కు తెలియదా",
       "phrasePronunciation": "toorupu telisevadiki dikku teliyada",
       "phraseMeaning": "ఒకటి తెలిస్తే మిగిలినవి కూడా తెలుస్తాయి",
-      "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా."
+      "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా.",
+      "meaningInEnglish": "Tenderness",
+      "phraseMeaningInEnglish": "Knowing one thing leads to knowing others"
     }
   },
   {
@@ -8418,7 +9618,9 @@ export const dailyContent = [
       "phrase": "आँखों का तारा",
       "phrasePronunciation": "aankhon ka taara",
       "phraseMeaning": "बहुत प्रिय व्यक्ति",
-      "phraseExample": "बेटा उसकी आँखों का तारा है।"
+      "phraseExample": "बेटा उसकी आँखों का तारा है।",
+      "meaningInEnglish": "Bona fide; genuine",
+      "phraseMeaningInEnglish": "A very dear person; apple of one's eye"
     },
     "kannada": {
       "word": "ಭಾರವಾದ",
@@ -8428,7 +9630,9 @@ export const dailyContent = [
       "phrase": "ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ",
       "phrasePronunciation": "ooru kottaroo hola koda",
       "phraseMeaning": "ನೆರೆಹೊರೆ ಒಳ್ಳೆಯದಾಗಿರಬೇಕು",
-      "phraseExample": "ಒಳ್ಳೆಯ ನೆರೆಹೊರೆ ಮುಖ್ಯ — ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ."
+      "phraseExample": "ಒಳ್ಳೆಯ ನೆರೆಹೊರೆ ಮುಖ್ಯ — ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ.",
+      "meaningInEnglish": "Bhaaravaada",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రపంచం",
@@ -8438,7 +9642,9 @@ export const dailyContent = [
       "phrase": "అడవిలో పుట్టి, అడవిలో పెరిగినా, అడవి కోతి మారదు",
       "phrasePronunciation": "adavilo putti adavilo periginaa adavi koti maaradu",
       "phraseMeaning": "మనిషి స్వభావం సులభంగా మారదు",
-      "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు."
+      "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు.",
+      "meaningInEnglish": "World",
+      "phraseMeaningInEnglish": "A person's nature doesn't change easily"
     }
   },
   {
@@ -8460,7 +9666,9 @@ export const dailyContent = [
       "phrase": "अंगूठा दिखाना",
       "phrasePronunciation": "angootha dikhana",
       "phraseMeaning": "साफ मना कर देना",
-      "phraseExample": "उसने मदद माँगी तो लोगों ने अंगूठा दिखा दिया।"
+      "phraseExample": "उसने मदद माँगी तो लोगों ने अंगूठा दिखा दिया।",
+      "meaningInEnglish": "Hubris; excessive pride",
+      "phraseMeaningInEnglish": "To flatly refuse"
     },
     "kannada": {
       "word": "ಹಾಸ್ಯ",
@@ -8470,7 +9678,9 @@ export const dailyContent = [
       "phrase": "ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ",
       "phrasePronunciation": "kallana manassu kattale",
       "phraseMeaning": "ತಪ್ಪು ಮಾಡಿದವನಿಗೆ ಯಾವಾಗಲೂ ಭಯ",
-      "phraseExample": "ಅವನು ಯಾವಾಗಲೂ ಹೆದರುತ್ತಾನೆ — ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ."
+      "phraseExample": "ಅವನು ಯಾವಾಗಲೂ ಹೆದರುತ್ತಾನೆ — ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ.",
+      "meaningInEnglish": "Humor; comedy",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సానుకూలత",
@@ -8480,7 +9690,9 @@ export const dailyContent = [
       "phrase": "ఆకలి రుచి ఎరుగదు",
       "phrasePronunciation": "aakali ruchi erugadu",
       "phraseMeaning": "ఆకలి ఉన్నప్పుడు ఏది తిన్నా బాగుంటుంది",
-      "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా."
+      "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా.",
+      "meaningInEnglish": "Positivity",
+      "phraseMeaningInEnglish": "When hungry, anything tastes good"
     }
   },
   {
@@ -8502,7 +9714,9 @@ export const dailyContent = [
       "phrase": "अक्ल पर पत्थर पड़ना",
       "phrasePronunciation": "akl par patthar padna",
       "phraseMeaning": "बुद्धि काम न करना",
-      "phraseExample": "ऐसा फैसला लेते वक्त उसकी अक्ल पर पत्थर पड़ गए थे।"
+      "phraseExample": "ऐसा फैसला लेते वक्त उसकी अक्ल पर पत्थर पड़ गए थे।",
+      "meaningInEnglish": "To abate; to diminish",
+      "phraseMeaningInEnglish": "To lose one's wits"
     },
     "kannada": {
       "word": "ತಲೆ ಬಾಗಿಸು",
@@ -8512,7 +9726,9 @@ export const dailyContent = [
       "phrase": "ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ",
       "phrasePronunciation": "maatu belli mauna bangaara",
       "phraseMeaning": "ಮಾತಿಗಿಂತ ಮೌನ ಮೌಲ್ಯಯುತ",
-      "phraseExample": "ಈ ಸಮಯದಲ್ಲಿ ಸುಮ್ಮನಿರು — ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ."
+      "phraseExample": "ಈ ಸಮಯದಲ್ಲಿ ಸುಮ್ಮನಿರು — ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ.",
+      "meaningInEnglish": "Tale baagisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆత్మబలం",
@@ -8522,7 +9738,9 @@ export const dailyContent = [
       "phrase": "ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు",
       "phrasePronunciation": "ooru kaani ooru vaste kukkalu moriginattlu",
       "phraseMeaning": "కొత్త చోటికి వెళ్తే ఇబ్బందులు ఎదురవుతాయి",
-      "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు."
+      "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు.",
+      "meaningInEnglish": "Inner strength",
+      "phraseMeaningInEnglish": "New places bring new challenges"
     }
   },
   {
@@ -8544,7 +9762,9 @@ export const dailyContent = [
       "phrase": "ऊँट के मुँह में जीरा",
       "phrasePronunciation": "oont ke munh mein jeera",
       "phraseMeaning": "ज़रूरत के मुकाबले बहुत कम",
-      "phraseExample": "इतने बड़े परिवार के लिए यह तनख्वाह ऊँट के मुँह में जीरा है।"
+      "phraseExample": "इतने बड़े परिवार के लिए यह तनख्वाह ऊँट के मुँह में जीरा है।",
+      "meaningInEnglish": "Bastion; stronghold",
+      "phraseMeaningInEnglish": "Far too little for the need"
     },
     "kannada": {
       "word": "ಅರ್ಥವಾಗದ",
@@ -8554,7 +9774,9 @@ export const dailyContent = [
       "phrase": "ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ",
       "phrasePronunciation": "hole neerige donne naayaka",
       "phraseMeaning": "ಅಧಿಕಾರವಿಲ್ಲದವನ ಆಡಂಬರ",
-      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಅಧಿಕಾರವೂ ಇಲ್ಲ ಆದರೆ ರೋಬ್ — ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ."
+      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಅಧಿಕಾರವೂ ಇಲ್ಲ ಆದರೆ ರೋಬ್ — ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ.",
+      "meaningInEnglish": "Arthavaagada",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "విజ్ఞప్తి",
@@ -8564,7 +9786,9 @@ export const dailyContent = [
       "phrase": "కాకి పిల్ల కాకికి ముద్దు",
       "phrasePronunciation": "kaaki pilla kaakiki muddu",
       "phraseMeaning": "ప్రతి తల్లికి తన బిడ్డ ముద్దే",
-      "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా."
+      "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా.",
+      "meaningInEnglish": "Appeal",
+      "phraseMeaningInEnglish": "Every mother loves her own child most"
     }
   },
   {
@@ -8586,7 +9810,9 @@ export const dailyContent = [
       "phrase": "कान भरना",
       "phrasePronunciation": "kaan bharna",
       "phraseMeaning": "किसी के खिलाफ भड़काना",
-      "phraseExample": "किसी ने बॉस के कान भर दिए।"
+      "phraseExample": "किसी ने बॉस के कान भर दिए।",
+      "meaningInEnglish": "Quirky; eccentric",
+      "phraseMeaningInEnglish": "To incite against someone"
     },
     "kannada": {
       "word": "ಅರಿವಿರುವ",
@@ -8596,7 +9822,9 @@ export const dailyContent = [
       "phrase": "ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ",
       "phrasePronunciation": "naayi bogalidare devaloka haalaguvudilla",
       "phraseMeaning": "ಕೆಟ್ಟವರ ಮಾತಿಗೆ ಮಹತ್ವ ಕೊಡಬೇಡ",
-      "phraseExample": "ಅವರ ಟೀಕೆ ಬಿಡು — ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ."
+      "phraseExample": "ಅವರ ಟೀಕೆ ಬಿಡು — ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ.",
+      "meaningInEnglish": "Ariviruva",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సూచన",
@@ -8606,7 +9834,9 @@ export const dailyContent = [
       "phrase": "గోరుచుట్టుపై రోకలి పోటు",
       "phrasePronunciation": "goruchuttupai rokali potu",
       "phraseMeaning": "ఉన్న సమస్యపై మరో సమస్య",
-      "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు."
+      "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు.",
+      "meaningInEnglish": "Suggestion",
+      "phraseMeaningInEnglish": "Adding insult to injury"
     }
   },
   {
@@ -8628,7 +9858,9 @@ export const dailyContent = [
       "phrase": "घर की मुर्गी दाल बराबर",
       "phrasePronunciation": "ghar ki murgi daal barabar",
       "phraseMeaning": "अपनी चीज की कदर नहीं",
-      "phraseExample": "देश में इतने अच्छे कलाकार हैं पर घर की मुर्गी दाल बराबर।"
+      "phraseExample": "देश में इतने अच्छे कलाकार हैं पर घर की मुर्गी दाल बराबर।",
+      "meaningInEnglish": "Querulous; always complaining",
+      "phraseMeaningInEnglish": "Not appreciating what you have"
     },
     "kannada": {
       "word": "ಕ್ಷೀಣಿಸು",
@@ -8638,7 +9870,9 @@ export const dailyContent = [
       "phrase": "ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು",
       "phrasePronunciation": "ati aase gati kedu",
       "phraseMeaning": "ಅತಿಯಾಸೆ ವಿನಾಶಕ್ಕೆ ಕಾರಣ",
-      "phraseExample": "ಹೆಚ್ಚು ಬೇಡ — ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು."
+      "phraseExample": "ಹೆಚ್ಚು ಬೇಡ — ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು.",
+      "meaningInEnglish": "Ksheenisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆవశ్యకత",
@@ -8648,7 +9882,9 @@ export const dailyContent = [
       "phrase": "చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం",
       "phrasePronunciation": "chetilo venna undagaa neyi kosam vetakadam",
       "phraseMeaning": "ఉన్నది వదిలి ఇంకేదో వెతకడం",
-      "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం."
+      "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం.",
+      "meaningInEnglish": "Necessity",
+      "phraseMeaningInEnglish": "Leaving what you have for something uncertain"
     }
   },
   {
@@ -8670,7 +9906,9 @@ export const dailyContent = [
       "phrase": "चार चाँद लगाना",
       "phrasePronunciation": "chaar chaand lagana",
       "phraseMeaning": "शोभा बढ़ाना",
-      "phraseExample": "उसकी मेहनत ने कार्यक्रम में चार चाँद लगा दिए।"
+      "phraseExample": "उसकी मेहनत ने कार्यक्रम में चार चाँद लगा दिए।",
+      "meaningInEnglish": "Dearth; scarcity",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಮ್ಮಿಶ್ರಣ",
@@ -8680,7 +9918,9 @@ export const dailyContent = [
       "phrase": "ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸು",
       "phrasePronunciation": "kallu haaki doni mulugisu",
       "phraseMeaning": "ಇತರರ ಕೆಲಸ ಹಾಳು ಮಾಡು",
-      "phraseExample": "ಅವನು ನನ್ನ ಯೋಜನೆಗೆ ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸಿದ."
+      "phraseExample": "ಅವನು ನನ್ನ ಯೋಜನೆಗೆ ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸಿದ.",
+      "meaningInEnglish": "Sammishrana",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రణాళిక",
@@ -8690,7 +9930,9 @@ export const dailyContent = [
       "phrase": "తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు",
       "phrasePronunciation": "taati chettu ekkevadiki tongi chooddam alavatu",
       "phraseMeaning": "పనిలో అనుభవం ఉన్నవాళ్ళకు అది సాధారణం",
-      "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు."
+      "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు.",
+      "meaningInEnglish": "Plan",
+      "phraseMeaningInEnglish": "Routine for the experienced"
     }
   },
   {
@@ -8712,7 +9954,9 @@ export const dailyContent = [
       "phrase": "छाती पर साँप लोटना",
       "phrasePronunciation": "chhaati par saanp lotna",
       "phraseMeaning": "ईर्ष्या से जलना",
-      "phraseExample": "पड़ोसी की तरक्की देख उसकी छाती पर साँप लोट गया।"
+      "phraseExample": "पड़ोसी की तरक्की देख उसकी छाती पर साँप लोट गया।",
+      "meaningInEnglish": "Arrogant; conceited",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮೊಂಡ",
@@ -8722,7 +9966,9 @@ export const dailyContent = [
       "phrase": "ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ",
       "phrasePronunciation": "bekkige chellaata ilige praana sankata",
       "phraseMeaning": "ಒಬ್ಬರಿಗೆ ಆಟ ಇನ್ನೊಬ್ಬರಿಗೆ ಕಷ್ಟ",
-      "phraseExample": "ಅವನಿಗೆ ತಮಾಷೆ ನನಗೆ ತೊಂದರೆ — ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ."
+      "phraseExample": "ಅವನಿಗೆ ತಮಾಷೆ ನನಗೆ ತೊಂದರೆ — ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ.",
+      "meaningInEnglish": "Monda",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంపూర్ణం",
@@ -8732,7 +9978,9 @@ export const dailyContent = [
       "phrase": "నక్కకు నిద్ర వస్తే కోడి కూస్తుంది",
       "phrasePronunciation": "nakkaku nidra vaste kodi koostundi",
       "phraseMeaning": "ఒకరు అజాగ్రత్తగా ఉంటే మరొకరు లాభపడతారు",
-      "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది."
+      "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది.",
+      "meaningInEnglish": "Complete",
+      "phraseMeaningInEnglish": "When one is careless, another profits"
     }
   },
   {
@@ -8754,7 +10002,9 @@ export const dailyContent = [
       "phrase": "तिल का ताड़ बनाना",
       "phrasePronunciation": "til ka taad banana",
       "phraseMeaning": "छोटी बात को बड़ा बनाना",
-      "phraseExample": "बस एक गलती थी, उसने तिल का ताड़ बना दिया।"
+      "phraseExample": "बस एक गलती थी, उसने तिल का ताड़ बना दिया।",
+      "meaningInEnglish": "Fiasco; complete failure",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ತೀಕ್ಷ್ಣ",
@@ -8764,7 +10014,9 @@ export const dailyContent = [
       "phrase": "ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ",
       "phrasePronunciation": "koti kaili hoomaale",
       "phraseMeaning": "ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ ಒಳ್ಳೆಯ ವಸ್ತು",
-      "phraseExample": "ಅವನಿಗೆ ಆ ಅವಕಾಶ ಕೊಟ್ಟದ್ದು ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ."
+      "phraseExample": "ಅವನಿಗೆ ಆ ಅವಕಾಶ ಕೊಟ್ಟದ್ದು ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ.",
+      "meaningInEnglish": "Sharp; acute",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆత్మసంయమం",
@@ -8774,7 +10026,9 @@ export const dailyContent = [
       "phrase": "పందికి బంగారు పట్టెడ ఎందుకు",
       "phrasePronunciation": "pandiki bangaaru patteda enduku",
       "phraseMeaning": "విలువ తెలియనివాడికి విలువైనది ఇచ్చి ఏం లాభం",
-      "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు."
+      "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు.",
+      "meaningInEnglish": "Self-discipline",
+      "phraseMeaningInEnglish": "Don't give pearls to those who can't value them"
     }
   },
   {
@@ -8796,7 +10050,9 @@ export const dailyContent = [
       "phrase": "दाल में काला होना",
       "phrasePronunciation": "daal mein kaala hona",
       "phraseMeaning": "कुछ गड़बड़ होना",
-      "phraseExample": "उसकी बातों में दाल में कुछ काला है।"
+      "phraseExample": "उसकी बातों में दाल में कुछ काला है।",
+      "meaningInEnglish": "Amalgam; mixture",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ನಿರ್ವಿವಾದ ಸತ್ಯ",
@@ -8806,7 +10062,9 @@ export const dailyContent = [
       "phrase": "ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು",
       "phrasePronunciation": "ondu kaiyalli chappaale tattalu aagadu",
       "phraseMeaning": "ಜಗಳದಲ್ಲಿ ಇಬ್ಬರ ತಪ್ಪು ಇರುತ್ತದೆ",
-      "phraseExample": "ಇಬ್ಬರೂ ತಪ್ಪು — ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು."
+      "phraseExample": "ಇಬ್ಬರೂ ತಪ್ಪು — ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು.",
+      "meaningInEnglish": "Nirvivaada satya",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రస్తావన",
@@ -8816,7 +10074,9 @@ export const dailyContent = [
       "phrase": "బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి",
       "phrasePronunciation": "boggu muttukuṇṭe chetulu nallabadataay",
       "phraseMeaning": "చెడ్డ వాళ్ళతో తిరిగితే మనం కూడా చెడిపోతాం",
-      "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి."
+      "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి.",
+      "meaningInEnglish": "Mention",
+      "phraseMeaningInEnglish": "Bad company corrupts good character"
     }
   },
   {
@@ -8838,7 +10098,9 @@ export const dailyContent = [
       "phrase": "नौ दो ग्यारह होना",
       "phrasePronunciation": "nau do gyaarah hona",
       "phraseMeaning": "भाग जाना",
-      "phraseExample": "पुलिस को देखते ही चोर नौ दो ग्यारह हो गए।"
+      "phraseExample": "पुलिस को देखते ही चोर नौ दो ग्यारह हो गए।",
+      "meaningInEnglish": "Pinnacle; apex",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸ್ಥಿರವಾಗಿರು",
@@ -8848,7 +10110,9 @@ export const dailyContent = [
       "phrase": "ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು",
       "phrasePronunciation": "oorige bandavalu neerigoo barabeku",
       "phraseMeaning": "ಎಲ್ಲಾ ಕಷ್ಟ ಸಹಿಸಬೇಕು",
-      "phraseExample": "ಇಲ್ಲಿ ಬಂದ ಮೇಲೆ ಕಷ್ಟ ಸಹಿಸು — ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು."
+      "phraseExample": "ಇಲ್ಲಿ ಬಂದ ಮೇಲೆ ಕಷ್ಟ ಸಹಿಸು — ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು.",
+      "meaningInEnglish": "Sthiravaagiru",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సహానుభూతి",
@@ -8858,7 +10122,9 @@ export const dailyContent = [
       "phrase": "మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది",
       "phrasePronunciation": "manchi chesi choodu manasu nindugaa untundi",
       "phraseMeaning": "ఇతరులకు మేలు చేస్తే మనసుకు తృప్తి",
-      "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది."
+      "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది.",
+      "meaningInEnglish": "Empathy",
+      "phraseMeaningInEnglish": "Helping others brings inner peace"
     }
   },
   {
@@ -8880,7 +10146,9 @@ export const dailyContent = [
       "phrase": "पानी-पानी होना",
       "phrasePronunciation": "paani-paani hona",
       "phraseMeaning": "बहुत शर्मिंदा होना",
-      "phraseExample": "सच सामने आने पर वह पानी-पानी हो गया।"
+      "phraseExample": "सच सामने आने पर वह पानी-पानी हो गया।",
+      "meaningInEnglish": "Labyrinth; maze",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕರ್ಕಶ",
@@ -8890,7 +10158,9 @@ export const dailyContent = [
       "phrase": "ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ",
       "phrasePronunciation": "aadu muttada soppilla",
       "phraseMeaning": "ಎಲ್ಲದರಲ್ಲೂ ಕೈ ಹಾಕುವವನು",
-      "phraseExample": "ಅವನಿಗೆ ಎಲ್ಲ ವಿಷಯದಲ್ಲೂ ತಲೆ ಹಾಕಬೇಕು — ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ."
+      "phraseExample": "ಅವನಿಗೆ ಎಲ್ಲ ವಿಷಯದಲ್ಲೂ ತಲೆ ಹಾಕಬೇಕು — ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ.",
+      "meaningInEnglish": "Harsh; strident",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆత్మపరిశీలన",
@@ -8900,7 +10170,9 @@ export const dailyContent = [
       "phrase": "రాతికి పూచే పూలు రాలిపోతాయి",
       "phrasePronunciation": "raatiki pooche poolu raalipotaayi",
       "phraseMeaning": "శాశ్వతమైనది ఏదీ లేదు",
-      "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి."
+      "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి.",
+      "meaningInEnglish": "Self-reflection",
+      "phraseMeaningInEnglish": "Nothing is permanent"
     }
   },
   {
@@ -8922,7 +10194,9 @@ export const dailyContent = [
       "phrase": "बंदर क्या जाने अदरक का स्वाद",
       "phrasePronunciation": "bandar kya jaane adrak ka swaad",
       "phraseMeaning": "अनजान व्यक्ति गुणों की कदर नहीं करता",
-      "phraseExample": "उसे संगीत की क्या समझ, बंदर क्या जाने अदरक का स्वाद।"
+      "phraseExample": "उसे संगीत की क्या समझ, बंदर क्या जाने अदरक का स्वाद।",
+      "meaningInEnglish": "Impetuous; rashly hasty",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕೊರತೆ",
@@ -8932,7 +10206,9 @@ export const dailyContent = [
       "phrase": "ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು",
       "phrasePronunciation": "hasivige anna kodu rogakke maddu kodu",
       "phraseMeaning": "ಸಮಸ್ಯೆಗೆ ಸರಿಯಾದ ಪರಿಹಾರ ಕೊಡು",
-      "phraseExample": "ಸರಿಯಾದ ಪರಿಹಾರ ಬೇಕು — ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು."
+      "phraseExample": "ಸರಿಯಾದ ಪರಿಹಾರ ಬೇಕು — ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು.",
+      "meaningInEnglish": "Deficiency; shortage",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "విధేయత",
@@ -8942,7 +10218,9 @@ export const dailyContent = [
       "phrase": "విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు",
       "phrasePronunciation": "vinnavaariki telivi cheppinavaariki orpu",
       "phraseMeaning": "వినేవాడికి జ్ఞానం, చెప్పేవాడికి సహనం కావాలి",
-      "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు."
+      "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు.",
+      "meaningInEnglish": "Obedience",
+      "phraseMeaningInEnglish": "Listener needs wisdom, speaker needs patience"
     }
   },
   {
@@ -8964,7 +10242,9 @@ export const dailyContent = [
       "phrase": "लोहा मानना",
       "phrasePronunciation": "loha maanna",
       "phraseMeaning": "किसी की श्रेष्ठता स्वीकार करना",
-      "phraseExample": "विरोधियों ने भी उसका लोहा मान लिया।"
+      "phraseExample": "विरोधियों ने भी उसका लोहा मान लिया।",
+      "meaningInEnglish": "Inveterate; firmly established",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮೊಕದ್ದಮೆ ಪ್ರಿಯ",
@@ -8974,7 +10254,9 @@ export const dailyContent = [
       "phrase": "ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ",
       "phrasePronunciation": "kereya neeranu kerege chelli",
       "phraseMeaning": "ಪಡೆದುದನ್ನು ಹಿಂದಿರುಗಿಸು",
-      "phraseExample": "ಸಮಾಜಕ್ಕೆ ಹಿಂತಿರುಗಿಸು — ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ."
+      "phraseExample": "ಸಮಾಜಕ್ಕೆ ಹಿಂತಿರುಗಿಸು — ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ.",
+      "meaningInEnglish": "Mokaddame priya",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంక్షిప్తం",
@@ -8984,7 +10266,9 @@ export const dailyContent = [
       "phrase": "ఏనుగు మీద దీపం ఉంచినట్లు",
       "phrasePronunciation": "enugu meeda deepam unchinattlu",
       "phraseMeaning": "చాలా గొప్పగా కనిపించడం",
-      "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు."
+      "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు.",
+      "meaningInEnglish": "Brief",
+      "phraseMeaningInEnglish": "To appear very grand and impressive"
     }
   },
   {
@@ -9006,7 +10290,9 @@ export const dailyContent = [
       "phrase": "गुड़ गोबर करना",
       "phrasePronunciation": "gud gobar karna",
       "phraseMeaning": "बना-बनाया काम बिगाड़ना",
-      "phraseExample": "आखिरी वक्त पर उसने सब गुड़ गोबर कर दिया।"
+      "phraseExample": "आखिरी वक्त पर उसने सब गुड़ गोबर कर दिया।",
+      "meaningInEnglish": "Redolent; strongly reminiscent",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಚಾಣಾಕ್ಷ",
@@ -9016,7 +10302,9 @@ export const dailyContent = [
       "phrase": "ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ",
       "phrasePronunciation": "manege maari oorige upakari",
       "phraseMeaning": "ತನ್ನವರಿಗೆ ಕೆಟ್ಟವನು ಹೊರಗಿನವರಿಗೆ ಒಳ್ಳೆಯವನು",
-      "phraseExample": "ಅವನು ಮನೆಯಲ್ಲಿ ಕೆಟ್ಟವನು ಹೊರಗೆ ಒಳ್ಳೆಯವನು — ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ."
+      "phraseExample": "ಅವನು ಮನೆಯಲ್ಲಿ ಕೆಟ್ಟವನು ಹೊರಗೆ ಒಳ್ಳೆಯವನು — ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ.",
+      "meaningInEnglish": "Chaanaaksha",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆశయసిద్ధి",
@@ -9026,7 +10314,9 @@ export const dailyContent = [
       "phrase": "కష్టపడితే ఫలం దక్కుతుంది",
       "phrasePronunciation": "kashtapadite phalam dakkutundi",
       "phraseMeaning": "పరిశ్రమకు తగిన ఫలితం వస్తుంది",
-      "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది."
+      "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది.",
+      "meaningInEnglish": "Fulfillment of goals",
+      "phraseMeaningInEnglish": "Hard work yields suitable rewards"
     }
   },
   {
@@ -9048,7 +10338,9 @@ export const dailyContent = [
       "phrase": "हाथ कंगन को आरसी क्या",
       "phrasePronunciation": "haath kangan ko aarsi kya",
       "phraseMeaning": "प्रत्यक्ष को प्रमाण की ज़रूरत नहीं",
-      "phraseExample": "नतीजे सामने हैं, हाथ कंगन को आरसी क्या।"
+      "phraseExample": "नतीजे सामने हैं, हाथ कंगन को आरसी क्या।",
+      "meaningInEnglish": "Ludicrous; laughable",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪಂಡಿತ",
@@ -9058,7 +10350,9 @@ export const dailyContent = [
       "phrase": "ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ",
       "phrasePronunciation": "hannu maagidare taane beeluttade",
       "phraseMeaning": "ಸಮಯ ಬಂದಾಗ ತಾನಾಗಿ ಆಗುತ್ತದೆ",
-      "phraseExample": "ಆತುರಪಡಬೇಡ — ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ."
+      "phraseExample": "ಆತುರಪಡಬೇಡ — ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ.",
+      "meaningInEnglish": "Pandita",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "విశేషం",
@@ -9068,7 +10362,9 @@ export const dailyContent = [
       "phrase": "అందని ద్రాక్ష పుల్లన",
       "phrasePronunciation": "andani draaksha pullana",
       "phraseMeaning": "సాధించలేనిది తక్కువ అని చెప్పడం",
-      "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు."
+      "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు.",
+      "meaningInEnglish": "Special",
+      "phraseMeaningInEnglish": "Sour grapes; dismissing what you can't get"
     }
   },
   {
@@ -9090,7 +10386,9 @@ export const dailyContent = [
       "phrase": "आँख का पानी ढलना",
       "phrasePronunciation": "aankh ka paani dhalna",
       "phraseMeaning": "बेशर्म हो जाना",
-      "phraseExample": "झूठ बोलते-बोलते उसकी आँख का पानी ढल गया।"
+      "phraseExample": "झूठ बोलते-बोलते उसकी आँख का पानी ढल गया।",
+      "meaningInEnglish": "Ominous; foreboding",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಫಲವತ್ತಾದ",
@@ -9100,7 +10398,9 @@ export const dailyContent = [
       "phrase": "ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟು",
       "phrasePronunciation": "maatinalli mallige kattu",
       "phraseMeaning": "ಬಹಳ ಮಧುರವಾಗಿ ಮಾತನಾಡು",
-      "phraseExample": "ಅವಳ ಮಾತು ಎಷ್ಟು ಚೆಂದ — ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟುತ್ತಾಳೆ."
+      "phraseExample": "ಅವಳ ಮಾತು ಎಷ್ಟು ಚೆಂದ — ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟುತ್ತಾಳೆ.",
+      "meaningInEnglish": "Phalatvataada",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంధి",
@@ -9110,7 +10410,9 @@ export const dailyContent = [
       "phrase": "చెప్పేది ఒకటి చేసేది ఒకటి",
       "phrasePronunciation": "cheppedi okati chesedi okati",
       "phraseMeaning": "మాటలకు చేతలకు పొంతన లేకపోవడం",
-      "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి."
+      "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి.",
+      "meaningInEnglish": "Junction",
+      "phraseMeaningInEnglish": "Actions don't match words; hypocrisy"
     }
   },
   {
@@ -9132,7 +10434,9 @@ export const dailyContent = [
       "phrase": "अपने मुँह मियाँ मिट्ठू बनना",
       "phrasePronunciation": "apne munh miyan mitthu banna",
       "phraseMeaning": "खुद अपनी तारीफ करना",
-      "phraseExample": "हर बात में अपने मुँह मियाँ मिट्ठू बनता है।"
+      "phraseExample": "हर बात में अपने मुँह मियाँ मिट्ठू बनता है।",
+      "meaningInEnglish": "Tangible; palpable",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ರಹಸ್ಯವಾಗಿ",
@@ -9142,7 +10446,9 @@ export const dailyContent = [
       "phrase": "ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿ",
       "phrasePronunciation": "betta agedu ili hidi",
       "phraseMeaning": "ಬಹಳ ಪ್ರಯತ್ನಕ್ಕೆ ಕಡಿಮೆ ಫಲ",
-      "phraseExample": "ಇಷ್ಟು ಶ್ರಮ ಹಾಕಿ ಇಷ್ಟೇ ಸಿಕ್ಕಿತು — ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿದಂತೆ."
+      "phraseExample": "ಇಷ್ಟು ಶ್ರಮ ಹಾಕಿ ಇಷ್ಟೇ ಸಿಕ್ಕಿತು — ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿದಂತೆ.",
+      "meaningInEnglish": "Rahasyavaagi",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆత్మనిర్భరత",
@@ -9152,7 +10458,9 @@ export const dailyContent = [
       "phrase": "తాడిని తన్నేవాడు కొబ్బరిని తన్నడు",
       "phrasePronunciation": "taadini tannedvaadu kobbarini tannadu",
       "phraseMeaning": "అంత సామర్థ్యం లేనివాడు పెద్ద పనులు చేయలేడు",
-      "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు."
+      "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు.",
+      "meaningInEnglish": "Self-reliance",
+      "phraseMeaningInEnglish": "One without ability can't do big things"
     }
   },
   {
@@ -9174,7 +10482,9 @@ export const dailyContent = [
       "phrase": "घोड़े बेचकर सोना",
       "phrasePronunciation": "ghode bechkar sona",
       "phraseMeaning": "बेफिक्र होकर सोना",
-      "phraseExample": "परीक्षा खत्म, अब घोड़े बेचकर सोएंगे।"
+      "phraseExample": "परीक्षा खत्म, अब घोड़े बेचकर सोएंगे।",
+      "meaningInEnglish": "Ineffable; beyond words",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದೂರುಗಾರ",
@@ -9184,7 +10494,9 @@ export const dailyContent = [
       "phrase": "ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ",
       "phrasePronunciation": "adige maadi ootakke kare",
       "phraseMeaning": "ಎಲ್ಲಾ ಸಿದ್ಧ ಮಾಡಿ ಆಮಂತ್ರಿಸು",
-      "phraseExample": "ತಯಾರಿ ಮುಗಿಸಿ ಕರೆ — ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ."
+      "phraseExample": "ತಯಾರಿ ಮುಗಿಸಿ ಕರೆ — ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ.",
+      "meaningInEnglish": "Doorugaara",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రశంస",
@@ -9194,7 +10506,9 @@ export const dailyContent = [
       "phrase": "నీటిలో దూకినవాడు తడవకుండా ఉంటాడా",
       "phrasePronunciation": "neetilo dookinavaadu tadavakunda untadaa",
       "phraseMeaning": "పనిలో దిగినప్పుడు ఫలితాలు ఉంటాయి",
-      "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా."
+      "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా.",
+      "meaningInEnglish": "Praise",
+      "phraseMeaningInEnglish": "Results come when you get to work"
     }
   },
   {
@@ -9216,7 +10530,9 @@ export const dailyContent = [
       "phrase": "आस्तीन का साँप",
       "phrasePronunciation": "aasteen ka saanp",
       "phraseMeaning": "करीबी होकर धोखा देने वाला",
-      "phraseExample": "वह तो आस्तीन का साँप निकला।"
+      "phraseExample": "वह तो आस्तीन का साँप निकला।",
+      "meaningInEnglish": "Luminous; radiant",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಚಕ್ರವ್ಯೂಹ",
@@ -9226,7 +10542,9 @@ export const dailyContent = [
       "phrase": "ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ",
       "phrasePronunciation": "kallanige beegada kai kottante",
       "phraseMeaning": "ಅಪ್ರಾಮಾಣಿಕ ವ್ಯಕ್ತಿಗೆ ಜವಾಬ್ದಾರಿ ಕೊಟ್ಟಂತೆ",
-      "phraseExample": "ಅವನಿಗೆ ಖಜಾನೆ ಕೊಟ್ಟದ್ದು — ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ."
+      "phraseExample": "ಅವನಿಗೆ ಖಜಾನೆ ಕೊಟ್ಟದ್ದು — ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ.",
+      "meaningInEnglish": "Chakravyooha",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సౌకర్యం",
@@ -9236,7 +10554,9 @@ export const dailyContent = [
       "phrase": "పేదవాని బండికి ఎద్దులు ఆగవు",
       "phrasePronunciation": "pedavaani bandiki eddulu aagavu",
       "phraseMeaning": "డబ్బు లేనివాడికి ఏదీ సమయానికి జరగదు",
-      "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు."
+      "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు.",
+      "meaningInEnglish": "Convenience",
+      "phraseMeaningInEnglish": "Nothing works on time for the poor"
     }
   },
   {
@@ -9258,7 +10578,9 @@ export const dailyContent = [
       "phrase": "एक पंथ दो काज",
       "phrasePronunciation": "ek panth do kaaj",
       "phraseMeaning": "एक काम से दो फायदे",
-      "phraseExample": "वहाँ जाकर मिलना भी हो जाएगा और काम भी — एक पंथ दो काज।"
+      "phraseExample": "वहाँ जाकर मिलना भी हो जाएगा और काम भी — एक पंथ दो काज।",
+      "meaningInEnglish": "Dogmatic; opinionated",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಆನಂದಿತ",
@@ -9268,7 +10590,9 @@ export const dailyContent = [
       "phrase": "ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ",
       "phrasePronunciation": "male bandare mane illa biisilige adige illa",
       "phraseMeaning": "ಎಲ್ಲ ಕಡೆ ಸಮಸ್ಯೆ",
-      "phraseExample": "ಅವನ ಪರಿಸ್ಥಿತಿ ಕಷ್ಟ — ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ."
+      "phraseExample": "ಅವನ ಪರಿಸ್ಥಿತಿ ಕಷ್ಟ — ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ.",
+      "meaningInEnglish": "Aanandita",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆశ",
@@ -9278,7 +10602,9 @@ export const dailyContent = [
       "phrase": "మనసు మంచిదైతే మార్గం కనిపిస్తుంది",
       "phrasePronunciation": "manasu manchidaite maargam kanipistundi",
       "phraseMeaning": "మంచి ఉద్దేశ్యం ఉంటే దారి దొరుకుతుంది",
-      "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది."
+      "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది.",
+      "meaningInEnglish": "Hope",
+      "phraseMeaningInEnglish": "Good intentions find a way"
     }
   },
   {
@@ -9300,7 +10626,9 @@ export const dailyContent = [
       "phrase": "खून का घूँट पीना",
       "phrasePronunciation": "khoon ka ghoont peena",
       "phraseMeaning": "गुस्सा दबाकर सहना",
-      "phraseExample": "अपमान सुनकर उसने खून का घूँट पी लिया।"
+      "phraseExample": "अपमान सुनकर उसने खून का घूँट पी लिया।",
+      "meaningInEnglish": "Aware",
+      "phraseMeaningInEnglish": "To suppress anger and endure"
     },
     "kannada": {
       "word": "ಅಲೆದಾಡು",
@@ -9310,7 +10638,9 @@ export const dailyContent = [
       "phrase": "ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು",
       "phrasePronunciation": "haalu kudida makkalu",
       "phraseMeaning": "ಮುಗ್ಧ ಮತ್ತು ಅನನುಭವಿ",
-      "phraseExample": "ಅವರು ಇನ್ನೂ ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು."
+      "phraseExample": "ಅವರು ಇನ್ನೂ ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು.",
+      "meaningInEnglish": "Aledaadu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిర్భయం",
@@ -9320,7 +10650,9 @@ export const dailyContent = [
       "phrase": "రాయిని దేవుడని పూజిస్తే అది దేవుడే",
       "phrasePronunciation": "raayini devudani poojisite adi devude",
       "phraseMeaning": "నమ్మకం ఉంటే ఏదైనా సాధ్యం",
-      "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే."
+      "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే.",
+      "meaningInEnglish": "Fearless",
+      "phraseMeaningInEnglish": "Faith makes anything possible"
     }
   },
   {
@@ -9342,7 +10674,9 @@ export const dailyContent = [
       "phrase": "गागर में सागर भरना",
       "phrasePronunciation": "gaagar mein saagar bharna",
       "phraseMeaning": "कम शब्दों में गहरी बात कहना",
-      "phraseExample": "कबीर के दोहे गागर में सागर भरते हैं।"
+      "phraseExample": "कबीर के दोहे गागर में सागर भरते हैं।",
+      "meaningInEnglish": "Careful",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಲೋಭಿ",
@@ -9352,7 +10686,9 @@ export const dailyContent = [
       "phrase": "ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು",
       "phrasePronunciation": "kaage koota mara muriyitu",
       "phraseMeaning": "ಕಾಕತಾಳೀಯ ಘಟನೆ",
-      "phraseExample": "ಅವನು ಬಂದ ಕೂಡಲೇ ಮಳೆ ಬಂತು — ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು."
+      "phraseExample": "ಅವನು ಬಂದ ಕೂಡಲೇ ಮಳೆ ಬಂತು — ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು.",
+      "meaningInEnglish": "Lobhi",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ధర్మం",
@@ -9362,7 +10698,9 @@ export const dailyContent = [
       "phrase": "ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది",
       "phrasePronunciation": "enta pedda chettainaa vittananto modalavutundi",
       "phraseMeaning": "ప్రతి గొప్ప విషయం చిన్నగా మొదలవుతుంది",
-      "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది."
+      "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది.",
+      "meaningInEnglish": "Righteousness",
+      "phraseMeaningInEnglish": "Every great thing starts small"
     }
   },
   {
@@ -9384,7 +10722,9 @@ export const dailyContent = [
       "phrase": "चिराग तले अँधेरा",
       "phrasePronunciation": "chiraag tale andhera",
       "phraseMeaning": "अपने घर में ही खराबी",
-      "phraseExample": "पुलिस अधिकारी का बेटा चोर — चिराग तले अँधेरा।"
+      "phraseExample": "पुलिस अधिकारी का बेटा चोर — चिराग तले अँधेरा।",
+      "meaningInEnglish": "Sharp; acute",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕುತರ್ಕ",
@@ -9394,7 +10734,9 @@ export const dailyContent = [
       "phrase": "ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ",
       "phrasePronunciation": "akka hogi nentar mane tangi hogi gandan mane",
       "phraseMeaning": "ಎಲ್ಲರೂ ತಮ್ಮ ದಾರಿ ಹಿಡಿದರು",
-      "phraseExample": "ಮಕ್ಕಳೆಲ್ಲ ಬೆಳೆದು ಹೋದರು — ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ."
+      "phraseExample": "ಮಕ್ಕಳೆಲ್ಲ ಬೆಳೆದು ಹೋದರು — ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ.",
+      "meaningInEnglish": "Kutarka",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అభయం",
@@ -9404,7 +10746,9 @@ export const dailyContent = [
       "phrase": "నవ్వు నాలుగు విధాల మేలు",
       "phrasePronunciation": "navvu naalugu vidhaala melu",
       "phraseMeaning": "నవ్వడం ఆరోగ్యానికి మంచిది",
-      "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు."
+      "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు.",
+      "meaningInEnglish": "Assurance",
+      "phraseMeaningInEnglish": "Laughter is the best medicine"
     }
   },
   {
@@ -9426,7 +10770,9 @@ export const dailyContent = [
       "phrase": "जले पर नमक छिड़कना",
       "phrasePronunciation": "jale par namak chhidakna",
       "phraseMeaning": "दुखी को और दुखी करना",
-      "phraseExample": "हार के बाद ताने मत मारो, जले पर नमक मत छिड़को।"
+      "phraseExample": "हार के बाद ताने मत मारो, जले पर नमक मत छिड़को।",
+      "meaningInEnglish": "Dichotomy; dual division",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ನಿಖರ",
@@ -9436,7 +10782,9 @@ export const dailyContent = [
       "phrase": "ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು",
       "phrasePronunciation": "obbana oota ibbarige saaladu",
       "phraseMeaning": "ಕಡಿಮೆ ಸಂಪನ್ಮೂಲ",
-      "phraseExample": "ಇಷ್ಟು ಸಂಬಳ ಸಾಲದು — ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು."
+      "phraseExample": "ಇಷ್ಟು ಸಂಬಳ ಸಾಲದು — ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು.",
+      "meaningInEnglish": "Precise",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రతిస్పందన",
@@ -9446,7 +10794,9 @@ export const dailyContent = [
       "phrase": "అప్పు తీర్చని వాడికి పరపతి ఉండదు",
       "phrasePronunciation": "appu teerchani vaadiki parapati undadu",
       "phraseMeaning": "నమ్మకం కోల్పోతే మళ్ళీ రాదు",
-      "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు."
+      "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు.",
+      "meaningInEnglish": "Response",
+      "phraseMeaningInEnglish": "Trust, once lost, is hard to regain"
     }
   },
   {
@@ -9468,7 +10818,9 @@ export const dailyContent = [
       "phrase": "नाक कटना",
       "phrasePronunciation": "naak katna",
       "phraseMeaning": "इज्जत जाना",
-      "phraseExample": "बेटे के व्यवहार से पिता की नाक कट गई।"
+      "phraseExample": "बेटे के व्यवहार से पिता की नाक कट गई।",
+      "meaningInEnglish": "Appropriate",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮುನ್ಸೂಚನೆ",
@@ -9478,7 +10830,9 @@ export const dailyContent = [
       "phrase": "ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ",
       "phrasePronunciation": "kaleda kaala matte baralla",
       "phraseMeaning": "ಹೋದ ಸಮಯ ಹಿಂತಿರುಗುವುದಿಲ್ಲ",
-      "phraseExample": "ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಬೇಡ — ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ."
+      "phraseExample": "ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಬೇಡ — ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ.",
+      "meaningInEnglish": "Munsuchane",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంస్థ",
@@ -9488,7 +10842,9 @@ export const dailyContent = [
       "phrase": "ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు",
       "phrasePronunciation": "ekkada chepalu levo akkada kappe raaju",
       "phraseMeaning": "సమర్థులు లేని చోట అసమర్థులు పెత్తనం చేస్తారు",
-      "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు."
+      "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు.",
+      "meaningInEnglish": "Institution",
+      "phraseMeaningInEnglish": "In the land of the blind, the one-eyed is king"
     }
   },
   {
@@ -9510,7 +10866,9 @@ export const dailyContent = [
       "phrase": "पेट में चूहे दौड़ना",
       "phrasePronunciation": "pet mein choohe daudna",
       "phraseMeaning": "बहुत भूख लगना",
-      "phraseExample": "दोपहर से कुछ नहीं खाया, पेट में चूहे दौड़ रहे हैं।"
+      "phraseExample": "दोपहर से कुछ नहीं खाया, पेट में चूहे दौड़ रहे हैं।",
+      "meaningInEnglish": "Metamorphosis; transformation",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಂಕ್ಷಿಪ್ತತೆ",
@@ -9520,7 +10878,9 @@ export const dailyContent = [
       "phrase": "ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು",
       "phrasePronunciation": "ketta mele buddhi bantu",
       "phraseMeaning": "ನಷ್ಟ ಆದ ಮೇಲೆ ಅರಿವು ಬಂತು",
-      "phraseExample": "ಈಗ ಅರ್ಥ ಆಯಿತು — ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು."
+      "phraseExample": "ಈಗ ಅರ್ಥ ಆಯಿತು — ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು.",
+      "meaningInEnglish": "Sankshiptate",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అద్భుతం",
@@ -9530,7 +10890,9 @@ export const dailyContent = [
       "phrase": "చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది",
       "phrasePronunciation": "chettu narikina modalu unte chiguristundi",
       "phraseMeaning": "మూలం బలంగా ఉంటే తిరిగి లేవగలం",
-      "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది."
+      "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది.",
+      "meaningInEnglish": "Wonder",
+      "phraseMeaningInEnglish": "Strong roots help you rise again"
     }
   },
   {
@@ -9552,7 +10914,9 @@ export const dailyContent = [
       "phrase": "मक्खी पर मक्खी मारना",
       "phrasePronunciation": "makkhi par makkhi maarna",
       "phraseMeaning": "नकल करना",
-      "phraseExample": "वह हमेशा दूसरों पर मक्खी मारता है।"
+      "phraseExample": "वह हमेशा दूसरों पर मक्खी मारता है।",
+      "meaningInEnglish": "Harsh; rigid",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆ",
@@ -9562,7 +10926,9 @@ export const dailyContent = [
       "phrase": "ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ",
       "phrasePronunciation": "kottiddu tanage bachchittiddu pararige",
       "phraseMeaning": "ದಾನ ಮಾಡಿದ್ದು ನಿಮಗೇ ಲಾಭ",
-      "phraseExample": "ದಾನ ಮಾಡು — ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ."
+      "phraseExample": "ದಾನ ಮಾಡು — ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ.",
+      "meaningInEnglish": "Hechchina sankhye",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రతిభ",
@@ -9572,7 +10938,9 @@ export const dailyContent = [
       "phrase": "కుక్క తోక వంకరే",
       "phrasePronunciation": "kukka toka vankare",
       "phraseMeaning": "కొందరి స్వభావం ఎప్పటికీ మారదు",
-      "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే."
+      "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే.",
+      "meaningInEnglish": "Talent",
+      "phraseMeaningInEnglish": "A leopard can't change its spots"
     }
   },
   {
@@ -9594,7 +10962,9 @@ export const dailyContent = [
       "phrase": "उल्टी गंगा बहाना",
       "phrasePronunciation": "ulti ganga bahana",
       "phraseMeaning": "सामान्य नियम के विपरीत करना",
-      "phraseExample": "बच्चे बड़ों को सिखा रहे हैं — उल्टी गंगा बह रही है।"
+      "phraseExample": "बच्चे बड़ों को सिखा रहे हैं — उल्टी गंगा बह रही है।",
+      "meaningInEnglish": "Catharsis; emotional release",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಉತ್ಕಟ",
@@ -9604,7 +10974,9 @@ export const dailyContent = [
       "phrase": "ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ",
       "phrasePronunciation": "kalitavanige kadaloo halla",
       "phraseMeaning": "ಜ್ಞಾನಿಗೆ ಎಲ್ಲವೂ ಸುಲಭ",
-      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಕೆಲಸವೂ ಕಷ್ಟವಲ್ಲ — ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ."
+      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಕೆಲಸವೂ ಕಷ್ಟವಲ್ಲ — ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ.",
+      "meaningInEnglish": "Utkata",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "విజ్ఞానం",
@@ -9614,7 +10986,9 @@ export const dailyContent = [
       "phrase": "తినే చేతిని కోయరాదు",
       "phrasePronunciation": "tine chetini koyaraadu",
       "phraseMeaning": "తనకు సహాయం చేసేవాళ్ళను మోసం చేయకూడదు",
-      "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు."
+      "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు.",
+      "meaningInEnglish": "Knowledge",
+      "phraseMeaningInEnglish": "Don't bite the hand that feeds you"
     }
   },
   {
@@ -9636,7 +11010,9 @@ export const dailyContent = [
       "phrase": "आग बबूला होना",
       "phrasePronunciation": "aag baboola hona",
       "phraseMeaning": "बहुत गुस्सा होना",
-      "phraseExample": "देरी सुनकर बॉस आग बबूला हो गया।"
+      "phraseExample": "देरी सुनकर बॉस आग बबूला हो गया।",
+      "meaningInEnglish": "Nostalgia; wistful longing",
+      "phraseMeaningInEnglish": "To be furious; to see red"
     },
     "kannada": {
       "word": "ವಾಕ್ಚಾತುರ್ಯ",
@@ -9646,7 +11022,9 @@ export const dailyContent = [
       "phrase": "ಹೊಸ ಬಾಳೆ ಎಲೆ ಹಳೆ ಬಾಳೆ ಎಲೆ ಜೊತೆ ಸೇರಿ ಸುಟ್ಟು ಹೋಯಿತು",
       "phrasePronunciation": "hosa baale ele hale baale ele jote seri suttu hoyitu",
       "phraseMeaning": "ಒಳ್ಳೆಯವನು ಕೆಟ್ಟವರ ಸಹವಾಸದಲ್ಲಿ ಹಾಳಾಗುತ್ತಾನೆ",
-      "phraseExample": "ಕೆಟ್ಟ ಸ್ನೇಹಿತರಿಂದ ದೂರ ಇರು."
+      "phraseExample": "ಕೆಟ್ಟ ಸ್ನೇಹಿತರಿಂದ ದೂರ ಇರು.",
+      "meaningInEnglish": "Eloquence; oratory",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సాహసం",
@@ -9656,7 +11034,9 @@ export const dailyContent = [
       "phrase": "దూరపు కొండలు నునుపు",
       "phrasePronunciation": "doorapu kondalu nunupu",
       "phraseMeaning": "దూరం నుండి చూస్తే అన్నీ బాగుంటాయి",
-      "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు."
+      "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు.",
+      "meaningInEnglish": "Courage",
+      "phraseMeaningInEnglish": "Distant hills look green"
     }
   },
   {
@@ -9678,7 +11058,9 @@ export const dailyContent = [
       "phrase": "टेढ़ी खीर होना",
       "phrasePronunciation": "tedhi kheer hona",
       "phraseMeaning": "बहुत कठिन काम",
-      "phraseExample": "इस परीक्षा को पास करना टेढ़ी खीर है।"
+      "phraseExample": "इस परीक्षा को पास करना टेढ़ी खीर है।",
+      "meaningInEnglish": "Dilemma; confusion",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ತೃಪ್ತಿ ಪಡಿಸು",
@@ -9688,7 +11070,9 @@ export const dailyContent = [
       "phrase": "ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು",
       "phrasePronunciation": "idda oorige illada hesaru",
       "phraseMeaning": "ಸುಳ್ಳು ಪ್ರಚಾರ",
-      "phraseExample": "ಆ ವಂದನೆಗಳೆಲ್ಲ ಸುಳ್ಳು — ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು."
+      "phraseExample": "ಆ ವಂದನೆಗಳೆಲ್ಲ ಸುಳ್ಳು — ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು.",
+      "meaningInEnglish": "Tripti padisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆనందం",
@@ -9698,7 +11082,9 @@ export const dailyContent = [
       "phrase": "ఆకు రాలినా చెట్టు నిలబడుతుంది",
       "phrasePronunciation": "aaku raalinaa chettu nilabadutundi",
       "phraseMeaning": "కష్టాలు వచ్చినా మనిషి నిలబడాలి",
-      "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది."
+      "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది.",
+      "meaningInEnglish": "Joy",
+      "phraseMeaningInEnglish": "Stand firm even in adversity"
     }
   },
   {
@@ -9720,7 +11106,9 @@ export const dailyContent = [
       "phrase": "हवा से बातें करना",
       "phrasePronunciation": "hava se baaten karna",
       "phraseMeaning": "बहुत तेज दौड़ना",
-      "phraseExample": "वह घोड़ा हवा से बातें करता है।"
+      "phraseExample": "वह घोड़ा हवा से बातें करता है।",
+      "meaningInEnglish": "Nihilism; belief life is meaningless",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಗೌರವ",
@@ -9730,7 +11118,9 @@ export const dailyContent = [
       "phrase": "ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು",
       "phrasePronunciation": "neeru bandaaga oddu kattu",
       "phraseMeaning": "ಸಮಸ್ಯೆ ಬಂದಾಗ ತಕ್ಷಣ ಪರಿಹಾರ ಮಾಡು",
-      "phraseExample": "ಈಗಲೇ ಕ್ರಮ ತೆಗೆದುಕೊ — ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು."
+      "phraseExample": "ಈಗಲೇ ಕ್ರಮ ತೆಗೆದುಕೊ — ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು.",
+      "meaningInEnglish": "Respect",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "క్షమాపణ",
@@ -9740,7 +11130,9 @@ export const dailyContent = [
       "phrase": "ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు",
       "phrasePronunciation": "mundu choopu lenivadu venakki choostadu",
       "phraseMeaning": "ముందు ఆలోచించకపోతే తర్వాత బాధపడతాడు",
-      "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు."
+      "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు.",
+      "meaningInEnglish": "Apology",
+      "phraseMeaningInEnglish": "Failing to plan is planning to fail"
     }
   },
   {
@@ -9762,7 +11154,9 @@ export const dailyContent = [
       "phrase": "पहाड़ टूट पड़ना",
       "phrasePronunciation": "pahaad toot padna",
       "phraseMeaning": "बड़ी मुसीबत आना",
-      "phraseExample": "नौकरी जाने से उस पर दुखों का पहाड़ टूट पड़ा।"
+      "phraseExample": "नौकरी जाने से उस पर दुखों का पहाड़ टूट पड़ा।",
+      "meaningInEnglish": "Obsequiousness; fawning",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಭವ್ಯ",
@@ -9772,7 +11166,9 @@ export const dailyContent = [
       "phrase": "ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು",
       "phrasePronunciation": "aluva maguvige haalu hechchu",
       "phraseMeaning": "ಕೇಳಿದವರಿಗೆ ಹೆಚ್ಚು ಸಿಗುತ್ತದೆ",
-      "phraseExample": "ಕೇಳು — ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು."
+      "phraseExample": "ಕೇಳು — ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು.",
+      "meaningInEnglish": "Grand; magnificent",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ధైర్యం",
@@ -9782,7 +11178,9 @@ export const dailyContent = [
       "phrase": "ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది",
       "phrasePronunciation": "eddu puttindi ellaku panikostundi",
       "phraseMeaning": "అన్నీ సమయం వచ్చినప్పుడు ఉపయోగపడతాయి",
-      "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది."
+      "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది.",
+      "meaningInEnglish": "Bravery",
+      "phraseMeaningInEnglish": "Everything has its time and use"
     }
   },
   {
@@ -9804,7 +11202,9 @@ export const dailyContent = [
       "phrase": "तूती बोलना",
       "phrasePronunciation": "tooti bolna",
       "phraseMeaning": "बहुत प्रभाव होना",
-      "phraseExample": "इस शहर में उसकी तूती बोलती है।"
+      "phraseExample": "इस शहर में उसकी तूती बोलती है।",
+      "meaningInEnglish": "Insipid; bland",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪ್ರಾಬಲ್ಯಕಾರಿ",
@@ -9814,7 +11214,9 @@ export const dailyContent = [
       "phrase": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ",
       "phrasePronunciation": "taayi idda mane devara mane",
       "phraseMeaning": "ತಾಯಿ ಇರುವ ಮನೆ ಪವಿತ್ರ",
-      "phraseExample": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ — ಅವಳನ್ನು ಗೌರವಿಸು."
+      "phraseExample": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ — ಅವಳನ್ನು ಗೌರವಿಸು.",
+      "meaningInEnglish": "Praabalyakaari",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "వివేకం",
@@ -9824,7 +11226,9 @@ export const dailyContent = [
       "phrase": "బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు",
       "phrasePronunciation": "buddhi unnavadiki balam avasaram ledu",
       "phraseMeaning": "తెలివి ఉంటే శక్తి అవసరం లేదు",
-      "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు."
+      "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు.",
+      "meaningInEnglish": "Wisdom",
+      "phraseMeaningInEnglish": "Brain over brawn"
     }
   },
   {
@@ -9846,7 +11250,9 @@ export const dailyContent = [
       "phrase": "नानी याद आना",
       "phrasePronunciation": "naani yaad aana",
       "phraseMeaning": "बहुत कठिनाई होना",
-      "phraseExample": "पहाड़ चढ़ते-चढ़ते नानी याद आ गई।"
+      "phraseExample": "पहाड़ चढ़ते-चढ़ते नानी याद आ गई।",
+      "meaningInEnglish": "Nostalgia; fond memories",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅನಗತ್ಯ",
@@ -9856,7 +11262,9 @@ export const dailyContent = [
       "phrase": "ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ",
       "phrasePronunciation": "duddiddavane doddappa",
       "phraseMeaning": "ಹಣ ಇದ್ದವನಿಗೆ ಗೌರವ",
-      "phraseExample": "ಈ ಜಗತ್ತಿನಲ್ಲಿ ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ."
+      "phraseExample": "ಈ ಜಗತ್ತಿನಲ್ಲಿ ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ.",
+      "meaningInEnglish": "Anagatya",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంకల్పం",
@@ -9866,7 +11274,9 @@ export const dailyContent = [
       "phrase": "పెద్దల మాట చద్దన్నం మూట",
       "phrasePronunciation": "peddala maata chaddannam moota",
       "phraseMeaning": "పెద్దల సలహా ఎల్లప్పుడూ ఉపయోగకరం",
-      "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట."
+      "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట.",
+      "meaningInEnglish": "Determination",
+      "phraseMeaningInEnglish": "Elders' advice is always valuable"
     }
   },
   {
@@ -9888,7 +11298,9 @@ export const dailyContent = [
       "phrase": "कमर कसना",
       "phrasePronunciation": "kamar kasna",
       "phraseMeaning": "तैयारी करना",
-      "phraseExample": "परीक्षा के लिए कमर कस ली।"
+      "phraseExample": "परीक्षा के लिए कमर कस ली।",
+      "meaningInEnglish": "Malaise; general unease",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಶಿಖರ",
@@ -9898,7 +11310,9 @@ export const dailyContent = [
       "phrase": "ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ",
       "phrasePronunciation": "hottege hittilla juttige mallige",
       "phraseMeaning": "ಆಡಂಬರ ಹೆಚ್ಚು ಆದರೆ ಯೋಗ್ಯತೆ ಇಲ್ಲ",
-      "phraseExample": "ಅವನ ಬಳಿ ಏನೂ ಇಲ್ಲ ಆದರೆ ತೋರಿಕೆ ಹೆಚ್ಚು — ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ."
+      "phraseExample": "ಅವನ ಬಳಿ ಏನೂ ಇಲ್ಲ ಆದರೆ ತೋರಿಕೆ ಹೆಚ್ಚು — ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ.",
+      "meaningInEnglish": "Shikhara",
+      "phraseMeaningInEnglish": "All show and no substance"
     },
     "telugu": {
       "word": "ఔదార్యం",
@@ -9908,7 +11322,9 @@ export const dailyContent = [
       "phrase": "మాటే మంత్రం",
       "phrasePronunciation": "maate mantram",
       "phraseMeaning": "మాటలో చాలా శక్తి ఉంది",
-      "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం."
+      "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం.",
+      "meaningInEnglish": "Generosity",
+      "phraseMeaningInEnglish": "Words carry great power"
     }
   },
   {
@@ -9930,7 +11346,9 @@ export const dailyContent = [
       "phrase": "दिन में तारे दिखाना",
       "phrasePronunciation": "din mein taare dikhana",
       "phraseMeaning": "बहुत परेशान करना",
-      "phraseExample": "इस बीमारी ने दिन में तारे दिखा दिए।"
+      "phraseExample": "इस बीमारी ने दिन में तारे दिखा दिए।",
+      "meaningInEnglish": "Hedonism; pursuit of pleasure",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ವಿಲೀನ",
@@ -9940,7 +11358,9 @@ export const dailyContent = [
       "phrase": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು",
       "phrasePronunciation": "kai kesaraadare baayi mosaru",
       "phraseMeaning": "ಕಷ್ಟಪಟ್ಟರೆ ಫಲ ಸಿಗುತ್ತದೆ",
-      "phraseExample": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು — ಪ್ರಯತ್ನ ಮಾಡು."
+      "phraseExample": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು — ಪ್ರಯತ್ನ ಮಾಡು.",
+      "meaningInEnglish": "Merged; dissolved",
+      "phraseMeaningInEnglish": "Hard work yields fruit"
     },
     "telugu": {
       "word": "పరిశ్రమ",
@@ -9950,7 +11370,9 @@ export const dailyContent = [
       "phrase": "కంటికి రెప్పలా కాపాడు",
       "phrasePronunciation": "kantiki reppalaa kaapaadu",
       "phraseMeaning": "చాలా జాగ్రత్తగా రక్షించడం",
-      "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది."
+      "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది.",
+      "meaningInEnglish": "Hard work",
+      "phraseMeaningInEnglish": "To guard something very preciously"
     }
   },
   {
@@ -9972,7 +11394,9 @@ export const dailyContent = [
       "phrase": "खरी-खरी सुनाना",
       "phrasePronunciation": "khari-khari sunana",
       "phraseMeaning": "सीधी सच्ची बात कहना",
-      "phraseExample": "उसने बॉस को खरी-खरी सुना दी।"
+      "phraseExample": "उसने बॉस को खरी-खरी सुना दी।",
+      "meaningInEnglish": "Spontaneous; unplanned",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕೆಳಗಿಳಿಸು",
@@ -9982,7 +11406,9 @@ export const dailyContent = [
       "phrase": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ",
       "phrasePronunciation": "aliya banda aduge mane tanaka",
       "phraseMeaning": "ಅತಿಥಿ ಅತಿಯಾಗಿ ಹಕ್ಕು ಚಲಾಯಿಸುವುದು",
-      "phraseExample": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ ಎಂಬಂತೆ ಅವನು ಮನೆಯಲ್ಲಿ ರಾಜ್ಯ ಆಳುತ್ತಿದ್ದಾನೆ."
+      "phraseExample": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ ಎಂಬಂತೆ ಅವನು ಮನೆಯಲ್ಲಿ ರಾಜ್ಯ ಆಳುತ್ತಿದ್ದಾನೆ.",
+      "meaningInEnglish": "Kelegilisu",
+      "phraseMeaningInEnglish": "A guest overstepping their welcome"
     },
     "telugu": {
       "word": "సంతోషం",
@@ -9992,7 +11418,9 @@ export const dailyContent = [
       "phrase": "ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు",
       "phrasePronunciation": "aachaaram aaripoyinaa aavakaaya aaradu",
       "phraseMeaning": "కొన్ని అలవాట్లు ఎప్పటికీ మారవు",
-      "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు."
+      "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు.",
+      "meaningInEnglish": "Happiness",
+      "phraseMeaningInEnglish": "Old habits die hard"
     }
   },
   {
@@ -10014,7 +11442,9 @@ export const dailyContent = [
       "phrase": "चादर देखकर पैर फैलाना",
       "phrasePronunciation": "chaadar dekhkar pair failana",
       "phraseMeaning": "आय के अनुसार खर्च करना",
-      "phraseExample": "चादर देखकर पैर फैलाओ वरना कर्ज में डूब जाओगे।"
+      "phraseExample": "चादर देखकर पैर फैलाओ वरना कर्ज में डूब जाओगे।",
+      "meaningInEnglish": "Mundane; ordinary",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಬಡ",
@@ -10024,7 +11454,9 @@ export const dailyContent = [
       "phrase": "ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ",
       "phrasePronunciation": "ettige jvara bandare emmege bare",
       "phraseMeaning": "ಒಬ್ಬರ ಸಮಸ್ಯೆಯನ್ನು ಇನ್ನೊಬ್ಬರ ಮೇಲೆ ಹಾಕುವುದು",
-      "phraseExample": "ನನ್ನ ತಪ್ಪಿಗೆ ಅವನಿಗೆ ಶಿಕ್ಷೆ — ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ."
+      "phraseExample": "ನನ್ನ ತಪ್ಪಿಗೆ ಅವನಿಗೆ ಶಿಕ್ಷೆ — ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ.",
+      "meaningInEnglish": "Bada",
+      "phraseMeaningInEnglish": "Passing one's problems onto others"
     },
     "telugu": {
       "word": "నిజాయితీ",
@@ -10034,7 +11466,9 @@ export const dailyContent = [
       "phrase": "నిజం తెలిసినా తెలియనట్లు ఉండటం",
       "phrasePronunciation": "nijam telisina teliyannattlu undadam",
       "phraseMeaning": "నిజం తెలిసి కూడా మౌనంగా ఉండటం",
-      "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం."
+      "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం.",
+      "meaningInEnglish": "Honesty",
+      "phraseMeaningInEnglish": "Knowing the truth but staying silent"
     }
   },
   {
@@ -10056,7 +11490,9 @@ export const dailyContent = [
       "phrase": "एक और एक ग्यारह होना",
       "phrasePronunciation": "ek aur ek gyaarah hona",
       "phraseMeaning": "एकता में बल होना",
-      "phraseExample": "दोनों दोस्तों ने मिलकर काम किया — एक और एक ग्यारह हो गए।"
+      "phraseExample": "दोनों दोस्तों ने मिलकर काम किया — एक और एक ग्यारह हो गए।",
+      "meaningInEnglish": "Acerbic; bitter",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕ್ಷಣಿಕ",
@@ -10066,7 +11502,9 @@ export const dailyContent = [
       "phrase": "ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ",
       "phrasePronunciation": "kuri kaayuvavana kaili dana kottante",
       "phraseMeaning": "ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ ಜವಾಬ್ದಾರಿ ಕೊಡುವುದು",
-      "phraseExample": "ಅವನಿಗೆ ಆ ಕೆಲಸ ಕೊಟ್ಟದ್ದು ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ."
+      "phraseExample": "ಅವನಿಗೆ ಆ ಕೆಲಸ ಕೊಟ್ಟದ್ದು ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ.",
+      "meaningInEnglish": "Transient; momentary",
+      "phraseMeaningInEnglish": "Giving responsibility to an unworthy person"
     },
     "telugu": {
       "word": "సహనం",
@@ -10076,7 +11514,9 @@ export const dailyContent = [
       "phrase": "వెన్నెల్లో చల్లగాలి తగిలినట్లు",
       "phrasePronunciation": "vennello challagaali tagilinattlu",
       "phraseMeaning": "చాలా హాయిగా ఉండటం",
-      "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది."
+      "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది.",
+      "meaningInEnglish": "Patience",
+      "phraseMeaningInEnglish": "Feeling very pleasant and comfortable"
     }
   },
   {
@@ -10098,7 +11538,9 @@ export const dailyContent = [
       "phrase": "लकीर का फकीर होना",
       "phrasePronunciation": "lakeer ka fakeer hona",
       "phraseMeaning": "पुरानी बातों पर ही चलना",
-      "phraseExample": "वह लकीर का फकीर है, नई सोच स्वीकार नहीं करता।"
+      "phraseExample": "वह लकीर का फकीर है, नई सोच स्वीकार नहीं करता।",
+      "meaningInEnglish": "To excoriate; to criticize harshly",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪಕ್ಷಪಾತಿ",
@@ -10108,7 +11550,9 @@ export const dailyContent = [
       "phrase": "ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ",
       "phrasePronunciation": "gaali bandaaga tooriko",
       "phraseMeaning": "ಅವಕಾಶ ಸಿಕ್ಕಾಗ ಉಪಯೋಗಿಸಿಕೊ",
-      "phraseExample": "ಅವಕಾಶ ಸಿಕ್ಕಿದೆ, ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ."
+      "phraseExample": "ಅವಕಾಶ ಸಿಕ್ಕಿದೆ, ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ.",
+      "meaningInEnglish": "Pakshapaati",
+      "phraseMeaningInEnglish": "Seize the opportunity when it comes"
     },
     "telugu": {
       "word": "కృతజ్ఞత",
@@ -10118,7 +11562,9 @@ export const dailyContent = [
       "phrase": "ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా",
       "phrasePronunciation": "aavu chelo meste dooda gattuna mestundaa",
       "phraseMeaning": "పెద్దలు చేసేది పిల్లలు కూడా చేస్తారు",
-      "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా."
+      "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా.",
+      "meaningInEnglish": "Gratitude",
+      "phraseMeaningInEnglish": "Children follow what elders do"
     }
   },
   {
@@ -10140,7 +11586,9 @@ export const dailyContent = [
       "phrase": "सिर पर कफन बाँधना",
       "phrasePronunciation": "sir par kafan baandhna",
       "phraseMeaning": "मरने को तैयार होना",
-      "phraseExample": "सैनिकों ने सिर पर कफन बाँध लिया।"
+      "phraseExample": "सैनिकों ने सिर पर कफन बाँध लिया।",
+      "meaningInEnglish": "Torpid; sluggish",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮುಗ್ಧ",
@@ -10150,7 +11598,9 @@ export const dailyContent = [
       "phrase": "ಮೊಸಳೆ ಕಣ್ಣೀರು",
       "phrasePronunciation": "mosale kanneeru",
       "phraseMeaning": "ಸುಳ್ಳು ಅನುಕಂಪ",
-      "phraseExample": "ಅವನ ದುಃಖ ಮೊಸಳೆ ಕಣ್ಣೀರು."
+      "phraseExample": "ಅವನ ದುಃಖ ಮೊಸಳೆ ಕಣ್ಣೀರು.",
+      "meaningInEnglish": "Mugdha",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆత్మవిశ్వాసం",
@@ -10160,7 +11610,9 @@ export const dailyContent = [
       "phrase": "ఒక చేత్తో చప్పట్లు కొట్టలేం",
       "phrasePronunciation": "oka chettto chappatlu kottalem",
       "phraseMeaning": "ఒంటరిగా ఏదీ సాధ్యం కాదు",
-      "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం."
+      "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం.",
+      "meaningInEnglish": "Self-confidence",
+      "phraseMeaningInEnglish": "Nothing is possible alone; teamwork matters"
     }
   },
   {
@@ -10182,7 +11634,9 @@ export const dailyContent = [
       "phrase": "दूध का दूध पानी का पानी",
       "phrasePronunciation": "doodh ka doodh paani ka paani",
       "phraseMeaning": "सच और झूठ का फैसला करना",
-      "phraseExample": "जाँच में दूध का दूध पानी का पानी हो जाएगा।"
+      "phraseExample": "जाँच में दूध का दूध पानी का पानी हो जाएगा।",
+      "meaningInEnglish": "Abstruse; hard to understand",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಉದಾರ",
@@ -10192,7 +11646,9 @@ export const dailyContent = [
       "phrase": "ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ",
       "phrasePronunciation": "kodali kaavu koduva mara",
       "phraseMeaning": "ತನ್ನನ್ನೇ ಕಡಿಯಲು ಸಹಾಯ ಮಾಡುವುದು",
-      "phraseExample": "ಅವನಿಗೇ ಮಾಹಿತಿ ಕೊಟ್ಟೆ — ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ ಆದೆ."
+      "phraseExample": "ಅವನಿಗೇ ಮಾಹಿತಿ ಕೊಟ್ಟೆ — ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ ಆದೆ.",
+      "meaningInEnglish": "Udaara",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిబద్ధత",
@@ -10202,7 +11658,9 @@ export const dailyContent = [
       "phrase": "వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు",
       "phrasePronunciation": "vepachettu kinda paalu taaginaa chedu antaaru",
       "phraseMeaning": "చెడ్డ పేరు వస్తే ఎంత మంచి చేసినా నమ్మరు",
-      "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు."
+      "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు.",
+      "meaningInEnglish": "Commitment",
+      "phraseMeaningInEnglish": "A bad name sticks no matter what"
     }
   },
   {
@@ -10224,7 +11682,9 @@ export const dailyContent = [
       "phrase": "सर आँखों पर बिठाना",
       "phrasePronunciation": "sar aankhon par bithana",
       "phraseMeaning": "बहुत सम्मान देना",
-      "phraseExample": "मेहमान को सर आँखों पर बिठाया।"
+      "phraseExample": "मेहमान को सर आँखों पर बिठाया।",
+      "meaningInEnglish": "Panacea; cure-all",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ನಿರಾಕರಿಸು",
@@ -10234,7 +11694,9 @@ export const dailyContent = [
       "phrase": "ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ",
       "phrasePronunciation": "tumbida koda tulukuvudilla",
       "phraseMeaning": "ಜ್ಞಾನಿ ಅಹಂಕಾರ ತೋರಿಸುವುದಿಲ್ಲ",
-      "phraseExample": "ಅವರು ವಿನಯಶೀಲರು — ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ."
+      "phraseExample": "ಅವರು ವಿನಯಶೀಲರು — ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ.",
+      "meaningInEnglish": "Niraakarisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "స్ఫూర్తి",
@@ -10244,7 +11706,9 @@ export const dailyContent = [
       "phrase": "దొరికిన దారే దగ్గరి దారి",
       "phrasePronunciation": "dorikina daare daggari daari",
       "phraseMeaning": "అందుబాటులో ఉన్న మార్గం ఉత్తమమైనది",
-      "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి."
+      "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి.",
+      "meaningInEnglish": "Inspiration",
+      "phraseMeaningInEnglish": "A bird in hand is worth two in the bush"
     }
   },
   {
@@ -10266,7 +11730,9 @@ export const dailyContent = [
       "phrase": "जहाँ चाह वहाँ राह",
       "phrasePronunciation": "jahan chaah vahan raah",
       "phraseMeaning": "इच्छा हो तो रास्ता निकलता है",
-      "phraseExample": "उसने साबित कर दिया कि जहाँ चाह वहाँ राह।"
+      "phraseExample": "उसने साबित कर दिया कि जहाँ चाह वहाँ राह।",
+      "meaningInEnglish": "Versatile; multi-talented",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಆಸೆ ತೋರಿಸು",
@@ -10276,7 +11742,9 @@ export const dailyContent = [
       "phrase": "ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು",
       "phrasePronunciation": "haavu saayabeku kolu muriyabaaradu",
       "phraseMeaning": "ಕೆಲಸ ಆಗಬೇಕು ಯಾರಿಗೂ ಹಾನಿ ಆಗಬಾರದು",
-      "phraseExample": "ಜಾಣತನದಿಂದ ಮಾಡು — ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು."
+      "phraseExample": "ಜಾಣತನದಿಂದ ಮಾಡು — ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು.",
+      "meaningInEnglish": "Aase torisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "చాతుర్యం",
@@ -10286,7 +11754,9 @@ export const dailyContent = [
       "phrase": "ఏనుగు కాలికి ముల్లు గుచ్చినట్లు",
       "phrasePronunciation": "enugu kaaliki mullu gucchinattlu",
       "phraseMeaning": "శక్తివంతుడికి చిన్న సమస్య ఎదురైనా బాధిస్తుంది",
-      "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు."
+      "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు.",
+      "meaningInEnglish": "Cleverness",
+      "phraseMeaningInEnglish": "Even small problems trouble the mighty"
     }
   },
   {
@@ -10308,7 +11778,9 @@ export const dailyContent = [
       "phrase": "अपनी खिचड़ी अलग पकाना",
       "phrasePronunciation": "apni khichdi alag pakana",
       "phraseMeaning": "सबसे अलग रहना",
-      "phraseExample": "वह हमेशा अपनी खिचड़ी अलग पकाता है।"
+      "phraseExample": "वह हमेशा अपनी खिचड़ी अलग पकाता है।",
+      "meaningInEnglish": "Recalcitrant; stubbornly defiant",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮಾತುಗಾರ",
@@ -10318,7 +11790,9 @@ export const dailyContent = [
       "phrase": "ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ",
       "phrasePronunciation": "maadiddunno mahaaraaya",
       "phraseMeaning": "ಮಾಡಿದ ಕೆಲಸದ ಫಲ ಅನುಭವಿಸು",
-      "phraseExample": "ಈಗ ಅಳಬೇಡ, ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ."
+      "phraseExample": "ಈಗ ಅಳಬೇಡ, ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ.",
+      "meaningInEnglish": "Maatugaara",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సమర్పణ",
@@ -10328,7 +11802,9 @@ export const dailyContent = [
       "phrase": "మంచికి మంచి, చెడుకు చెడు",
       "phrasePronunciation": "manchiki manchi cheduki chedu",
       "phraseMeaning": "చేసిన దానికి తగిన ఫలితం వస్తుంది",
-      "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు."
+      "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు.",
+      "meaningInEnglish": "Dedication",
+      "phraseMeaningInEnglish": "You reap what you sow"
     }
   },
   {
@@ -10350,7 +11826,9 @@ export const dailyContent = [
       "phrase": "आँखें चुराना",
       "phrasePronunciation": "aankhein churana",
       "phraseMeaning": "नज़र बचाना",
-      "phraseExample": "गलती करने के बाद वह आँखें चुरा रहा था।"
+      "phraseExample": "गलती करने के बाद वह आँखें चुरा रहा था।",
+      "meaningInEnglish": "Vituperation; harsh criticism",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕಪಟ",
@@ -10360,7 +11838,9 @@ export const dailyContent = [
       "phrase": "ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ",
       "phrasePronunciation": "adikege hoda maana aane kottaroo baralla",
       "phraseMeaning": "ಹೋದ ಗೌರವ ಮರಳಿ ಬರುವುದಿಲ್ಲ",
-      "phraseExample": "ಮರ್ಯಾದೆ ಕಳೆದುಕೊಂಡ — ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ."
+      "phraseExample": "ಮರ್ಯಾದೆ ಕಳೆದುಕೊಂಡ — ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ.",
+      "meaningInEnglish": "Deceit; duplicity",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "విశ్వాసం",
@@ -10370,7 +11850,9 @@ export const dailyContent = [
       "phrase": "చదువుకున్న చెడిపోయినవాడు లేడు",
       "phrasePronunciation": "chaduvukunna chedipoyinavadu ledu",
       "phraseMeaning": "చదువు ఎప్పుడూ ఉపయోగపడుతుంది",
-      "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు."
+      "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు.",
+      "meaningInEnglish": "Trust",
+      "phraseMeaningInEnglish": "Education always proves useful"
     }
   },
   {
@@ -10392,7 +11874,9 @@ export const dailyContent = [
       "phrase": "मुँह में पानी आना",
       "phrasePronunciation": "munh mein paani aana",
       "phraseMeaning": "लालच आना",
-      "phraseExample": "पकवान देखकर मुँह में पानी आ गया।"
+      "phraseExample": "पकवान देखकर मुँह में पानी आ गया।",
+      "meaningInEnglish": "To bewail; to lament",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ವಿದೇಶಿ ಭಯ",
@@ -10402,7 +11886,9 @@ export const dailyContent = [
       "phrase": "ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ",
       "phrasePronunciation": "ooru kottaroo hola koda",
       "phraseMeaning": "ನೆರೆಹೊರೆ ಒಳ್ಳೆಯದಾಗಿರಬೇಕು",
-      "phraseExample": "ಒಳ್ಳೆಯ ನೆರೆಹೊರೆ ಮುಖ್ಯ — ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ."
+      "phraseExample": "ಒಳ್ಳೆಯ ನೆರೆಹೊರೆ ಮುಖ್ಯ — ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ.",
+      "meaningInEnglish": "Videshi bhaya",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంయమనం",
@@ -10412,7 +11898,9 @@ export const dailyContent = [
       "phrase": "రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది",
       "phrasePronunciation": "rekkala kashtam raallu karigistundi",
       "phraseMeaning": "కష్టపడి పనిచేస్తే అసాధ్యమైనది కూడా సాధ్యం",
-      "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది."
+      "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది.",
+      "meaningInEnglish": "Self-restraint",
+      "phraseMeaningInEnglish": "With hard work, the impossible becomes possible"
     }
   },
   {
@@ -10434,7 +11922,9 @@ export const dailyContent = [
       "phrase": "अंधे की लाठी",
       "phrasePronunciation": "andhe ki laathi",
       "phraseMeaning": "एकमात्र सहारा",
-      "phraseExample": "बूढ़ी माँ के लिए बेटा अंधे की लाठी है।"
+      "phraseExample": "बूढ़ी माँ के लिए बेटा अंधे की लाठी है।",
+      "meaningInEnglish": "Sagacious; wise",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಜೀವಂತ",
@@ -10444,7 +11934,9 @@ export const dailyContent = [
       "phrase": "ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ",
       "phrasePronunciation": "kallana manassu kattale",
       "phraseMeaning": "ತಪ್ಪು ಮಾಡಿದವನಿಗೆ ಯಾವಾಗಲೂ ಭಯ",
-      "phraseExample": "ಅವನು ಯಾವಾಗಲೂ ಹೆದರುತ್ತಾನೆ — ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ."
+      "phraseExample": "ಅವನು ಯಾವಾಗಲೂ ಹೆದರುತ್ತಾನೆ — ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ.",
+      "meaningInEnglish": "Jeevanta",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అనుభవం",
@@ -10454,7 +11946,9 @@ export const dailyContent = [
       "phrase": "పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు",
       "phrasePronunciation": "pogada chettu ekkada ledu kaani marri chettu arudu",
       "phraseMeaning": "సాధారణం ఎక్కడైనా దొరుకుతుంది, ప్రత్యేకమైనది అరుదు",
-      "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు."
+      "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు.",
+      "meaningInEnglish": "Experience",
+      "phraseMeaningInEnglish": "The ordinary is common, the special is rare"
     }
   },
   {
@@ -10476,7 +11970,9 @@ export const dailyContent = [
       "phrase": "दो नावों पर पैर रखना",
       "phrasePronunciation": "do naavon par pair rakhna",
       "phraseMeaning": "दो तरफ से फायदा उठाना",
-      "phraseExample": "दो नावों पर पैर रखोगे तो डूब जाओगे।"
+      "phraseExample": "दो नावों पर पैर रखोगे तो डूब जाओगे।",
+      "meaningInEnglish": "Dilettante; dabbler",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದೃಢನಿಶ್ಚಯ",
@@ -10486,7 +11982,9 @@ export const dailyContent = [
       "phrase": "ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ",
       "phrasePronunciation": "maatu belli mauna bangaara",
       "phraseMeaning": "ಮಾತಿಗಿಂತ ಮೌನ ಮೌಲ್ಯಯುತ",
-      "phraseExample": "ಈ ಸಮಯದಲ್ಲಿ ಸುಮ್ಮನಿರು — ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ."
+      "phraseExample": "ಈ ಸಮಯದಲ್ಲಿ ಸುಮ್ಮನಿರು — ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ.",
+      "meaningInEnglish": "Dridhanishchaya",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "పరిణామం",
@@ -10496,7 +11994,9 @@ export const dailyContent = [
       "phrase": "తూరుపు తెలిసేవాడికి దిక్కు తెలియదా",
       "phrasePronunciation": "toorupu telisevadiki dikku teliyada",
       "phraseMeaning": "ఒకటి తెలిస్తే మిగిలినవి కూడా తెలుస్తాయి",
-      "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా."
+      "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా.",
+      "meaningInEnglish": "Evolution",
+      "phraseMeaningInEnglish": "Knowing one thing leads to knowing others"
     }
   },
   {
@@ -10518,7 +12018,9 @@ export const dailyContent = [
       "phrase": "आँखों का तारा",
       "phrasePronunciation": "aankhon ka taara",
       "phraseMeaning": "बहुत प्रिय व्यक्ति",
-      "phraseExample": "बेटा उसकी आँखों का तारा है।"
+      "phraseExample": "बेटा उसकी आँखों का तारा है।",
+      "meaningInEnglish": "To procrastinate; to delay",
+      "phraseMeaningInEnglish": "A very dear person; apple of one's eye"
     },
     "kannada": {
       "word": "ಸ್ಪರ್ಶಿಸಬಹುದಾದ",
@@ -10528,7 +12030,9 @@ export const dailyContent = [
       "phrase": "ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ",
       "phrasePronunciation": "hole neerige donne naayaka",
       "phraseMeaning": "ಅಧಿಕಾರವಿಲ್ಲದವನ ಆಡಂಬರ",
-      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಅಧಿಕಾರವೂ ಇಲ್ಲ ಆದರೆ ರೋಬ್ — ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ."
+      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಅಧಿಕಾರವೂ ಇಲ್ಲ ಆದರೆ ರೋಬ್ — ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ.",
+      "meaningInEnglish": "Sparshisabahudaada",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సామర్థ్యం",
@@ -10538,7 +12042,9 @@ export const dailyContent = [
       "phrase": "అడవిలో పుట్టి, అడవిలో పెరిగినా, అడవి కోతి మారదు",
       "phrasePronunciation": "adavilo putti adavilo periginaa adavi koti maaradu",
       "phraseMeaning": "మనిషి స్వభావం సులభంగా మారదు",
-      "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు."
+      "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు.",
+      "meaningInEnglish": "Capability",
+      "phraseMeaningInEnglish": "A person's nature doesn't change easily"
     }
   },
   {
@@ -10560,7 +12066,9 @@ export const dailyContent = [
       "phrase": "अंगूठा दिखाना",
       "phrasePronunciation": "angootha dikhana",
       "phraseMeaning": "साफ मना कर देना",
-      "phraseExample": "उसने मदद माँगी तो लोगों ने अंगूठा दिखा दिया।"
+      "phraseExample": "उसने मदद माँगी तो लोगों ने अंगूठा दिखा दिया।",
+      "meaningInEnglish": "Vicarious; indirect",
+      "phraseMeaningInEnglish": "To flatly refuse"
     },
     "kannada": {
       "word": "ಸೂಕ್ಷ್ಮಮತಿ",
@@ -10570,7 +12078,9 @@ export const dailyContent = [
       "phrase": "ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ",
       "phrasePronunciation": "naayi bogalidare devaloka haalaguvudilla",
       "phraseMeaning": "ಕೆಟ್ಟವರ ಮಾತಿಗೆ ಮಹತ್ವ ಕೊಡಬೇಡ",
-      "phraseExample": "ಅವರ ಟೀಕೆ ಬಿಡು — ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ."
+      "phraseExample": "ಅವರ ಟೀಕೆ ಬಿಡು — ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ.",
+      "meaningInEnglish": "Sookshmamati",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిర్మలం",
@@ -10580,7 +12090,9 @@ export const dailyContent = [
       "phrase": "ఆకలి రుచి ఎరుగదు",
       "phrasePronunciation": "aakali ruchi erugadu",
       "phraseMeaning": "ఆకలి ఉన్నప్పుడు ఏది తిన్నా బాగుంటుంది",
-      "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా."
+      "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా.",
+      "meaningInEnglish": "Purity",
+      "phraseMeaningInEnglish": "When hungry, anything tastes good"
     }
   },
   {
@@ -10602,7 +12114,9 @@ export const dailyContent = [
       "phrase": "अक्ल पर पत्थर पड़ना",
       "phrasePronunciation": "akl par patthar padna",
       "phraseMeaning": "बुद्धि काम न करना",
-      "phraseExample": "ऐसा फैसला लेते वक्त उसकी अक्ल पर पत्थर पड़ गए थे।"
+      "phraseExample": "ऐसा फैसला लेते वक्त उसकी अक्ल पर पत्थर पड़ गए थे।",
+      "meaningInEnglish": "Overbearing; domineering",
+      "phraseMeaningInEnglish": "To lose one's wits"
     },
     "kannada": {
       "word": "ವಿವರಿಸಲಾಗದ",
@@ -10612,7 +12126,9 @@ export const dailyContent = [
       "phrase": "ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು",
       "phrasePronunciation": "ati aase gati kedu",
       "phraseMeaning": "ಅತಿಯಾಸೆ ವಿನಾಶಕ್ಕೆ ಕಾರಣ",
-      "phraseExample": "ಹೆಚ್ಚು ಬೇಡ — ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು."
+      "phraseExample": "ಹೆಚ್ಚು ಬೇಡ — ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು.",
+      "meaningInEnglish": "Vivarisalaagada",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆశీర్వాదం",
@@ -10622,7 +12138,9 @@ export const dailyContent = [
       "phrase": "ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు",
       "phrasePronunciation": "ooru kaani ooru vaste kukkalu moriginattlu",
       "phraseMeaning": "కొత్త చోటికి వెళ్తే ఇబ్బందులు ఎదురవుతాయి",
-      "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు."
+      "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు.",
+      "meaningInEnglish": "Blessing",
+      "phraseMeaningInEnglish": "New places bring new challenges"
     }
   },
   {
@@ -10644,7 +12162,9 @@ export const dailyContent = [
       "phrase": "ऊँट के मुँह में जीरा",
       "phrasePronunciation": "oont ke munh mein jeera",
       "phraseMeaning": "ज़रूरत के मुकाबले बहुत कम",
-      "phraseExample": "इतने बड़े परिवार के लिए यह तनख्वाह ऊँट के मुँह में जीरा है।"
+      "phraseExample": "इतने बड़े परिवार के लिए यह तनख्वाह ऊँट के मुँह में जीरा है।",
+      "meaningInEnglish": "Panegyric; eulogy",
+      "phraseMeaningInEnglish": "Far too little for the need"
     },
     "kannada": {
       "word": "ಜಗಳಗಂಟ",
@@ -10654,7 +12174,9 @@ export const dailyContent = [
       "phrase": "ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸು",
       "phrasePronunciation": "kallu haaki doni mulugisu",
       "phraseMeaning": "ಇತರರ ಕೆಲಸ ಹಾಳು ಮಾಡು",
-      "phraseExample": "ಅವನು ನನ್ನ ಯೋಜನೆಗೆ ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸಿದ."
+      "phraseExample": "ಅವನು ನನ್ನ ಯೋಜನೆಗೆ ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸಿದ.",
+      "meaningInEnglish": "Jagalaganta",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సృజనాత్మకత",
@@ -10664,7 +12186,9 @@ export const dailyContent = [
       "phrase": "కాకి పిల్ల కాకికి ముద్దు",
       "phrasePronunciation": "kaaki pilla kaakiki muddu",
       "phraseMeaning": "ప్రతి తల్లికి తన బిడ్డ ముద్దే",
-      "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా."
+      "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా.",
+      "meaningInEnglish": "Creativity",
+      "phraseMeaningInEnglish": "Every mother loves her own child most"
     }
   },
   {
@@ -10686,7 +12210,9 @@ export const dailyContent = [
       "phrase": "कान भरना",
       "phrasePronunciation": "kaan bharna",
       "phraseMeaning": "किसी के खिलाफ भड़काना",
-      "phraseExample": "किसी ने बॉस के कान भर दिए।"
+      "phraseExample": "किसी ने बॉस के कान भर दिए।",
+      "meaningInEnglish": "Guile; treachery",
+      "phraseMeaningInEnglish": "To incite against someone"
     },
     "kannada": {
       "word": "ಅಂತಿಮ ಫಲ",
@@ -10696,7 +12222,9 @@ export const dailyContent = [
       "phrase": "ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ",
       "phrasePronunciation": "bekkige chellaata ilige praana sankata",
       "phraseMeaning": "ಒಬ್ಬರಿಗೆ ಆಟ ಇನ್ನೊಬ್ಬರಿಗೆ ಕಷ್ಟ",
-      "phraseExample": "ಅವನಿಗೆ ತಮಾಷೆ ನನಗೆ ತೊಂದರೆ — ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ."
+      "phraseExample": "ಅವನಿಗೆ ತಮಾಷೆ ನನಗೆ ತೊಂದರೆ — ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ.",
+      "meaningInEnglish": "Antima phala",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "దయ",
@@ -10706,7 +12234,9 @@ export const dailyContent = [
       "phrase": "గోరుచుట్టుపై రోకలి పోటు",
       "phrasePronunciation": "goruchuttupai rokali potu",
       "phraseMeaning": "ఉన్న సమస్యపై మరో సమస్య",
-      "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు."
+      "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు.",
+      "meaningInEnglish": "Mercy",
+      "phraseMeaningInEnglish": "Adding insult to injury"
     }
   },
   {
@@ -10728,7 +12258,9 @@ export const dailyContent = [
       "phrase": "घर की मुर्गी दाल बराबर",
       "phrasePronunciation": "ghar ki murgi daal barabar",
       "phraseMeaning": "अपनी चीज की कदर नहीं",
-      "phraseExample": "देश में इतने अच्छे कलाकार हैं पर घर की मुर्गी दाल बराबर।"
+      "phraseExample": "देश में इतने अच्छे कलाकार हैं पर घर की मुर्गी दाल बराबर।",
+      "meaningInEnglish": "Onerous; burdensome",
+      "phraseMeaningInEnglish": "Not appreciating what you have"
     },
     "kannada": {
       "word": "ಅಕಾಲ ಪ್ರೌಢ",
@@ -10738,7 +12270,9 @@ export const dailyContent = [
       "phrase": "ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ",
       "phrasePronunciation": "koti kaili hoomaale",
       "phraseMeaning": "ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ ಒಳ್ಳೆಯ ವಸ್ತು",
-      "phraseExample": "ಅವನಿಗೆ ಆ ಅವಕಾಶ ಕೊಟ್ಟದ್ದು ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ."
+      "phraseExample": "ಅವನಿಗೆ ಆ ಅವಕಾಶ ಕೊಟ್ಟದ್ದು ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ.",
+      "meaningInEnglish": "Akaala praudha",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సమతుల్యం",
@@ -10748,7 +12282,9 @@ export const dailyContent = [
       "phrase": "చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం",
       "phrasePronunciation": "chetilo venna undagaa neyi kosam vetakadam",
       "phraseMeaning": "ఉన్నది వదిలి ఇంకేదో వెతకడం",
-      "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం."
+      "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం.",
+      "meaningInEnglish": "Balance",
+      "phraseMeaningInEnglish": "Leaving what you have for something uncertain"
     }
   },
   {
@@ -10770,7 +12306,9 @@ export const dailyContent = [
       "phrase": "चार चाँद लगाना",
       "phrasePronunciation": "chaar chaand lagana",
       "phraseMeaning": "शोभा बढ़ाना",
-      "phraseExample": "उसकी मेहनत ने कार्यक्रम में चार चाँद लगा दिए।"
+      "phraseExample": "उसकी मेहनत ने कार्यक्रम में चार चाँद लगा दिए।",
+      "meaningInEnglish": "To coerce; to force",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಎಚ್ಚರಿಕೆಯ",
@@ -10780,7 +12318,9 @@ export const dailyContent = [
       "phrase": "ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು",
       "phrasePronunciation": "ondu kaiyalli chappaale tattalu aagadu",
       "phraseMeaning": "ಜಗಳದಲ್ಲಿ ಇಬ್ಬರ ತಪ್ಪು ಇರುತ್ತದೆ",
-      "phraseExample": "ಇಬ್ಬರೂ ತಪ್ಪು — ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು."
+      "phraseExample": "ಇಬ್ಬರೂ ತಪ್ಪು — ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು.",
+      "meaningInEnglish": "Echcharikheya",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "విజయం",
@@ -10790,7 +12330,9 @@ export const dailyContent = [
       "phrase": "తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు",
       "phrasePronunciation": "taati chettu ekkevadiki tongi chooddam alavatu",
       "phraseMeaning": "పనిలో అనుభవం ఉన్నవాళ్ళకు అది సాధారణం",
-      "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు."
+      "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు.",
+      "meaningInEnglish": "Victory",
+      "phraseMeaningInEnglish": "Routine for the experienced"
     }
   },
   {
@@ -10812,7 +12354,9 @@ export const dailyContent = [
       "phrase": "छाती पर साँप लोटना",
       "phrasePronunciation": "chhaati par saanp lotna",
       "phraseMeaning": "ईर्ष्या से जलना",
-      "phraseExample": "पड़ोसी की तरक्की देख उसकी छाती पर साँप लोट गया।"
+      "phraseExample": "पड़ोसी की तरक्की देख उसकी छाती पर साँप लोट गया।",
+      "meaningInEnglish": "Fickle; capricious",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪ್ರಕ್ಷುಬ್ಧ",
@@ -10822,7 +12366,9 @@ export const dailyContent = [
       "phrase": "ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು",
       "phrasePronunciation": "oorige bandavalu neerigoo barabeku",
       "phraseMeaning": "ಎಲ್ಲಾ ಕಷ್ಟ ಸಹಿಸಬೇಕು",
-      "phraseExample": "ಇಲ್ಲಿ ಬಂದ ಮೇಲೆ ಕಷ್ಟ ಸಹಿಸು — ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು."
+      "phraseExample": "ಇಲ್ಲಿ ಬಂದ ಮೇಲೆ ಕಷ್ಟ ಸಹಿಸು — ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು.",
+      "meaningInEnglish": "Prakshubdha",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఐక్యత",
@@ -10832,7 +12378,9 @@ export const dailyContent = [
       "phrase": "నక్కకు నిద్ర వస్తే కోడి కూస్తుంది",
       "phrasePronunciation": "nakkaku nidra vaste kodi koostundi",
       "phraseMeaning": "ఒకరు అజాగ్రత్తగా ఉంటే మరొకరు లాభపడతారు",
-      "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది."
+      "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది.",
+      "meaningInEnglish": "Unity",
+      "phraseMeaningInEnglish": "When one is careless, another profits"
     }
   },
   {
@@ -10854,7 +12402,9 @@ export const dailyContent = [
       "phrase": "तिल का ताड़ बनाना",
       "phrasePronunciation": "til ka taad banana",
       "phraseMeaning": "छोटी बात को बड़ा बनाना",
-      "phraseExample": "बस एक गलती थी, उसने तिल का ताड़ बना दिया।"
+      "phraseExample": "बस एक गलती थी, उसने तिल का ताड़ बना दिया।",
+      "meaningInEnglish": "Precipitous; rashly hasty",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಂಯಮಿ",
@@ -10864,7 +12414,9 @@ export const dailyContent = [
       "phrase": "ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ",
       "phrasePronunciation": "aadu muttada soppilla",
       "phraseMeaning": "ಎಲ್ಲದರಲ್ಲೂ ಕೈ ಹಾಕುವವನು",
-      "phraseExample": "ಅವನಿಗೆ ಎಲ್ಲ ವಿಷಯದಲ್ಲೂ ತಲೆ ಹಾಕಬೇಕು — ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ."
+      "phraseExample": "ಅವನಿಗೆ ಎಲ್ಲ ವಿಷಯದಲ್ಲೂ ತಲೆ ಹಾಕಬೇಕು — ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ.",
+      "meaningInEnglish": "Sanyami",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అభిమానం",
@@ -10874,7 +12426,9 @@ export const dailyContent = [
       "phrase": "పందికి బంగారు పట్టెడ ఎందుకు",
       "phrasePronunciation": "pandiki bangaaru patteda enduku",
       "phraseMeaning": "విలువ తెలియనివాడికి విలువైనది ఇచ్చి ఏం లాభం",
-      "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు."
+      "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు.",
+      "meaningInEnglish": "Affection",
+      "phraseMeaningInEnglish": "Don't give pearls to those who can't value them"
     }
   },
   {
@@ -10896,7 +12450,9 @@ export const dailyContent = [
       "phrase": "दाल में काला होना",
       "phrasePronunciation": "daal mein kaala hona",
       "phraseMeaning": "कुछ गड़बड़ होना",
-      "phraseExample": "उसकी बातों में दाल में कुछ काला है।"
+      "phraseExample": "उसकी बातों में दाल में कुछ काला है।",
+      "meaningInEnglish": "To renounce; to forsake",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಹಾಸ್ಯಪ್ರಿಯ",
@@ -10906,7 +12462,9 @@ export const dailyContent = [
       "phrase": "ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು",
       "phrasePronunciation": "hasivige anna kodu rogakke maddu kodu",
       "phraseMeaning": "ಸಮಸ್ಯೆಗೆ ಸರಿಯಾದ ಪರಿಹಾರ ಕೊಡು",
-      "phraseExample": "ಸರಿಯಾದ ಪರಿಹಾರ ಬೇಕು — ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು."
+      "phraseExample": "ಸರಿಯಾದ ಪರಿಹಾರ ಬೇಕು — ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು.",
+      "meaningInEnglish": "Haasyapriya",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఉత్సాహం",
@@ -10916,7 +12474,9 @@ export const dailyContent = [
       "phrase": "బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి",
       "phrasePronunciation": "boggu muttukuṇṭe chetulu nallabadataay",
       "phraseMeaning": "చెడ్డ వాళ్ళతో తిరిగితే మనం కూడా చెడిపోతాం",
-      "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి."
+      "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి.",
+      "meaningInEnglish": "Enthusiasm",
+      "phraseMeaningInEnglish": "Bad company corrupts good character"
     }
   },
   {
@@ -10938,7 +12498,9 @@ export const dailyContent = [
       "phrase": "नौ दो ग्यारह होना",
       "phrasePronunciation": "nau do gyaarah hona",
       "phraseMeaning": "भाग जाना",
-      "phraseExample": "पुलिस को देखते ही चोर नौ दो ग्यारह हो गए।"
+      "phraseExample": "पुलिस को देखते ही चोर नौ दो ग्यारह हो गए।",
+      "meaningInEnglish": "Opaque; not transparent",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಹೊತ್ತಿಸು",
@@ -10948,7 +12510,9 @@ export const dailyContent = [
       "phrase": "ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ",
       "phrasePronunciation": "kereya neeranu kerege chelli",
       "phraseMeaning": "ಪಡೆದುದನ್ನು ಹಿಂದಿರುಗಿಸು",
-      "phraseExample": "ಸಮಾಜಕ್ಕೆ ಹಿಂತಿರುಗಿಸು — ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ."
+      "phraseExample": "ಸಮಾಜಕ್ಕೆ ಹಿಂತಿರುಗಿಸು — ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ.",
+      "meaningInEnglish": "Hottisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రమాణం",
@@ -10958,7 +12522,9 @@ export const dailyContent = [
       "phrase": "మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది",
       "phrasePronunciation": "manchi chesi choodu manasu nindugaa untundi",
       "phraseMeaning": "ఇతరులకు మేలు చేస్తే మనసుకు తృప్తి",
-      "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది."
+      "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది.",
+      "meaningInEnglish": "Standard",
+      "phraseMeaningInEnglish": "Helping others brings inner peace"
     }
   },
   {
@@ -10980,7 +12546,9 @@ export const dailyContent = [
       "phrase": "पानी-पानी होना",
       "phrasePronunciation": "paani-paani hona",
       "phraseMeaning": "बहुत शर्मिंदा होना",
-      "phraseExample": "सच सामने आने पर वह पानी-पानी हो गया।"
+      "phraseExample": "सच सामने आने पर वह पानी-पानी हो गया।",
+      "meaningInEnglish": "Axiomatic; self-evident",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಉದ್ಧಟ",
@@ -10990,7 +12558,9 @@ export const dailyContent = [
       "phrase": "ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ",
       "phrasePronunciation": "manege maari oorige upakari",
       "phraseMeaning": "ತನ್ನವರಿಗೆ ಕೆಟ್ಟವನು ಹೊರಗಿನವರಿಗೆ ಒಳ್ಳೆಯವನು",
-      "phraseExample": "ಅವನು ಮನೆಯಲ್ಲಿ ಕೆಟ್ಟವನು ಹೊರಗೆ ಒಳ್ಳೆಯವನು — ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ."
+      "phraseExample": "ಅವನು ಮನೆಯಲ್ಲಿ ಕೆಟ್ಟವನು ಹೊರಗೆ ಒಳ್ಳೆಯವನು — ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ.",
+      "meaningInEnglish": "Uddhata",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "చైతన్యం",
@@ -11000,7 +12570,9 @@ export const dailyContent = [
       "phrase": "రాతికి పూచే పూలు రాలిపోతాయి",
       "phrasePronunciation": "raatiki pooche poolu raalipotaayi",
       "phraseMeaning": "శాశ్వతమైనది ఏదీ లేదు",
-      "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి."
+      "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి.",
+      "meaningInEnglish": "Awareness",
+      "phraseMeaningInEnglish": "Nothing is permanent"
     }
   },
   {
@@ -11022,7 +12594,9 @@ export const dailyContent = [
       "phrase": "बंदर क्या जाने अदरक का स्वाद",
       "phrasePronunciation": "bandar kya jaane adrak ka swaad",
       "phraseMeaning": "अनजान व्यक्ति गुणों की कदर नहीं करता",
-      "phraseExample": "उसे संगीत की क्या समझ, बंदर क्या जाने अदरक का स्वाद।"
+      "phraseExample": "उसे संगीत की क्या समझ, बंदर क्या जाने अदरक का स्वाद।",
+      "meaningInEnglish": "Gregarious; sociable",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸ್ವಯಂಸ್ಫೂರ್ತ",
@@ -11032,7 +12606,9 @@ export const dailyContent = [
       "phrase": "ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ",
       "phrasePronunciation": "hannu maagidare taane beeluttade",
       "phraseMeaning": "ಸಮಯ ಬಂದಾಗ ತಾನಾಗಿ ಆಗುತ್ತದೆ",
-      "phraseExample": "ಆತುರಪಡಬೇಡ — ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ."
+      "phraseExample": "ಆತುರಪಡಬೇಡ — ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ.",
+      "meaningInEnglish": "Svayamspuurta",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆదరణ",
@@ -11042,7 +12618,9 @@ export const dailyContent = [
       "phrase": "విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు",
       "phrasePronunciation": "vinnavaariki telivi cheppinavaariki orpu",
       "phraseMeaning": "వినేవాడికి జ్ఞానం, చెప్పేవాడికి సహనం కావాలి",
-      "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు."
+      "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు.",
+      "meaningInEnglish": "Hospitality",
+      "phraseMeaningInEnglish": "Listener needs wisdom, speaker needs patience"
     }
   },
   {
@@ -11064,7 +12642,9 @@ export const dailyContent = [
       "phrase": "लोहा मानना",
       "phrasePronunciation": "loha maanna",
       "phraseMeaning": "किसी की श्रेष्ठता स्वीकार करना",
-      "phraseExample": "विरोधियों ने भी उसका लोहा मान लिया।"
+      "phraseExample": "विरोधियों ने भी उसका लोहा मान लिया।",
+      "meaningInEnglish": "Nefarious; wicked",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ರಾಜಿಯಾಗದ",
@@ -11074,7 +12654,9 @@ export const dailyContent = [
       "phrase": "ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟು",
       "phrasePronunciation": "maatinalli mallige kattu",
       "phraseMeaning": "ಬಹಳ ಮಧುರವಾಗಿ ಮಾತನಾಡು",
-      "phraseExample": "ಅವಳ ಮಾತು ಎಷ್ಟು ಚೆಂದ — ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟುತ್ತಾಳೆ."
+      "phraseExample": "ಅವಳ ಮಾತು ಎಷ್ಟು ಚೆಂದ — ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟುತ್ತಾಳೆ.",
+      "meaningInEnglish": "Raajiyaagada",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సహకారం",
@@ -11084,7 +12666,9 @@ export const dailyContent = [
       "phrase": "ఏనుగు మీద దీపం ఉంచినట్లు",
       "phrasePronunciation": "enugu meeda deepam unchinattlu",
       "phraseMeaning": "చాలా గొప్పగా కనిపించడం",
-      "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు."
+      "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు.",
+      "meaningInEnglish": "Cooperation",
+      "phraseMeaningInEnglish": "To appear very grand and impressive"
     }
   },
   {
@@ -11106,7 +12690,9 @@ export const dailyContent = [
       "phrase": "गुड़ गोबर करना",
       "phrasePronunciation": "gud gobar karna",
       "phraseMeaning": "बना-बनाया काम बिगाड़ना",
-      "phraseExample": "आखिरी वक्त पर उसने सब गुड़ गोबर कर दिया।"
+      "phraseExample": "आखिरी वक्त पर उसने सब गुड़ गोबर कर दिया।",
+      "meaningInEnglish": "Plaintive; mournful",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಶಿಕ್ಷಾಪ್ರದ",
@@ -11116,7 +12702,9 @@ export const dailyContent = [
       "phrase": "ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿ",
       "phrasePronunciation": "betta agedu ili hidi",
       "phraseMeaning": "ಬಹಳ ಪ್ರಯತ್ನಕ್ಕೆ ಕಡಿಮೆ ಫಲ",
-      "phraseExample": "ಇಷ್ಟು ಶ್ರಮ ಹಾಕಿ ಇಷ್ಟೇ ಸಿಕ್ಕಿತು — ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿದಂತೆ."
+      "phraseExample": "ಇಷ್ಟು ಶ್ರಮ ಹಾಕಿ ಇಷ್ಟೇ ಸಿಕ್ಕಿತು — ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿದಂತೆ.",
+      "meaningInEnglish": "Shikshaaprada",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నమ్రత",
@@ -11126,7 +12714,9 @@ export const dailyContent = [
       "phrase": "కష్టపడితే ఫలం దక్కుతుంది",
       "phrasePronunciation": "kashtapadite phalam dakkutundi",
       "phraseMeaning": "పరిశ్రమకు తగిన ఫలితం వస్తుంది",
-      "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది."
+      "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది.",
+      "meaningInEnglish": "Humility",
+      "phraseMeaningInEnglish": "Hard work yields suitable rewards"
     }
   },
   {
@@ -11148,7 +12738,9 @@ export const dailyContent = [
       "phrase": "हाथ कंगन को आरसी क्या",
       "phrasePronunciation": "haath kangan ko aarsi kya",
       "phraseMeaning": "प्रत्यक्ष को प्रमाण की ज़रूरत नहीं",
-      "phraseExample": "नतीजे सामने हैं, हाथ कंगन को आरसी क्या।"
+      "phraseExample": "नतीजे सामने हैं, हाथ कंगन को आरसी क्या।",
+      "meaningInEnglish": "Torpid; sluggish",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕೆರಳಿಸು",
@@ -11158,7 +12750,9 @@ export const dailyContent = [
       "phrase": "ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ",
       "phrasePronunciation": "adige maadi ootakke kare",
       "phraseMeaning": "ಎಲ್ಲಾ ಸಿದ್ಧ ಮಾಡಿ ಆಮಂತ್ರಿಸು",
-      "phraseExample": "ತಯಾರಿ ಮುಗಿಸಿ ಕರೆ — ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ."
+      "phraseExample": "ತಯಾರಿ ಮುಗಿಸಿ ಕರೆ — ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ.",
+      "meaningInEnglish": "Keralisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రజ్ఞ",
@@ -11168,7 +12762,9 @@ export const dailyContent = [
       "phrase": "అందని ద్రాక్ష పుల్లన",
       "phrasePronunciation": "andani draaksha pullana",
       "phraseMeaning": "సాధించలేనిది తక్కువ అని చెప్పడం",
-      "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు."
+      "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు.",
+      "meaningInEnglish": "Profound wisdom",
+      "phraseMeaningInEnglish": "Sour grapes; dismissing what you can't get"
     }
   },
   {
@@ -11190,7 +12786,9 @@ export const dailyContent = [
       "phrase": "आँख का पानी ढलना",
       "phrasePronunciation": "aankh ka paani dhalna",
       "phraseMeaning": "बेशर्म हो जाना",
-      "phraseExample": "झूठ बोलते-बोलते उसकी आँख का पानी ढल गया।"
+      "phraseExample": "झूठ बोलते-बोलते उसकी आँख का पानी ढल गया।",
+      "meaningInEnglish": "Aberration; deviation",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಸ್ಪಷ್ಟ",
@@ -11200,7 +12798,9 @@ export const dailyContent = [
       "phrase": "ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ",
       "phrasePronunciation": "kallanige beegada kai kottante",
       "phraseMeaning": "ಅಪ್ರಾಮಾಣಿಕ ವ್ಯಕ್ತಿಗೆ ಜವಾಬ್ದಾರಿ ಕೊಟ್ಟಂತೆ",
-      "phraseExample": "ಅವನಿಗೆ ಖಜಾನೆ ಕೊಟ್ಟದ್ದು — ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ."
+      "phraseExample": "ಅವನಿಗೆ ಖಜಾನೆ ಕೊಟ್ಟದ್ದು — ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ.",
+      "meaningInEnglish": "Unclear; ambiguous",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సౌందర్యం",
@@ -11210,7 +12810,9 @@ export const dailyContent = [
       "phrase": "చెప్పేది ఒకటి చేసేది ఒకటి",
       "phrasePronunciation": "cheppedi okati chesedi okati",
       "phraseMeaning": "మాటలకు చేతలకు పొంతన లేకపోవడం",
-      "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి."
+      "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి.",
+      "meaningInEnglish": "Beauty",
+      "phraseMeaningInEnglish": "Actions don't match words; hypocrisy"
     }
   },
   {
@@ -11232,7 +12834,9 @@ export const dailyContent = [
       "phrase": "अपने मुँह मियाँ मिट्ठू बनना",
       "phrasePronunciation": "apne munh miyan mitthu banna",
       "phraseMeaning": "खुद अपनी तारीफ करना",
-      "phraseExample": "हर बात में अपने मुँह मियाँ मिट्ठू बनता है।"
+      "phraseExample": "हर बात में अपने मुँह मियाँ मिट्ठू बनता है।",
+      "meaningInEnglish": "Avaricious; greedy",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ನಾಗರಿಕ",
@@ -11242,7 +12846,9 @@ export const dailyContent = [
       "phrase": "ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ",
       "phrasePronunciation": "male bandare mane illa biisilige adige illa",
       "phraseMeaning": "ಎಲ್ಲ ಕಡೆ ಸಮಸ್ಯೆ",
-      "phraseExample": "ಅವನ ಪರಿಸ್ಥಿತಿ ಕಷ್ಟ — ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ."
+      "phraseExample": "ಅವನ ಪರಿಸ್ಥಿತಿ ಕಷ್ಟ — ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ.",
+      "meaningInEnglish": "Citizen; civilized",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "కరుణ",
@@ -11252,7 +12858,9 @@ export const dailyContent = [
       "phrase": "తాడిని తన్నేవాడు కొబ్బరిని తన్నడు",
       "phrasePronunciation": "taadini tannedvaadu kobbarini tannadu",
       "phraseMeaning": "అంత సామర్థ్యం లేనివాడు పెద్ద పనులు చేయలేడు",
-      "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు."
+      "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు.",
+      "meaningInEnglish": "Compassion",
+      "phraseMeaningInEnglish": "One without ability can't do big things"
     }
   },
   {
@@ -11274,7 +12882,9 @@ export const dailyContent = [
       "phrase": "घोड़े बेचकर सोना",
       "phrasePronunciation": "ghode bechkar sona",
       "phraseMeaning": "बेफिक्र होकर सोना",
-      "phraseExample": "परीक्षा खत्म, अब घोड़े बेचकर सोएंगे।"
+      "phraseExample": "परीक्षा खत्म, अब घोड़े बेचकर सोएंगे।",
+      "meaningInEnglish": "Melancholy; deep sadness",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸ್ಪಷ್ಟ ಮತ್ತು ಗಂಭೀರ",
@@ -11284,7 +12894,9 @@ export const dailyContent = [
       "phrase": "ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು",
       "phrasePronunciation": "haalu kudida makkalu",
       "phraseMeaning": "ಮುಗ್ಧ ಮತ್ತು ಅನನುಭವಿ",
-      "phraseExample": "ಅವರು ಇನ್ನೂ ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು."
+      "phraseExample": "ಅವರು ಇನ್ನೂ ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು.",
+      "meaningInEnglish": "Spashta mattu gambhira",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "పరిపూర్ణత",
@@ -11294,7 +12906,9 @@ export const dailyContent = [
       "phrase": "నీటిలో దూకినవాడు తడవకుండా ఉంటాడా",
       "phrasePronunciation": "neetilo dookinavaadu tadavakunda untadaa",
       "phraseMeaning": "పనిలో దిగినప్పుడు ఫలితాలు ఉంటాయి",
-      "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా."
+      "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా.",
+      "meaningInEnglish": "Perfection",
+      "phraseMeaningInEnglish": "Results come when you get to work"
     }
   },
   {
@@ -11316,7 +12930,9 @@ export const dailyContent = [
       "phrase": "आस्तीन का साँप",
       "phrasePronunciation": "aasteen ka saanp",
       "phraseMeaning": "करीबी होकर धोखा देने वाला",
-      "phraseExample": "वह तो आस्तीन का साँप निकला।"
+      "phraseExample": "वह तो आस्तीन का साँप निकला।",
+      "meaningInEnglish": "Paradox; contradiction",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ನಿಯಂತ್ರಿಸು",
@@ -11326,7 +12942,9 @@ export const dailyContent = [
       "phrase": "ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು",
       "phrasePronunciation": "kaage koota mara muriyitu",
       "phraseMeaning": "ಕಾಕತಾಳೀಯ ಘಟನೆ",
-      "phraseExample": "ಅವನು ಬಂದ ಕೂಡಲೇ ಮಳೆ ಬಂತು — ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು."
+      "phraseExample": "ಅವನು ಬಂದ ಕೂಡಲೇ ಮಳೆ ಬಂತು — ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು.",
+      "meaningInEnglish": "Niyantrisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "వినోదం",
@@ -11336,7 +12954,9 @@ export const dailyContent = [
       "phrase": "పేదవాని బండికి ఎద్దులు ఆగవు",
       "phrasePronunciation": "pedavaani bandiki eddulu aagavu",
       "phraseMeaning": "డబ్బు లేనివాడికి ఏదీ సమయానికి జరగదు",
-      "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు."
+      "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు.",
+      "meaningInEnglish": "Entertainment",
+      "phraseMeaningInEnglish": "Nothing works on time for the poor"
     }
   },
   {
@@ -11358,7 +12978,9 @@ export const dailyContent = [
       "phrase": "एक पंथ दो काज",
       "phrasePronunciation": "ek panth do kaaj",
       "phraseMeaning": "एक काम से दो फायदे",
-      "phraseExample": "वहाँ जाकर मिलना भी हो जाएगा और काम भी — एक पंथ दो काज।"
+      "phraseExample": "वहाँ जाकर मिलना भी हो जाएगा और काम भी — एक पंथ दो काज।",
+      "meaningInEnglish": "Ignominious; shameful",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಾಮಾನ್ಯ",
@@ -11368,7 +12990,9 @@ export const dailyContent = [
       "phrase": "ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ",
       "phrasePronunciation": "akka hogi nentar mane tangi hogi gandan mane",
       "phraseMeaning": "ಎಲ್ಲರೂ ತಮ್ಮ ದಾರಿ ಹಿಡಿದರು",
-      "phraseExample": "ಮಕ್ಕಳೆಲ್ಲ ಬೆಳೆದು ಹೋದರು — ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ."
+      "phraseExample": "ಮಕ್ಕಳೆಲ್ಲ ಬೆಳೆದು ಹೋದರು — ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ.",
+      "meaningInEnglish": "Ordinary; mundane",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంస్కృతి",
@@ -11378,7 +13002,9 @@ export const dailyContent = [
       "phrase": "మనసు మంచిదైతే మార్గం కనిపిస్తుంది",
       "phrasePronunciation": "manasu manchidaite maargam kanipistundi",
       "phraseMeaning": "మంచి ఉద్దేశ్యం ఉంటే దారి దొరుకుతుంది",
-      "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది."
+      "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది.",
+      "meaningInEnglish": "Culture",
+      "phraseMeaningInEnglish": "Good intentions find a way"
     }
   },
   {
@@ -11400,7 +13026,9 @@ export const dailyContent = [
       "phrase": "खून का घूँट पीना",
       "phrasePronunciation": "khoon ka ghoont peena",
       "phraseMeaning": "गुस्सा दबाकर सहना",
-      "phraseExample": "अपमान सुनकर उसने खून का घूँट पी लिया।"
+      "phraseExample": "अपमान सुनकर उसने खून का घूँट पी लिया।",
+      "meaningInEnglish": "Brevity; conciseness",
+      "phraseMeaningInEnglish": "To suppress anger and endure"
     },
     "kannada": {
       "word": "ಪ್ರಖ್ಯಾತ",
@@ -11410,7 +13038,9 @@ export const dailyContent = [
       "phrase": "ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು",
       "phrasePronunciation": "obbana oota ibbarige saaladu",
       "phraseMeaning": "ಕಡಿಮೆ ಸಂಪನ್ಮೂಲ",
-      "phraseExample": "ಇಷ್ಟು ಸಂಬಳ ಸಾಲದು — ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು."
+      "phraseExample": "ಇಷ್ಟು ಸಂಬಳ ಸಾಲದು — ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು.",
+      "meaningInEnglish": "Famous",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "తేజస్సు",
@@ -11420,7 +13050,9 @@ export const dailyContent = [
       "phrase": "రాయిని దేవుడని పూజిస్తే అది దేవుడే",
       "phrasePronunciation": "raayini devudani poojisite adi devude",
       "phraseMeaning": "నమ్మకం ఉంటే ఏదైనా సాధ్యం",
-      "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే."
+      "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే.",
+      "meaningInEnglish": "Radiance",
+      "phraseMeaningInEnglish": "Faith makes anything possible"
     }
   },
   {
@@ -11442,7 +13074,9 @@ export const dailyContent = [
       "phrase": "गागर में सागर भरना",
       "phrasePronunciation": "gaagar mein saagar bharna",
       "phraseMeaning": "कम शब्दों में गहरी बात कहना",
-      "phraseExample": "कबीर के दोहे गागर में सागर भरते हैं।"
+      "phraseExample": "कबीर के दोहे गागर में सागर भरते हैं।",
+      "meaningInEnglish": "Egregious; blatantly bad",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ತಡೆಹಿಡಿ",
@@ -11452,7 +13086,9 @@ export const dailyContent = [
       "phrase": "ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ",
       "phrasePronunciation": "kaleda kaala matte baralla",
       "phraseMeaning": "ಹೋದ ಸಮಯ ಹಿಂತಿರುಗುವುದಿಲ್ಲ",
-      "phraseExample": "ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಬೇಡ — ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ."
+      "phraseExample": "ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಬೇಡ — ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ.",
+      "meaningInEnglish": "Tadehidi",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అనురాగం",
@@ -11462,7 +13098,9 @@ export const dailyContent = [
       "phrase": "ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది",
       "phrasePronunciation": "enta pedda chettainaa vittananto modalavutundi",
       "phraseMeaning": "ప్రతి గొప్ప విషయం చిన్నగా మొదలవుతుంది",
-      "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది."
+      "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది.",
+      "meaningInEnglish": "Love",
+      "phraseMeaningInEnglish": "Every great thing starts small"
     }
   },
   {
@@ -11484,7 +13122,9 @@ export const dailyContent = [
       "phrase": "चिराग तले अँधेरा",
       "phrasePronunciation": "chiraag tale andhera",
       "phraseMeaning": "अपने घर में ही खराबी",
-      "phraseExample": "पुलिस अधिकारी का बेटा चोर — चिराग तले अँधेरा।"
+      "phraseExample": "पुलिस अधिकारी का बेटा चोर — चिराग तले अँधेरा।",
+      "meaningInEnglish": "Serendipity; fate",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಸಹ್ಯ",
@@ -11494,7 +13134,9 @@ export const dailyContent = [
       "phrase": "ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು",
       "phrasePronunciation": "ketta mele buddhi bantu",
       "phraseMeaning": "ನಷ್ಟ ಆದ ಮೇಲೆ ಅರಿವು ಬಂತು",
-      "phraseExample": "ಈಗ ಅರ್ಥ ಆಯಿತು — ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು."
+      "phraseExample": "ಈಗ ಅರ್ಥ ಆಯಿತು — ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು.",
+      "meaningInEnglish": "Disgusting; repulsive",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "స్వతంత్రం",
@@ -11504,7 +13146,9 @@ export const dailyContent = [
       "phrase": "నవ్వు నాలుగు విధాల మేలు",
       "phrasePronunciation": "navvu naalugu vidhaala melu",
       "phraseMeaning": "నవ్వడం ఆరోగ్యానికి మంచిది",
-      "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు."
+      "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు.",
+      "meaningInEnglish": "Freedom",
+      "phraseMeaningInEnglish": "Laughter is the best medicine"
     }
   },
   {
@@ -11526,7 +13170,9 @@ export const dailyContent = [
       "phrase": "जले पर नमक छिड़कना",
       "phrasePronunciation": "jale par namak chhidakna",
       "phraseMeaning": "दुखी को और दुखी करना",
-      "phraseExample": "हार के बाद ताने मत मारो, जले पर नमक मत छिड़को।"
+      "phraseExample": "हार के बाद ताने मत मारो, जले पर नमक मत छिड़को।",
+      "meaningInEnglish": "Filibuster; prolonged speech",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಮೀಪದಲ್ಲಿರುವ",
@@ -11536,7 +13182,9 @@ export const dailyContent = [
       "phrase": "ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ",
       "phrasePronunciation": "kottiddu tanage bachchittiddu pararige",
       "phraseMeaning": "ದಾನ ಮಾಡಿದ್ದು ನಿಮಗೇ ಲಾಭ",
-      "phraseExample": "ದಾನ ಮಾಡು — ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ."
+      "phraseExample": "ದಾನ ಮಾಡು — ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ.",
+      "meaningInEnglish": "Sameepadalliruva",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "మేధస్సు",
@@ -11546,7 +13194,9 @@ export const dailyContent = [
       "phrase": "అప్పు తీర్చని వాడికి పరపతి ఉండదు",
       "phrasePronunciation": "appu teerchani vaadiki parapati undadu",
       "phraseMeaning": "నమ్మకం కోల్పోతే మళ్ళీ రాదు",
-      "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు."
+      "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు.",
+      "meaningInEnglish": "Intellect",
+      "phraseMeaningInEnglish": "Trust, once lost, is hard to regain"
     }
   },
   {
@@ -11568,7 +13218,9 @@ export const dailyContent = [
       "phrase": "नाक कटना",
       "phrasePronunciation": "naak katna",
       "phraseMeaning": "इज्जत जाना",
-      "phraseExample": "बेटे के व्यवहार से पिता की नाक कट गई।"
+      "phraseExample": "बेटे के व्यवहार से पिता की नाक कट गई।",
+      "meaningInEnglish": "Acerbic; bitter",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದ್ವೇಷ",
@@ -11578,7 +13230,9 @@ export const dailyContent = [
       "phrase": "ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ",
       "phrasePronunciation": "kalitavanige kadaloo halla",
       "phraseMeaning": "ಜ್ಞಾನಿಗೆ ಎಲ್ಲವೂ ಸುಲಭ",
-      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಕೆಲಸವೂ ಕಷ್ಟವಲ್ಲ — ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ."
+      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಕೆಲಸವೂ ಕಷ್ಟವಲ್ಲ — ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ.",
+      "meaningInEnglish": "Hatred",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సాంత్వన",
@@ -11588,7 +13242,9 @@ export const dailyContent = [
       "phrase": "ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు",
       "phrasePronunciation": "ekkada chepalu levo akkada kappe raaju",
       "phraseMeaning": "సమర్థులు లేని చోట అసమర్థులు పెత్తనం చేస్తారు",
-      "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు."
+      "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు.",
+      "meaningInEnglish": "Consolation",
+      "phraseMeaningInEnglish": "In the land of the blind, the one-eyed is king"
     }
   },
   {
@@ -11610,7 +13266,9 @@ export const dailyContent = [
       "phrase": "पेट में चूहे दौड़ना",
       "phrasePronunciation": "pet mein choohe daudna",
       "phraseMeaning": "बहुत भूख लगना",
-      "phraseExample": "दोपहर से कुछ नहीं खाया, पेट में चूहे दौड़ रहे हैं।"
+      "phraseExample": "दोपहर से कुछ नहीं खाया, पेट में चूहे दौड़ रहे हैं।",
+      "meaningInEnglish": "Futile; useless",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಚುರುಕು",
@@ -11620,7 +13278,9 @@ export const dailyContent = [
       "phrase": "ಹೊಸ ಬಾಳೆ ಎಲೆ ಹಳೆ ಬಾಳೆ ಎಲೆ ಜೊತೆ ಸೇರಿ ಸುಟ್ಟು ಹೋಯಿತು",
       "phrasePronunciation": "hosa baale ele hale baale ele jote seri suttu hoyitu",
       "phraseMeaning": "ಒಳ್ಳೆಯವನು ಕೆಟ್ಟವರ ಸಹವಾಸದಲ್ಲಿ ಹಾಳಾಗುತ್ತಾನೆ",
-      "phraseExample": "ಕೆಟ್ಟ ಸ್ನೇಹಿತರಿಂದ ದೂರ ಇರು."
+      "phraseExample": "ಕೆಟ್ಟ ಸ್ನೇಹಿತರಿಂದ ದೂರ ಇರು.",
+      "meaningInEnglish": "Churuku",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఉపకారం",
@@ -11630,7 +13290,9 @@ export const dailyContent = [
       "phrase": "చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది",
       "phrasePronunciation": "chettu narikina modalu unte chiguristundi",
       "phraseMeaning": "మూలం బలంగా ఉంటే తిరిగి లేవగలం",
-      "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది."
+      "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది.",
+      "meaningInEnglish": "Benevolence",
+      "phraseMeaningInEnglish": "Strong roots help you rise again"
     }
   },
   {
@@ -11652,7 +13314,9 @@ export const dailyContent = [
       "phrase": "मक्खी पर मक्खी मारना",
       "phrasePronunciation": "makkhi par makkhi maarna",
       "phraseMeaning": "नकल करना",
-      "phraseExample": "वह हमेशा दूसरों पर मक्खी मारता है।"
+      "phraseExample": "वह हमेशा दूसरों पर मक्खी मारता है।",
+      "meaningInEnglish": "To languish; to wither",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸರ್ವವ್ಯಾಪಿ",
@@ -11662,7 +13326,9 @@ export const dailyContent = [
       "phrase": "ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು",
       "phrasePronunciation": "idda oorige illada hesaru",
       "phraseMeaning": "ಸುಳ್ಳು ಪ್ರಚಾರ",
-      "phraseExample": "ಆ ವಂದನೆಗಳೆಲ್ಲ ಸುಳ್ಳು — ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು."
+      "phraseExample": "ಆ ವಂದನೆಗಳೆಲ್ಲ ಸುಳ್ಳು — ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು.",
+      "meaningInEnglish": "Ubiquitous; omnipresent",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "వైరాగ్యం",
@@ -11672,7 +13338,9 @@ export const dailyContent = [
       "phrase": "కుక్క తోక వంకరే",
       "phrasePronunciation": "kukka toka vankare",
       "phraseMeaning": "కొందరి స్వభావం ఎప్పటికీ మారదు",
-      "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే."
+      "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే.",
+      "meaningInEnglish": "Renunciation",
+      "phraseMeaningInEnglish": "A leopard can't change its spots"
     }
   },
   {
@@ -11694,7 +13362,9 @@ export const dailyContent = [
       "phrase": "उल्टी गंगा बहाना",
       "phrasePronunciation": "ulti ganga bahana",
       "phraseMeaning": "सामान्य नियम के विपरीत करना",
-      "phraseExample": "बच्चे बड़ों को सिखा रहे हैं — उल्टी गंगा बह रही है।"
+      "phraseExample": "बच्चे बड़ों को सिखा रहे हैं — उल्टी गंगा बह रही है।",
+      "meaningInEnglish": "Nuance; subtle detail",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸ್ತುತಿ",
@@ -11704,7 +13374,9 @@ export const dailyContent = [
       "phrase": "ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು",
       "phrasePronunciation": "neeru bandaaga oddu kattu",
       "phraseMeaning": "ಸಮಸ್ಯೆ ಬಂದಾಗ ತಕ್ಷಣ ಪರಿಹಾರ ಮಾಡು",
-      "phraseExample": "ಈಗಲೇ ಕ್ರಮ ತೆಗೆದುಕೊ — ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು."
+      "phraseExample": "ಈಗಲೇ ಕ್ರಮ ತೆಗೆದುಕೊ — ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು.",
+      "meaningInEnglish": "Praise; hymn",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంఘర్షణ",
@@ -11714,7 +13386,9 @@ export const dailyContent = [
       "phrase": "తినే చేతిని కోయరాదు",
       "phrasePronunciation": "tine chetini koyaraadu",
       "phraseMeaning": "తనకు సహాయం చేసేవాళ్ళను మోసం చేయకూడదు",
-      "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు."
+      "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు.",
+      "meaningInEnglish": "Conflict",
+      "phraseMeaningInEnglish": "Don't bite the hand that feeds you"
     }
   },
   {
@@ -11736,7 +13410,9 @@ export const dailyContent = [
       "phrase": "आग बबूला होना",
       "phrasePronunciation": "aag baboola hona",
       "phraseMeaning": "बहुत गुस्सा होना",
-      "phraseExample": "देरी सुनकर बॉस आग बबूला हो गया।"
+      "phraseExample": "देरी सुनकर बॉस आग बबूला हो गया।",
+      "meaningInEnglish": "Truism; obvious truth",
+      "phraseMeaningInEnglish": "To be furious; to see red"
     },
     "kannada": {
       "word": "ನವೀನ",
@@ -11746,7 +13422,9 @@ export const dailyContent = [
       "phrase": "ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು",
       "phrasePronunciation": "aluva maguvige haalu hechchu",
       "phraseMeaning": "ಕೇಳಿದವರಿಗೆ ಹೆಚ್ಚು ಸಿಗುತ್ತದೆ",
-      "phraseExample": "ಕೇಳು — ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು."
+      "phraseExample": "ಕೇಳು — ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು.",
+      "meaningInEnglish": "Navina",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రశాంతత",
@@ -11756,7 +13434,9 @@ export const dailyContent = [
       "phrase": "దూరపు కొండలు నునుపు",
       "phrasePronunciation": "doorapu kondalu nunupu",
       "phraseMeaning": "దూరం నుండి చూస్తే అన్నీ బాగుంటాయి",
-      "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు."
+      "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు.",
+      "meaningInEnglish": "Tranquility",
+      "phraseMeaningInEnglish": "Distant hills look green"
     }
   },
   {
@@ -11778,7 +13458,9 @@ export const dailyContent = [
       "phrase": "टेढ़ी खीर होना",
       "phrasePronunciation": "tedhi kheer hona",
       "phraseMeaning": "बहुत कठिन काम",
-      "phraseExample": "इस परीक्षा को पास करना टेढ़ी खीर है।"
+      "phraseExample": "इस परीक्षा को पास करना टेढ़ी खीर है।",
+      "meaningInEnglish": "To vacillate; to waver",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ನೀರಸ",
@@ -11788,7 +13470,9 @@ export const dailyContent = [
       "phrase": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ",
       "phrasePronunciation": "taayi idda mane devara mane",
       "phraseMeaning": "ತಾಯಿ ಇರುವ ಮನೆ ಪವಿತ್ರ",
-      "phraseExample": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ — ಅವಳನ್ನು ಗೌರವಿಸು."
+      "phraseExample": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ — ಅವಳನ್ನು ಗೌರವಿಸು.",
+      "meaningInEnglish": "Neerasa",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఔన్నత్యం",
@@ -11798,7 +13482,9 @@ export const dailyContent = [
       "phrase": "ఆకు రాలినా చెట్టు నిలబడుతుంది",
       "phrasePronunciation": "aaku raalinaa chettu nilabadutundi",
       "phraseMeaning": "కష్టాలు వచ్చినా మనిషి నిలబడాలి",
-      "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది."
+      "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది.",
+      "meaningInEnglish": "Greatness",
+      "phraseMeaningInEnglish": "Stand firm even in adversity"
     }
   },
   {
@@ -11820,7 +13506,9 @@ export const dailyContent = [
       "phrase": "हवा से बातें करना",
       "phrasePronunciation": "hava se baaten karna",
       "phraseMeaning": "बहुत तेज दौड़ना",
-      "phraseExample": "वह घोड़ा हवा से बातें करता है।"
+      "phraseExample": "वह घोड़ा हवा से बातें करता है।",
+      "meaningInEnglish": "Bellicose; hostile",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಚದುರು",
@@ -11830,7 +13518,9 @@ export const dailyContent = [
       "phrase": "ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ",
       "phrasePronunciation": "duddiddavane doddappa",
       "phraseMeaning": "ಹಣ ಇದ್ದವನಿಗೆ ಗೌರವ",
-      "phraseExample": "ಈ ಜಗತ್ತಿನಲ್ಲಿ ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ."
+      "phraseExample": "ಈ ಜಗತ್ತಿನಲ್ಲಿ ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ.",
+      "meaningInEnglish": "Chaduru",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంపద",
@@ -11840,7 +13530,9 @@ export const dailyContent = [
       "phrase": "ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు",
       "phrasePronunciation": "mundu choopu lenivadu venakki choostadu",
       "phraseMeaning": "ముందు ఆలోచించకపోతే తర్వాత బాధపడతాడు",
-      "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు."
+      "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు.",
+      "meaningInEnglish": "Wealth",
+      "phraseMeaningInEnglish": "Failing to plan is planning to fail"
     }
   },
   {
@@ -11862,7 +13554,9 @@ export const dailyContent = [
       "phrase": "पहाड़ टूट पड़ना",
       "phrasePronunciation": "pahaad toot padna",
       "phraseMeaning": "बड़ी मुसीबत आना",
-      "phraseExample": "नौकरी जाने से उस पर दुखों का पहाड़ टूट पड़ा।"
+      "phraseExample": "नौकरी जाने से उस पर दुखों का पहाड़ टूट पड़ा।",
+      "meaningInEnglish": "Careful",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಬದಲಾಗದ",
@@ -11872,7 +13566,9 @@ export const dailyContent = [
       "phrase": "ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ",
       "phrasePronunciation": "hottege hittilla juttige mallige",
       "phraseMeaning": "ಆಡಂಬರ ಹೆಚ್ಚು ಆದರೆ ಯೋಗ್ಯತೆ ಇಲ್ಲ",
-      "phraseExample": "ಅವನ ಬಳಿ ಏನೂ ಇಲ್ಲ ಆದರೆ ತೋರಿಕೆ ಹೆಚ್ಚು — ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ."
+      "phraseExample": "ಅವನ ಬಳಿ ಏನೂ ಇಲ್ಲ ಆದರೆ ತೋರಿಕೆ ಹೆಚ್ಚು — ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ.",
+      "meaningInEnglish": "Badalaagada",
+      "phraseMeaningInEnglish": "All show and no substance"
     },
     "telugu": {
       "word": "వీరత్వం",
@@ -11882,7 +13578,9 @@ export const dailyContent = [
       "phrase": "ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది",
       "phrasePronunciation": "eddu puttindi ellaku panikostundi",
       "phraseMeaning": "అన్నీ సమయం వచ్చినప్పుడు ఉపయోగపడతాయి",
-      "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది."
+      "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది.",
+      "meaningInEnglish": "Heroism",
+      "phraseMeaningInEnglish": "Everything has its time and use"
     }
   },
   {
@@ -11904,7 +13602,9 @@ export const dailyContent = [
       "phrase": "तूती बोलना",
       "phrasePronunciation": "tooti bolna",
       "phraseMeaning": "बहुत प्रभाव होना",
-      "phraseExample": "इस शहर में उसकी तूती बोलती है।"
+      "phraseExample": "इस शहर में उसकी तूती बोलती है।",
+      "meaningInEnglish": "Impartial",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಂಕೋಚಿ",
@@ -11914,7 +13614,9 @@ export const dailyContent = [
       "phrase": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು",
       "phrasePronunciation": "kai kesaraadare baayi mosaru",
       "phraseMeaning": "ಕಷ್ಟಪಟ್ಟರೆ ಫಲ ಸಿಗುತ್ತದೆ",
-      "phraseExample": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು — ಪ್ರಯತ್ನ ಮಾಡು."
+      "phraseExample": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು — ಪ್ರಯತ್ನ ಮಾಡು.",
+      "meaningInEnglish": "Sankochi",
+      "phraseMeaningInEnglish": "Hard work yields fruit"
     },
     "telugu": {
       "word": "అనుకంప",
@@ -11924,7 +13626,9 @@ export const dailyContent = [
       "phrase": "బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు",
       "phrasePronunciation": "buddhi unnavadiki balam avasaram ledu",
       "phraseMeaning": "తెలివి ఉంటే శక్తి అవసరం లేదు",
-      "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు."
+      "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు.",
+      "meaningInEnglish": "Sympathy",
+      "phraseMeaningInEnglish": "Brain over brawn"
     }
   },
   {
@@ -11946,7 +13650,9 @@ export const dailyContent = [
       "phrase": "नानी याद आना",
       "phrasePronunciation": "naani yaad aana",
       "phraseMeaning": "बहुत कठिनाई होना",
-      "phraseExample": "पहाड़ चढ़ते-चढ़ते नानी याद आ गई।"
+      "phraseExample": "पहाड़ चढ़ते-चढ़ते नानी याद आ गई।",
+      "meaningInEnglish": "To usurp; to seize power",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮೋಹಿಸು",
@@ -11956,7 +13662,9 @@ export const dailyContent = [
       "phrase": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ",
       "phrasePronunciation": "aliya banda aduge mane tanaka",
       "phraseMeaning": "ಅತಿಥಿ ಅತಿಯಾಗಿ ಹಕ್ಕು ಚಲಾಯಿಸುವುದು",
-      "phraseExample": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ ಎಂಬಂತೆ ಅವನು ಮನೆಯಲ್ಲಿ ರಾಜ್ಯ ಆಳುತ್ತಿದ್ದಾನೆ."
+      "phraseExample": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ ಎಂಬಂತೆ ಅವನು ಮನೆಯಲ್ಲಿ ರಾಜ್ಯ ಆಳುತ್ತಿದ್ದಾನೆ.",
+      "meaningInEnglish": "Mohisu",
+      "phraseMeaningInEnglish": "A guest overstepping their welcome"
     },
     "telugu": {
       "word": "సమృద్ధి",
@@ -11966,7 +13674,9 @@ export const dailyContent = [
       "phrase": "పెద్దల మాట చద్దన్నం మూట",
       "phrasePronunciation": "peddala maata chaddannam moota",
       "phraseMeaning": "పెద్దల సలహా ఎల్లప్పుడూ ఉపయోగకరం",
-      "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట."
+      "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట.",
+      "meaningInEnglish": "Abundance",
+      "phraseMeaningInEnglish": "Elders' advice is always valuable"
     }
   },
   {
@@ -11988,7 +13698,9 @@ export const dailyContent = [
       "phrase": "कमर कसना",
       "phrasePronunciation": "kamar kasna",
       "phraseMeaning": "तैयारी करना",
-      "phraseExample": "परीक्षा के लिए कमर कस ली।"
+      "phraseExample": "परीक्षा के लिए कमर कस ली।",
+      "meaningInEnglish": "Secret; covert",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪ್ರಾಯೋಗಿಕ",
@@ -11998,7 +13710,9 @@ export const dailyContent = [
       "phrase": "ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ",
       "phrasePronunciation": "ettige jvara bandare emmege bare",
       "phraseMeaning": "ಒಬ್ಬರ ಸಮಸ್ಯೆಯನ್ನು ಇನ್ನೊಬ್ಬರ ಮೇಲೆ ಹಾಕುವುದು",
-      "phraseExample": "ನನ್ನ ತಪ್ಪಿಗೆ ಅವನಿಗೆ ಶಿಕ್ಷೆ — ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ."
+      "phraseExample": "ನನ್ನ ತಪ್ಪಿಗೆ ಅವನಿಗೆ ಶಿಕ್ಷೆ — ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ.",
+      "meaningInEnglish": "Praayogika",
+      "phraseMeaningInEnglish": "Passing one's problems onto others"
     },
     "telugu": {
       "word": "ప్రాముఖ్యం",
@@ -12008,7 +13722,9 @@ export const dailyContent = [
       "phrase": "మాటే మంత్రం",
       "phrasePronunciation": "maate mantram",
       "phraseMeaning": "మాటలో చాలా శక్తి ఉంది",
-      "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం."
+      "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం.",
+      "meaningInEnglish": "Importance",
+      "phraseMeaningInEnglish": "Words carry great power"
     }
   },
   {
@@ -12030,7 +13746,9 @@ export const dailyContent = [
       "phrase": "दिन में तारे दिखाना",
       "phrasePronunciation": "din mein taare dikhana",
       "phraseMeaning": "बहुत परेशान करना",
-      "phraseExample": "इस बीमारी ने दिन में तारे दिखा दिए।"
+      "phraseExample": "इस बीमारी ने दिन में तारे दिखा दिए।",
+      "meaningInEnglish": "Insidious; subtly harmful",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಚಲ",
@@ -12040,7 +13758,9 @@ export const dailyContent = [
       "phrase": "ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ",
       "phrasePronunciation": "kuri kaayuvavana kaili dana kottante",
       "phraseMeaning": "ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ ಜವಾಬ್ದಾರಿ ಕೊಡುವುದು",
-      "phraseExample": "ಅವನಿಗೆ ಆ ಕೆಲಸ ಕೊಟ್ಟದ್ದು ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ."
+      "phraseExample": "ಅವನಿಗೆ ಆ ಕೆಲಸ ಕೊಟ್ಟದ್ದು ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ.",
+      "meaningInEnglish": "Immovable",
+      "phraseMeaningInEnglish": "Giving responsibility to an unworthy person"
     },
     "telugu": {
       "word": "స్నేహం",
@@ -12050,7 +13770,9 @@ export const dailyContent = [
       "phrase": "కంటికి రెప్పలా కాపాడు",
       "phrasePronunciation": "kantiki reppalaa kaapaadu",
       "phraseMeaning": "చాలా జాగ్రత్తగా రక్షించడం",
-      "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది."
+      "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది.",
+      "meaningInEnglish": "Friendship",
+      "phraseMeaningInEnglish": "To guard something very preciously"
     }
   },
   {
@@ -12072,7 +13794,9 @@ export const dailyContent = [
       "phrase": "खरी-खरी सुनाना",
       "phrasePronunciation": "khari-khari sunana",
       "phraseMeaning": "सीधी सच्ची बात कहना",
-      "phraseExample": "उसने बॉस को खरी-खरी सुना दी।"
+      "phraseExample": "उसने बॉस को खरी-खरी सुना दी।",
+      "meaningInEnglish": "Opulent; lavishly wealthy",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ತಾತ್ಕಾಲಿಕ",
@@ -12082,7 +13806,9 @@ export const dailyContent = [
       "phrase": "ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ",
       "phrasePronunciation": "gaali bandaaga tooriko",
       "phraseMeaning": "ಅವಕಾಶ ಸಿಕ್ಕಾಗ ಉಪಯೋಗಿಸಿಕೊ",
-      "phraseExample": "ಅವಕಾಶ ಸಿಕ್ಕಿದೆ, ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ."
+      "phraseExample": "ಅವಕಾಶ ಸಿಕ್ಕಿದೆ, ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ.",
+      "meaningInEnglish": "Temporary; ephemeral",
+      "phraseMeaningInEnglish": "Seize the opportunity when it comes"
     },
     "telugu": {
       "word": "అనుభూతి",
@@ -12092,7 +13818,9 @@ export const dailyContent = [
       "phrase": "ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు",
       "phrasePronunciation": "aachaaram aaripoyinaa aavakaaya aaradu",
       "phraseMeaning": "కొన్ని అలవాట్లు ఎప్పటికీ మారవు",
-      "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు."
+      "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు.",
+      "meaningInEnglish": "Feeling",
+      "phraseMeaningInEnglish": "Old habits die hard"
     }
   },
   {
@@ -12114,7 +13842,9 @@ export const dailyContent = [
       "phrase": "चादर देखकर पैर फैलाना",
       "phrasePronunciation": "chaadar dekhkar pair failana",
       "phraseMeaning": "आय के अनुसार खर्च करना",
-      "phraseExample": "चादर देखकर पैर फैलाओ वरना कर्ज में डूब जाओगे।"
+      "phraseExample": "चादर देखकर पैर फैलाओ वरना कर्ज में डूब जाओगे।",
+      "meaningInEnglish": "Tendency; inclination",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕಠಿಣ ಹೃದಯ",
@@ -12124,7 +13854,9 @@ export const dailyContent = [
       "phrase": "ಮೊಸಳೆ ಕಣ್ಣೀರು",
       "phrasePronunciation": "mosale kanneeru",
       "phraseMeaning": "ಸುಳ್ಳು ಅನುಕಂಪ",
-      "phraseExample": "ಅವನ ದುಃಖ ಮೊಸಳೆ ಕಣ್ಣೀರು."
+      "phraseExample": "ಅವನ ದುಃಖ ಮೊಸಳೆ ಕಣ್ಣೀರು.",
+      "meaningInEnglish": "Kathina hrudaya",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సమన్వయం",
@@ -12134,7 +13866,9 @@ export const dailyContent = [
       "phrase": "నిజం తెలిసినా తెలియనట్లు ఉండటం",
       "phrasePronunciation": "nijam telisina teliyannattlu undadam",
       "phraseMeaning": "నిజం తెలిసి కూడా మౌనంగా ఉండటం",
-      "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం."
+      "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం.",
+      "meaningInEnglish": "Coordination",
+      "phraseMeaningInEnglish": "Knowing the truth but staying silent"
     }
   },
   {
@@ -12156,7 +13890,9 @@ export const dailyContent = [
       "phrase": "एक और एक ग्यारह होना",
       "phrasePronunciation": "ek aur ek gyaarah hona",
       "phraseMeaning": "एकता में बल होना",
-      "phraseExample": "दोनों दोस्तों ने मिलकर काम किया — एक और एक ग्यारह हो गए।"
+      "phraseExample": "दोनों दोस्तों ने मिलकर काम किया — एक और एक ग्यारह हो गए।",
+      "meaningInEnglish": "Ambivalence; mixed feelings",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ವಾಕ್ಪಟುತ್ವ",
@@ -12166,7 +13902,9 @@ export const dailyContent = [
       "phrase": "ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ",
       "phrasePronunciation": "kodali kaavu koduva mara",
       "phraseMeaning": "ತನ್ನನ್ನೇ ಕಡಿಯಲು ಸಹಾಯ ಮಾಡುವುದು",
-      "phraseExample": "ಅವನಿಗೇ ಮಾಹಿತಿ ಕೊಟ್ಟೆ — ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ ಆದೆ."
+      "phraseExample": "ಅವನಿಗೇ ಮಾಹಿತಿ ಕೊಟ್ಟೆ — ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ ಆದೆ.",
+      "meaningInEnglish": "Vaakpatutva",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆరోగ్యం",
@@ -12176,7 +13914,9 @@ export const dailyContent = [
       "phrase": "వెన్నెల్లో చల్లగాలి తగిలినట్లు",
       "phrasePronunciation": "vennello challagaali tagilinattlu",
       "phraseMeaning": "చాలా హాయిగా ఉండటం",
-      "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది."
+      "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది.",
+      "meaningInEnglish": "Health",
+      "phraseMeaningInEnglish": "Feeling very pleasant and comfortable"
     }
   },
   {
@@ -12198,7 +13938,9 @@ export const dailyContent = [
       "phrase": "लकीर का फकीर होना",
       "phrasePronunciation": "lakeer ka fakeer hona",
       "phraseMeaning": "पुरानी बातों पर ही चलना",
-      "phraseExample": "वह लकीर का फकीर है, नई सोच स्वीकार नहीं करता।"
+      "phraseExample": "वह लकीर का फकीर है, नई सोच स्वीकार नहीं करता।",
+      "meaningInEnglish": "Torpid; sluggish",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ತಪ್ಪಿಸು",
@@ -12208,7 +13950,9 @@ export const dailyContent = [
       "phrase": "ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ",
       "phrasePronunciation": "tumbida koda tulukuvudilla",
       "phraseMeaning": "ಜ್ಞಾನಿ ಅಹಂಕಾರ ತೋರಿಸುವುದಿಲ್ಲ",
-      "phraseExample": "ಅವರು ವಿನಯಶೀಲರು — ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ."
+      "phraseExample": "ಅವರು ವಿನಯಶೀಲರು — ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ.",
+      "meaningInEnglish": "Tappisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "విచక్షణ",
@@ -12218,7 +13962,9 @@ export const dailyContent = [
       "phrase": "ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా",
       "phrasePronunciation": "aavu chelo meste dooda gattuna mestundaa",
       "phraseMeaning": "పెద్దలు చేసేది పిల్లలు కూడా చేస్తారు",
-      "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా."
+      "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా.",
+      "meaningInEnglish": "Discernment",
+      "phraseMeaningInEnglish": "Children follow what elders do"
     }
   },
   {
@@ -12240,7 +13986,9 @@ export const dailyContent = [
       "phrase": "सिर पर कफन बाँधना",
       "phrasePronunciation": "sir par kafan baandhna",
       "phraseMeaning": "मरने को तैयार होना",
-      "phraseExample": "सैनिकों ने सिर पर कफन बाँध लिया।"
+      "phraseExample": "सैनिकों ने सिर पर कफन बाँध लिया।",
+      "meaningInEnglish": "Subterfuge; deception",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ವಿಧಿ",
@@ -12250,7 +13998,9 @@ export const dailyContent = [
       "phrase": "ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು",
       "phrasePronunciation": "haavu saayabeku kolu muriyabaaradu",
       "phraseMeaning": "ಕೆಲಸ ಆಗಬೇಕು ಯಾರಿಗೂ ಹಾನಿ ಆಗಬಾರದು",
-      "phraseExample": "ಜಾಣತನದಿಂದ ಮಾಡು — ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು."
+      "phraseExample": "ಜಾಣತನದಿಂದ ಮಾಡು — ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು.",
+      "meaningInEnglish": "Vidhi",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆశయం",
@@ -12260,7 +14010,9 @@ export const dailyContent = [
       "phrase": "ఒక చేత్తో చప్పట్లు కొట్టలేం",
       "phrasePronunciation": "oka chettto chappatlu kottalem",
       "phraseMeaning": "ఒంటరిగా ఏదీ సాధ్యం కాదు",
-      "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం."
+      "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం.",
+      "meaningInEnglish": "Aspiration",
+      "phraseMeaningInEnglish": "Nothing is possible alone; teamwork matters"
     }
   },
   {
@@ -12282,7 +14034,9 @@ export const dailyContent = [
       "phrase": "दूध का दूध पानी का पानी",
       "phrasePronunciation": "doodh ka doodh paani ka paani",
       "phraseMeaning": "सच और झूठ का फैसला करना",
-      "phraseExample": "जाँच में दूध का दूध पानी का पानी हो जाएगा।"
+      "phraseExample": "जाँच में दूध का दूध पानी का पानी हो जाएगा।",
+      "meaningInEnglish": "Grandiose; magnificent",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದಣಿದ",
@@ -12292,7 +14046,9 @@ export const dailyContent = [
       "phrase": "ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ",
       "phrasePronunciation": "maadiddunno mahaaraaya",
       "phraseMeaning": "ಮಾಡಿದ ಕೆಲಸದ ಫಲ ಅನುಭವಿಸು",
-      "phraseExample": "ಈಗ ಅಳಬೇಡ, ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ."
+      "phraseExample": "ಈಗ ಅಳಬೇಡ, ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ.",
+      "meaningInEnglish": "Danida",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రతిష్ఠ",
@@ -12302,7 +14058,9 @@ export const dailyContent = [
       "phrase": "వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు",
       "phrasePronunciation": "vepachettu kinda paalu taaginaa chedu antaaru",
       "phraseMeaning": "చెడ్డ పేరు వస్తే ఎంత మంచి చేసినా నమ్మరు",
-      "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు."
+      "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు.",
+      "meaningInEnglish": "Prestige",
+      "phraseMeaningInEnglish": "A bad name sticks no matter what"
     }
   },
   {
@@ -12324,7 +14082,9 @@ export const dailyContent = [
       "phrase": "सर आँखों पर बिठाना",
       "phrasePronunciation": "sar aankhon par bithana",
       "phraseMeaning": "बहुत सम्मान देना",
-      "phraseExample": "मेहमान को सर आँखों पर बिठाया।"
+      "phraseExample": "मेहमान को सर आँखों पर बिठाया।",
+      "meaningInEnglish": "Intransigent; uncompromising",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಧನದಾಹ",
@@ -12334,7 +14094,9 @@ export const dailyContent = [
       "phrase": "ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ",
       "phrasePronunciation": "adikege hoda maana aane kottaroo baralla",
       "phraseMeaning": "ಹೋದ ಗೌರವ ಮರಳಿ ಬರುವುದಿಲ್ಲ",
-      "phraseExample": "ಮರ್ಯಾದೆ ಕಳೆದುಕೊಂಡ — ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ."
+      "phraseExample": "ಮರ್ಯಾದೆ ಕಳೆದುಕೊಂಡ — ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ.",
+      "meaningInEnglish": "Dhanadaaha",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సామరస్యం",
@@ -12344,7 +14106,9 @@ export const dailyContent = [
       "phrase": "దొరికిన దారే దగ్గరి దారి",
       "phrasePronunciation": "dorikina daare daggari daari",
       "phraseMeaning": "అందుబాటులో ఉన్న మార్గం ఉత్తమమైనది",
-      "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి."
+      "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి.",
+      "meaningInEnglish": "Harmony",
+      "phraseMeaningInEnglish": "A bird in hand is worth two in the bush"
     }
   },
   {
@@ -12366,7 +14130,9 @@ export const dailyContent = [
       "phrase": "जहाँ चाह वहाँ राह",
       "phrasePronunciation": "jahan chaah vahan raah",
       "phraseMeaning": "इच्छा हो तो रास्ता निकलता है",
-      "phraseExample": "उसने साबित कर दिया कि जहाँ चाह वहाँ राह।"
+      "phraseExample": "उसने साबित कर दिया कि जहाँ चाह वहाँ राह।",
+      "meaningInEnglish": "To impede; to obstruct",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದಿಗ್ಭ್ರಮೆ",
@@ -12376,7 +14142,9 @@ export const dailyContent = [
       "phrase": "ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ",
       "phrasePronunciation": "ooru kottaroo hola koda",
       "phraseMeaning": "ನೆರೆಹೊರೆ ಒಳ್ಳೆಯದಾಗಿರಬೇಕು",
-      "phraseExample": "ಒಳ್ಳೆಯ ನೆರೆಹೊರೆ ಮುಖ್ಯ — ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ."
+      "phraseExample": "ಒಳ್ಳೆಯ ನೆರೆಹೊರೆ ಮುಖ್ಯ — ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ.",
+      "meaningInEnglish": "Digbhrame",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆవిష్కరణ",
@@ -12386,7 +14154,9 @@ export const dailyContent = [
       "phrase": "ఏనుగు కాలికి ముల్లు గుచ్చినట్లు",
       "phrasePronunciation": "enugu kaaliki mullu gucchinattlu",
       "phraseMeaning": "శక్తివంతుడికి చిన్న సమస్య ఎదురైనా బాధిస్తుంది",
-      "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు."
+      "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు.",
+      "meaningInEnglish": "Invention",
+      "phraseMeaningInEnglish": "Even small problems trouble the mighty"
     }
   },
   {
@@ -12408,7 +14178,9 @@ export const dailyContent = [
       "phrase": "अपनी खिचड़ी अलग पकाना",
       "phrasePronunciation": "apni khichdi alag pakana",
       "phraseMeaning": "सबसे अलग रहना",
-      "phraseExample": "वह हमेशा अपनी खिचड़ी अलग पकाता है।"
+      "phraseExample": "वह हमेशा अपनी खिचड़ी अलग पकाता है।",
+      "meaningInEnglish": "Sardonic; sarcastic",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪೂಜಿಸು",
@@ -12418,7 +14190,9 @@ export const dailyContent = [
       "phrase": "ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ",
       "phrasePronunciation": "kallana manassu kattale",
       "phraseMeaning": "ತಪ್ಪು ಮಾಡಿದವನಿಗೆ ಯಾವಾಗಲೂ ಭಯ",
-      "phraseExample": "ಅವನು ಯಾವಾಗಲೂ ಹೆದರುತ್ತಾನೆ — ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ."
+      "phraseExample": "ಅವನು ಯಾವಾಗಲೂ ಹೆದರುತ್ತಾನೆ — ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ.",
+      "meaningInEnglish": "Poojisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిష్ఠ",
@@ -12428,7 +14202,9 @@ export const dailyContent = [
       "phrase": "మంచికి మంచి, చెడుకు చెడు",
       "phrasePronunciation": "manchiki manchi cheduki chedu",
       "phraseMeaning": "చేసిన దానికి తగిన ఫలితం వస్తుంది",
-      "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు."
+      "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు.",
+      "meaningInEnglish": "Devotion",
+      "phraseMeaningInEnglish": "You reap what you sow"
     }
   },
   {
@@ -12450,7 +14226,9 @@ export const dailyContent = [
       "phrase": "आँखें चुराना",
       "phrasePronunciation": "aankhein churana",
       "phraseMeaning": "नज़र बचाना",
-      "phraseExample": "गलती करने के बाद वह आँखें चुरा रहा था।"
+      "phraseExample": "गलती करने के बाद वह आँखें चुरा रहा था।",
+      "meaningInEnglish": "Iconoclast; innovative thinker",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಆಶಾವಾದಿ",
@@ -12460,7 +14238,9 @@ export const dailyContent = [
       "phrase": "ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ",
       "phrasePronunciation": "maatu belli mauna bangaara",
       "phraseMeaning": "ಮಾತಿಗಿಂತ ಮೌನ ಮೌಲ್ಯಯುತ",
-      "phraseExample": "ಈ ಸಮಯದಲ್ಲಿ ಸುಮ್ಮನಿರು — ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ."
+      "phraseExample": "ಈ ಸಮಯದಲ್ಲಿ ಸುಮ್ಮನಿರು — ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ.",
+      "meaningInEnglish": "Aashavaadi",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సౌహార్దం",
@@ -12470,7 +14250,9 @@ export const dailyContent = [
       "phrase": "చదువుకున్న చెడిపోయినవాడు లేడు",
       "phrasePronunciation": "chaduvukunna chedipoyinavadu ledu",
       "phraseMeaning": "చదువు ఎప్పుడూ ఉపయోగపడుతుంది",
-      "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు."
+      "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు.",
+      "meaningInEnglish": "Cordiality",
+      "phraseMeaningInEnglish": "Education always proves useful"
     }
   },
   {
@@ -12492,7 +14274,9 @@ export const dailyContent = [
       "phrase": "मुँह में पानी आना",
       "phrasePronunciation": "munh mein paani aana",
       "phraseMeaning": "लालच आना",
-      "phraseExample": "पकवान देखकर मुँह में पानी आ गया।"
+      "phraseExample": "पकवान देखकर मुँह में पानी आ गया।",
+      "meaningInEnglish": "Hapless; unfortunate",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಚಂಚಲ",
@@ -12502,7 +14286,9 @@ export const dailyContent = [
       "phrase": "ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ",
       "phrasePronunciation": "hole neerige donne naayaka",
       "phraseMeaning": "ಅಧಿಕಾರವಿಲ್ಲದವನ ಆಡಂಬರ",
-      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಅಧಿಕಾರವೂ ಇಲ್ಲ ಆದರೆ ರೋಬ್ — ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ."
+      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಅಧಿಕಾರವೂ ಇಲ್ಲ ಆದರೆ ರೋಬ್ — ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ.",
+      "meaningInEnglish": "Fickle; restless",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "మనోబలం",
@@ -12512,7 +14298,9 @@ export const dailyContent = [
       "phrase": "రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది",
       "phrasePronunciation": "rekkala kashtam raallu karigistundi",
       "phraseMeaning": "కష్టపడి పనిచేస్తే అసాధ్యమైనది కూడా సాధ్యం",
-      "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది."
+      "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది.",
+      "meaningInEnglish": "Mental strength",
+      "phraseMeaningInEnglish": "With hard work, the impossible becomes possible"
     }
   },
   {
@@ -12534,7 +14322,9 @@ export const dailyContent = [
       "phrase": "अंधे की लाठी",
       "phrasePronunciation": "andhe ki laathi",
       "phraseMeaning": "एकमात्र सहारा",
-      "phraseExample": "बूढ़ी माँ के लिए बेटा अंधे की लाठी है।"
+      "phraseExample": "बूढ़ी माँ के लिए बेटा अंधे की लाठी है।",
+      "meaningInEnglish": "Eulogy; praise",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸತ್ಯತೆ",
@@ -12544,7 +14334,9 @@ export const dailyContent = [
       "phrase": "ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ",
       "phrasePronunciation": "naayi bogalidare devaloka haalaguvudilla",
       "phraseMeaning": "ಕೆಟ್ಟವರ ಮಾತಿಗೆ ಮಹತ್ವ ಕೊಡಬೇಡ",
-      "phraseExample": "ಅವರ ಟೀಕೆ ಬಿಡು — ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ."
+      "phraseExample": "ಅವರ ಟೀಕೆ ಬಿಡು — ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ.",
+      "meaningInEnglish": "Truthfulness; veracity",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆత్మీయత",
@@ -12554,7 +14346,9 @@ export const dailyContent = [
       "phrase": "పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు",
       "phrasePronunciation": "pogada chettu ekkada ledu kaani marri chettu arudu",
       "phraseMeaning": "సాధారణం ఎక్కడైనా దొరుకుతుంది, ప్రత్యేకమైనది అరుదు",
-      "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు."
+      "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు.",
+      "meaningInEnglish": "Intimacy",
+      "phraseMeaningInEnglish": "The ordinary is common, the special is rare"
     }
   },
   {
@@ -12576,7 +14370,9 @@ export const dailyContent = [
       "phrase": "दो नावों पर पैर रखना",
       "phrasePronunciation": "do naavon par pair rakhna",
       "phraseMeaning": "दो तरफ से फायदा उठाना",
-      "phraseExample": "दो नावों पर पैर रखोगे तो डूब जाओगे।"
+      "phraseExample": "दो नावों पर पैर रखोगे तो डूब जाओगे।",
+      "meaningInEnglish": "To yearn; to pine for",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಆಡಂಬರ",
@@ -12586,7 +14382,9 @@ export const dailyContent = [
       "phrase": "ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು",
       "phrasePronunciation": "ati aase gati kedu",
       "phraseMeaning": "ಅತಿಯಾಸೆ ವಿನಾಶಕ್ಕೆ ಕಾರಣ",
-      "phraseExample": "ಹೆಚ್ಚು ಬೇಡ — ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು."
+      "phraseExample": "ಹೆಚ್ಚು ಬೇಡ — ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು.",
+      "meaningInEnglish": "Aadambara",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రవీణత",
@@ -12596,7 +14394,9 @@ export const dailyContent = [
       "phrase": "తూరుపు తెలిసేవాడికి దిక్కు తెలియదా",
       "phrasePronunciation": "toorupu telisevadiki dikku teliyada",
       "phraseMeaning": "ఒకటి తెలిస్తే మిగిలినవి కూడా తెలుస్తాయి",
-      "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా."
+      "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా.",
+      "meaningInEnglish": "Expertise",
+      "phraseMeaningInEnglish": "Knowing one thing leads to knowing others"
     }
   },
   {
@@ -12618,7 +14418,9 @@ export const dailyContent = [
       "phrase": "आँखों का तारा",
       "phrasePronunciation": "aankhon ka taara",
       "phraseMeaning": "बहुत प्रिय व्यक्ति",
-      "phraseExample": "बेटा उसकी आँखों का तारा है।"
+      "phraseExample": "बेटा उसकी आँखों का तारा है।",
+      "meaningInEnglish": "Grandiose; magnificent",
+      "phraseMeaningInEnglish": "A very dear person; apple of one's eye"
     },
     "kannada": {
       "word": "ಅಂಧ ದೇಶಭಕ್ತಿ",
@@ -12628,7 +14430,9 @@ export const dailyContent = [
       "phrase": "ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸು",
       "phrasePronunciation": "kallu haaki doni mulugisu",
       "phraseMeaning": "ಇತರರ ಕೆಲಸ ಹಾಳು ಮಾಡು",
-      "phraseExample": "ಅವನು ನನ್ನ ಯೋಜನೆಗೆ ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸಿದ."
+      "phraseExample": "ಅವನು ನನ್ನ ಯೋಜನೆಗೆ ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸಿದ.",
+      "meaningInEnglish": "Andha deshabhakti",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఉదారత",
@@ -12638,7 +14442,9 @@ export const dailyContent = [
       "phrase": "అడవిలో పుట్టి, అడవిలో పెరిగినా, అడవి కోతి మారదు",
       "phrasePronunciation": "adavilo putti adavilo periginaa adavi koti maaradu",
       "phraseMeaning": "మనిషి స్వభావం సులభంగా మారదు",
-      "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు."
+      "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు.",
+      "meaningInEnglish": "Generosity",
+      "phraseMeaningInEnglish": "A person's nature doesn't change easily"
     }
   },
   {
@@ -12660,7 +14466,9 @@ export const dailyContent = [
       "phrase": "अंगूठा दिखाना",
       "phrasePronunciation": "angootha dikhana",
       "phraseMeaning": "साफ मना कर देना",
-      "phraseExample": "उसने मदद माँगी तो लोगों ने अंगूठा दिखा दिया।"
+      "phraseExample": "उसने मदद माँगी तो लोगों ने अंगूठा दिखा दिया।",
+      "meaningInEnglish": "Pragmatic; practical",
+      "phraseMeaningInEnglish": "To flatly refuse"
     },
     "kannada": {
       "word": "ವಿಲಕ್ಷಣ",
@@ -12670,7 +14478,9 @@ export const dailyContent = [
       "phrase": "ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ",
       "phrasePronunciation": "bekkige chellaata ilige praana sankata",
       "phraseMeaning": "ಒಬ್ಬರಿಗೆ ಆಟ ಇನ್ನೊಬ್ಬರಿಗೆ ಕಷ್ಟ",
-      "phraseExample": "ಅವನಿಗೆ ತಮಾಷೆ ನನಗೆ ತೊಂದರೆ — ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ."
+      "phraseExample": "ಅವನಿಗೆ ತಮಾಷೆ ನನಗೆ ತೊಂದರೆ — ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ.",
+      "meaningInEnglish": "Vilakshana",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సాధన",
@@ -12680,7 +14490,9 @@ export const dailyContent = [
       "phrase": "ఆకలి రుచి ఎరుగదు",
       "phrasePronunciation": "aakali ruchi erugadu",
       "phraseMeaning": "ఆకలి ఉన్నప్పుడు ఏది తిన్నా బాగుంటుంది",
-      "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా."
+      "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా.",
+      "meaningInEnglish": "Practice",
+      "phraseMeaningInEnglish": "When hungry, anything tastes good"
     }
   },
   {
@@ -12702,7 +14514,9 @@ export const dailyContent = [
       "phrase": "अक्ल पर पत्थर पड़ना",
       "phrasePronunciation": "akl par patthar padna",
       "phraseMeaning": "बुद्धि काम न करना",
-      "phraseExample": "ऐसा फैसला लेते वक्त उसकी अक्ल पर पत्थर पड़ गए थे।"
+      "phraseExample": "ऐसा फैसला लेते वक्त उसकी अक्ल पर पत्थर पड़ गए थे।",
+      "meaningInEnglish": "To elucidate; to clarify",
+      "phraseMeaningInEnglish": "To lose one's wits"
     },
     "kannada": {
       "word": "ಒರಟು",
@@ -12712,7 +14526,9 @@ export const dailyContent = [
       "phrase": "ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ",
       "phrasePronunciation": "koti kaili hoomaale",
       "phraseMeaning": "ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ ಒಳ್ಳೆಯ ವಸ್ತು",
-      "phraseExample": "ಅವನಿಗೆ ಆ ಅವಕಾಶ ಕೊಟ್ಟದ್ದು ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ."
+      "phraseExample": "ಅವನಿಗೆ ಆ ಅವಕಾಶ ಕೊಟ್ಟದ್ದು ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ.",
+      "meaningInEnglish": "Oratu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అంకితం",
@@ -12722,7 +14538,9 @@ export const dailyContent = [
       "phrase": "ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు",
       "phrasePronunciation": "ooru kaani ooru vaste kukkalu moriginattlu",
       "phraseMeaning": "కొత్త చోటికి వెళ్తే ఇబ్బందులు ఎదురవుతాయి",
-      "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు."
+      "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు.",
+      "meaningInEnglish": "Dedication",
+      "phraseMeaningInEnglish": "New places bring new challenges"
     }
   },
   {
@@ -12744,7 +14562,9 @@ export const dailyContent = [
       "phrase": "ऊँट के मुँह में जीरा",
       "phrasePronunciation": "oont ke munh mein jeera",
       "phraseMeaning": "ज़रूरत के मुकाबले बहुत कम",
-      "phraseExample": "इतने बड़े परिवार के लिए यह तनख्वाह ऊँट के मुँह में जीरा है।"
+      "phraseExample": "इतने बड़े परिवार के लिए यह तनख्वाह ऊँट के मुँह में जीरा है।",
+      "meaningInEnglish": "Enigma; mystery",
+      "phraseMeaningInEnglish": "Far too little for the need"
     },
     "kannada": {
       "word": "ಕರ್ಕಶ ಶಬ್ದದ",
@@ -12754,7 +14574,9 @@ export const dailyContent = [
       "phrase": "ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು",
       "phrasePronunciation": "ondu kaiyalli chappaale tattalu aagadu",
       "phraseMeaning": "ಜಗಳದಲ್ಲಿ ಇಬ್ಬರ ತಪ್ಪು ಇರುತ್ತದೆ",
-      "phraseExample": "ಇಬ್ಬರೂ ತಪ್ಪು — ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು."
+      "phraseExample": "ಇಬ್ಬರೂ ತಪ್ಪು — ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು.",
+      "meaningInEnglish": "Karkasha shabdada",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిరాడంబరం",
@@ -12764,7 +14586,9 @@ export const dailyContent = [
       "phrase": "కాకి పిల్ల కాకికి ముద్దు",
       "phrasePronunciation": "kaaki pilla kaakiki muddu",
       "phraseMeaning": "ప్రతి తల్లికి తన బిడ్డ ముద్దే",
-      "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా."
+      "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా.",
+      "meaningInEnglish": "Simplicity",
+      "phraseMeaningInEnglish": "Every mother loves her own child most"
     }
   },
   {
@@ -12786,7 +14610,9 @@ export const dailyContent = [
       "phrase": "कान भरना",
       "phrasePronunciation": "kaan bharna",
       "phraseMeaning": "किसी के खिलाफ भड़काना",
-      "phraseExample": "किसी ने बॉस के कान भर दिए।"
+      "phraseExample": "किसी ने बॉस के कान भर दिए।",
+      "meaningInEnglish": "Pragmatic; practical",
+      "phraseMeaningInEnglish": "To incite against someone"
     },
     "kannada": {
       "word": "ಚಂಚಲ",
@@ -12796,7 +14622,9 @@ export const dailyContent = [
       "phrase": "ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು",
       "phrasePronunciation": "oorige bandavalu neerigoo barabeku",
       "phraseMeaning": "ಎಲ್ಲಾ ಕಷ್ಟ ಸಹಿಸಬೇಕು",
-      "phraseExample": "ಇಲ್ಲಿ ಬಂದ ಮೇಲೆ ಕಷ್ಟ ಸಹಿಸು — ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು."
+      "phraseExample": "ಇಲ್ಲಿ ಬಂದ ಮೇಲೆ ಕಷ್ಟ ಸಹಿಸು — ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು.",
+      "meaningInEnglish": "Fickle; restless",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రభావం",
@@ -12806,7 +14634,9 @@ export const dailyContent = [
       "phrase": "గోరుచుట్టుపై రోకలి పోటు",
       "phrasePronunciation": "goruchuttupai rokali potu",
       "phraseMeaning": "ఉన్న సమస్యపై మరో సమస్య",
-      "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు."
+      "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు.",
+      "meaningInEnglish": "Influence",
+      "phraseMeaningInEnglish": "Adding insult to injury"
     }
   },
   {
@@ -12828,7 +14658,9 @@ export const dailyContent = [
       "phrase": "घर की मुर्गी दाल बराबर",
       "phrasePronunciation": "ghar ki murgi daal barabar",
       "phraseMeaning": "अपनी चीज की कदर नहीं",
-      "phraseExample": "देश में इतने अच्छे कलाकार हैं पर घर की मुर्गी दाल बराबर।"
+      "phraseExample": "देश में इतने अच्छे कलाकार हैं पर घर की मुर्गी दाल बराबर।",
+      "meaningInEnglish": "Articulate; eloquent",
+      "phraseMeaningInEnglish": "Not appreciating what you have"
     },
     "kannada": {
       "word": "ವಿಚಿತ್ರ",
@@ -12838,7 +14670,9 @@ export const dailyContent = [
       "phrase": "ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ",
       "phrasePronunciation": "aadu muttada soppilla",
       "phraseMeaning": "ಎಲ್ಲದರಲ್ಲೂ ಕೈ ಹಾಕುವವನು",
-      "phraseExample": "ಅವನಿಗೆ ಎಲ್ಲ ವಿಷಯದಲ್ಲೂ ತಲೆ ಹಾಕಬೇಕು — ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ."
+      "phraseExample": "ಅವನಿಗೆ ಎಲ್ಲ ವಿಷಯದಲ್ಲೂ ತಲೆ ಹಾಕಬೇಕು — ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ.",
+      "meaningInEnglish": "Vichitra",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "విశ్రాంతి",
@@ -12848,7 +14682,9 @@ export const dailyContent = [
       "phrase": "చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం",
       "phrasePronunciation": "chetilo venna undagaa neyi kosam vetakadam",
       "phraseMeaning": "ఉన్నది వదిలి ఇంకేదో వెతకడం",
-      "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం."
+      "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం.",
+      "meaningInEnglish": "Rest",
+      "phraseMeaningInEnglish": "Leaving what you have for something uncertain"
     }
   },
   {
@@ -12870,7 +14706,9 @@ export const dailyContent = [
       "phrase": "चार चाँद लगाना",
       "phrasePronunciation": "chaar chaand lagana",
       "phraseMeaning": "शोभा बढ़ाना",
-      "phraseExample": "उसकी मेहनत ने कार्यक्रम में चार चाँद लगा दिए।"
+      "phraseExample": "उसकी मेहनत ने कार्यक्रम में चार चाँद लगा दिए।",
+      "meaningInEnglish": "To curtail; to restrain",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ವಿಪಥನ",
@@ -12880,7 +14718,9 @@ export const dailyContent = [
       "phrase": "ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು",
       "phrasePronunciation": "hasivige anna kodu rogakke maddu kodu",
       "phraseMeaning": "ಸಮಸ್ಯೆಗೆ ಸರಿಯಾದ ಪರಿಹಾರ ಕೊಡು",
-      "phraseExample": "ಸರಿಯಾದ ಪರಿಹಾರ ಬೇಕು — ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು."
+      "phraseExample": "ಸರಿಯಾದ ಪರಿಹಾರ ಬೇಕು — ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು.",
+      "meaningInEnglish": "Vipathana",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సౌజన్యం",
@@ -12890,7 +14730,9 @@ export const dailyContent = [
       "phrase": "తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు",
       "phrasePronunciation": "taati chettu ekkevadiki tongi chooddam alavatu",
       "phraseMeaning": "పనిలో అనుభవం ఉన్నవాళ్ళకు అది సాధారణం",
-      "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు."
+      "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు.",
+      "meaningInEnglish": "Courtesy",
+      "phraseMeaningInEnglish": "Routine for the experienced"
     }
   },
   {
@@ -12912,7 +14754,9 @@ export const dailyContent = [
       "phrase": "छाती पर साँप लोटना",
       "phrasePronunciation": "chhaati par saanp lotna",
       "phraseMeaning": "ईर्ष्या से जलना",
-      "phraseExample": "पड़ोसी की तरक्की देख उसकी छाती पर साँप लोट गया।"
+      "phraseExample": "पड़ोसी की तरक्की देख उसकी छाती पर साँप लोट गया।",
+      "meaningInEnglish": "Quirky; charmingly unusual",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಗೊಂದಲಗೊಳಿಸು",
@@ -12922,7 +14766,9 @@ export const dailyContent = [
       "phrase": "ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ",
       "phrasePronunciation": "kereya neeranu kerege chelli",
       "phraseMeaning": "ಪಡೆದುದನ್ನು ಹಿಂದಿರುಗಿಸು",
-      "phraseExample": "ಸಮಾಜಕ್ಕೆ ಹಿಂತಿರುಗಿಸು — ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ."
+      "phraseExample": "ಸಮಾಜಕ್ಕೆ ಹಿಂತಿರುಗಿಸು — ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ.",
+      "meaningInEnglish": "Gondalagolisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అభ్యుదయం",
@@ -12932,7 +14778,9 @@ export const dailyContent = [
       "phrase": "నక్కకు నిద్ర వస్తే కోడి కూస్తుంది",
       "phrasePronunciation": "nakkaku nidra vaste kodi koostundi",
       "phraseMeaning": "ఒకరు అజాగ్రత్తగా ఉంటే మరొకరు లాభపడతారు",
-      "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది."
+      "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది.",
+      "meaningInEnglish": "Progress",
+      "phraseMeaningInEnglish": "When one is careless, another profits"
     }
   },
   {
@@ -12954,7 +14802,9 @@ export const dailyContent = [
       "phrase": "तिल का ताड़ बनाना",
       "phrasePronunciation": "til ka taad banana",
       "phraseMeaning": "छोटी बात को बड़ा बनाना",
-      "phraseExample": "बस एक गलती थी, उसने तिल का ताड़ बना दिया।"
+      "phraseExample": "बस एक गलती थी, उसने तिल का ताड़ बना दिया।",
+      "meaningInEnglish": "Jingoism; extreme nationalism",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಜಿಪುಣ",
@@ -12964,7 +14814,9 @@ export const dailyContent = [
       "phrase": "ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ",
       "phrasePronunciation": "manege maari oorige upakari",
       "phraseMeaning": "ತನ್ನವರಿಗೆ ಕೆಟ್ಟವನು ಹೊರಗಿನವರಿಗೆ ಒಳ್ಳೆಯವನು",
-      "phraseExample": "ಅವನು ಮನೆಯಲ್ಲಿ ಕೆಟ್ಟವನು ಹೊರಗೆ ಒಳ್ಳೆಯವನು — ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ."
+      "phraseExample": "ಅವನು ಮನೆಯಲ್ಲಿ ಕೆಟ್ಟವನು ಹೊರಗೆ ಒಳ್ಳೆಯವನು — ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ.",
+      "meaningInEnglish": "Jipuna",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఏకాగ్రత",
@@ -12974,7 +14826,9 @@ export const dailyContent = [
       "phrase": "పందికి బంగారు పట్టెడ ఎందుకు",
       "phrasePronunciation": "pandiki bangaaru patteda enduku",
       "phraseMeaning": "విలువ తెలియనివాడికి విలువైనది ఇచ్చి ఏం లాభం",
-      "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు."
+      "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు.",
+      "meaningInEnglish": "Concentration",
+      "phraseMeaningInEnglish": "Don't give pearls to those who can't value them"
     }
   },
   {
@@ -12996,7 +14850,9 @@ export const dailyContent = [
       "phrase": "दाल में काला होना",
       "phrasePronunciation": "daal mein kaala hona",
       "phraseMeaning": "कुछ गड़बड़ होना",
-      "phraseExample": "उसकी बातों में दाल में कुछ काला है।"
+      "phraseExample": "उसकी बातों में दाल में कुछ काला है।",
+      "meaningInEnglish": "Jurisprudence; philosophy of law",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಉದ್ದ ಭಾಷಣ",
@@ -13006,7 +14862,9 @@ export const dailyContent = [
       "phrase": "ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ",
       "phrasePronunciation": "hannu maagidare taane beeluttade",
       "phraseMeaning": "ಸಮಯ ಬಂದಾಗ ತಾನಾಗಿ ಆಗುತ್ತದೆ",
-      "phraseExample": "ಆತುರಪಡಬೇಡ — ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ."
+      "phraseExample": "ಆತುರಪಡಬೇಡ — ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ.",
+      "meaningInEnglish": "Udda bhaashana",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "కటాక్షం",
@@ -13016,7 +14874,9 @@ export const dailyContent = [
       "phrase": "బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి",
       "phrasePronunciation": "boggu muttukuṇṭe chetulu nallabadataay",
       "phraseMeaning": "చెడ్డ వాళ్ళతో తిరిగితే మనం కూడా చెడిపోతాం",
-      "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి."
+      "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి.",
+      "meaningInEnglish": "Graceful glance",
+      "phraseMeaningInEnglish": "Bad company corrupts good character"
     }
   },
   {
@@ -13038,7 +14898,9 @@ export const dailyContent = [
       "phrase": "नौ दो ग्यारह होना",
       "phrasePronunciation": "nau do gyaarah hona",
       "phraseMeaning": "भाग जाना",
-      "phraseExample": "पुलिस को देखते ही चोर नौ दो ग्यारह हो गए।"
+      "phraseExample": "पुलिस को देखते ही चोर नौ दो ग्यारह हो गए।",
+      "meaningInEnglish": "To circumvent; to find a way around",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅವಮಾನಕರ",
@@ -13048,7 +14910,9 @@ export const dailyContent = [
       "phrase": "ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟು",
       "phrasePronunciation": "maatinalli mallige kattu",
       "phraseMeaning": "ಬಹಳ ಮಧುರವಾಗಿ ಮಾತನಾಡು",
-      "phraseExample": "ಅವಳ ಮಾತು ಎಷ್ಟು ಚೆಂದ — ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟುತ್ತಾಳೆ."
+      "phraseExample": "ಅವಳ ಮಾತು ಎಷ್ಟು ಚೆಂದ — ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟುತ್ತಾಳೆ.",
+      "meaningInEnglish": "Avamaanakara",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "వైభవం",
@@ -13058,7 +14922,9 @@ export const dailyContent = [
       "phrase": "మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది",
       "phrasePronunciation": "manchi chesi choodu manasu nindugaa untundi",
       "phraseMeaning": "ఇతరులకు మేలు చేస్తే మనసుకు తృప్తి",
-      "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది."
+      "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది.",
+      "meaningInEnglish": "Grandeur",
+      "phraseMeaningInEnglish": "Helping others brings inner peace"
     }
   },
   {
@@ -13080,7 +14946,9 @@ export const dailyContent = [
       "phrase": "पानी-पानी होना",
       "phrasePronunciation": "paani-paani hona",
       "phraseMeaning": "बहुत शर्मिंदा होना",
-      "phraseExample": "सच सामने आने पर वह पानी-पानी हो गया।"
+      "phraseExample": "सच सामने आने पर वह पानी-पानी हो गया।",
+      "meaningInEnglish": "To obfuscate; to confuse",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಬಹುವರ್ಣ",
@@ -13090,7 +14958,9 @@ export const dailyContent = [
       "phrase": "ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿ",
       "phrasePronunciation": "betta agedu ili hidi",
       "phraseMeaning": "ಬಹಳ ಪ್ರಯತ್ನಕ್ಕೆ ಕಡಿಮೆ ಫಲ",
-      "phraseExample": "ಇಷ್ಟು ಶ್ರಮ ಹಾಕಿ ಇಷ್ಟೇ ಸಿಕ್ಕಿತು — ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿದಂತೆ."
+      "phraseExample": "ಇಷ್ಟು ಶ್ರಮ ಹಾಕಿ ಇಷ್ಟೇ ಸಿಕ್ಕಿತು — ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿದಂತೆ.",
+      "meaningInEnglish": "Bahuvarna",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అనుసరణ",
@@ -13100,7 +14970,9 @@ export const dailyContent = [
       "phrase": "రాతికి పూచే పూలు రాలిపోతాయి",
       "phrasePronunciation": "raatiki pooche poolu raalipotaayi",
       "phraseMeaning": "శాశ్వతమైనది ఏదీ లేదు",
-      "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి."
+      "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి.",
+      "meaningInEnglish": "Following",
+      "phraseMeaningInEnglish": "Nothing is permanent"
     }
   },
   {
@@ -13122,7 +14994,9 @@ export const dailyContent = [
       "phrase": "बंदर क्या जाने अदरक का स्वाद",
       "phrasePronunciation": "bandar kya jaane adrak ka swaad",
       "phraseMeaning": "अनजान व्यक्ति गुणों की कदर नहीं करता",
-      "phraseExample": "उसे संगीत की क्या समझ, बंदर क्या जाने अदरक का स्वाद।"
+      "phraseExample": "उसे संगीत की क्या समझ, बंदर क्या जाने अदरक का स्वाद।",
+      "meaningInEnglish": "Bucolic; pastoral",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಉತ್ಸಾಹಭರಿತ",
@@ -13132,7 +15006,9 @@ export const dailyContent = [
       "phrase": "ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ",
       "phrasePronunciation": "adige maadi ootakke kare",
       "phraseMeaning": "ಎಲ್ಲಾ ಸಿದ್ಧ ಮಾಡಿ ಆಮಂತ್ರಿಸು",
-      "phraseExample": "ತಯಾರಿ ಮುಗಿಸಿ ಕರೆ — ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ."
+      "phraseExample": "ತಯಾರಿ ಮುಗಿಸಿ ಕರೆ — ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ.",
+      "meaningInEnglish": "Utsaahabharita",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రేరణ",
@@ -13142,7 +15018,9 @@ export const dailyContent = [
       "phrase": "విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు",
       "phrasePronunciation": "vinnavaariki telivi cheppinavaariki orpu",
       "phraseMeaning": "వినేవాడికి జ్ఞానం, చెప్పేవాడికి సహనం కావాలి",
-      "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు."
+      "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు.",
+      "meaningInEnglish": "Motivation",
+      "phraseMeaningInEnglish": "Listener needs wisdom, speaker needs patience"
     }
   },
   {
@@ -13164,7 +15042,9 @@ export const dailyContent = [
       "phrase": "लोहा मानना",
       "phrasePronunciation": "loha maanna",
       "phraseMeaning": "किसी की श्रेष्ठता स्वीकार करना",
-      "phraseExample": "विरोधियों ने भी उसका लोहा मान लिया।"
+      "phraseExample": "विरोधियों ने भी उसका लोहा मान लिया।",
+      "meaningInEnglish": "Harmonious; compatible",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಹೀನಾಯ ಸೋಲು",
@@ -13174,7 +15054,9 @@ export const dailyContent = [
       "phrase": "ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ",
       "phrasePronunciation": "kallanige beegada kai kottante",
       "phraseMeaning": "ಅಪ್ರಾಮಾಣಿಕ ವ್ಯಕ್ತಿಗೆ ಜವಾಬ್ದಾರಿ ಕೊಟ್ಟಂತೆ",
-      "phraseExample": "ಅವನಿಗೆ ಖಜಾನೆ ಕೊಟ್ಟದ್ದು — ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ."
+      "phraseExample": "ಅವನಿಗೆ ಖಜಾನೆ ಕೊಟ್ಟದ್ದು — ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ.",
+      "meaningInEnglish": "Heenaaya solu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిర్ణయం",
@@ -13184,7 +15066,9 @@ export const dailyContent = [
       "phrase": "ఏనుగు మీద దీపం ఉంచినట్లు",
       "phrasePronunciation": "enugu meeda deepam unchinattlu",
       "phraseMeaning": "చాలా గొప్పగా కనిపించడం",
-      "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు."
+      "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు.",
+      "meaningInEnglish": "Decision",
+      "phraseMeaningInEnglish": "To appear very grand and impressive"
     }
   },
   {
@@ -13206,7 +15090,9 @@ export const dailyContent = [
       "phrase": "गुड़ गोबर करना",
       "phrasePronunciation": "gud gobar karna",
       "phraseMeaning": "बना-बनाया काम बिगाड़ना",
-      "phraseExample": "आखिरी वक्त पर उसने सब गुड़ गोबर कर दिया।"
+      "phraseExample": "आखिरी वक्त पर उसने सब गुड़ गोबर कर दिया।",
+      "meaningInEnglish": "To garner; to collect",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪ್ರಕಾಶಮಾನ",
@@ -13216,7 +15102,9 @@ export const dailyContent = [
       "phrase": "ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ",
       "phrasePronunciation": "male bandare mane illa biisilige adige illa",
       "phraseMeaning": "ಎಲ್ಲ ಕಡೆ ಸಮಸ್ಯೆ",
-      "phraseExample": "ಅವನ ಪರಿಸ್ಥಿತಿ ಕಷ್ಟ — ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ."
+      "phraseExample": "ಅವನ ಪರಿಸ್ಥಿತಿ ಕಷ್ಟ — ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ.",
+      "meaningInEnglish": "Prakaashamaana",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సారాంశం",
@@ -13226,7 +15114,9 @@ export const dailyContent = [
       "phrase": "కష్టపడితే ఫలం దక్కుతుంది",
       "phrasePronunciation": "kashtapadite phalam dakkutundi",
       "phraseMeaning": "పరిశ్రమకు తగిన ఫలితం వస్తుంది",
-      "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది."
+      "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది.",
+      "meaningInEnglish": "Essence",
+      "phraseMeaningInEnglish": "Hard work yields suitable rewards"
     }
   },
   {
@@ -13248,7 +15138,9 @@ export const dailyContent = [
       "phrase": "हाथ कंगन को आरसी क्या",
       "phrasePronunciation": "haath kangan ko aarsi kya",
       "phraseMeaning": "प्रत्यक्ष को प्रमाण की ज़रूरत नहीं",
-      "phraseExample": "नतीजे सामने हैं, हाथ कंगन को आरसी क्या।"
+      "phraseExample": "नतीजे सामने हैं, हाथ कंगन को आरसी क्या।",
+      "meaningInEnglish": "Recumbent; lying down",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಾಮರಸ್ಯ",
@@ -13258,7 +15150,9 @@ export const dailyContent = [
       "phrase": "ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು",
       "phrasePronunciation": "haalu kudida makkalu",
       "phraseMeaning": "ಮುಗ್ಧ ಮತ್ತು ಅನನುಭವಿ",
-      "phraseExample": "ಅವರು ಇನ್ನೂ ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು."
+      "phraseExample": "ಅವರು ಇನ್ನೂ ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು.",
+      "meaningInEnglish": "Harmony",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆకాంక్ష",
@@ -13268,7 +15162,9 @@ export const dailyContent = [
       "phrase": "అందని ద్రాక్ష పుల్లన",
       "phrasePronunciation": "andani draaksha pullana",
       "phraseMeaning": "సాధించలేనిది తక్కువ అని చెప్పడం",
-      "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు."
+      "phraseExample": "ఆ ఉద్యోగం రాలేదు — అందని ద్రాక్ష పుల్లన అన్నాడు.",
+      "meaningInEnglish": "Aspiration",
+      "phraseMeaningInEnglish": "Sour grapes; dismissing what you can't get"
     }
   },
   {
@@ -13290,7 +15186,9 @@ export const dailyContent = [
       "phrase": "आँख का पानी ढलना",
       "phrasePronunciation": "aankh ka paani dhalna",
       "phraseMeaning": "बेशर्म हो जाना",
-      "phraseExample": "झूठ बोलते-बोलते उसकी आँख का पानी ढल गया।"
+      "phraseExample": "झूठ बोलते-बोलते उसकी आँख का पानी ढल गया।",
+      "meaningInEnglish": "Clandestine; secret",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ನಿರ್ಭಯ",
@@ -13300,7 +15198,9 @@ export const dailyContent = [
       "phrase": "ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು",
       "phrasePronunciation": "kaage koota mara muriyitu",
       "phraseMeaning": "ಕಾಕತಾಳೀಯ ಘಟನೆ",
-      "phraseExample": "ಅವನು ಬಂದ ಕೂಡಲೇ ಮಳೆ ಬಂತು — ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು."
+      "phraseExample": "ಅವನು ಬಂದ ಕೂಡಲೇ ಮಳೆ ಬಂತು — ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು.",
+      "meaningInEnglish": "Fearless; intrepid",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "బాధ్యత",
@@ -13310,7 +15210,9 @@ export const dailyContent = [
       "phrase": "చెప్పేది ఒకటి చేసేది ఒకటి",
       "phrasePronunciation": "cheppedi okati chesedi okati",
       "phraseMeaning": "మాటలకు చేతలకు పొంతన లేకపోవడం",
-      "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి."
+      "phraseExample": "వాళ్ళను నమ్మకు — చెప్పేది ఒకటి చేసేది ఒకటి.",
+      "meaningInEnglish": "Responsibility",
+      "phraseMeaningInEnglish": "Actions don't match words; hypocrisy"
     }
   },
   {
@@ -13332,7 +15234,9 @@ export const dailyContent = [
       "phrase": "अपने मुँह मियाँ मिट्ठू बनना",
       "phrasePronunciation": "apne munh miyan mitthu banna",
       "phraseMeaning": "खुद अपनी तारीफ करना",
-      "phraseExample": "हर बात में अपने मुँह मियाँ मिट्ठू बनता है।"
+      "phraseExample": "हर बात में अपने मुँह मियाँ मिट्ठू बनता है।",
+      "meaningInEnglish": "To revere; to deeply respect",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಒಪ್ಪಿಕೊಳ್ಳು",
@@ -13342,7 +15246,9 @@ export const dailyContent = [
       "phrase": "ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ",
       "phrasePronunciation": "akka hogi nentar mane tangi hogi gandan mane",
       "phraseMeaning": "ಎಲ್ಲರೂ ತಮ್ಮ ದಾರಿ ಹಿಡಿದರು",
-      "phraseExample": "ಮಕ್ಕಳೆಲ್ಲ ಬೆಳೆದು ಹೋದರು — ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ."
+      "phraseExample": "ಮಕ್ಕಳೆಲ್ಲ ಬೆಳೆದು ಹೋದರು — ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ.",
+      "meaningInEnglish": "Oppikollu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రతిఫలం",
@@ -13352,7 +15258,9 @@ export const dailyContent = [
       "phrase": "తాడిని తన్నేవాడు కొబ్బరిని తన్నడు",
       "phrasePronunciation": "taadini tannedvaadu kobbarini tannadu",
       "phraseMeaning": "అంత సామర్థ్యం లేనివాడు పెద్ద పనులు చేయలేడు",
-      "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు."
+      "phraseExample": "చిన్న పనే చేయలేని వాడు — తాడిని తన్నేవాడు కొబ్బరిని తన్నడు.",
+      "meaningInEnglish": "Reward",
+      "phraseMeaningInEnglish": "One without ability can't do big things"
     }
   },
   {
@@ -13374,7 +15282,9 @@ export const dailyContent = [
       "phrase": "घोड़े बेचकर सोना",
       "phrasePronunciation": "ghode bechkar sona",
       "phraseMeaning": "बेफिक्र होकर सोना",
-      "phraseExample": "परीक्षा खत्म, अब घोड़े बेचकर सोएंगे।"
+      "phraseExample": "परीक्षा खत्म, अब घोड़े बेचकर सोएंगे।",
+      "meaningInEnglish": "To tantalize; to tease with something desirable",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಡ್ಡಿಪಡಿಸು",
@@ -13384,7 +15294,9 @@ export const dailyContent = [
       "phrase": "ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು",
       "phrasePronunciation": "obbana oota ibbarige saaladu",
       "phraseMeaning": "ಕಡಿಮೆ ಸಂಪನ್ಮೂಲ",
-      "phraseExample": "ಇಷ್ಟು ಸಂಬಳ ಸಾಲದು — ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು."
+      "phraseExample": "ಇಷ್ಟು ಸಂಬಳ ಸಾಲದು — ಒಬ್ಬನ ಊಟ ಇಬ್ಬರಿಗೆ ಸಾಲದು.",
+      "meaningInEnglish": "Addipadisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "చేతన",
@@ -13394,7 +15306,9 @@ export const dailyContent = [
       "phrase": "నీటిలో దూకినవాడు తడవకుండా ఉంటాడా",
       "phrasePronunciation": "neetilo dookinavaadu tadavakunda untadaa",
       "phraseMeaning": "పనిలో దిగినప్పుడు ఫలితాలు ఉంటాయి",
-      "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా."
+      "phraseExample": "వ్యాపారంలో రిస్కు సహజం — నీటిలో దూకినవాడు తడవకుండా ఉంటాడా.",
+      "meaningInEnglish": "Consciousness",
+      "phraseMeaningInEnglish": "Results come when you get to work"
     }
   },
   {
@@ -13416,7 +15330,9 @@ export const dailyContent = [
       "phrase": "आस्तीन का साँप",
       "phrasePronunciation": "aasteen ka saanp",
       "phraseMeaning": "करीबी होकर धोखा देने वाला",
-      "phraseExample": "वह तो आस्तीन का साँप निकला।"
+      "phraseExample": "वह तो आस्तीन का साँप निकला।",
+      "meaningInEnglish": "Nascent; just emerging",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕಟುವಾದ",
@@ -13426,7 +15342,9 @@ export const dailyContent = [
       "phrase": "ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ",
       "phrasePronunciation": "kaleda kaala matte baralla",
       "phraseMeaning": "ಹೋದ ಸಮಯ ಹಿಂತಿರುಗುವುದಿಲ್ಲ",
-      "phraseExample": "ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಬೇಡ — ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ."
+      "phraseExample": "ಸಮಯ ವ್ಯರ್ಥ ಮಾಡಬೇಡ — ಕಳೆದ ಕಾಲ ಮತ್ತೆ ಬರಲ್ಲ.",
+      "meaningInEnglish": "Kattuvaada",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఉపదేశం",
@@ -13436,7 +15354,9 @@ export const dailyContent = [
       "phrase": "పేదవాని బండికి ఎద్దులు ఆగవు",
       "phrasePronunciation": "pedavaani bandiki eddulu aagavu",
       "phraseMeaning": "డబ్బు లేనివాడికి ఏదీ సమయానికి జరగదు",
-      "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు."
+      "phraseExample": "బస్సు కూడా ఆగలేదు — పేదవాని బండికి ఎద్దులు ఆగవు.",
+      "meaningInEnglish": "Advice",
+      "phraseMeaningInEnglish": "Nothing works on time for the poor"
     }
   },
   {
@@ -13458,7 +15378,9 @@ export const dailyContent = [
       "phrase": "एक पंथ दो काज",
       "phrasePronunciation": "ek panth do kaaj",
       "phraseMeaning": "एक काम से दो फायदे",
-      "phraseExample": "वहाँ जाकर मिलना भी हो जाएगा और काम भी — एक पंथ दो काज।"
+      "phraseExample": "वहाँ जाकर मिलना भी हो जाएगा और काम भी — एक पंथ दो काज।",
+      "meaningInEnglish": "Prowess; special skill",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಸಮಾಧಾನ",
@@ -13468,7 +15390,9 @@ export const dailyContent = [
       "phrase": "ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು",
       "phrasePronunciation": "ketta mele buddhi bantu",
       "phraseMeaning": "ನಷ್ಟ ಆದ ಮೇಲೆ ಅರಿವು ಬಂತು",
-      "phraseExample": "ಈಗ ಅರ್ಥ ಆಯಿತು — ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು."
+      "phraseExample": "ಈಗ ಅರ್ಥ ಆಯಿತು — ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು.",
+      "meaningInEnglish": "Asamaadhaana",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అభినందన",
@@ -13478,7 +15402,9 @@ export const dailyContent = [
       "phrase": "మనసు మంచిదైతే మార్గం కనిపిస్తుంది",
       "phrasePronunciation": "manasu manchidaite maargam kanipistundi",
       "phraseMeaning": "మంచి ఉద్దేశ్యం ఉంటే దారి దొరుకుతుంది",
-      "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది."
+      "phraseExample": "ఆమె నిజాయితీగా ప్రయత్నించింది — మనసు మంచిదైతే మార్గం కనిపిస్తుంది.",
+      "meaningInEnglish": "Congratulations",
+      "phraseMeaningInEnglish": "Good intentions find a way"
     }
   },
   {
@@ -13500,7 +15426,9 @@ export const dailyContent = [
       "phrase": "खून का घूँट पीना",
       "phrasePronunciation": "khoon ka ghoont peena",
       "phraseMeaning": "गुस्सा दबाकर सहना",
-      "phraseExample": "अपमान सुनकर उसने खून का घूँट पी लिया।"
+      "phraseExample": "अपमान सुनकर उसने खून का घूँट पी लिया।",
+      "meaningInEnglish": "To diminish",
+      "phraseMeaningInEnglish": "To suppress anger and endure"
     },
     "kannada": {
       "word": "ಚಲನಾತ್ಮಕ",
@@ -13510,7 +15438,9 @@ export const dailyContent = [
       "phrase": "ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ",
       "phrasePronunciation": "kottiddu tanage bachchittiddu pararige",
       "phraseMeaning": "ದಾನ ಮಾಡಿದ್ದು ನಿಮಗೇ ಲಾಭ",
-      "phraseExample": "ದಾನ ಮಾಡು — ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ."
+      "phraseExample": "ದಾನ ಮಾಡು — ಕೊಟ್ಟಿದ್ದು ತನಗೆ ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ.",
+      "meaningInEnglish": "Chalanaatmaka",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సౌఖ్యం",
@@ -13520,7 +15450,9 @@ export const dailyContent = [
       "phrase": "రాయిని దేవుడని పూజిస్తే అది దేవుడే",
       "phrasePronunciation": "raayini devudani poojisite adi devude",
       "phraseMeaning": "నమ్మకం ఉంటే ఏదైనా సాధ్యం",
-      "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే."
+      "phraseExample": "భక్తితో చేస్తే ఫలం ఉంటుంది — రాయిని దేవుడని పూజిస్తే అది దేవుడే.",
+      "meaningInEnglish": "Well-being",
+      "phraseMeaningInEnglish": "Faith makes anything possible"
     }
   },
   {
@@ -13542,7 +15474,9 @@ export const dailyContent = [
       "phrase": "गागर में सागर भरना",
       "phrasePronunciation": "gaagar mein saagar bharna",
       "phraseMeaning": "कम शब्दों में गहरी बात कहना",
-      "phraseExample": "कबीर के दोहे गागर में सागर भरते हैं।"
+      "phraseExample": "कबीर के दोहे गागर में सागर भरते हैं।",
+      "meaningInEnglish": "Jarring; unpleasantly shocking",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದುರಂತ",
@@ -13552,7 +15486,9 @@ export const dailyContent = [
       "phrase": "ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ",
       "phrasePronunciation": "kalitavanige kadaloo halla",
       "phraseMeaning": "ಜ್ಞಾನಿಗೆ ಎಲ್ಲವೂ ಸುಲಭ",
-      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಕೆಲಸವೂ ಕಷ್ಟವಲ್ಲ — ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ."
+      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಕೆಲಸವೂ ಕಷ್ಟವಲ್ಲ — ಕಲಿತವನಿಗೆ ಕಡಲೂ ಹಳ್ಳ.",
+      "meaningInEnglish": "Duranta",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "పరిణతి",
@@ -13562,7 +15498,9 @@ export const dailyContent = [
       "phrase": "ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది",
       "phrasePronunciation": "enta pedda chettainaa vittananto modalavutundi",
       "phraseMeaning": "ప్రతి గొప్ప విషయం చిన్నగా మొదలవుతుంది",
-      "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది."
+      "phraseExample": "చిన్న వ్యాపారంతో మొదలెట్టాడు — ఎంత పెద్ద చెట్టైనా విత్తనంతో మొదలవుతుంది.",
+      "meaningInEnglish": "Maturity",
+      "phraseMeaningInEnglish": "Every great thing starts small"
     }
   },
   {
@@ -13584,7 +15522,9 @@ export const dailyContent = [
       "phrase": "चिराग तले अँधेरा",
       "phrasePronunciation": "chiraag tale andhera",
       "phraseMeaning": "अपने घर में ही खराबी",
-      "phraseExample": "पुलिस अधिकारी का बेटा चोर — चिराग तले अँधेरा।"
+      "phraseExample": "पुलिस अधिकारी का बेटा चोर — चिराग तले अँधेरा।",
+      "meaningInEnglish": "Unwavering",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ದುರದೃಷ್ಟ",
@@ -13594,7 +15534,9 @@ export const dailyContent = [
       "phrase": "ಹೊಸ ಬಾಳೆ ಎಲೆ ಹಳೆ ಬಾಳೆ ಎಲೆ ಜೊತೆ ಸೇರಿ ಸುಟ್ಟು ಹೋಯಿತು",
       "phrasePronunciation": "hosa baale ele hale baale ele jote seri suttu hoyitu",
       "phraseMeaning": "ಒಳ್ಳೆಯವನು ಕೆಟ್ಟವರ ಸಹವಾಸದಲ್ಲಿ ಹಾಳಾಗುತ್ತಾನೆ",
-      "phraseExample": "ಕೆಟ್ಟ ಸ್ನೇಹಿತರಿಂದ ದೂರ ಇರು."
+      "phraseExample": "ಕೆಟ್ಟ ಸ್ನೇಹಿತರಿಂದ ದೂರ ಇರು.",
+      "meaningInEnglish": "Duradrishta",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిరంతరం",
@@ -13604,7 +15546,9 @@ export const dailyContent = [
       "phrase": "నవ్వు నాలుగు విధాల మేలు",
       "phrasePronunciation": "navvu naalugu vidhaala melu",
       "phraseMeaning": "నవ్వడం ఆరోగ్యానికి మంచిది",
-      "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు."
+      "phraseExample": "ఎప్పుడూ సంతోషంగా ఉండు — నవ్వు నాలుగు విధాల మేలు.",
+      "meaningInEnglish": "Continuously",
+      "phraseMeaningInEnglish": "Laughter is the best medicine"
     }
   },
   {
@@ -13626,7 +15570,9 @@ export const dailyContent = [
       "phrase": "जले पर नमक छिड़कना",
       "phrasePronunciation": "jale par namak chhidakna",
       "phraseMeaning": "दुखी को और दुखी करना",
-      "phraseExample": "हार के बाद ताने मत मारो, जले पर नमक मत छिड़को।"
+      "phraseExample": "हार के बाद ताने मत मारो, जले पर नमक मत छिड़को।",
+      "meaningInEnglish": "Penchant; strong liking",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸ್ವಗತ",
@@ -13636,7 +15582,9 @@ export const dailyContent = [
       "phrase": "ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು",
       "phrasePronunciation": "idda oorige illada hesaru",
       "phraseMeaning": "ಸುಳ್ಳು ಪ್ರಚಾರ",
-      "phraseExample": "ಆ ವಂದನೆಗಳೆಲ್ಲ ಸುಳ್ಳು — ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು."
+      "phraseExample": "ಆ ವಂದನೆಗಳೆಲ್ಲ ಸುಳ್ಳು — ಇದ್ದ ಊರಿಗೆ ಇಲ್ಲದ ಹೆಸರು.",
+      "meaningInEnglish": "Svagata",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అవగాహన",
@@ -13646,7 +15594,9 @@ export const dailyContent = [
       "phrase": "అప్పు తీర్చని వాడికి పరపతి ఉండదు",
       "phrasePronunciation": "appu teerchani vaadiki parapati undadu",
       "phraseMeaning": "నమ్మకం కోల్పోతే మళ్ళీ రాదు",
-      "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు."
+      "phraseExample": "అప్పు ఇవ్వకు — అప్పు తీర్చని వాడికి పరపతి ఉండదు.",
+      "meaningInEnglish": "Understanding",
+      "phraseMeaningInEnglish": "Trust, once lost, is hard to regain"
     }
   },
   {
@@ -13668,7 +15618,9 @@ export const dailyContent = [
       "phrase": "नाक कटना",
       "phrasePronunciation": "naak katna",
       "phraseMeaning": "इज्जत जाना",
-      "phraseExample": "बेटे के व्यवहार से पिता की नाक कट गई।"
+      "phraseExample": "बेटे के व्यवहार से पिता की नाक कट गई।",
+      "meaningInEnglish": "Denouement; final outcome",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅವಸರದ",
@@ -13678,7 +15630,9 @@ export const dailyContent = [
       "phrase": "ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು",
       "phrasePronunciation": "neeru bandaaga oddu kattu",
       "phraseMeaning": "ಸಮಸ್ಯೆ ಬಂದಾಗ ತಕ್ಷಣ ಪರಿಹಾರ ಮಾಡು",
-      "phraseExample": "ಈಗಲೇ ಕ್ರಮ ತೆಗೆದುಕೊ — ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು."
+      "phraseExample": "ಈಗಲೇ ಕ್ರಮ ತೆಗೆದುಕೊ — ನೀರು ಬಂದಾಗ ಒಡ್ಡು ಕಟ್ಟು.",
+      "meaningInEnglish": "Avasarada",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఔచిత్యం",
@@ -13688,7 +15642,9 @@ export const dailyContent = [
       "phrase": "ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు",
       "phrasePronunciation": "ekkada chepalu levo akkada kappe raaju",
       "phraseMeaning": "సమర్థులు లేని చోట అసమర్థులు పెత్తనం చేస్తారు",
-      "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు."
+      "phraseExample": "ఆ జట్టులో మంచి ఆటగాళ్ళు లేరు — ఎక్కడ చేపలు లేవో అక్కడ కప్పే రాజు.",
+      "meaningInEnglish": "Propriety",
+      "phraseMeaningInEnglish": "In the land of the blind, the one-eyed is king"
     }
   },
   {
@@ -13710,7 +15666,9 @@ export const dailyContent = [
       "phrase": "पेट में चूहे दौड़ना",
       "phrasePronunciation": "pet mein choohe daudna",
       "phraseMeaning": "बहुत भूख लगना",
-      "phraseExample": "दोपहर से कुछ नहीं खाया, पेट में चूहे दौड़ रहे हैं।"
+      "phraseExample": "दोपहर से कुछ नहीं खाया, पेट में चूहे दौड़ रहे हैं।",
+      "meaningInEnglish": "Scholar",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಗೊಂದಲ",
@@ -13720,7 +15678,9 @@ export const dailyContent = [
       "phrase": "ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು",
       "phrasePronunciation": "aluva maguvige haalu hechchu",
       "phraseMeaning": "ಕೇಳಿದವರಿಗೆ ಹೆಚ್ಚು ಸಿಗುತ್ತದೆ",
-      "phraseExample": "ಕೇಳು — ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು."
+      "phraseExample": "ಕೇಳು — ಅಳುವ ಮಗುವಿಗೆ ಹಾಲು ಹೆಚ್ಚು.",
+      "meaningInEnglish": "Gondala",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "మాధుర్యం",
@@ -13730,7 +15690,9 @@ export const dailyContent = [
       "phrase": "చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది",
       "phrasePronunciation": "chettu narikina modalu unte chiguristundi",
       "phraseMeaning": "మూలం బలంగా ఉంటే తిరిగి లేవగలం",
-      "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది."
+      "phraseExample": "వ్యాపారం మళ్ళీ బాగు పడుతుంది — చెట్టు నరికినా మొదలు ఉంటే చిగురిస్తుంది.",
+      "meaningInEnglish": "Sweetness",
+      "phraseMeaningInEnglish": "Strong roots help you rise again"
     }
   },
   {
@@ -13752,7 +15714,9 @@ export const dailyContent = [
       "phrase": "मक्खी पर मक्खी मारना",
       "phrasePronunciation": "makkhi par makkhi maarna",
       "phraseMeaning": "नकल करना",
-      "phraseExample": "वह हमेशा दूसरों पर मक्खी मारता है।"
+      "phraseExample": "वह हमेशा दूसरों पर मक्खी मारता है।",
+      "meaningInEnglish": "Praiseworthy",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ನಿರ್ದಯಿ",
@@ -13762,7 +15726,9 @@ export const dailyContent = [
       "phrase": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ",
       "phrasePronunciation": "taayi idda mane devara mane",
       "phraseMeaning": "ತಾಯಿ ಇರುವ ಮನೆ ಪವಿತ್ರ",
-      "phraseExample": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ — ಅವಳನ್ನು ಗೌರವಿಸು."
+      "phraseExample": "ತಾಯಿ ಇದ್ದ ಮನೆ ದೇವರ ಮನೆ — ಅವಳನ್ನು ಗೌರವಿಸು.",
+      "meaningInEnglish": "Nirdayi",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అనన్యం",
@@ -13772,7 +15738,9 @@ export const dailyContent = [
       "phrase": "కుక్క తోక వంకరే",
       "phrasePronunciation": "kukka toka vankare",
       "phraseMeaning": "కొందరి స్వభావం ఎప్పటికీ మారదు",
-      "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే."
+      "phraseExample": "ఎంత చెప్పినా మారడు — కుక్క తోక వంకరే.",
+      "meaningInEnglish": "Unique",
+      "phraseMeaningInEnglish": "A leopard can't change its spots"
     }
   },
   {
@@ -13794,7 +15762,9 @@ export const dailyContent = [
       "phrase": "उल्टी गंगा बहाना",
       "phrasePronunciation": "ulti ganga bahana",
       "phraseMeaning": "सामान्य नियम के विपरीत करना",
-      "phraseExample": "बच्चे बड़ों को सिखा रहे हैं — उल्टी गंगा बह रही है।"
+      "phraseExample": "बच्चे बड़ों को सिखा रहे हैं — उल्टी गंगा बह रही है।",
+      "meaningInEnglish": "Hegemony; dominance",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಬಹಿಷ್ಕರಿಸು",
@@ -13804,7 +15774,9 @@ export const dailyContent = [
       "phrase": "ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ",
       "phrasePronunciation": "duddiddavane doddappa",
       "phraseMeaning": "ಹಣ ಇದ್ದವನಿಗೆ ಗೌರವ",
-      "phraseExample": "ಈ ಜಗತ್ತಿನಲ್ಲಿ ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ."
+      "phraseExample": "ಈ ಜಗತ್ತಿನಲ್ಲಿ ದುಡ್ಡಿದ್ದವನೇ ದೊಡ್ಡಪ್ಪ.",
+      "meaningInEnglish": "Bahishkarisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంస్కారం",
@@ -13814,7 +15786,9 @@ export const dailyContent = [
       "phrase": "తినే చేతిని కోయరాదు",
       "phrasePronunciation": "tine chetini koyaraadu",
       "phraseMeaning": "తనకు సహాయం చేసేవాళ్ళను మోసం చేయకూడదు",
-      "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు."
+      "phraseExample": "అతను తనకు ఉద్యోగం ఇచ్చినవాడినే మోసం చేశాడు — తినే చేతిని కోయరాదు.",
+      "meaningInEnglish": "Refinement",
+      "phraseMeaningInEnglish": "Don't bite the hand that feeds you"
     }
   },
   {
@@ -13836,7 +15810,9 @@ export const dailyContent = [
       "phrase": "आग बबूला होना",
       "phrasePronunciation": "aag baboola hona",
       "phraseMeaning": "बहुत गुस्सा होना",
-      "phraseExample": "देरी सुनकर बॉस आग बबूला हो गया।"
+      "phraseExample": "देरी सुनकर बॉस आग बबूला हो गया।",
+      "meaningInEnglish": "Obsolete; outdated",
+      "phraseMeaningInEnglish": "To be furious; to see red"
     },
     "kannada": {
       "word": "ಅಡ್ಡಿ ಭಾಷಣ",
@@ -13846,7 +15822,9 @@ export const dailyContent = [
       "phrase": "ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ",
       "phrasePronunciation": "hottege hittilla juttige mallige",
       "phraseMeaning": "ಆಡಂಬರ ಹೆಚ್ಚು ಆದರೆ ಯೋಗ್ಯತೆ ಇಲ್ಲ",
-      "phraseExample": "ಅವನ ಬಳಿ ಏನೂ ಇಲ್ಲ ಆದರೆ ತೋರಿಕೆ ಹೆಚ್ಚು — ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ."
+      "phraseExample": "ಅವನ ಬಳಿ ಏನೂ ಇಲ್ಲ ಆದರೆ ತೋರಿಕೆ ಹೆಚ್ಚು — ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ.",
+      "meaningInEnglish": "Addi bhaashana",
+      "phraseMeaningInEnglish": "All show and no substance"
     },
     "telugu": {
       "word": "కల్పన",
@@ -13856,7 +15834,9 @@ export const dailyContent = [
       "phrase": "దూరపు కొండలు నునుపు",
       "phrasePronunciation": "doorapu kondalu nunupu",
       "phraseMeaning": "దూరం నుండి చూస్తే అన్నీ బాగుంటాయి",
-      "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు."
+      "phraseExample": "ఆ ఉద్యోగం బాగుందనుకున్నాడు — దూరపు కొండలు నునుపు.",
+      "meaningInEnglish": "Imagination",
+      "phraseMeaningInEnglish": "Distant hills look green"
     }
   },
   {
@@ -13878,7 +15858,9 @@ export const dailyContent = [
       "phrase": "टेढ़ी खीर होना",
       "phrasePronunciation": "tedhi kheer hona",
       "phraseMeaning": "बहुत कठिन काम",
-      "phraseExample": "इस परीक्षा को पास करना टेढ़ी खीर है।"
+      "phraseExample": "इस परीक्षा को पास करना टेढ़ी खीर है।",
+      "meaningInEnglish": "Oblivion; being forgotten",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮುಖಸ್ತುತಿಕಾರ",
@@ -13888,7 +15870,9 @@ export const dailyContent = [
       "phrase": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು",
       "phrasePronunciation": "kai kesaraadare baayi mosaru",
       "phraseMeaning": "ಕಷ್ಟಪಟ್ಟರೆ ಫಲ ಸಿಗುತ್ತದೆ",
-      "phraseExample": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು — ಪ್ರಯತ್ನ ಮಾಡು."
+      "phraseExample": "ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು — ಪ್ರಯತ್ನ ಮಾಡು.",
+      "meaningInEnglish": "Mukhastutikara",
+      "phraseMeaningInEnglish": "Hard work yields fruit"
     },
     "telugu": {
       "word": "అభిరుచి",
@@ -13898,7 +15882,9 @@ export const dailyContent = [
       "phrase": "ఆకు రాలినా చెట్టు నిలబడుతుంది",
       "phrasePronunciation": "aaku raalinaa chettu nilabadutundi",
       "phraseMeaning": "కష్టాలు వచ్చినా మనిషి నిలబడాలి",
-      "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది."
+      "phraseExample": "కష్టాల్లో కూడా ధైర్యంగా ఉన్నాడు — ఆకు రాలినా చెట్టు నిలబడుతుంది.",
+      "meaningInEnglish": "Interest",
+      "phraseMeaningInEnglish": "Stand firm even in adversity"
     }
   },
   {
@@ -13920,7 +15906,9 @@ export const dailyContent = [
       "phrase": "हवा से बातें करना",
       "phrasePronunciation": "hava se baaten karna",
       "phraseMeaning": "बहुत तेज दौड़ना",
-      "phraseExample": "वह घोड़ा हवा से बातें करता है।"
+      "phraseExample": "वह घोड़ा हवा से बातें करता है।",
+      "meaningInEnglish": "Fearless",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕೌಶಲ",
@@ -13930,7 +15918,9 @@ export const dailyContent = [
       "phrase": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ",
       "phrasePronunciation": "aliya banda aduge mane tanaka",
       "phraseMeaning": "ಅತಿಥಿ ಅತಿಯಾಗಿ ಹಕ್ಕು ಚಲಾಯಿಸುವುದು",
-      "phraseExample": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ ಎಂಬಂತೆ ಅವನು ಮನೆಯಲ್ಲಿ ರಾಜ್ಯ ಆಳುತ್ತಿದ್ದಾನೆ."
+      "phraseExample": "ಅಳಿಯ ಬಂದ ಅಡುಗೆ ಮನೆ ತನಕ ಎಂಬಂತೆ ಅವನು ಮನೆಯಲ್ಲಿ ರಾಜ್ಯ ಆಳುತ್ತಿದ್ದಾನೆ.",
+      "meaningInEnglish": "Kaushala",
+      "phraseMeaningInEnglish": "A guest overstepping their welcome"
     },
     "telugu": {
       "word": "తపస్సు",
@@ -13940,7 +15930,9 @@ export const dailyContent = [
       "phrase": "ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు",
       "phrasePronunciation": "mundu choopu lenivadu venakki choostadu",
       "phraseMeaning": "ముందు ఆలోచించకపోతే తర్వాత బాధపడతాడు",
-      "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు."
+      "phraseExample": "ఆలోచన లేకుండా డబ్బు ఖర్చు చేశాడు — ముందు చూపు లేనివాడు వెనక్కి చూస్తాడు.",
+      "meaningInEnglish": "Penance",
+      "phraseMeaningInEnglish": "Failing to plan is planning to fail"
     }
   },
   {
@@ -13962,7 +15954,9 @@ export const dailyContent = [
       "phrase": "पहाड़ टूट पड़ना",
       "phrasePronunciation": "pahaad toot padna",
       "phraseMeaning": "बड़ी मुसीबत आना",
-      "phraseExample": "नौकरी जाने से उस पर दुखों का पहाड़ टूट पड़ा।"
+      "phraseExample": "नौकरी जाने से उस पर दुखों का पहाड़ टूट पड़ा।",
+      "meaningInEnglish": "Lively",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ವೇಗವಾದ",
@@ -13972,7 +15966,9 @@ export const dailyContent = [
       "phrase": "ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ",
       "phrasePronunciation": "ettige jvara bandare emmege bare",
       "phraseMeaning": "ಒಬ್ಬರ ಸಮಸ್ಯೆಯನ್ನು ಇನ್ನೊಬ್ಬರ ಮೇಲೆ ಹಾಕುವುದು",
-      "phraseExample": "ನನ್ನ ತಪ್ಪಿಗೆ ಅವನಿಗೆ ಶಿಕ್ಷೆ — ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ."
+      "phraseExample": "ನನ್ನ ತಪ್ಪಿಗೆ ಅವನಿಗೆ ಶಿಕ್ಷೆ — ಎತ್ತಿಗೆ ಜ್ವರ ಬಂದರೆ ಎಮ್ಮೆಗೆ ಬರೆ.",
+      "meaningInEnglish": "Vega vaada",
+      "phraseMeaningInEnglish": "Passing one's problems onto others"
     },
     "telugu": {
       "word": "ఆవేదన",
@@ -13982,7 +15978,9 @@ export const dailyContent = [
       "phrase": "ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది",
       "phrasePronunciation": "eddu puttindi ellaku panikostundi",
       "phraseMeaning": "అన్నీ సమయం వచ్చినప్పుడు ఉపయోగపడతాయి",
-      "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది."
+      "phraseExample": "ఈ అనుభవం తర్వాత పనికొస్తుంది — ఎద్దు పుట్టింది ఏళ్ళకు పనికొస్తుంది.",
+      "meaningInEnglish": "Anguish",
+      "phraseMeaningInEnglish": "Everything has its time and use"
     }
   },
   {
@@ -14004,7 +16002,9 @@ export const dailyContent = [
       "phrase": "तूती बोलना",
       "phrasePronunciation": "tooti bolna",
       "phraseMeaning": "बहुत प्रभाव होना",
-      "phraseExample": "इस शहर में उसकी तूती बोलती है।"
+      "phraseExample": "इस शहर में उसकी तूती बोलती है।",
+      "meaningInEnglish": "Idyllic; peaceful and beautiful",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಶುಭ",
@@ -14014,7 +16014,9 @@ export const dailyContent = [
       "phrase": "ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ",
       "phrasePronunciation": "kuri kaayuvavana kaili dana kottante",
       "phraseMeaning": "ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ ಜವಾಬ್ದಾರಿ ಕೊಡುವುದು",
-      "phraseExample": "ಅವನಿಗೆ ಆ ಕೆಲಸ ಕೊಟ್ಟದ್ದು ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ."
+      "phraseExample": "ಅವನಿಗೆ ಆ ಕೆಲಸ ಕೊಟ್ಟದ್ದು ಕುರಿ ಕಾಯುವವನ ಕೈಲಿ ದನ ಕೊಟ್ಟಂತೆ.",
+      "meaningInEnglish": "Ashubha",
+      "phraseMeaningInEnglish": "Giving responsibility to an unworthy person"
     },
     "telugu": {
       "word": "ధ్యేయం",
@@ -14024,7 +16026,9 @@ export const dailyContent = [
       "phrase": "బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు",
       "phrasePronunciation": "buddhi unnavadiki balam avasaram ledu",
       "phraseMeaning": "తెలివి ఉంటే శక్తి అవసరం లేదు",
-      "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు."
+      "phraseExample": "సమస్యను తెలివిగా పరిష్కరించాడు — బుద్ధి ఉన్నవాడికి బలం అవసరం లేదు.",
+      "meaningInEnglish": "Goal",
+      "phraseMeaningInEnglish": "Brain over brawn"
     }
   },
   {
@@ -14046,7 +16050,9 @@ export const dailyContent = [
       "phrase": "नानी याद आना",
       "phrasePronunciation": "naani yaad aana",
       "phraseMeaning": "बहुत कठिनाई होना",
-      "phraseExample": "पहाड़ चढ़ते-चढ़ते नानी याद आ गई।"
+      "phraseExample": "पहाड़ चढ़ते-चढ़ते नानी याद आ गई।",
+      "meaningInEnglish": "Candor; openness",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ತೀವ್ರ ಟೀಕೆ",
@@ -14056,7 +16062,9 @@ export const dailyContent = [
       "phrase": "ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ",
       "phrasePronunciation": "gaali bandaaga tooriko",
       "phraseMeaning": "ಅವಕಾಶ ಸಿಕ್ಕಾಗ ಉಪಯೋಗಿಸಿಕೊ",
-      "phraseExample": "ಅವಕಾಶ ಸಿಕ್ಕಿದೆ, ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ."
+      "phraseExample": "ಅವಕಾಶ ಸಿಕ್ಕಿದೆ, ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ.",
+      "meaningInEnglish": "Teevra teeke",
+      "phraseMeaningInEnglish": "Seize the opportunity when it comes"
     },
     "telugu": {
       "word": "ఆదర్శం",
@@ -14066,7 +16074,9 @@ export const dailyContent = [
       "phrase": "పెద్దల మాట చద్దన్నం మూట",
       "phrasePronunciation": "peddala maata chaddannam moota",
       "phraseMeaning": "పెద్దల సలహా ఎల్లప్పుడూ ఉపయోగకరం",
-      "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట."
+      "phraseExample": "తాతగారి సలహా పాటించాడు — పెద్దల మాట చద్దన్నం మూట.",
+      "meaningInEnglish": "Ideal",
+      "phraseMeaningInEnglish": "Elders' advice is always valuable"
     }
   },
   {
@@ -14088,7 +16098,9 @@ export const dailyContent = [
       "phrase": "कमर कसना",
       "phrasePronunciation": "kamar kasna",
       "phraseMeaning": "तैयारी करना",
-      "phraseExample": "परीक्षा के लिए कमर कस ली।"
+      "phraseExample": "परीक्षा के लिए कमर कस ली।",
+      "meaningInEnglish": "Xenophobia; fear of foreigners",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಬಹಿರಂಗ",
@@ -14098,7 +16110,9 @@ export const dailyContent = [
       "phrase": "ಮೊಸಳೆ ಕಣ್ಣೀರು",
       "phrasePronunciation": "mosale kanneeru",
       "phraseMeaning": "ಸುಳ್ಳು ಅನುಕಂಪ",
-      "phraseExample": "ಅವನ ದುಃಖ ಮೊಸಳೆ ಕಣ್ಣೀರು."
+      "phraseExample": "ಅವನ ದುಃಖ ಮೊಸಳೆ ಕಣ್ಣೀರು.",
+      "meaningInEnglish": "Bahiranga",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "మౌలికం",
@@ -14108,7 +16122,9 @@ export const dailyContent = [
       "phrase": "మాటే మంత్రం",
       "phrasePronunciation": "maate mantram",
       "phraseMeaning": "మాటలో చాలా శక్తి ఉంది",
-      "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం."
+      "phraseExample": "మంచి మాటలతో అందరిని ఒప్పించాడు — మాటే మంత్రం.",
+      "meaningInEnglish": "Fundamental",
+      "phraseMeaningInEnglish": "Words carry great power"
     }
   },
   {
@@ -14130,7 +16146,9 @@ export const dailyContent = [
       "phrase": "दिन में तारे दिखाना",
       "phrasePronunciation": "din mein taare dikhana",
       "phraseMeaning": "बहुत परेशान करना",
-      "phraseExample": "इस बीमारी ने दिन में तारे दिखा दिए।"
+      "phraseExample": "इस बीमारी ने दिन में तारे दिखा दिए।",
+      "meaningInEnglish": "Trustworthy",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕಡಿಮೆ ಮಾಡು",
@@ -14140,7 +16158,9 @@ export const dailyContent = [
       "phrase": "ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ",
       "phrasePronunciation": "kodali kaavu koduva mara",
       "phraseMeaning": "ತನ್ನನ್ನೇ ಕಡಿಯಲು ಸಹಾಯ ಮಾಡುವುದು",
-      "phraseExample": "ಅವನಿಗೇ ಮಾಹಿತಿ ಕೊಟ್ಟೆ — ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ ಆದೆ."
+      "phraseExample": "ಅವನಿಗೇ ಮಾಹಿತಿ ಕೊಟ್ಟೆ — ಕೊಡಲಿ ಕಾವು ಕೊಡುವ ಮರ ಆದೆ.",
+      "meaningInEnglish": "Kadime maadu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రతిజ్ఞ",
@@ -14150,7 +16170,9 @@ export const dailyContent = [
       "phrase": "కంటికి రెప్పలా కాపాడు",
       "phrasePronunciation": "kantiki reppalaa kaapaadu",
       "phraseMeaning": "చాలా జాగ్రత్తగా రక్షించడం",
-      "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది."
+      "phraseExample": "తల్లి తన బిడ్డను కంటికి రెప్పలా కాపాడుతుంది.",
+      "meaningInEnglish": "Pledge",
+      "phraseMeaningInEnglish": "To guard something very preciously"
     }
   },
   {
@@ -14172,7 +16194,9 @@ export const dailyContent = [
       "phrase": "खरी-खरी सुनाना",
       "phrasePronunciation": "khari-khari sunana",
       "phraseMeaning": "सीधी सच्ची बात कहना",
-      "phraseExample": "उसने बॉस को खरी-खरी सुना दी।"
+      "phraseExample": "उसने बॉस को खरी-खरी सुना दी।",
+      "meaningInEnglish": "To disseminate; to spread widely",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಲಂಕರಿಸು",
@@ -14182,7 +16206,9 @@ export const dailyContent = [
       "phrase": "ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ",
       "phrasePronunciation": "tumbida koda tulukuvudilla",
       "phraseMeaning": "ಜ್ಞಾನಿ ಅಹಂಕಾರ ತೋರಿಸುವುದಿಲ್ಲ",
-      "phraseExample": "ಅವರು ವಿನಯಶೀಲರು — ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ."
+      "phraseExample": "ಅವರು ವಿನಯಶೀಲರು — ತುಂಬಿದ ಕೊಡ ತುಳುಕುವುದಿಲ್ಲ.",
+      "meaningInEnglish": "Alamkarisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంభాషణ",
@@ -14192,7 +16218,9 @@ export const dailyContent = [
       "phrase": "ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు",
       "phrasePronunciation": "aachaaram aaripoyinaa aavakaaya aaradu",
       "phraseMeaning": "కొన్ని అలవాట్లు ఎప్పటికీ మారవు",
-      "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు."
+      "phraseExample": "సంప్రదాయాలు మారినా కొన్ని అలవాట్లు ఉన్నాయి — ఆచారం ఆరిపోయినా ఆవకాయ ఆరదు.",
+      "meaningInEnglish": "Conversation",
+      "phraseMeaningInEnglish": "Old habits die hard"
     }
   },
   {
@@ -14214,7 +16242,9 @@ export const dailyContent = [
       "phrase": "चादर देखकर पैर फैलाना",
       "phrasePronunciation": "chaadar dekhkar pair failana",
       "phraseMeaning": "आय के अनुसार खर्च करना",
-      "phraseExample": "चादर देखकर पैर फैलाओ वरना कर्ज में डूब जाओगे।"
+      "phraseExample": "चादर देखकर पैर फैलाओ वरना कर्ज में डूब जाओगे।",
+      "meaningInEnglish": "Unfathomable; beyond comprehension",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪ್ರಾಮಾಣಿಕತೆ",
@@ -14224,7 +16254,9 @@ export const dailyContent = [
       "phrase": "ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು",
       "phrasePronunciation": "haavu saayabeku kolu muriyabaaradu",
       "phraseMeaning": "ಕೆಲಸ ಆಗಬೇಕು ಯಾರಿಗೂ ಹಾನಿ ಆಗಬಾರದು",
-      "phraseExample": "ಜಾಣತನದಿಂದ ಮಾಡು — ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು."
+      "phraseExample": "ಜಾಣತನದಿಂದ ಮಾಡು — ಹಾವು ಸಾಯಬೇಕು ಕೋಲು ಮುರಿಯಬಾರದು.",
+      "meaningInEnglish": "Praamaanikathe",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "పారదర్శకత",
@@ -14234,7 +16266,9 @@ export const dailyContent = [
       "phrase": "నిజం తెలిసినా తెలియనట్లు ఉండటం",
       "phrasePronunciation": "nijam telisina teliyannattlu undadam",
       "phraseMeaning": "నిజం తెలిసి కూడా మౌనంగా ఉండటం",
-      "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం."
+      "phraseExample": "అతనికి అంతా తెలుసు కానీ ఊరుకున్నాడు — నిజం తెలిసినా తెలియనట్లు ఉండటం.",
+      "meaningInEnglish": "Transparency",
+      "phraseMeaningInEnglish": "Knowing the truth but staying silent"
     }
   },
   {
@@ -14256,7 +16290,9 @@ export const dailyContent = [
       "phrase": "एक और एक ग्यारह होना",
       "phrasePronunciation": "ek aur ek gyaarah hona",
       "phraseMeaning": "एकता में बल होना",
-      "phraseExample": "दोनों दोस्तों ने मिलकर काम किया — एक और एक ग्यारह हो गए।"
+      "phraseExample": "दोनों दोस्तों ने मिलकर काम किया — एक और एक ग्यारह हो गए।",
+      "meaningInEnglish": "Sibilant; whistling sound",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಕಡಿಮೆ ಮಾಡು",
@@ -14266,7 +16302,9 @@ export const dailyContent = [
       "phrase": "ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ",
       "phrasePronunciation": "maadiddunno mahaaraaya",
       "phraseMeaning": "ಮಾಡಿದ ಕೆಲಸದ ಫಲ ಅನುಭವಿಸು",
-      "phraseExample": "ಈಗ ಅಳಬೇಡ, ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ."
+      "phraseExample": "ಈಗ ಅಳಬೇಡ, ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ.",
+      "meaningInEnglish": "Kadime maadu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఉత్తేజం",
@@ -14276,7 +16314,9 @@ export const dailyContent = [
       "phrase": "వెన్నెల్లో చల్లగాలి తగిలినట్లు",
       "phrasePronunciation": "vennello challagaali tagilinattlu",
       "phraseMeaning": "చాలా హాయిగా ఉండటం",
-      "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది."
+      "phraseExample": "ఆ పాట విన్నప్పుడు వెన్నెల్లో చల్లగాలి తగిలినట్లు ఉంది.",
+      "meaningInEnglish": "Excitement",
+      "phraseMeaningInEnglish": "Feeling very pleasant and comfortable"
     }
   },
   {
@@ -14298,7 +16338,9 @@ export const dailyContent = [
       "phrase": "लकीर का फकीर होना",
       "phrasePronunciation": "lakeer ka fakeer hona",
       "phraseMeaning": "पुरानी बातों पर ही चलना",
-      "phraseExample": "वह लकीर का फकीर है, नई सोच स्वीकार नहीं करता।"
+      "phraseExample": "वह लकीर का फकीर है, नई सोच स्वीकार नहीं करता।",
+      "meaningInEnglish": "Perspicacious; keenly perceptive",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಹಂಬಲಿಸು",
@@ -14308,7 +16350,9 @@ export const dailyContent = [
       "phrase": "ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ",
       "phrasePronunciation": "adikege hoda maana aane kottaroo baralla",
       "phraseMeaning": "ಹೋದ ಗೌರವ ಮರಳಿ ಬರುವುದಿಲ್ಲ",
-      "phraseExample": "ಮರ್ಯಾದೆ ಕಳೆದುಕೊಂಡ — ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ."
+      "phraseExample": "ಮರ್ಯಾದೆ ಕಳೆದುಕೊಂಡ — ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬರಲ್ಲ.",
+      "meaningInEnglish": "Hambalisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సమాధానం",
@@ -14318,7 +16362,9 @@ export const dailyContent = [
       "phrase": "ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా",
       "phrasePronunciation": "aavu chelo meste dooda gattuna mestundaa",
       "phraseMeaning": "పెద్దలు చేసేది పిల్లలు కూడా చేస్తారు",
-      "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా."
+      "phraseExample": "తండ్రి అబద్ధం చెబితే కొడుకు కూడా అలాగే చేస్తాడు — ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా.",
+      "meaningInEnglish": "Solution",
+      "phraseMeaningInEnglish": "Children follow what elders do"
     }
   },
   {
@@ -14340,7 +16386,9 @@ export const dailyContent = [
       "phrase": "सिर पर कफन बाँधना",
       "phrasePronunciation": "sir par kafan baandhna",
       "phraseMeaning": "मरने को तैयार होना",
-      "phraseExample": "सैनिकों ने सिर पर कफन बाँध लिया।"
+      "phraseExample": "सैनिकों ने सिर पर कफन बाँध लिया।",
+      "meaningInEnglish": "Facetious; flippantly humorous",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪ್ರತಿಸ್ಪರ್ಧಿ",
@@ -14350,7 +16398,9 @@ export const dailyContent = [
       "phrase": "ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ",
       "phrasePronunciation": "ooru kottaroo hola koda",
       "phraseMeaning": "ನೆರೆಹೊರೆ ಒಳ್ಳೆಯದಾಗಿರಬೇಕು",
-      "phraseExample": "ಒಳ್ಳೆಯ ನೆರೆಹೊರೆ ಮುಖ್ಯ — ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ."
+      "phraseExample": "ಒಳ್ಳೆಯ ನೆರೆಹೊರೆ ಮುಖ್ಯ — ಊರು ಕೊಟ್ಟರೂ ಹೊಲ ಕೊಡ.",
+      "meaningInEnglish": "Pratispardhi",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "అనుబంధం",
@@ -14360,7 +16410,9 @@ export const dailyContent = [
       "phrase": "ఒక చేత్తో చప్పట్లు కొట్టలేం",
       "phrasePronunciation": "oka chettto chappatlu kottalem",
       "phraseMeaning": "ఒంటరిగా ఏదీ సాధ్యం కాదు",
-      "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం."
+      "phraseExample": "సహకారం అవసరం — ఒక చేత్తో చప్పట్లు కొట్టలేం.",
+      "meaningInEnglish": "Bond",
+      "phraseMeaningInEnglish": "Nothing is possible alone; teamwork matters"
     }
   },
   {
@@ -14382,7 +16434,9 @@ export const dailyContent = [
       "phrase": "दूध का दूध पानी का पानी",
       "phrasePronunciation": "doodh ka doodh paani ka paani",
       "phraseMeaning": "सच और झूठ का फैसला करना",
-      "phraseExample": "जाँच में दूध का दूध पानी का पानी हो जाएगा।"
+      "phraseExample": "जाँच में दूध का दूध पानी का पानी हो जाएगा।",
+      "meaningInEnglish": "Humble",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಉದಯೋನ್ಮುಖ",
@@ -14392,7 +16446,9 @@ export const dailyContent = [
       "phrase": "ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ",
       "phrasePronunciation": "kallana manassu kattale",
       "phraseMeaning": "ತಪ್ಪು ಮಾಡಿದವನಿಗೆ ಯಾವಾಗಲೂ ಭಯ",
-      "phraseExample": "ಅವನು ಯಾವಾಗಲೂ ಹೆದರುತ್ತಾನೆ — ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ."
+      "phraseExample": "ಅವನು ಯಾವಾಗಲೂ ಹೆದರುತ್ತಾನೆ — ಕಳ್ಳನ ಮನಸ್ಸು ಕತ್ತಲೆ.",
+      "meaningInEnglish": "Udayonmukha",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రగతి",
@@ -14402,7 +16458,9 @@ export const dailyContent = [
       "phrase": "వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు",
       "phrasePronunciation": "vepachettu kinda paalu taaginaa chedu antaaru",
       "phraseMeaning": "చెడ్డ పేరు వస్తే ఎంత మంచి చేసినా నమ్మరు",
-      "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు."
+      "phraseExample": "ఒకసారి తప్పు చేస్తే ఎవరూ నమ్మరు — వేపచెట్టు కింద పాలు తాగినా చేదు అంటారు.",
+      "meaningInEnglish": "Progress",
+      "phraseMeaningInEnglish": "A bad name sticks no matter what"
     }
   },
   {
@@ -14424,7 +16482,9 @@ export const dailyContent = [
       "phrase": "सर आँखों पर बिठाना",
       "phrasePronunciation": "sar aankhon par bithana",
       "phraseMeaning": "बहुत सम्मान देना",
-      "phraseExample": "मेहमान को सर आँखों पर बिठाया।"
+      "phraseExample": "मेहमान को सर आँखों पर बिठाया।",
+      "meaningInEnglish": "Duplicity; deceitfulness",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಬಲಪಡಿಸು",
@@ -14434,7 +16494,9 @@ export const dailyContent = [
       "phrase": "ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ",
       "phrasePronunciation": "maatu belli mauna bangaara",
       "phraseMeaning": "ಮಾತಿಗಿಂತ ಮೌನ ಮೌಲ್ಯಯುತ",
-      "phraseExample": "ಈ ಸಮಯದಲ್ಲಿ ಸುಮ್ಮನಿರು — ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ."
+      "phraseExample": "ಈ ಸಮಯದಲ್ಲಿ ಸುಮ್ಮನಿರು — ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ.",
+      "meaningInEnglish": "Balapadisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సహజం",
@@ -14444,7 +16506,9 @@ export const dailyContent = [
       "phrase": "దొరికిన దారే దగ్గరి దారి",
       "phrasePronunciation": "dorikina daare daggari daari",
       "phraseMeaning": "అందుబాటులో ఉన్న మార్గం ఉత్తమమైనది",
-      "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి."
+      "phraseExample": "ఏ అవకాశం వచ్చినా వాడుకో — దొరికిన దారే దగ్గరి దారి.",
+      "meaningInEnglish": "Natural",
+      "phraseMeaningInEnglish": "A bird in hand is worth two in the bush"
     }
   },
   {
@@ -14466,7 +16530,9 @@ export const dailyContent = [
       "phrase": "जहाँ चाह वहाँ राह",
       "phrasePronunciation": "jahan chaah vahan raah",
       "phraseMeaning": "इच्छा हो तो रास्ता निकलता है",
-      "phraseExample": "उसने साबित कर दिया कि जहाँ चाह वहाँ राह।"
+      "phraseExample": "उसने साबित कर दिया कि जहाँ चाह वहाँ राह।",
+      "meaningInEnglish": "To prevaricate; to speak evasively",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಶಮನಗೊಳಿಸು",
@@ -14476,7 +16542,9 @@ export const dailyContent = [
       "phrase": "ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ",
       "phrasePronunciation": "hole neerige donne naayaka",
       "phraseMeaning": "ಅಧಿಕಾರವಿಲ್ಲದವನ ಆಡಂಬರ",
-      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಅಧಿಕಾರವೂ ಇಲ್ಲ ಆದರೆ ರೋಬ್ — ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ."
+      "phraseExample": "ಅವನಿಗೆ ಯಾವ ಅಧಿಕಾರವೂ ಇಲ್ಲ ಆದರೆ ರೋಬ್ — ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕ.",
+      "meaningInEnglish": "Shamanagolisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆలోచన",
@@ -14486,7 +16554,9 @@ export const dailyContent = [
       "phrase": "ఏనుగు కాలికి ముల్లు గుచ్చినట్లు",
       "phrasePronunciation": "enugu kaaliki mullu gucchinattlu",
       "phraseMeaning": "శక్తివంతుడికి చిన్న సమస్య ఎదురైనా బాధిస్తుంది",
-      "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు."
+      "phraseExample": "పెద్ద కంపెనీకి ఆ చిన్న సమస్య ఇబ్బంది పెట్టింది — ఏనుగు కాలికి ముల్లు గుచ్చినట్లు.",
+      "meaningInEnglish": "Thought",
+      "phraseMeaningInEnglish": "Even small problems trouble the mighty"
     }
   },
   {
@@ -14508,7 +16578,9 @@ export const dailyContent = [
       "phrase": "अपनी खिचड़ी अलग पकाना",
       "phrasePronunciation": "apni khichdi alag pakana",
       "phraseMeaning": "सबसे अलग रहना",
-      "phraseExample": "वह हमेशा अपनी खिचड़ी अलग पकाता है।"
+      "phraseExample": "वह हमेशा अपनी खिचड़ी अलग पकाता है।",
+      "meaningInEnglish": "Abhorrent; detestable",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸಾಮಾನ್ಯ ಹೇಳಿಕೆ",
@@ -14518,7 +16590,9 @@ export const dailyContent = [
       "phrase": "ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ",
       "phrasePronunciation": "naayi bogalidare devaloka haalaguvudilla",
       "phraseMeaning": "ಕೆಟ್ಟವರ ಮಾತಿಗೆ ಮಹತ್ವ ಕೊಡಬೇಡ",
-      "phraseExample": "ಅವರ ಟೀಕೆ ಬಿಡು — ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ."
+      "phraseExample": "ಅವರ ಟೀಕೆ ಬಿಡು — ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳಾಗುವುದಿಲ್ಲ.",
+      "meaningInEnglish": "Saamaanya helike",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "వినమ్రత",
@@ -14528,7 +16602,9 @@ export const dailyContent = [
       "phrase": "మంచికి మంచి, చెడుకు చెడు",
       "phrasePronunciation": "manchiki manchi cheduki chedu",
       "phraseMeaning": "చేసిన దానికి తగిన ఫలితం వస్తుంది",
-      "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు."
+      "phraseExample": "మంచి చేస్తే మంచే జరుగుతుంది — మంచికి మంచి, చెడుకు చెడు.",
+      "meaningInEnglish": "Modesty",
+      "phraseMeaningInEnglish": "You reap what you sow"
     }
   },
   {
@@ -14550,7 +16626,9 @@ export const dailyContent = [
       "phrase": "आँखें चुराना",
       "phrasePronunciation": "aankhein churana",
       "phraseMeaning": "नज़र बचाना",
-      "phraseExample": "गलती करने के बाद वह आँखें चुरा रहा था।"
+      "phraseExample": "गलती करने के बाद वह आँखें चुरा रहा था।",
+      "meaningInEnglish": "Respect",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ರಹಸ್ಯ",
@@ -14560,7 +16638,9 @@ export const dailyContent = [
       "phrase": "ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು",
       "phrasePronunciation": "ati aase gati kedu",
       "phraseMeaning": "ಅತಿಯಾಸೆ ವಿನಾಶಕ್ಕೆ ಕಾರಣ",
-      "phraseExample": "ಹೆಚ್ಚು ಬೇಡ — ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು."
+      "phraseExample": "ಹೆಚ್ಚು ಬೇಡ — ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು.",
+      "meaningInEnglish": "Rahasya",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆహ్వానం",
@@ -14570,7 +16650,9 @@ export const dailyContent = [
       "phrase": "చదువుకున్న చెడిపోయినవాడు లేడు",
       "phrasePronunciation": "chaduvukunna chedipoyinavadu ledu",
       "phraseMeaning": "చదువు ఎప్పుడూ ఉపయోగపడుతుంది",
-      "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు."
+      "phraseExample": "చదువు నేర్చుకో — చదువుకున్న చెడిపోయినవాడు లేడు.",
+      "meaningInEnglish": "Invitation",
+      "phraseMeaningInEnglish": "Education always proves useful"
     }
   },
   {
@@ -14592,7 +16674,9 @@ export const dailyContent = [
       "phrase": "मुँह में पानी आना",
       "phrasePronunciation": "munh mein paani aana",
       "phraseMeaning": "लालच आना",
-      "phraseExample": "पकवान देखकर मुँह में पानी आ गया।"
+      "phraseExample": "पकवान देखकर मुँह में पानी आ गया।",
+      "meaningInEnglish": "Enigmatic; mysterious",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸೂಕ್ಷ್ಮವಾಗಿ ಗಮನಿಸುವ",
@@ -14602,7 +16686,9 @@ export const dailyContent = [
       "phrase": "ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸು",
       "phrasePronunciation": "kallu haaki doni mulugisu",
       "phraseMeaning": "ಇತರರ ಕೆಲಸ ಹಾಳು ಮಾಡು",
-      "phraseExample": "ಅವನು ನನ್ನ ಯೋಜನೆಗೆ ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸಿದ."
+      "phraseExample": "ಅವನು ನನ್ನ ಯೋಜನೆಗೆ ಕಲ್ಲು ಹಾಕಿ ದೋಣಿ ಮುಳುಗಿಸಿದ.",
+      "meaningInEnglish": "Sookshmavaagi gamanisuvava",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సహృదయం",
@@ -14612,7 +16698,9 @@ export const dailyContent = [
       "phrase": "రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది",
       "phrasePronunciation": "rekkala kashtam raallu karigistundi",
       "phraseMeaning": "కష్టపడి పనిచేస్తే అసాధ్యమైనది కూడా సాధ్యం",
-      "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది."
+      "phraseExample": "అతను కష్టపడి కోటీశ్వరుడయ్యాడు — రెక్కల కష్టం రాళ్ళు కరిగిస్తుంది.",
+      "meaningInEnglish": "Good-hearted",
+      "phraseMeaningInEnglish": "With hard work, the impossible becomes possible"
     }
   },
   {
@@ -14634,7 +16722,9 @@ export const dailyContent = [
       "phrase": "अंधे की लाठी",
       "phrasePronunciation": "andhe ki laathi",
       "phraseMeaning": "एकमात्र सहारा",
-      "phraseExample": "बूढ़ी माँ के लिए बेटा अंधे की लाठी है।"
+      "phraseExample": "बूढ़ी माँ के लिए बेटा अंधे की लाठी है।",
+      "meaningInEnglish": "Merger; dissolution",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪರೋಕ್ಷ",
@@ -14644,7 +16734,9 @@ export const dailyContent = [
       "phrase": "ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ",
       "phrasePronunciation": "bekkige chellaata ilige praana sankata",
       "phraseMeaning": "ಒಬ್ಬರಿಗೆ ಆಟ ಇನ್ನೊಬ್ಬರಿಗೆ ಕಷ್ಟ",
-      "phraseExample": "ಅವನಿಗೆ ತಮಾಷೆ ನನಗೆ ತೊಂದರೆ — ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ."
+      "phraseExample": "ಅವನಿಗೆ ತಮಾಷೆ ನನಗೆ ತೊಂದರೆ — ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ.",
+      "meaningInEnglish": "Indirect; vicarious",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "తృప్తి",
@@ -14654,7 +16746,9 @@ export const dailyContent = [
       "phrase": "పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు",
       "phrasePronunciation": "pogada chettu ekkada ledu kaani marri chettu arudu",
       "phraseMeaning": "సాధారణం ఎక్కడైనా దొరుకుతుంది, ప్రత్యేకమైనది అరుదు",
-      "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు."
+      "phraseExample": "మంచి నాయకులు దొరకరు — పొగడ చెట్టు ఎక్కడ లేదు, కానీ మర్రి చెట్టు అరుదు.",
+      "meaningInEnglish": "Satisfaction",
+      "phraseMeaningInEnglish": "The ordinary is common, the special is rare"
     }
   },
   {
@@ -14676,7 +16770,9 @@ export const dailyContent = [
       "phrase": "दो नावों पर पैर रखना",
       "phrasePronunciation": "do naavon par pair rakhna",
       "phraseMeaning": "दो तरफ से फायदा उठाना",
-      "phraseExample": "दो नावों पर पैर रखोगे तो डूब जाओगे।"
+      "phraseExample": "दो नावों पर पैर रखोगे तो डूब जाओगे।",
+      "meaningInEnglish": "Litigious; lawsuit-prone",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಗುಪ್ತ",
@@ -14686,7 +16782,9 @@ export const dailyContent = [
       "phrase": "ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ",
       "phrasePronunciation": "koti kaili hoomaale",
       "phraseMeaning": "ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ ಒಳ್ಳೆಯ ವಸ್ತು",
-      "phraseExample": "ಅವನಿಗೆ ಆ ಅವಕಾಶ ಕೊಟ್ಟದ್ದು ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ."
+      "phraseExample": "ಅವನಿಗೆ ಆ ಅವಕಾಶ ಕೊಟ್ಟದ್ದು ಕೋತಿ ಕೈಲಿ ಹೂಮಾಲೆ.",
+      "meaningInEnglish": "Gupta",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ప్రమాదం",
@@ -14696,7 +16794,9 @@ export const dailyContent = [
       "phrase": "తూరుపు తెలిసేవాడికి దిక్కు తెలియదా",
       "phrasePronunciation": "toorupu telisevadiki dikku teliyada",
       "phraseMeaning": "ఒకటి తెలిస్తే మిగిలినవి కూడా తెలుస్తాయి",
-      "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా."
+      "phraseExample": "ఆ పునాది ఉంటే చాలు — తూరుపు తెలిసేవాడికి దిక్కు తెలియదా.",
+      "meaningInEnglish": "Danger",
+      "phraseMeaningInEnglish": "Knowing one thing leads to knowing others"
     }
   },
   {
@@ -14718,7 +16818,9 @@ export const dailyContent = [
       "phrase": "आँखों का तारा",
       "phrasePronunciation": "aankhon ka taara",
       "phraseMeaning": "बहुत प्रिय व्यक्ति",
-      "phraseExample": "बेटा उसकी आँखों का तारा है।"
+      "phraseExample": "बेटा उसकी आँखों का तारा है।",
+      "meaningInEnglish": "Boorish; rough and rude",
+      "phraseMeaningInEnglish": "A very dear person; apple of one's eye"
     },
     "kannada": {
       "word": "ನಿರ್ಲಿಪ್ತ",
@@ -14728,7 +16830,9 @@ export const dailyContent = [
       "phrase": "ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು",
       "phrasePronunciation": "ondu kaiyalli chappaale tattalu aagadu",
       "phraseMeaning": "ಜಗಳದಲ್ಲಿ ಇಬ್ಬರ ತಪ್ಪು ಇರುತ್ತದೆ",
-      "phraseExample": "ಇಬ್ಬರೂ ತಪ್ಪು — ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು."
+      "phraseExample": "ಇಬ್ಬರೂ ತಪ್ಪು — ಒಂದು ಕೈಯಲ್ಲಿ ಚಪ್ಪಾಳೆ ತಟ್ಟಲು ಆಗದು.",
+      "meaningInEnglish": "Nirlipta",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నేర్పు",
@@ -14738,7 +16842,9 @@ export const dailyContent = [
       "phrase": "అడవిలో పుట్టి, అడవిలో పెరిగినా, అడవి కోతి మారదు",
       "phrasePronunciation": "adavilo putti adavilo periginaa adavi koti maaradu",
       "phraseMeaning": "మనిషి స్వభావం సులభంగా మారదు",
-      "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు."
+      "phraseExample": "ఎంత చెప్పినా వినడు — అడవిలో పుట్టి అడవిలో పెరిగినా అడవి కోతి మారదు.",
+      "meaningInEnglish": "Skill",
+      "phraseMeaningInEnglish": "A person's nature doesn't change easily"
     }
   },
   {
@@ -14760,7 +16866,9 @@ export const dailyContent = [
       "phrase": "अंगूठा दिखाना",
       "phrasePronunciation": "angootha dikhana",
       "phraseMeaning": "साफ मना कर देना",
-      "phraseExample": "उसने मदद माँगी तो लोगों ने अंगूठा दिखा दिया।"
+      "phraseExample": "उसने मदद माँगी तो लोगों ने अंगूठा दिखा दिया।",
+      "meaningInEnglish": "Immutable; unchangeable",
+      "phraseMeaningInEnglish": "To flatly refuse"
     },
     "kannada": {
       "word": "ಅನುಕರಿಸು",
@@ -14770,7 +16878,9 @@ export const dailyContent = [
       "phrase": "ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು",
       "phrasePronunciation": "oorige bandavalu neerigoo barabeku",
       "phraseMeaning": "ಎಲ್ಲಾ ಕಷ್ಟ ಸಹಿಸಬೇಕು",
-      "phraseExample": "ಇಲ್ಲಿ ಬಂದ ಮೇಲೆ ಕಷ್ಟ ಸಹಿಸು — ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು."
+      "phraseExample": "ಇಲ್ಲಿ ಬಂದ ಮೇಲೆ ಕಷ್ಟ ಸಹಿಸು — ಊರಿಗೆ ಬಂದವಳು ನೀರಿಗೂ ಬರಬೇಕು.",
+      "meaningInEnglish": "Anukarisu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "వ్యూహం",
@@ -14780,7 +16890,9 @@ export const dailyContent = [
       "phrase": "ఆకలి రుచి ఎరుగదు",
       "phrasePronunciation": "aakali ruchi erugadu",
       "phraseMeaning": "ఆకలి ఉన్నప్పుడు ఏది తిన్నా బాగుంటుంది",
-      "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా."
+      "phraseExample": "అతను అన్నం తినలేదు — ఆకలి రుచి ఎరుగదు కదా.",
+      "meaningInEnglish": "Strategy",
+      "phraseMeaningInEnglish": "When hungry, anything tastes good"
     }
   },
   {
@@ -14802,7 +16914,9 @@ export const dailyContent = [
       "phrase": "अक्ल पर पत्थर पड़ना",
       "phrasePronunciation": "akl par patthar padna",
       "phraseMeaning": "बुद्धि काम न करना",
-      "phraseExample": "ऐसा फैसला लेते वक्त उसकी अक्ल पर पत्थर पड़ गए थे।"
+      "phraseExample": "ऐसा फैसला लेते वक्त उसकी अक्ल पर पत्थर पड़ गए थे।",
+      "meaningInEnglish": "Vivid; lifelike",
+      "phraseMeaningInEnglish": "To lose one's wits"
     },
     "kannada": {
       "word": "ಅವಿವೇಕಿ",
@@ -14812,7 +16926,9 @@ export const dailyContent = [
       "phrase": "ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ",
       "phrasePronunciation": "aadu muttada soppilla",
       "phraseMeaning": "ಎಲ್ಲದರಲ್ಲೂ ಕೈ ಹಾಕುವವನು",
-      "phraseExample": "ಅವನಿಗೆ ಎಲ್ಲ ವಿಷಯದಲ್ಲೂ ತಲೆ ಹಾಕಬೇಕು — ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ."
+      "phraseExample": "ಅವನಿಗೆ ಎಲ್ಲ ವಿಷಯದಲ್ಲೂ ತಲೆ ಹಾಕಬೇಕು — ಆಡು ಮುಟ್ಟದ ಸೊಪ್ಪಿಲ್ಲ.",
+      "meaningInEnglish": "Aviveki",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆత్మగౌరవం",
@@ -14822,7 +16938,9 @@ export const dailyContent = [
       "phrase": "ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు",
       "phrasePronunciation": "ooru kaani ooru vaste kukkalu moriginattlu",
       "phraseMeaning": "కొత్త చోటికి వెళ్తే ఇబ్బందులు ఎదురవుతాయి",
-      "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు."
+      "phraseExample": "కొత్త ఆఫీసులో ఇబ్బంది పడ్డాడు — ఊరు కాని ఊరు వస్తే కుక్కలు మొరిగినట్లు.",
+      "meaningInEnglish": "Self-respect",
+      "phraseMeaningInEnglish": "New places bring new challenges"
     }
   },
   {
@@ -14844,7 +16962,9 @@ export const dailyContent = [
       "phrase": "ऊँट के मुँह में जीरा",
       "phrasePronunciation": "oont ke munh mein jeera",
       "phraseMeaning": "ज़रूरत के मुकाबले बहुत कम",
-      "phraseExample": "इतने बड़े परिवार के लिए यह तनख्वाह ऊँट के मुँह में जीरा है।"
+      "phraseExample": "इतने बड़े परिवार के लिए यह तनख्वाह ऊँट के मुँह में जीरा है।",
+      "meaningInEnglish": "Skilled",
+      "phraseMeaningInEnglish": "Far too little for the need"
     },
     "kannada": {
       "word": "ಭಾವಮೋಚನೆ",
@@ -14854,7 +16974,9 @@ export const dailyContent = [
       "phrase": "ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು",
       "phrasePronunciation": "hasivige anna kodu rogakke maddu kodu",
       "phraseMeaning": "ಸಮಸ್ಯೆಗೆ ಸರಿಯಾದ ಪರಿಹಾರ ಕೊಡು",
-      "phraseExample": "ಸರಿಯಾದ ಪರಿಹಾರ ಬೇಕು — ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು."
+      "phraseExample": "ಸರಿಯಾದ ಪರಿಹಾರ ಬೇಕು — ಹಸಿವಿಗೆ ಅನ್ನ ಕೊಡು ರೋಗಕ್ಕೆ ಮದ್ದು ಕೊಡು.",
+      "meaningInEnglish": "Bhaavamochane",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఉదయం",
@@ -14864,7 +16986,9 @@ export const dailyContent = [
       "phrase": "కాకి పిల్ల కాకికి ముద్దు",
       "phrasePronunciation": "kaaki pilla kaakiki muddu",
       "phraseMeaning": "ప్రతి తల్లికి తన బిడ్డ ముద్దే",
-      "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా."
+      "phraseExample": "తల్లి తన పిల్లవాడిని పొగిడింది — కాకి పిల్ల కాకికి ముద్దు కదా.",
+      "meaningInEnglish": "Morning",
+      "phraseMeaningInEnglish": "Every mother loves her own child most"
     }
   },
   {
@@ -14886,7 +17010,9 @@ export const dailyContent = [
       "phrase": "कान भरना",
       "phrasePronunciation": "kaan bharna",
       "phraseMeaning": "किसी के खिलाफ भड़काना",
-      "phraseExample": "किसी ने बॉस के कान भर दिए।"
+      "phraseExample": "किसी ने बॉस के कान भर दिए।",
+      "meaningInEnglish": "Urbane; refined and polished",
+      "phraseMeaningInEnglish": "To incite against someone"
     },
     "kannada": {
       "word": "ವಿವೇಚನಾಪೂರ್ಣ",
@@ -14896,7 +17022,9 @@ export const dailyContent = [
       "phrase": "ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ",
       "phrasePronunciation": "kereya neeranu kerege chelli",
       "phraseMeaning": "ಪಡೆದುದನ್ನು ಹಿಂದಿರುಗಿಸು",
-      "phraseExample": "ಸಮಾಜಕ್ಕೆ ಹಿಂತಿರುಗಿಸು — ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ."
+      "phraseExample": "ಸಮಾಜಕ್ಕೆ ಹಿಂತಿರುಗಿಸು — ಕೆರೆಯ ನೀರನು ಕೆರೆಗೆ ಚೆಲ್ಲಿ.",
+      "meaningInEnglish": "Vivechanapoorna",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సంతృప్తి",
@@ -14906,7 +17034,9 @@ export const dailyContent = [
       "phrase": "గోరుచుట్టుపై రోకలి పోటు",
       "phrasePronunciation": "goruchuttupai rokali potu",
       "phraseMeaning": "ఉన్న సమస్యపై మరో సమస్య",
-      "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు."
+      "phraseExample": "ఉద్యోగం పోయింది, అప్పుల వాళ్ళు వచ్చారు — గోరుచుట్టుపై రోకలి పోటు.",
+      "meaningInEnglish": "Contentment",
+      "phraseMeaningInEnglish": "Adding insult to injury"
     }
   },
   {
@@ -14928,7 +17058,9 @@ export const dailyContent = [
       "phrase": "घर की मुर्गी दाल बराबर",
       "phrasePronunciation": "ghar ki murgi daal barabar",
       "phraseMeaning": "अपनी चीज की कदर नहीं",
-      "phraseExample": "देश में इतने अच्छे कलाकार हैं पर घर की मुर्गी दाल बराबर।"
+      "phraseExample": "देश में इतने अच्छे कलाकार हैं पर घर की मुर्गी दाल बराबर।",
+      "meaningInEnglish": "Juggernaut; unstoppable force",
+      "phraseMeaningInEnglish": "Not appreciating what you have"
     },
     "kannada": {
       "word": "ಉತ್ಸಾಹಿ",
@@ -14938,7 +17070,9 @@ export const dailyContent = [
       "phrase": "ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ",
       "phrasePronunciation": "manege maari oorige upakari",
       "phraseMeaning": "ತನ್ನವರಿಗೆ ಕೆಟ್ಟವನು ಹೊರಗಿನವರಿಗೆ ಒಳ್ಳೆಯವನು",
-      "phraseExample": "ಅವನು ಮನೆಯಲ್ಲಿ ಕೆಟ್ಟವನು ಹೊರಗೆ ಒಳ್ಳೆಯವನು — ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ."
+      "phraseExample": "ಅವನು ಮನೆಯಲ್ಲಿ ಕೆಟ್ಟವನು ಹೊರಗೆ ಒಳ್ಳೆಯವನು — ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ.",
+      "meaningInEnglish": "Ebullient; spirited",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిష్కల్మషం",
@@ -14948,7 +17082,9 @@ export const dailyContent = [
       "phrase": "చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం",
       "phrasePronunciation": "chetilo venna undagaa neyi kosam vetakadam",
       "phraseMeaning": "ఉన్నది వదిలి ఇంకేదో వెతకడం",
-      "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం."
+      "phraseExample": "మంచి ఉద్యోగం ఉండగా మారాడు — చేతిలో వెన్న ఉండగా నేయి కోసం వెతకడం.",
+      "meaningInEnglish": "Spotless",
+      "phraseMeaningInEnglish": "Leaving what you have for something uncertain"
     }
   },
   {
@@ -14970,7 +17106,9 @@ export const dailyContent = [
       "phrase": "चार चाँद लगाना",
       "phrasePronunciation": "chaar chaand lagana",
       "phraseMeaning": "शोभा बढ़ाना",
-      "phraseExample": "उसकी मेहनत ने कार्यक्रम में चार चाँद लगा दिए।"
+      "phraseExample": "उसकी मेहनत ने कार्यक्रम में चार चाँद लगा दिए।",
+      "meaningInEnglish": "Urbane; refined and polished",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಸವಕಲಾದ",
@@ -14980,7 +17118,9 @@ export const dailyContent = [
       "phrase": "ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ",
       "phrasePronunciation": "hannu maagidare taane beeluttade",
       "phraseMeaning": "ಸಮಯ ಬಂದಾಗ ತಾನಾಗಿ ಆಗುತ್ತದೆ",
-      "phraseExample": "ಆತುರಪಡಬೇಡ — ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ."
+      "phraseExample": "ಆತುರಪಡಬೇಡ — ಹಣ್ಣು ಮಾಗಿದರೆ ತಾನೇ ಬೀಳುತ್ತದೆ.",
+      "meaningInEnglish": "Savakalaada",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆచరణ",
@@ -14990,7 +17130,9 @@ export const dailyContent = [
       "phrase": "తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు",
       "phrasePronunciation": "taati chettu ekkevadiki tongi chooddam alavatu",
       "phraseMeaning": "పనిలో అనుభవం ఉన్నవాళ్ళకు అది సాధారణం",
-      "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు."
+      "phraseExample": "ఆయనకు ఇలాంటివి చాలా తెలుసు — తాటి చెట్టు ఎక్కేవాడికి తొంగి చూడ్డం అలవాటు.",
+      "meaningInEnglish": "Practice",
+      "phraseMeaningInEnglish": "Routine for the experienced"
     }
   },
   {
@@ -15012,7 +17154,9 @@ export const dailyContent = [
       "phrase": "छाती पर साँप लोटना",
       "phrasePronunciation": "chhaati par saanp lotna",
       "phraseMeaning": "ईर्ष्या से जलना",
-      "phraseExample": "पड़ोसी की तरक्की देख उसकी छाती पर साँप लोट गया।"
+      "phraseExample": "पड़ोसी की तरक्की देख उसकी छाती पर साँप लोट गया।",
+      "meaningInEnglish": "Ambiguous; vague",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಉತ್ಸಾಹ",
@@ -15022,7 +17166,9 @@ export const dailyContent = [
       "phrase": "ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟು",
       "phrasePronunciation": "maatinalli mallige kattu",
       "phraseMeaning": "ಬಹಳ ಮಧುರವಾಗಿ ಮಾತನಾಡು",
-      "phraseExample": "ಅವಳ ಮಾತು ಎಷ್ಟು ಚೆಂದ — ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟುತ್ತಾಳೆ."
+      "phraseExample": "ಅವಳ ಮಾತು ಎಷ್ಟು ಚೆಂದ — ಮಾತಿನಲ್ಲಿ ಮಲ್ಲಿಗೆ ಕಟ್ಟುತ್ತಾಳೆ.",
+      "meaningInEnglish": "Enthusiasm",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఘనత",
@@ -15032,7 +17178,9 @@ export const dailyContent = [
       "phrase": "నక్కకు నిద్ర వస్తే కోడి కూస్తుంది",
       "phrasePronunciation": "nakkaku nidra vaste kodi koostundi",
       "phraseMeaning": "ఒకరు అజాగ్రత్తగా ఉంటే మరొకరు లాభపడతారు",
-      "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది."
+      "phraseExample": "దుకాణం కాపలా లేదు — నక్కకు నిద్ర వస్తే కోడి కూస్తుంది.",
+      "meaningInEnglish": "Dignity",
+      "phraseMeaningInEnglish": "When one is careless, another profits"
     }
   },
   {
@@ -15054,7 +17202,9 @@ export const dailyContent = [
       "phrase": "तिल का ताड़ बनाना",
       "phrasePronunciation": "til ka taad banana",
       "phraseMeaning": "छोटी बात को बड़ा बनाना",
-      "phraseExample": "बस एक गलती थी, उसने तिल का ताड़ बना दिया।"
+      "phraseExample": "बस एक गलती थी, उसने तिल का ताड़ बना दिया।",
+      "meaningInEnglish": "Frugal; economical",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ವಾಕ್ಪಟು",
@@ -15064,7 +17214,9 @@ export const dailyContent = [
       "phrase": "ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿ",
       "phrasePronunciation": "betta agedu ili hidi",
       "phraseMeaning": "ಬಹಳ ಪ್ರಯತ್ನಕ್ಕೆ ಕಡಿಮೆ ಫಲ",
-      "phraseExample": "ಇಷ್ಟು ಶ್ರಮ ಹಾಕಿ ಇಷ್ಟೇ ಸಿಕ್ಕಿತು — ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿದಂತೆ."
+      "phraseExample": "ಇಷ್ಟು ಶ್ರಮ ಹಾಕಿ ಇಷ್ಟೇ ಸಿಕ್ಕಿತು — ಬೆಟ್ಟ ಅಗೆದು ಇಲಿ ಹಿಡಿದಂತೆ.",
+      "meaningInEnglish": "Vaakpatu",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆరాధన",
@@ -15074,7 +17226,9 @@ export const dailyContent = [
       "phrase": "పందికి బంగారు పట్టెడ ఎందుకు",
       "phrasePronunciation": "pandiki bangaaru patteda enduku",
       "phraseMeaning": "విలువ తెలియనివాడికి విలువైనది ఇచ్చి ఏం లాభం",
-      "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు."
+      "phraseExample": "అతనికి ఖరీదైన బట్టలు ఇచ్చారు — పందికి బంగారు పట్టెడ ఎందుకు.",
+      "meaningInEnglish": "Worship",
+      "phraseMeaningInEnglish": "Don't give pearls to those who can't value them"
     }
   },
   {
@@ -15096,7 +17250,9 @@ export const dailyContent = [
       "phrase": "दाल में काला होना",
       "phrasePronunciation": "daal mein kaala hona",
       "phraseMeaning": "कुछ गड़बड़ होना",
-      "phraseExample": "उसकी बातों में दाल में कुछ काला है।"
+      "phraseExample": "उसकी बातों में दाल में कुछ काला है।",
+      "meaningInEnglish": "Firm",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಅಡಚಣೆ",
@@ -15106,7 +17262,9 @@ export const dailyContent = [
       "phrase": "ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ",
       "phrasePronunciation": "adige maadi ootakke kare",
       "phraseMeaning": "ಎಲ್ಲಾ ಸಿದ್ಧ ಮಾಡಿ ಆಮಂತ್ರಿಸು",
-      "phraseExample": "ತಯಾರಿ ಮುಗಿಸಿ ಕರೆ — ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ."
+      "phraseExample": "ತಯಾರಿ ಮುಗಿಸಿ ಕರೆ — ಅಡಿಗೆ ಮಾಡಿ ಊಟಕ್ಕೆ ಕರೆ.",
+      "meaningInEnglish": "Adachane",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "పరోపకారం",
@@ -15116,7 +17274,9 @@ export const dailyContent = [
       "phrase": "బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి",
       "phrasePronunciation": "boggu muttukuṇṭe chetulu nallabadataay",
       "phraseMeaning": "చెడ్డ వాళ్ళతో తిరిగితే మనం కూడా చెడిపోతాం",
-      "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి."
+      "phraseExample": "ఆ స్నేహం వదిలెయ్ — బొగ్గు ముట్టుకుంటే చేతులు నల్లబడతాయి.",
+      "meaningInEnglish": "Altruism",
+      "phraseMeaningInEnglish": "Bad company corrupts good character"
     }
   },
   {
@@ -15138,7 +17298,9 @@ export const dailyContent = [
       "phrase": "नौ दो ग्यारह होना",
       "phrasePronunciation": "nau do gyaarah hona",
       "phraseMeaning": "भाग जाना",
-      "phraseExample": "पुलिस को देखते ही चोर नौ दो ग्यारह हो गए।"
+      "phraseExample": "पुलिस को देखते ही चोर नौ दो ग्यारह हो गए।",
+      "meaningInEnglish": "To fluctuate; to rise and fall",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ನಿಷ್ಕ್ರಿಯ",
@@ -15148,7 +17310,9 @@ export const dailyContent = [
       "phrase": "ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ",
       "phrasePronunciation": "kallanige beegada kai kottante",
       "phraseMeaning": "ಅಪ್ರಾಮಾಣಿಕ ವ್ಯಕ್ತಿಗೆ ಜವಾಬ್ದಾರಿ ಕೊಟ್ಟಂತೆ",
-      "phraseExample": "ಅವನಿಗೆ ಖಜಾನೆ ಕೊಟ್ಟದ್ದು — ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ."
+      "phraseExample": "ಅವನಿಗೆ ಖಜಾನೆ ಕೊಟ್ಟದ್ದು — ಕಳ್ಳನಿಗೆ ಬೀಗದ ಕೈ ಕೊಟ್ಟಂತೆ.",
+      "meaningInEnglish": "Nishkriya",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "సమీక్ష",
@@ -15158,7 +17322,9 @@ export const dailyContent = [
       "phrase": "మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది",
       "phrasePronunciation": "manchi chesi choodu manasu nindugaa untundi",
       "phraseMeaning": "ఇతరులకు మేలు చేస్తే మనసుకు తృప్తి",
-      "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది."
+      "phraseExample": "సాయం చేస్తే హాయిగా ఉంటుంది — మంచి చేసి చూడు, మనసు నిండుగా ఉంటుంది.",
+      "meaningInEnglish": "Review",
+      "phraseMeaningInEnglish": "Helping others brings inner peace"
     }
   },
   {
@@ -15180,7 +17346,9 @@ export const dailyContent = [
       "phrase": "पानी-पानी होना",
       "phrasePronunciation": "paani-paani hona",
       "phraseMeaning": "बहुत शर्मिंदा होना",
-      "phraseExample": "सच सामने आने पर वह पानी-पानी हो गया।"
+      "phraseExample": "सच सामने आने पर वह पानी-पानी हो गया।",
+      "meaningInEnglish": "Stoic; enduring without complaint",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಮಂದ",
@@ -15190,7 +17358,9 @@ export const dailyContent = [
       "phrase": "ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ",
       "phrasePronunciation": "male bandare mane illa biisilige adige illa",
       "phraseMeaning": "ಎಲ್ಲ ಕಡೆ ಸಮಸ್ಯೆ",
-      "phraseExample": "ಅವನ ಪರಿಸ್ಥಿತಿ ಕಷ್ಟ — ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ."
+      "phraseExample": "ಅವನ ಪರಿಸ್ಥಿತಿ ಕಷ್ಟ — ಮಳೆ ಬಂದರೆ ಮನೆ ಇಲ್ಲ ಬಿಸಿಲಿಗೆ ಅಡಿಗೆ ಇಲ್ಲ.",
+      "meaningInEnglish": "Manda",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "స్థిరత్వం",
@@ -15200,7 +17370,9 @@ export const dailyContent = [
       "phrase": "రాతికి పూచే పూలు రాలిపోతాయి",
       "phrasePronunciation": "raatiki pooche poolu raalipotaayi",
       "phraseMeaning": "శాశ్వతమైనది ఏదీ లేదు",
-      "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి."
+      "phraseExample": "అధికారం కూడా శాశ్వతం కాదు — రాతికి పూచే పూలు రాలిపోతాయి.",
+      "meaningInEnglish": "Stability",
+      "phraseMeaningInEnglish": "Nothing is permanent"
     }
   },
   {
@@ -15222,7 +17394,9 @@ export const dailyContent = [
       "phrase": "बंदर क्या जाने अदरक का स्वाद",
       "phrasePronunciation": "bandar kya jaane adrak ka swaad",
       "phraseMeaning": "अनजान व्यक्ति गुणों की कदर नहीं करता",
-      "phraseExample": "उसे संगीत की क्या समझ, बंदर क्या जाने अदरक का स्वाद।"
+      "phraseExample": "उसे संगीत की क्या समझ, बंदर क्या जाने अदरक का स्वाद।",
+      "meaningInEnglish": "Ebullient; bubbly and enthusiastic",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಎಚ್ಚರಿಕೆ",
@@ -15232,7 +17406,9 @@ export const dailyContent = [
       "phrase": "ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು",
       "phrasePronunciation": "haalu kudida makkalu",
       "phraseMeaning": "ಮುಗ್ಧ ಮತ್ತು ಅನನುಭವಿ",
-      "phraseExample": "ಅವರು ಇನ್ನೂ ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು."
+      "phraseExample": "ಅವರು ಇನ್ನೂ ಹಾಲು ಕುಡಿದ ಮಕ್ಕಳು.",
+      "meaningInEnglish": "Echcharike",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "వాత్సల్యం",
@@ -15242,7 +17418,9 @@ export const dailyContent = [
       "phrase": "విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు",
       "phrasePronunciation": "vinnavaariki telivi cheppinavaariki orpu",
       "phraseMeaning": "వినేవాడికి జ్ఞానం, చెప్పేవాడికి సహనం కావాలి",
-      "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు."
+      "phraseExample": "పాఠం నేర్పడం సులభం కాదు — విన్నవారికి తెలివి, చెప్పినవారికి ఓర్పు.",
+      "meaningInEnglish": "Affection",
+      "phraseMeaningInEnglish": "Listener needs wisdom, speaker needs patience"
     }
   },
   {
@@ -15264,7 +17442,9 @@ export const dailyContent = [
       "phrase": "लोहा मानना",
       "phrasePronunciation": "loha maanna",
       "phraseMeaning": "किसी की श्रेष्ठता स्वीकार करना",
-      "phraseExample": "विरोधियों ने भी उसका लोहा मान लिया।"
+      "phraseExample": "विरोधियों ने भी उसका लोहा मान लिया।",
+      "meaningInEnglish": "To capitulate; to surrender",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಆತ್ಮವಿಶ್ವಾಸ",
@@ -15274,7 +17454,9 @@ export const dailyContent = [
       "phrase": "ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು",
       "phrasePronunciation": "kaage koota mara muriyitu",
       "phraseMeaning": "ಕಾಕತಾಳೀಯ ಘಟನೆ",
-      "phraseExample": "ಅವನು ಬಂದ ಕೂಡಲೇ ಮಳೆ ಬಂತು — ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು."
+      "phraseExample": "ಅವನು ಬಂದ ಕೂಡಲೇ ಮಳೆ ಬಂತು — ಕಾಗೆ ಕೂತ ಮರ ಮುರಿಯಿತು.",
+      "meaningInEnglish": "Aatmavishvaasa",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "నిష్కపటం",
@@ -15284,7 +17466,9 @@ export const dailyContent = [
       "phrase": "ఏనుగు మీద దీపం ఉంచినట్లు",
       "phrasePronunciation": "enugu meeda deepam unchinattlu",
       "phraseMeaning": "చాలా గొప్పగా కనిపించడం",
-      "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు."
+      "phraseExample": "పెళ్ళిలో వరుడు ఏనుగు మీద దీపం ఉంచినట్లు ఉన్నాడు.",
+      "meaningInEnglish": "Guilelessness",
+      "phraseMeaningInEnglish": "To appear very grand and impressive"
     }
   },
   {
@@ -15306,7 +17490,9 @@ export const dailyContent = [
       "phrase": "गुड़ गोबर करना",
       "phrasePronunciation": "gud gobar karna",
       "phraseMeaning": "बना-बनाया काम बिगाड़ना",
-      "phraseExample": "आखिरी वक्त पर उसने सब गुड़ गोबर कर दिया।"
+      "phraseExample": "आखिरी वक्त पर उसने सब गुड़ गोबर कर दिया।",
+      "meaningInEnglish": "To impede; to obstruct",
+      "phraseMeaningInEnglish": "Hindi proverb"
     },
     "kannada": {
       "word": "ಪ್ರಸಾರ",
@@ -15316,7 +17502,9 @@ export const dailyContent = [
       "phrase": "ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ",
       "phrasePronunciation": "akka hogi nentar mane tangi hogi gandan mane",
       "phraseMeaning": "ಎಲ್ಲರೂ ತಮ್ಮ ದಾರಿ ಹಿಡಿದರು",
-      "phraseExample": "ಮಕ್ಕಳೆಲ್ಲ ಬೆಳೆದು ಹೋದರು — ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ."
+      "phraseExample": "ಮಕ್ಕಳೆಲ್ಲ ಬೆಳೆದು ಹೋದರು — ಅಕ್ಕ ಹೋಗಿ ನೆಂಟರ ಮನೆ ತಂಗಿ ಹೋಗಿ ಗಂಡನ ಮನೆ.",
+      "meaningInEnglish": "Prasaara",
+      "phraseMeaningInEnglish": "Kannada proverb"
     },
     "telugu": {
       "word": "ఆశ్రయం",
@@ -15326,7 +17514,9 @@ export const dailyContent = [
       "phrase": "కష్టపడితే ఫలం దక్కుతుంది",
       "phrasePronunciation": "kashtapadite phalam dakkutundi",
       "phraseMeaning": "పరిశ్రమకు తగిన ఫలితం వస్తుంది",
-      "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది."
+      "phraseExample": "పరీక్షలో మంచి మార్కులు వచ్చాయి — కష్టపడితే ఫలం దక్కుతుంది.",
+      "meaningInEnglish": "Refuge",
+      "phraseMeaningInEnglish": "Hard work yields suitable rewards"
     }
   }
 ];

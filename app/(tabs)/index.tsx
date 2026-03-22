@@ -77,6 +77,9 @@ export default function HomeScreen() {
         </View>
         <Text style={styles.pronunciation}>/{content.pronunciation}/</Text>
         <Text>{content.meaning}</Text>
+        {lang !== "english" && content.meaningInEnglish ? (
+          <Text style={styles.englishMeaning}>{content.meaningInEnglish}</Text>
+        ) : null}
         <Text style={styles.example}>{content.example}</Text>
 
         <View style={styles.sectionHeader}>
@@ -94,6 +97,9 @@ export default function HomeScreen() {
         </View>
         <Text style={styles.pronunciation}>/{content.phrasePronunciation}/</Text>
         <Text>{content.phraseMeaning}</Text>
+        {lang !== "english" && content.phraseMeaningInEnglish ? (
+          <Text style={styles.englishMeaning}>{content.phraseMeaningInEnglish}</Text>
+        ) : null}
         <Text style={styles.example}>{content.phraseExample}</Text>
       </View>
     </View>
@@ -166,6 +172,11 @@ const styles = StyleSheet.create({
     color: "#6B7280",
     marginBottom: 5,
     fontStyle: "italic",
+  },
+  englishMeaning: {
+    color: "#4F46E5",
+    fontSize: 13,
+    marginTop: 2,
   },
   example: {
     fontStyle: "italic",
