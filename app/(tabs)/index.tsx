@@ -15,15 +15,13 @@ function speak(text: string, lang: string) {
   Speech.speak(text, { language: LANG_CODES[lang] ?? "en", rate: 0.85 });
 }
 
-function speakAll(parts: string[], lang: string, englishPart?: string) {
-  Speech.stop();
-  const combined = parts.join(". \n");
-  Speech.speak(combined, {
+function speakSequence(items: { text: string; lang: string }[], index = 0) {
+  if (index >= items.length) return;
+  const { text, lang } = items[index];
+  Speech.speak(text, {
     language: LANG_CODES[lang] ?? "en",
     rate: 0.85,
-    onDone: englishPart
-      ? () => Speech.speak(englishPart, { language: "en", rate: 0.85 })
-      : undefined,
+    onDone: () => speakSequence(items, index + 1),
   });
 }
 
@@ -71,11 +69,17 @@ export default function HomeScreen() {
         <View style={styles.sectionHeader}>
           <Text style={styles.title}>Word</Text>
           <TouchableOpacity
-            onPress={() => speakAll(
-              [content.word, content.meaning, content.example],
-              lang,
-              lang !== "english" ? content.meaningInEnglish : undefined
-            )}
+            onPress={() => {
+              Speech.stop();
+              const items: { text: string; lang: string }[] = [
+                { text: content.word, lang },
+                { text: content.meaning, lang },
+              ];
+              if (lang !== "english" && content.meaningInEnglish)
+                items.push({ text: content.meaningInEnglish, lang: "english" });
+              items.push({ text: content.example, lang });
+              speakSequence(items);
+            }}
             hitSlop={{ top: 8, bottom: 8, left: 8, right: 8 }}
           >
             <Text style={styles.readAllIcon}>📖</Text>
@@ -95,11 +99,17 @@ export default function HomeScreen() {
         <View style={styles.sectionHeader}>
           <Text style={styles.title}>Phrase</Text>
           <TouchableOpacity
-            onPress={() => speakAll(
-              [content.phrase, content.phraseMeaning, content.phraseExample],
-              lang,
-              lang !== "english" ? content.phraseMeaningInEnglish : undefined
-            )}
+            onPress={() => {
+              Speech.stop();
+              const items: { text: string; lang: string }[] = [
+                { text: content.phrase, lang },
+                { text: content.phraseMeaning, lang },
+              ];
+              if (lang !== "english" && content.phraseMeaningInEnglish)
+                items.push({ text: content.phraseMeaningInEnglish, lang: "english" });
+              items.push({ text: content.phraseExample, lang });
+              speakSequence(items);
+            }}
             hitSlop={{ top: 8, bottom: 8, left: 8, right: 8 }}
           >
             <Text style={styles.readAllIcon}>📖</Text>
