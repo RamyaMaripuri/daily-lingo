@@ -39,7 +39,8 @@ function SpeakerButton({ text, lang }: { text: string; lang: string }) {
 
 export default function HomeScreen() {
   const [lang, setLang] = useState<"english" | "hindi" | "kannada" | "telugu">("english");
-  const [offset, setOffset] = useState(0);
+  const [wordOffset, setWordOffset] = useState(0);
+  const [phraseOffset, setPhraseOffset] = useState(0);
 
   const today = new Date();
   const dayOfYear =
@@ -49,8 +50,10 @@ export default function HomeScreen() {
         (1000 * 60 * 60 * 24)
     );
 
-  const index = (dayOfYear + offset) % dailyContent.length;
-  const content = dailyContent[index][lang];
+  const wordIndex = (dayOfYear + wordOffset) % dailyContent.length;
+  const phraseIndex = (dayOfYear + phraseOffset) % dailyContent.length;
+  const wordContent = dailyContent[wordIndex][lang];
+  const phraseContent = dailyContent[phraseIndex][lang];
 
   return (
     <View style={styles.container}>
@@ -73,12 +76,12 @@ export default function HomeScreen() {
             onPress={() => {
               Speech.stop();
               const items: { text: string; lang: string }[] = [
-                { text: content.word, lang },
-                { text: content.meaning, lang },
+                { text: wordContent.word, lang },
+                { text: wordContent.meaning, lang },
               ];
-              if (lang !== "english" && content.meaningInEnglish)
-                items.push({ text: content.meaningInEnglish, lang: "english" });
-              items.push({ text: content.example, lang });
+              if (lang !== "english" && wordContent.meaningInEnglish)
+                items.push({ text: wordContent.meaningInEnglish, lang: "english" });
+              items.push({ text: wordContent.example, lang });
               speakSequence(items);
             }}
             hitSlop={{ top: 8, bottom: 8, left: 8, right: 8 }}
@@ -87,15 +90,21 @@ export default function HomeScreen() {
           </TouchableOpacity>
         </View>
         <View style={styles.wordRow}>
-          <Text style={styles.word}>{content.word}</Text>
-          <SpeakerButton text={content.word} lang={lang} />
+          <Text style={styles.word}>{wordContent.word}</Text>
+          <SpeakerButton text={wordContent.word} lang={lang} />
         </View>
-        <Text style={styles.pronunciation}>/{content.pronunciation}/</Text>
-        <Text>{content.meaning}</Text>
-        {lang !== "english" && content.meaningInEnglish ? (
-          <Text style={styles.englishMeaning}>{content.meaningInEnglish}</Text>
+        <Text style={styles.pronunciation}>/{wordContent.pronunciation}/</Text>
+        <Text>{wordContent.meaning}</Text>
+        {lang !== "english" && wordContent.meaningInEnglish ? (
+          <Text style={styles.englishMeaning}>{wordContent.meaningInEnglish}</Text>
         ) : null}
-        <Text style={styles.example}>{content.example}</Text>
+        <Text style={styles.example}>{wordContent.example}</Text>
+        <TouchableOpacity
+          style={styles.skipBtn}
+          onPress={() => { Speech.stop(); setWordOffset(o => o + 1); }}
+        >
+          <Text style={styles.skipText}>Know this? Next word →</Text>
+        </TouchableOpacity>
 
         <View style={styles.sectionHeader}>
           <Text style={styles.title}>Phrase</Text>
@@ -103,12 +112,12 @@ export default function HomeScreen() {
             onPress={() => {
               Speech.stop();
               const items: { text: string; lang: string }[] = [
-                { text: content.phrase, lang },
-                { text: content.phraseMeaning, lang },
+                { text: phraseContent.phrase, lang },
+                { text: phraseContent.phraseMeaning, lang },
               ];
-              if (lang !== "english" && content.phraseMeaningInEnglish)
-                items.push({ text: content.phraseMeaningInEnglish, lang: "english" });
-              items.push({ text: content.phraseExample, lang });
+              if (lang !== "english" && phraseContent.phraseMeaningInEnglish)
+                items.push({ text: phraseContent.phraseMeaningInEnglish, lang: "english" });
+              items.push({ text: phraseContent.phraseExample, lang });
               speakSequence(items);
             }}
             hitSlop={{ top: 8, bottom: 8, left: 8, right: 8 }}
@@ -117,21 +126,20 @@ export default function HomeScreen() {
           </TouchableOpacity>
         </View>
         <View style={styles.wordRow}>
-          <Text style={[styles.word, styles.phraseText]}>{content.phrase}</Text>
-          <SpeakerButton text={content.phrase} lang={lang} />
+          <Text style={[styles.word, styles.phraseText]}>{phraseContent.phrase}</Text>
+          <SpeakerButton text={phraseContent.phrase} lang={lang} />
         </View>
-        <Text style={styles.pronunciation}>/{content.phrasePronunciation}/</Text>
-        <Text>{content.phraseMeaning}</Text>
-        {lang !== "english" && content.phraseMeaningInEnglish ? (
-          <Text style={styles.englishMeaning}>{content.phraseMeaningInEnglish}</Text>
+        <Text style={styles.pronunciation}>/{phraseContent.phrasePronunciation}/</Text>
+        <Text>{phraseContent.phraseMeaning}</Text>
+        {lang !== "english" && phraseContent.phraseMeaningInEnglish ? (
+          <Text style={styles.englishMeaning}>{phraseContent.phraseMeaningInEnglish}</Text>
         ) : null}
-        <Text style={styles.example}>{content.phraseExample}</Text>
-
+        <Text style={styles.example}>{phraseContent.phraseExample}</Text>
         <TouchableOpacity
           style={styles.skipBtn}
-          onPress={() => { Speech.stop(); setOffset(o => o + 1); }}
+          onPress={() => { Speech.stop(); setPhraseOffset(o => o + 1); }}
         >
-          <Text style={styles.skipText}>Know this? Next word →</Text>
+          <Text style={styles.skipText}>Know this? Next phrase →</Text>
         </TouchableOpacity>
       </View>
     </View>
